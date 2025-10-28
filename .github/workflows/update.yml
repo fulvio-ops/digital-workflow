@@ -1,8 +1,9 @@
 name: Aggiorna contenuti
 on:
   schedule:
-    - cron: "0 6 * * *"   # ogni giorno alle 06:00 UTC (07:00 italiane)
+    - cron: "0 6 * * *"      # ogni giorno 06:00 UTC (07:00 IT)
   workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -10,15 +11,40 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Mostra struttura repo (debug iniziale)
+        run: |
+          echo "Root:"
+          ls -la
+          echo "scripts:"
+          ls -la scripts || true
+          echo "data:"
+          ls -la data || true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install feedparser beautifulsoup4
-      - name: Update articoli
+
+      - name: Installa dipendenze
+        run: pip install feedparser beautifulsoup4
+
+      - name: Esegui update articoli
         run: python scripts/update.py
-      - name: Update IA
+
+      - name: Esegui update IA
         run: python scripts/update_ia.py
+
+      - name: Mostra JSON generati (debug)
+        run: |
+          echo "articoli.json:"
+          head -c 2000 data/articoli.json || true
+          echo
+          echo "ia.json:"
+          head -c 2000 data/ia.json || true
+
       - name: Commit & push JSON
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
