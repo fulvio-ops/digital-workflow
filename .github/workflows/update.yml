@@ -1,7 +1,7 @@
 name: Aggiorna contenuti
 on:
   schedule:
-    - cron: "0 6 * * *"      # ogni giorno 06:00 UTC (07:00 IT)
+    - cron: "0 6 * * *"     # ogni giorno 06:00 UTC (07:00 IT)
   workflow_dispatch:
 
 permissions:
@@ -11,17 +11,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout completo
         uses: actions/checkout@v4
-
-      - name: Mostra struttura repo (debug iniziale)
-        run: |
-          echo "Root:"
-          ls -la
-          echo "scripts:"
-          ls -la scripts || true
-          echo "data:"
-          ls -la data || true
+        with:
+          fetch-depth: 0    # IMPORTANTISSIMO per poter fare rebase
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -31,22 +24,32 @@ jobs:
       - name: Installa dipendenze
         run: pip install feedparser beautifulsoup4
 
-      - name: Esegui update articoli
+      - name: Genera articoli
         run: python scripts/update.py
 
-      - name: Esegui update IA
+      - name: Genera IA
         run: python scripts/update_ia.py
 
-      - name: Mostra JSON generati (debug)
+      - name: Configura git
         run: |
-          echo "articoli.json:"
-          head -c 2000 data/articoli.json || true
-          echo
-          echo "ia.json:"
-          head -c 2000 data/ia.json || true
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit & push JSON
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: aggiorna articoli e ia"
-          file_pattern: "data/articoli.json data/ia.json"
+      - name: Rebase su origin/main (evita non-fast-forward)
+        run: |
+          # Se la tua branch principale NON è 'main', cambia qui il nome.
+          git pull --rebase origin main || true
+
+      - name: Commit dei JSON (se ci sono modifiche)
+        run: |
+          git add data/articoli.json data/ia.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: aggiorna articoli e ia"
+          else
+            echo "Nessuna modifica da committare"
+          fi
+
+      - name: Push su main
+        run: |
+          # Se la tua branch principale NON è 'main', cambia qui il nome.
+          git push origin HEAD:main
