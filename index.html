@@ -3,62 +3,85 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Digital Workflow — Rassegna stampa in italiano su produttività, strumenti digitali e automazioni. Selezione curata con link alle fonti originali." />
-  <title>Digital Workflow — Rassegna stampa</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <meta name="description" content="Digital Workflow — Rassegna stampa curata su produttività, strumenti e automazioni. IA in 6 sezioni, link alle fonti originali." />
+  <title>Digital Workflow — Rassegna</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora:wght@500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <div class="topbar">
-    <div class="container topbar-inner">
-      <div class="brand"><span class="logo">DW</span> <span class="brand-name">Digital Workflow</span></div>
-      <div class="edition">Edizione di oggi · <span id="today"></span></div>
-    </div>
-  </div>
-
-  <header class="masthead">
-    <div class="container masthead-inner">
-      <h1 class="site-title">Rassegna Stampa</h1>
-      <p class="site-tagline">Selezione curata di notizie e approfondimenti su <strong>produttività</strong>, <strong>strumenti digitali</strong> e <strong>automazioni</strong>.</p>
-      <form class="search" role="search" onsubmit="return false;">
-        <input id="q" type="search" placeholder="Cerca argomenti, strumenti, parole chiave…" aria-label="Cerca" />
-        <button type="button" onclick="applySearch()">Cerca</button>
-        <button type="button" class="ghost" onclick="resetSearch()">Azzera</button>
-      </form>
-      <div class="disclaimer">
-        <strong>Nota:</strong> non ripubblichiamo articoli interi. Mostriamo titoli e sintesi originali con <em>link alla fonte</em>. Testi e immagini restano dei rispettivi autori.
+  <header class="site-header">
+    <div class="container hero">
+      <img class="hero-img" src="assets/img/hero.svg" alt="" aria-hidden="true">
+      <div class="hero-overlay">
+        <div class="brand">
+          <span class="logo">DW</span>
+          <div class="brand-text">
+            <h1>Digital Workflow</h1>
+            <p class="tagline">Selezione giornaliera di idee, strumenti e IA</p>
+          </div>
+        </div>
+        <div class="hero-actions">
+          <form class="search" role="search" onsubmit="return false;">
+            <input id="q" type="search" placeholder="Cerca argomenti, strumenti, parole chiave…" aria-label="Cerca">
+            <button type="button" onclick="applySearch()">Cerca</button>
+            <button type="button" class="ghost" onclick="resetSearch()">Azzera</button>
+          </form>
+          <nav class="topics" aria-label="Argomenti">
+            <button class="topic is-active" data-topic="tutte">Tutte</button>
+            <button class="topic" data-topic="produttività">Produttività</button>
+            <button class="topic" data-topic="automazioni">Automazioni</button>
+            <button class="topic" data-topic="strumenti">Strumenti</button>
+            <button class="topic" data-topic="ia">IA</button>
+            <button class="topic" data-topic="riunioni">Riunioni</button>
+            <button class="topic" data-topic="notion">Notion</button>
+            <button class="topic" data-topic="canva">Canva</button>
+            <button class="topic" data-topic="clickup">ClickUp</button>
+          </nav>
+          <div class="disclaimer">
+            <strong>Nota:</strong> titoli e sintesi sono originali, il contenuto completo è sempre sul sito della <em>fonte</em> linkata.
+          </div>
+        </div>
       </div>
-      <nav class="topics" aria-label="Argomenti">
-        <button class="topic is-active" data-topic="tutte">Tutte</button>
-        <button class="topic" data-topic="produttività">Produttività</button>
-        <button class="topic" data-topic="automazioni">Automazioni</button>
-        <button class="topic" data-topic="strumenti">Strumenti</button>
-        <button class="topic" data-topic="ia">IA</button>
-        <button class="topic" data-topic="riunioni">Riunioni</button>
-        <button class="topic" data-topic="notion">Notion</button>
-        <button class="topic" data-topic="canva">Canva</button>
-        <button class="topic" data-topic="clickup">ClickUp</button>
-      </nav>
     </div>
   </header>
 
   <main class="container layout">
     <section class="maincol">
       <section id="top" class="block">
-        <h2 class="block-title">In Evidenza</h2>
+        <h2 class="block-title">In evidenza</h2>
         <div id="top-stories" class="grid grid-top"></div>
       </section>
 
       <section id="latest" class="block">
-        <h2 class="block-title">Ultime Notizie</h2>
+        <h2 class="block-title">Ultime notizie</h2>
         <div id="latest-list" class="list"></div>
-        <div class="pager">
-          <button id="load-more" onclick="loadMore()">Carica altri</button>
-        </div>
+        <div class="pager"><button id="load-more" onclick="loadMore()">Carica altri</button></div>
       </section>
     </section>
 
     <aside class="sidebar">
+      <section class="card media">
+        <img src="assets/img/produttivita.svg" alt="" aria-hidden="true">
+        <div>
+          <h3>Produttività</h3>
+          <p>Selezioni su metodi, focus e organizzazione.</p>
+        </div>
+      </section>
+      <section class="card media">
+        <img src="assets/img/automazioni.svg" alt="" aria-hidden="true">
+        <div>
+          <h3>Automazioni</h3>
+          <p>Workflow e integrazioni per risparmiare tempo.</p>
+        </div>
+      </section>
+      <section class="card media">
+        <img src="assets/img/strumenti.svg" alt="" aria-hidden="true">
+        <div>
+          <h3>Strumenti</h3>
+          <p>App e piattaforme utili nel lavoro quotidiano.</p>
+        </div>
+      </section>
+
       <section class="block">
         <h3 class="block-title small">Più letti</h3>
         <div id="most-read" class="list compact"></div>
@@ -107,8 +130,8 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>© 2025 Digital Workflow — Rassegna stampa · <a href="#">Privacy</a></p>
-      <p class="muted">Selezione a cura di Fughy. I titoli e le sintesi sono nostri; testi e immagini originali restano dei rispettivi autori.</p>
+      <p>© 2025 Digital Workflow — a cura di Fulvio Fugallo</p>
+      <p class="muted">Selezione originale con link alla fonte. I contenuti restano dei rispettivi autori.</p>
     </div>
   </footer>
 
