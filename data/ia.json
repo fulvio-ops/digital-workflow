@@ -1,0 +1,53 @@
+{
+  "last_updated": "2025-10-28T11:35:47.752791Z",
+  "items": [
+    {
+      "modello": "chatgpt",
+      "titolo": "ChatGPT per la produttività quotidiana: 5 usi pratici",
+      "descrizione": "Dalle email ai piani d’azione: come integrare ChatGPT nel flusso di lavoro.",
+      "link": "https://esempio.it/chatgpt-articolo",
+      "fonte": "Esempio",
+      "data": "2025-10-28T11:35:47.752792Z"
+    },
+    {
+      "modello": "gemini",
+      "titolo": "Gemini: ricerca veloce e idee per presentazioni",
+      "descrizione": "Sfrutta l’ecosistema Google per schede e presentazioni rapide.",
+      "link": "https://esempio.it/gemini-articolo",
+      "fonte": "Esempio",
+      "data": "2025-10-28T11:35:47.752794Z"
+    },
+    {
+      "modello": "copilot",
+      "titolo": "Copilot in Microsoft 365: i 3 scenari più utili",
+      "descrizione": "Word, Excel, PowerPoint e Teams: dove Copilot fa la differenza.",
+      "link": "https://esempio.it/copilot-articolo",
+      "fonte": "Esempio",
+      "data": "2025-10-28T11:35:47.752795Z"
+    },
+    {
+      "modello": "claude",
+      "titolo": "Claude: leggere, riassumere e decidere",
+      "descrizione": "Tono naturale e attenzione al contesto per testi lunghi e brainstorming.",
+      "link": "https://esempio.it/claude-articolo",
+      "fonte": "Esempio",
+      "data": "2025-10-28T11:35:47.752796Z"
+    },
+    {
+      "modello": "miia",
+      "titolo": "MIIA: scenari e casi d’uso in Italia",
+      "descrizione": "Panoramica su sperimentazioni, applicazioni d’impresa e strumenti emergenti.",
+      "link": "https://esempio.it/miia-articolo",
+      "fonte": "Esempio",
+      "data": "2025-10-28T11:35:47.752797Z"
+    },
+    {
+      "modello": "altri",
+      "titolo": "Altri modelli: Llama, Mistral & co. in 5 minuti",
+      "descrizione": "Guida rapida per orientarsi tra alternative open e commerciali.",
+      "link": "https://esempio.it/altri-modelli-articolo",
+      "fonte": "Esempio",
+      "data": "2025-10-28T11:35:47.752798Z"
+    }
+  ]
+}

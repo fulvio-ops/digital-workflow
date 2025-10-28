@@ -3,117 +3,112 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Digital Workflow — Selezione curata di articoli italiani su produttività, strumenti digitali e automazioni. Linkiamo sempre la fonte originale." />
-  <title>Digital Workflow — Selezione di articoli</title>
+  <meta name="description" content="Digital Workflow — Rassegna stampa in italiano su produttività, strumenti digitali e automazioni. Selezione curata con link alle fonti originali." />
+  <title>Digital Workflow — Rassegna stampa</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <header class="site-header">
-    <div class="container">
-      <h1>Digital Workflow</h1>
-      <p class="subtitle">Selezione curata di articoli in italiano su produttività, strumenti digitali e automazioni</p>
-      <div class="cta-row">
-        <a class="btn btn-primary" href="#idee">Ultime idee</a>
-        <a class="btn" href="#ia">Sezione IA</a>
-        <a class="btn" href="#come-funziona">Come funziona</a>
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <div class="brand"><span class="logo">DW</span> <span class="brand-name">Digital Workflow</span></div>
+      <div class="edition">Edizione di oggi · <span id="today"></span></div>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="container masthead-inner">
+      <h1 class="site-title">Rassegna Stampa</h1>
+      <p class="site-tagline">Selezione curata di notizie e approfondimenti su <strong>produttività</strong>, <strong>strumenti digitali</strong> e <strong>automazioni</strong>.</p>
+      <form class="search" role="search" onsubmit="return false;">
+        <input id="q" type="search" placeholder="Cerca argomenti, strumenti, parole chiave…" aria-label="Cerca" />
+        <button type="button" onclick="applySearch()">Cerca</button>
+        <button type="button" class="ghost" onclick="resetSearch()">Azzera</button>
+      </form>
+      <div class="disclaimer">
+        <strong>Nota:</strong> non ripubblichiamo articoli interi. Mostriamo titoli e sintesi originali con <em>link alla fonte</em>. Testi e immagini restano dei rispettivi autori.
       </div>
+      <nav class="topics" aria-label="Argomenti">
+        <button class="topic is-active" data-topic="tutte">Tutte</button>
+        <button class="topic" data-topic="produttività">Produttività</button>
+        <button class="topic" data-topic="automazioni">Automazioni</button>
+        <button class="topic" data-topic="strumenti">Strumenti</button>
+        <button class="topic" data-topic="ia">IA</button>
+        <button class="topic" data-topic="riunioni">Riunioni</button>
+        <button class="topic" data-topic="notion">Notion</button>
+        <button class="topic" data-topic="canva">Canva</button>
+        <button class="topic" data-topic="clickup">ClickUp</button>
+      </nav>
     </div>
   </header>
 
-  <main>
-    <section id="idee" class="section">
-      <div class="container">
-        <h2>Ultime idee (link alla fonte)</h2>
-        <p class="section-desc">
-          <strong>Nota:</strong> non ripubblichiamo articoli interi. Offriamo titoli e brevi sintesi originali per orientarti; il contenuto completo è disponibile sul sito della <em>fonte</em>.
-        </p>
-        <div id="articoli-container" class="grid"></div>
-      </div>
-    </section>
+  <main class="container layout">
+    <section class="maincol">
+      <section id="top" class="block">
+        <h2 class="block-title">In Evidenza</h2>
+        <div id="top-stories" class="grid grid-top"></div>
+      </section>
 
-    <section id="ia" class="section alt">
-      <div class="container">
-        <h2>Sezione IA</h2>
-        <p class="section-desc">Modelli più noti e idee d’uso pratiche nello stile “Digital Workflow”.</p>
-        <div class="grid grid-ia">
-          <article class="card">
-            <h3>ChatGPT</h3>
-            <ul class="idea-list">
-              <li>Riassunti di riunioni e documenti</li>
-              <li>Bozze di email e piani d’azione</li>
-              <li>Checklist e template operativi</li>
-            </ul>
-            <a class="btn-link" href="https://chat.openai.com/" target="_blank" rel="noopener nofollow">Vai a ChatGPT</a>
-          </article>
-          <article class="card">
-            <h3>Gemini</h3>
-            <ul class="idea-list">
-              <li>Ricerca rapida e schede informative</li>
-              <li>Integrazione con ecosistema Google</li>
-              <li>Spunti per slide e materiali</li>
-            </ul>
-            <a class="btn-link" href="https://gemini.google.com/" target="_blank" rel="noopener nofollow">Vai a Gemini</a>
-          </article>
-          <article class="card">
-            <h3>Copilot</h3>
-            <ul class="idea-list">
-              <li>Assistente in Microsoft 365</li>
-              <li>Documenti, Excel e PowerPoint</li>
-              <li>Riepiloghi e azioni in Teams</li>
-            </ul>
-            <a class="btn-link" href="https://copilot.microsoft.com/" target="_blank" rel="noopener nofollow">Vai a Copilot</a>
-          </article>
-          <article class="card">
-            <h3>Claude</h3>
-            <ul class="idea-list">
-              <li>Comprensione di testi lunghi</li>
-              <li>Analisi documenti e brainstorming</li>
-              <li>Tono naturale e attento al contesto</li>
-            </ul>
-            <a class="btn-link" href="https://claude.ai/" target="_blank" rel="noopener nofollow">Vai a Claude</a>
-          </article>
+      <section id="latest" class="block">
+        <h2 class="block-title">Ultime Notizie</h2>
+        <div id="latest-list" class="list"></div>
+        <div class="pager">
+          <button id="load-more" onclick="loadMore()">Carica altri</button>
         </div>
-      </div>
+      </section>
     </section>
 
-    <section id="come-funziona" class="section">
-      <div class="container">
-        <h2>Come funziona la selezione</h2>
-        <div class="grid">
-          <article class="card">
-            <h3>1) Whitelist di fonti</h3>
-            <p>Seguiamo solo fonti italiane affidabili. Gli articoli vengono filtrati per parole chiave attinenti a produttività, automazione e strumenti.</p>
-          </article>
-          <article class="card">
-            <h3>2) Sintesi originali</h3>
-            <p>Mostriamo <strong>titolo</strong>, una <strong>breve sintesi originale</strong> e il <strong>link</strong> all’articolo. Non ripubblichiamo testi completi né immagini altrui.</p>
-          </article>
-          <article class="card">
-            <h3>3) Trasparenza</h3>
-            <p>Attribuiamo sempre la <em>fonte</em>. Cliccando “Leggi alla fonte” visiti il sito che ha pubblicato il contenuto completo.</p>
-          </article>
-        </div>
-      </div>
-    </section>
+    <aside class="sidebar">
+      <section class="block">
+        <h3 class="block-title small">Più letti</h3>
+        <div id="most-read" class="list compact"></div>
+      </section>
 
-    <section id="newsletter" class="section alt">
-      <div class="container">
-        <h2>Newsletter</h2>
-        <p class="section-desc">Le 5 novità più utili della settimana, selezionate. Niente spam.</p>
-        <form class="newsletter-form" action="#" method="post">
-          <input type="email" name="email" placeholder="La tua email" required>
-          <button class="btn btn-primary" type="submit">Iscrivimi</button>
-        </form>
-        <p class="muted">Suggerimento: sostituisci il form con l’embed di MailerLite / Substack / ConvertKit.</p>
-      </div>
-    </section>
+      <section class="block">
+        <h3 class="block-title small">Sezione IA</h3>
+        <ul class="ia-list">
+          <li><a href="#ia-chatgpt">ChatGPT</a></li>
+          <li><a href="#ia-gemini">Gemini</a></li>
+          <li><a href="#ia-copilot">Copilot</a></li>
+          <li><a href="#ia-claude">Claude</a></li>
+          <li><a href="#ia-miia">MIIA</a></li>
+          <li><a href="#ia-altri">Altri modelli</a></li>
+        </ul>
+      </section>
+    </aside>
   </main>
+
+  <section class="container ia-panels">
+    <article id="ia-chatgpt" class="ia-card">
+      <h3>ChatGPT</h3>
+      <div class="ia-article" data-model="chatgpt"></div>
+    </article>
+    <article id="ia-gemini" class="ia-card">
+      <h3>Gemini</h3>
+      <div class="ia-article" data-model="gemini"></div>
+    </article>
+    <article id="ia-copilot" class="ia-card">
+      <h3>Copilot</h3>
+      <div class="ia-article" data-model="copilot"></div>
+    </article>
+    <article id="ia-claude" class="ia-card">
+      <h3>Claude</h3>
+      <div class="ia-article" data-model="claude"></div>
+    </article>
+    <article id="ia-miia" class="ia-card">
+      <h3>MIIA</h3>
+      <div class="ia-article" data-model="miia"></div>
+    </article>
+    <article id="ia-altri" class="ia-card">
+      <h3>Altri modelli</h3>
+      <div class="ia-article" data-model="altri"></div>
+    </article>
+  </section>
 
   <footer class="site-footer">
     <div class="container">
-      <p>© 2025 Digital Workflow — Progetto di Fulvio Fugallo · <a href="#">Privacy</a></p>
-      <p class="muted">Aggiornato automaticamente: <span id="last-updated">—</span> · I titoli e le sintesi sono nostri; testi e immagini originali restano dei rispettivi autori.</p>
+      <p>© 2025 Digital Workflow — Rassegna stampa · <a href="#">Privacy</a></p>
+      <p class="muted">Selezione a cura di Fulvio Fugallo. I titoli e le sintesi sono nostri; testi e immagini originali restano dei rispettivi autori.</p>
     </div>
   </footer>
 
