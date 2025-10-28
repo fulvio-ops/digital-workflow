@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Digital Workflow — Selezione curata di articoli italiani su produttività, strumenti digitali e automazioni. Linkiamo sempre la fonte originale." />
+  <title>Digital Workflow — Selezione di articoli</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Digital Workflow</h1>
+      <p class="subtitle">Selezione curata di articoli in italiano su produttività, strumenti digitali e automazioni</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="#idee">Ultime idee</a>
+        <a class="btn" href="#ia">Sezione IA</a>
+        <a class="btn" href="#come-funziona">Come funziona</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="idee" class="section">
+      <div class="container">
+        <h2>Ultime idee (link alla fonte)</h2>
+        <p class="section-desc">
+          <strong>Nota:</strong> non ripubblichiamo articoli interi. Offriamo titoli e brevi sintesi originali per orientarti; il contenuto completo è disponibile sul sito della <em>fonte</em>.
+        </p>
+        <div id="articoli-container" class="grid"></div>
+      </div>
+    </section>
+
+    <section id="ia" class="section alt">
+      <div class="container">
+        <h2>Sezione IA</h2>
+        <p class="section-desc">Modelli più noti e idee d’uso pratiche nello stile “Digital Workflow”.</p>
+        <div class="grid grid-ia">
+          <article class="card">
+            <h3>ChatGPT</h3>
+            <ul class="idea-list">
+              <li>Riassunti di riunioni e documenti</li>
+              <li>Bozze di email e piani d’azione</li>
+              <li>Checklist e template operativi</li>
+            </ul>
+            <a class="btn-link" href="https://chat.openai.com/" target="_blank" rel="noopener nofollow">Vai a ChatGPT</a>
+          </article>
+          <article class="card">
+            <h3>Gemini</h3>
+            <ul class="idea-list">
+              <li>Ricerca rapida e schede informative</li>
+              <li>Integrazione con ecosistema Google</li>
+              <li>Spunti per slide e materiali</li>
+            </ul>
+            <a class="btn-link" href="https://gemini.google.com/" target="_blank" rel="noopener nofollow">Vai a Gemini</a>
+          </article>
+          <article class="card">
+            <h3>Copilot</h3>
+            <ul class="idea-list">
+              <li>Assistente in Microsoft 365</li>
+              <li>Documenti, Excel e PowerPoint</li>
+              <li>Riepiloghi e azioni in Teams</li>
+            </ul>
+            <a class="btn-link" href="https://copilot.microsoft.com/" target="_blank" rel="noopener nofollow">Vai a Copilot</a>
+          </article>
+          <article class="card">
+            <h3>Claude</h3>
+            <ul class="idea-list">
+              <li>Comprensione di testi lunghi</li>
+              <li>Analisi documenti e brainstorming</li>
+              <li>Tono naturale e attento al contesto</li>
+            </ul>
+            <a class="btn-link" href="https://claude.ai/" target="_blank" rel="noopener nofollow">Vai a Claude</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="come-funziona" class="section">
+      <div class="container">
+        <h2>Come funziona la selezione</h2>
+        <div class="grid">
+          <article class="card">
+            <h3>1) Whitelist di fonti</h3>
+            <p>Seguiamo solo fonti italiane affidabili. Gli articoli vengono filtrati per parole chiave attinenti a produttività, automazione e strumenti.</p>
+          </article>
+          <article class="card">
+            <h3>2) Sintesi originali</h3>
+            <p>Mostriamo <strong>titolo</strong>, una <strong>breve sintesi originale</strong> e il <strong>link</strong> all’articolo. Non ripubblichiamo testi completi né immagini altrui.</p>
+          </article>
+          <article class="card">
+            <h3>3) Trasparenza</h3>
+            <p>Attribuiamo sempre la <em>fonte</em>. Cliccando “Leggi alla fonte” visiti il sito che ha pubblicato il contenuto completo.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="newsletter" class="section alt">
+      <div class="container">
+        <h2>Newsletter</h2>
+        <p class="section-desc">Le 5 novità più utili della settimana, selezionate. Niente spam.</p>
+        <form class="newsletter-form" action="#" method="post">
+          <input type="email" name="email" placeholder="La tua email" required>
+          <button class="btn btn-primary" type="submit">Iscrivimi</button>
+        </form>
+        <p class="muted">Suggerimento: sostituisci il form con l’embed di MailerLite / Substack / ConvertKit.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 Digital Workflow — Progetto di Fulvio Fugallo · <a href="#">Privacy</a></p>
+      <p class="muted">Aggiornato automaticamente: <span id="last-updated">—</span> · I titoli e le sintesi sono nostri; testi e immagini originali restano dei rispettivi autori.</p>
+    </div>
+  </footer>
+
+  <script src="scripts/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    "automazione",
+    "automatizzare",
+    "produttività",
+    "workflow",
+    "strumenti",
+    "notion",
+    "canva",
+    "clickup",
+    "riunioni",
+    "dashboard",
+    "kanban",
+    "template",
+    "intelligenza artificiale",
+    "IA",
+    "prompt",
+    "organizzazione"
+  ],
+  "feeds": [
+    "https://www.digital4.biz/feed/",
+    "https://www.wired.it/feed/",
+    "https://startupitalia.eu/feed",
+    "https://www.agendadigitale.eu/feed/",
+    "https://www.canva.com/it_it/learn/feed/"
+  ],
+  "max_items": 12
+}
