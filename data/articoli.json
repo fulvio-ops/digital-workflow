@@ -1,16 +1,173 @@
 {
-  "last_updated": "2025-10-28T14:47:25.658453Z",
+  "last_updated": "2025-10-28T15:56:10.140580+00:00",
   "items": [
     {
-      "titolo": "Benvenuto nella nuova grafica",
-      "descrizione": "Layout più accogliente con hero illustrato. Gli articoli reali arrivano automaticamente dai feed.",
-      "link": "https://esempio.it",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T14:47:25.658467Z",
-      "categoria": "Produttività",
-      "tags": [
-        "produttività"
-      ]
+      "titolo": "ChatGPT Go will be free for people in India for a year – here's what it offers",
+      "descrizione": "Providing everything in a free plan and then some, a ChatGPT Go subscription normally sells for just under $5 a month in India.",
+      "link": "https://www.zdnet.com/article/chatgpt-go-will-be-free-for-people-in-india-for-a-year-heres-what-it-offers/",
+      "fonte": "Latest news",
+      "data": "2025-10-28T15:43:21+00:00"
+    },
+    {
+      "titolo": "Fedora Linux 43 è qui: in download con kernel 6.17",
+      "descrizione": "È ufficialmente disponibile la nuova versione della distro sponsorizzata da Red Hat: Fedora Linux 43 è in download con diverse novità. The post Fedora Linux 43 è qui: in download con kernel 6.17 appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/fedora-linux-43/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T15:32:16+00:00"
+    },
+    {
+      "titolo": "Grokipedia, online la nuova enciclopedia fatta con l’Ai di Elon Musk",
+      "descrizione": "«La versione 0.1 di Grokipedia è ora disponibile». È in rete la nuova enciclopedia online di Elon Musk , creata dal suo team di xAI, che «ha fatto un...",
+      "link": "https://www.ilsole24ore.com/art/grokipedia-online-nuova-enciclopedia-web-elon-musk-AHuSoJPD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-10-28T15:30:00+00:00"
+    },
+    {
+      "titolo": "The ‘Group 7’ Creator Still Doesn’t Know How She Hacked TikTok’s Algorithm",
+      "descrizione": "Singer Sophia James went viral for creating exclusive groups on TikTok as a “science experiment” to promote her music. She can’t believe it worked.",
+      "link": "https://www.wired.com/story/the-group-7-creator-still-doesnt-know-how-she-hacked-tiktoks-algorithm/",
+      "fonte": "WIRED",
+      "data": "2025-10-28T15:16:31+00:00"
+    },
+    {
+      "titolo": "TMSC-led semiconductor association begs Taiwan government for clean, green energy, warning of unprecedented 'power siege' — as demand skyrockets, fabs are struggling to keep up with power needs",
+      "descrizione": "Taiwan Semiconductor Industry Association pressures the government for plentiful and green energy",
+      "link": "https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-28T15:13:53+00:00"
+    },
+    {
+      "titolo": "Adobe annuncia Firefly Image 5 e nuovi tool AI",
+      "descrizione": "Adone ha annunciato Firefly Image Model 5, tool AI per i creatori di contenuti e un agente AI che usa le capacità degli assistenti AI delle singole app. The post Adobe annuncia Firefly Image 5 e nuovi tool AI appeared…",
+      "link": "https://www.punto-informatico.it/adobe-annuncia-firefly-5-nuovi-tool-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T15:12:11+00:00"
+    },
+    {
+      "titolo": "AMD swoops in to help as John Carmack slams Nvidia's $4,000 DGX Spark, says it doesn't hit performance claims, overheats, and maxes out at 100W power draw — developer forums inundated with crashing and shutdown reports",
+      "descrizione": "Nvidia’s DGX Spark, the company’s new $4,000 developer box powered by the Grace Blackwell GB10 superchip, is under fire after questions were raised about real-world performance and power draw.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/users-question-dgx-spark-performance",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-28T15:09:13+00:00"
+    },
+    {
+      "titolo": "Don't know Photoshop? Adobe's new AI tool can do image edits for you now - just ask",
+      "descrizione": "Adobe's new AI image model and Prompt to Edit tool aim to eliminate the pain of complex photo-editing tasks.",
+      "link": "https://www.zdnet.com/article/dont-know-photoshop-adobes-new-ai-tool-can-do-image-edits-for-you-now-just-ask/",
+      "fonte": "Latest news",
+      "data": "2025-10-28T15:01:00+00:00"
+    },
+    {
+      "titolo": "Bimby TM7 si aggiorna con nuove funzioni smart e più integrazione con Cookidoo",
+      "descrizione": "Bimby TM7 premiato con Red Dot Award e UX Design Award per l’eccellenza del design digitale.",
+      "link": "https://www.hdblog.it/home/articoli/n636362/bimby-tm7-nuove-funzioni-smart/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T14:55:00+00:00"
+    },
+    {
+      "titolo": "Cosa sta frenando l’adozione della fibra FTTH in Italia?",
+      "descrizione": "La fibra ottica vera, quella con tecnologia FTTH, è disponibile per milioni di famiglie, ma l'adozione ancora non cresce come potrebbe. The post Cosa sta frenando l’adozione della fibra FTTH in Italia? appeared first on…",
+      "link": "https://www.punto-informatico.it/fibra-ftth-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T14:49:56+00:00"
+    },
+    {
+      "titolo": "Riflettere il Sole per salvare la Terra: il controverso piano di geoingegneria",
+      "descrizione": "La startup Stardust ha ricevuto in tutto 75 milioni di dollari di finanziamenti.",
+      "link": "https://www.hdblog.it/green/articoli/n636348/stardust-geoingegneria-raffreddare-terra-come/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T14:40:00+00:00"
+    },
+    {
+      "titolo": "How to watch Nvidia GTC 2025 keynote — Jensen Huang shares the latest in AI and beyond",
+      "descrizione": "Nvidia is hosting GTC and its keynote to reveal what's next in agentic AI, robotics, and accelerated computing.",
+      "link": "https://www.tomshardware.com/tech-industry/how-to-watch-nvidia-gtc-2025-keynote-jensen-huang-shares-the-latest-in-ai-and-beyond",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-28T14:31:40+00:00"
+    },
+    {
+      "titolo": "Korea's cardboard drones address UAV shortages and climate crisis — inspired by the Ukraine war, drone inventor looked for the most easily sourced and repairable materials",
+      "descrizione": "The AirSense UAV drone is constructed from eco-friendly packaging boards and paper fiber.",
+      "link": "https://www.tomshardware.com/tech-industry/koreas-cardboard-drones-address-uav-shortages-and-climate-crisis-inspired-by-the-ukraine-war-drone-inventor-looked-for-the-most-easily-sourced-and-repairable-materials",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-28T14:16:04+00:00"
+    },
+    {
+      "titolo": "When I go camping, this is the only power bank I bring - here's why",
+      "descrizione": "The Anker Prime is one of the most reliable battery packs available, capable of charging two MacBook Pros and an iPhone.",
+      "link": "https://www.zdnet.com/article/when-i-go-camping-this-is-the-only-power-bank-i-bring-heres-why/",
+      "fonte": "Latest news",
+      "data": "2025-10-28T14:03:00+00:00"
+    },
+    {
+      "titolo": "PayPal vola in borsa dopo l'accordo con OpenAI: sarà il wallet di ChatGPT",
+      "descrizione": "C'è grande fiducia dei mercati per l'accordo tra PayPal e OpenAI",
+      "link": "https://www.hdblog.it/mercato/articoli/n636346/paypal-accordo-openai-wallet-chatgpt/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T13:45:00+00:00"
+    },
+    {
+      "titolo": "Google smentisce data breach di Gmail",
+      "descrizione": "In seguito alla notizia riportata su molti siti web, Google ha comunicato che non c'è stato nessun data breach relativo a 183 milioni di account. The post Google smentisce data breach di Gmail appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/google-smentisce-data-breach-gmail/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T13:43:30+00:00"
+    },
+    {
+      "titolo": "Amore Elettrico è il fumetto sul riciclo RAEE: sarà al Lucca Comics and Games",
+      "descrizione": "In giro per l'Italia a raccontare i RAEE.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n636339/amore-elettrico-fumetto-riciclo-raee-lucca-comics/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T13:35:00+00:00"
+    },
+    {
+      "titolo": "Se anche Aranzulla ha paura dell’AI",
+      "descrizione": "Salvatore Aranzulla denuncia il calo del traffico verso il suo sito con l'arrivo dell'AI, che rischia di mettere in crisi tutto il settore. The post Se anche Aranzulla ha paura dell’AI appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/aranzulla-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T13:32:24+00:00"
+    },
+    {
+      "titolo": "Infiniti QX80 R-Spec: il SUV con il cuore della Nissan GT-R",
+      "descrizione": "Il SUV di lusso di INFINITI monta il motore della GT-R e tocca i 1.000 cavalli, unendo comfort, tecnologia e prestazioni estreme.",
+      "link": "https://www.hdmotori.it/infiniti-qx80-r-spec-gt-r-1000-cavalli/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T13:30:26+00:00"
+    },
+    {
+      "titolo": "Amazon licenzia 14.000 persone, è ufficiale. L'AI impone di essere più snelli",
+      "descrizione": "Meno delle previsioni iniziali, ma il dato è comunque tragico",
+      "link": "https://www.hdblog.it/amazon/articoli/n636342/amazon-licenziamenti-14000-persone-colpa-ai/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T13:15:00+00:00"
+    },
+    {
+      "titolo": "YouTube lancia 20 animazioni personalizzate per il pulsante like",
+      "descrizione": "YouTube introduce 20 animazioni personalizzate per il pulsante del like che cambiano in base al genere del video, come le note musicali per la musica. The post YouTube lancia 20 animazioni personalizzate per il pulsante…",
+      "link": "https://www.punto-informatico.it/youtube-20-animazioni-personalizzate-pulsante-like/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T12:57:13+00:00"
+    },
+    {
+      "titolo": "Pop!_OS, la distro Linux facile da usare per chi lascia Windows 10",
+      "descrizione": "Dopo la fine del supporto a Windows 10, chi cerca una distro Linux gratuita e semplice da utilizzare può concedere una chance a Pop!_OS. The post Pop!_OS, la distro Linux facile da usare per chi lascia Windows 10…",
+      "link": "https://www.punto-informatico.it/pop_os/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T12:45:59+00:00"
+    },
+    {
+      "titolo": "Alphabet X, l'azienda dove il fallimento è la chiave dell'innovazione",
+      "descrizione": "Strano a dirsi, ma ha senso (se hai tanti soldi).",
+      "link": "https://www.hdblog.it/google/articoli/n636328/alphabet-x-fallimento-innovazione/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T12:45:00+00:00"
+    },
+    {
+      "titolo": "AMD costruirà due super computer AI per il Governo USA per 1 miliardo di dollari",
+      "descrizione": "I due nuovi supercomputer del Dipartimento dell'Energia americano costeranno 1 miliardo: potenza incredibile a disposizione degli scienziati.",
+      "link": "https://www.hdblog.it/hardware/articoli/n636326/amd-due-super-computer-ai-governo-usa/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T12:35:00+00:00"
     }
   ]
 }

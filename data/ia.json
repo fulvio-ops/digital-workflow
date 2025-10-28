@@ -1,53 +1,45 @@
 {
-  "last_updated": "2025-10-28T14:47:25.659104Z",
+  "last_updated": "2025-10-28T15:56:13.873515+00:00",
   "items": [
     {
-      "modello": "chatgpt",
-      "titolo": "ChatGPT: come usarlo bene al lavoro",
-      "descrizione": "Riassunti, email, piani e template: usi concreti.",
-      "link": "https://esempio.it/chatgpt",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T14:47:25.659111Z"
+      "titolo": "ChatGPT Go will be free for people in India for a year – here's what it offers",
+      "descrizione": "Providing everything in a free plan and then some, a ChatGPT Go subscription normally sells for just under $5 a month in India.",
+      "link": "https://www.zdnet.com/article/chatgpt-go-will-be-free-for-people-in-india-for-a-year-heres-what-it-offers/",
+      "fonte": "Latest news",
+      "data": "2025-10-28T15:43:21+00:00",
+      "modello": "chatgpt"
     },
     {
-      "modello": "gemini",
-      "titolo": "Gemini: ricerche e schede smart",
-      "descrizione": "Integra con Google per raccogliere spunti rapidi.",
-      "link": "https://esempio.it/gemini",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T14:47:25.659113Z"
+      "titolo": "This new Gemini trick takes your presentation ideas and instantly brings them to life - here's how",
+      "descrizione": "Gemini just made it super easy to impress your boss or professor.",
+      "link": "https://www.zdnet.com/article/this-new-gemini-trick-takes-your-presentation-ideas-and-instantly-brings-them-to-life-heres-how/",
+      "fonte": "Latest news",
+      "data": "2025-10-28T13:13:00+00:00",
+      "modello": "gemini"
     },
     {
-      "modello": "copilot",
-      "titolo": "Copilot in 365: 3 casi utili",
-      "descrizione": "Word, Excel e Teams: dove accelera davvero.",
-      "link": "https://esempio.it/copilot",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T14:47:25.659115Z"
+      "titolo": "Microsoft's decision to axe Windows 10 is driving Apple PC sales growth — users buy Macs instead of AI PCs despite Microsoft’s push for Copilot+ PCs",
+      "descrizione": "Counterpoint Research data shows a massive jump in Mac sales in the same quarter that support for Microsoft Windows 10 ended.",
+      "link": "https://www.tomshardware.com/software/operating-systems/microsofts-decision-to-axe-windows-10-is-driving-apple-pc-sales-growth-users-buy-macs-instead-of-ai-pcs-despite-microsofts-push-for-copilot-pcs",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-26T12:24:18+00:00",
+      "modello": "copilot"
     },
     {
-      "modello": "claude",
-      "titolo": "Claude per testi lunghi",
-      "descrizione": "Legge e sintetizza mantenendo il contesto.",
-      "link": "https://esempio.it/claude",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T14:47:25.659116Z"
+      "titolo": "Claude Goes to Therapy",
+      "descrizione": "Who better to put Claude on the couch than the original “chatterbot” herself, Doctor Eliza?",
+      "link": "https://www.wired.com/story/ai-mother-eliza-claude-therapy/",
+      "fonte": "WIRED",
+      "data": "2025-10-27T10:00:00+00:00",
+      "modello": "claude"
     },
     {
-      "modello": "miia",
-      "titolo": "MIIA: panorama italiano",
-      "descrizione": "Casi d’uso locali e strumenti emergenti.",
-      "link": "https://esempio.it/miia",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T14:47:25.659118Z"
-    },
-    {
-      "modello": "altri",
-      "titolo": "Altri modelli in breve",
-      "descrizione": "Llama, Mistral, Qwen e altri.",
-      "link": "https://esempio.it/altri",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T14:47:25.659119Z"
+      "titolo": "China's autonomous military combat drone powered by DeepSeek highlights Nvidia reliance — investigation reveals People's Liberation Army, supporting institutions continue to use restricted H100 chips",
+      "descrizione": "Chinese defense company Norinco introduced an AI military drone with 'autonomous combat-support' capability to help make warfare more efficient.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-autonomous-military-combat-drone-powered-by-deepseek-highlights-nvidia-reliance-investigation-reveals-peoples-liberation-army-supporting-institutions-continue-to-use-restricted-h100-chips",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-27T16:50:19+00:00",
+      "modello": "altri"
     }
   ]
 }
