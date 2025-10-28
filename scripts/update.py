@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Aggiorna data/articoli.json da una whitelist di feed italiani:
-- Filtra per parole chiave
-- Deduplica per link (mantiene il più recente)
-- Scrive campi: titolo, descrizione (sintesi breve), link, fonte, data ISO
-"""
 import json, time, re, pathlib, sys
 from datetime import datetime, timezone
 try:
@@ -46,6 +40,7 @@ def fetch(feeds):
             summary = clean_text(getattr(e, "summary", "") or getattr(e, "description", ""))
             ts_struct = getattr(e, "published_parsed", None) or getattr(e, "updated_parsed", None)
             ts = time.mktime(ts_struct) if ts_struct else time.time()
+            if not (title or summary): continue
             items.append({"ts": int(ts), "titolo": title or "Senza titolo", "descrizione": summary or "Scopri di più alla fonte.", "link": link, "fonte": fonte})
     return items
 
@@ -53,7 +48,7 @@ def main():
     cfg = json.loads(SOURCES.read_text(encoding="utf-8"))
     feeds = cfg.get("feeds", [])
     keywords = [k.lower() for k in cfg.get("keywords", [])]
-    max_items = int(cfg.get("max_items", 18))
+    max_items = int(cfg.get("max_items", 24))
 
     raw = fetch(feeds)
 
@@ -63,7 +58,6 @@ def main():
 
     items = [i for i in raw if ok(i)]
 
-    # Deduplica per link/titolo
     dedup = {}
     for it in items:
         key = it["link"] or it["titolo"]

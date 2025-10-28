@@ -1,9 +1,14 @@
 {
   "feeds": [
-    "https://www.digital4.biz/feed/",
+    "https://www.punto-informatico.it/feed/",
     "https://www.wired.it/feed/",
-    "https://startupitalia.eu/feed",
-    "https://www.agendadigitale.eu/feed/"
+    "https://www.hdblog.it/rss/",
+    "https://www.zeusnews.it/index.php3?xslt=rss",
+    "https://www.ilsole24ore.com/rss/tecnologia.xml",
+    "https://www.wired.com/feed/rss",
+    "https://www.tomshardware.com/feeds/all",
+    "https://www.zdnet.com/rss.xml",
+    "https://www.geek.com/feed/"
   ],
   "models": {
     "chatgpt": {

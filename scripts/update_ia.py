@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Aggiorna data/ia.json prendendo 1 articolo per ciascun modello IA:
-- Modelli: chatgpt, gemini, copilot, claude, miia, altri
-- Keyword dedicate per modello
-- Prende l'articolo più recente che combacia
-"""
 import json, time, re, pathlib, sys
 from datetime import datetime, timezone
 try:
@@ -30,7 +24,7 @@ def clean_text(s, max_len=220):
             txt = BeautifulSoup(txt, "html.parser").get_text(" ", strip=True)
         except Exception:
             pass
-    txt = re.sub(r"\s+", " ", txt).strip()
+    txt = re.sub(r"\\s+", " ", txt).strip()
     if len(txt) > max_len:
         txt = txt[:max_len].rsplit(" ", 1)[0] + "…"
     return txt
@@ -46,12 +40,9 @@ def fetch(feeds):
             summary = clean_text(getattr(e, "summary", "") or getattr(e, "description", ""))
             ts_struct = getattr(e, "published_parsed", None) or getattr(e, "updated_parsed", None)
             ts = time.mktime(ts_struct) if ts_struct else time.time()
+            if not (title or summary): continue
             rows.append({"ts": int(ts), "titolo": title or "Senza titolo", "descrizione": summary or "Scopri di più alla fonte.", "link": link, "fonte": fonte})
     return rows
-
-def match_any(text, words):
-    t = text.lower()
-    return any(w.lower() in t for w in words)
 
 def main():
     cfg = json.loads(SOURCES.read_text(encoding="utf-8"))
@@ -62,7 +53,6 @@ def main():
     result = []
     for model, params in per_model.items():
         kw = [k.lower() for k in params.get("keywords", [])]
-        # prendi il più recente che matcha
         candidates = []
         for r in rows:
             text = (r["titolo"] + " " + r["descrizione"]).lower()
@@ -74,9 +64,6 @@ def main():
             best_copy["data"] = datetime.fromtimestamp(best_copy.pop("ts"), tz=timezone.utc).isoformat()
             best_copy["modello"] = model
             result.append(best_copy)
-        else:
-            # Nessun match: placeholder vuoto (opzionale)
-            pass
 
     payload = {"last_updated": datetime.now(timezone.utc).isoformat(), "items": result}
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
