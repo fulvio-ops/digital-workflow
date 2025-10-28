@@ -1,29 +1,173 @@
 {
-  "last_updated": "2025-10-28T11:35:47.752661Z",
+  "last_updated": "2025-10-28T13:02:57.934183+00:00",
   "items": [
     {
-      "titolo": "5 strumenti per migliorare il flusso di lavoro",
-      "descrizione": "Dalla gestione dei task alle automazioni quotidiane: risparmia tempo con strumenti semplici e connessi.",
-      "link": "https://esempio.it/articolo-1",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752666Z",
-      "categoria": "Produttività",
-      "tags": [
-        "produttività",
-        "strumenti"
-      ]
+      "titolo": "YouTube lancia 20 animazioni personalizzate per il pulsante like",
+      "descrizione": "YouTube introduce 20 animazioni personalizzate per il pulsante del like che cambiano in base al genere del video, come le note musicali per la musica. The post YouTube lancia 20 animazioni personalizzate per il pulsante…",
+      "link": "https://www.punto-informatico.it/youtube-20-animazioni-personalizzate-pulsante-like/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T12:57:13+00:00"
     },
     {
-      "titolo": "Dashboard personale in Notion: come iniziare",
-      "descrizione": "Un sistema visivo per obiettivi, progetti e routine con template facili da adattare.",
-      "link": "https://esempio.it/articolo-2",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752668Z",
-      "categoria": "Strumenti",
-      "tags": [
-        "notion",
-        "strumenti"
-      ]
+      "titolo": "Pop!_OS, la distro Linux facile da usare per chi lascia Windows 10",
+      "descrizione": "Dopo la fine del supporto a Windows 10, chi cerca una distro Linux gratuita e semplice da utilizzare può concedere una chance a Pop!_OS. The post Pop!_OS, la distro Linux facile da usare per chi lascia Windows 10…",
+      "link": "https://www.punto-informatico.it/pop_os/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T12:45:59+00:00"
+    },
+    {
+      "titolo": "Adobe's new AI tool lets you fix your photos with simple text commands - try it today",
+      "descrizione": "Adobe's new AI image model and Prompt to Edit tool aim to eliminate the pain of complex photo-editing tasks.",
+      "link": "https://www.zdnet.com/article/adobes-new-prompt-to-edit-tool-lets-you-fix-your-photos-with-simple-text-commands-try-it-today/",
+      "fonte": "Latest news",
+      "data": "2025-10-28T12:00:00+00:00"
+    },
+    {
+      "titolo": "Amazon licenzierà circa 14.000 persone e userà l’AI",
+      "descrizione": "Amazon ha confermato il licenziamento di circa 14.000 dipendenti per ridurre i costi e velocizzare molte attività con l'intelligenza artificiale. The post Amazon licenzierà circa 14.000 persone e userà l’AI appeared…",
+      "link": "https://www.punto-informatico.it/amazon-licenzia-14000-persone-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T11:56:48+00:00"
+    },
+    {
+      "titolo": "Guillermo del Toro demolisce l’AI: Preferirei morire che usarla",
+      "descrizione": "Guillermo del Toro attacca duramente l'AI. Il regista paragona l'industria tech a Frankenstein, che crea senza considerare le conseguenze. The post Guillermo del Toro demolisce l’AI: Preferirei morire che usarla…",
+      "link": "https://www.punto-informatico.it/guillermo-del-toro-demolisce-ai-preferirei-morire-che-usarla/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T11:46:13+00:00"
+    },
+    {
+      "titolo": "Nearly 90% of Windows Games now run on Linux, latest data shows — as Windows 10 dies, gaming on Linux is more viable than ever",
+      "descrizione": "The latest data shows that almost 90% of Windows games now run on Linux.",
+      "link": "https://www.tomshardware.com/software/linux/nearly-90-percent-of-windows-games-now-run-on-linux-latest-data-shows-as-windows-10-dies-gaming-on-linux-is-more-viable-than-ever",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-28T11:26:10+00:00"
+    },
+    {
+      "titolo": "Il 75% delle famiglie italiane avrebbe la fibra FTTH, ma solo il 30% la usa",
+      "descrizione": "A fronte di una copertura oltre il 75%, solo il 30% delle famiglie italiane scelgono la fibra veloce, anche se non costa di più.",
+      "link": "https://www.hdblog.it/internet/articoli/n636310/fibra-ftth-famiglie-italia-situazione/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T11:15:00+00:00"
+    },
+    {
+      "titolo": "Meredith Whittaker (Signal): siamo obbligati ad usare AWS",
+      "descrizione": "La Presidente di Signal ha evidenziato la necessità di trovare alternative alle infrastrutture cloud gestite da poche aziende (AWS, Microsoft e Google). The post Meredith Whittaker (Signal): siamo obbligati ad usare AWS…",
+      "link": "https://www.punto-informatico.it/meredith-whittaker-signal-obbligo-uso-aws/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T11:07:05+00:00"
+    },
+    {
+      "titolo": "Google perfeziona l'app Orologio: le novità della versione 8.3",
+      "descrizione": "La principale riguarda la visualizzazione della sveglia, prima con lo sfondo di sistema e adesso a tinta unita per rendere più visibili i tasti",
+      "link": "https://www.hdblog.it/google/articoli/n636323/google-orologio-83-design-novita/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T11:05:00+00:00"
+    },
+    {
+      "titolo": "Dreame amplia la sua linea di prodotti dedicata alla cura e allo styling dei capelli",
+      "descrizione": "La nuova linea Dreame punta su innovazione e versatilità per la cura quotidiana dei capelli.",
+      "link": "https://www.hdblog.it/home/articoli/n636322/dreame-prodotti-cura-styling-capelli/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T10:45:00+00:00"
+    },
+    {
+      "titolo": "Vivid lancia l'IBAN italiano: in arrivo i pagamenti F24 e PagoPA",
+      "descrizione": "L’IBAN italiano andrà ad aggiungersi ai vantaggi offerti da Vivid, come il Conto Interessi che dà il 4% annuo per i primi 4 mesi",
+      "link": "https://www.hdblog.it/business/articoli/n636319/vivid-iban-italiano/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T10:40:00+00:00"
+    },
+    {
+      "titolo": "Netflix al lavoro su una serie animata dedicata a Crash Bandicoot | Rumor",
+      "descrizione": "A quanto pare la piattaforma sta collaborando di nuovo con WildBrain Studios (Sonic Prime).",
+      "link": "https://www.hdblog.it/games/articoli/n636316/crash-bandicoot-serie-tv-netflix-animata/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T10:35:00+00:00"
+    },
+    {
+      "titolo": "Il day one di Grokipedia, tra Elon Musk e Piero Scaruffi",
+      "descrizione": "Grokipedia non ha una voce su Grokipedia, ma almeno un merito le va già riconosciuto: sta facendo conoscere un'eccellenza italiana. The post Il day one di Grokipedia, tra Elon Musk e Piero Scaruffi appeared first on…",
+      "link": "https://www.punto-informatico.it/grokipedia-elon-musk-piero-scaruffi/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T10:31:23+00:00"
+    },
+    {
+      "titolo": "Bill Gates ritratta: i cambiamenti climatici non sono così catastrofici",
+      "descrizione": "C'è lo zampino di Trump?",
+      "link": "https://www.hdblog.it/green/articoli/n636301/bill-gates-visione-cambiamenti-climatici-perche/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T10:20:00+00:00"
+    },
+    {
+      "titolo": "Notifiche in ritardo anche sui Pixel 10: il problema che Google non ha ancora risolto",
+      "descrizione": "I principali indiziati sono Doze e App Standby, due processi di Android che limitano le attività in background per risparmiare batteria e che ritardano le notifiche delle app",
+      "link": "https://www.hdblog.it/smartphone/articoli/n636307/google-pixel-notifiche-in-ritardo-problemi/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T10:15:00+00:00"
+    },
+    {
+      "titolo": "Apple Watch Ultra 2 in offerta a 599€: sconto a sorpresa di 200€ su Amazon",
+      "descrizione": "Sconto di 200€ e nuovo minimo storico per Apple Watch Ultra 2, lo smartwatch in titanio con autonomia di 36 ore.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n636313/apple-watch-ultra-2-in-offerta-a-599e-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T10:07:00+00:00"
+    },
+    {
+      "titolo": "Telegram, il \"Liquid Glass\" arriva anche su Android | Beta",
+      "descrizione": "Si può disattivare dalle opzioni, ma a quanto pare agli utenti l'idea non sta piacendo.",
+      "link": "https://www.hdblog.it/android/articoli/n636306/telegram-liquid-glass-android-beta/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T10:05:00+00:00"
+    },
+    {
+      "titolo": "The Republican Plan to Reform the Census Could Put Everyone’s Privacy at Risk",
+      "descrizione": "A little-known algorithmic process called “differential privacy” helps keep census data anonymous. Conservatives want it gone.",
+      "link": "https://www.wired.com/story/republicans-differential-privacy-census-overhaul/",
+      "fonte": "WIRED",
+      "data": "2025-10-28T10:00:00+00:00"
+    },
+    {
+      "titolo": "Sam Altman sfida Elon Musk: arriva l’interfaccia cerebrale senza bisturi",
+      "descrizione": "Sam Altman lavora a un’interfaccia cervello-computer non invasiva per sfidare Neuralink.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n636296/sam-altman-brain-interface-neuralink/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T09:55:00+00:00"
+    },
+    {
+      "titolo": "DJI ROMO, il robot aspirapolvere con gli occhi di un drone",
+      "descrizione": "Tre modelli (uno trasparente) e la stessa tecnologia presente sui droni: ufficiale la linea di robot aspirapolvere e lavapavimenti DJI ROMO. The post DJI ROMO, il robot aspirapolvere con gli occhi di un drone appeared…",
+      "link": "https://www.punto-informatico.it/dji-romo/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T09:53:45+00:00"
+    },
+    {
+      "titolo": "ChatGPT Atlas: trovata la prima vulnerabilità grave nel browser AI",
+      "descrizione": "Basta una prompt per far saltare le misure di sicurezza implementate nel nuovo browser con AI agentica di OpenAI.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n636289/chatgpt-atlas-prima-vulnerabilita-grave-browser-ai/",
+      "fonte": "HDblog.it",
+      "data": "2025-10-28T09:50:00+00:00"
+    },
+    {
+      "titolo": "AMAZFIT Active 2 è smartphone e Personal Trainer da polso: occasione",
+      "descrizione": "AMAZFIT Active 2 è lo smartwatch che non lascia dubbi: potente, dotato di ogni funzione e ora economico ai massimi livelli. The post AMAZFIT Active 2 è smartphone e Personal Trainer da polso: occasione appeared first on…",
+      "link": "https://www.punto-informatico.it/amazfit-active-2-e-smartphone-e-personal-trainer-da-polso-occasione/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T09:45:52+00:00"
+    },
+    {
+      "titolo": "Spotify lancia nuova app per Apple TV con podcast e video musicali",
+      "descrizione": "Spotify aggiorna la sua app per Apple TV con video musicali, podcast video, testi delle canzoni e gestione della coda, disponibile ora su App Store. The post Spotify lancia nuova app per Apple TV con podcast e video…",
+      "link": "https://www.punto-informatico.it/spotify-nuova-app-apple-tv-podcast-video-musicali/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T09:37:50+00:00"
+    },
+    {
+      "titolo": "Xiaomi completa il bagno con la sua Bilancia SMART a meno di 20€",
+      "descrizione": "Xiaomi fa sbarcare nel tuo bagno la bilancia smart d'eccezione: sottile, resistente e con rilevazione automatica dell'utente. The post Xiaomi completa il bagno con la sua Bilancia SMART a meno di 20€ appeared first on…",
+      "link": "https://www.punto-informatico.it/xiaomi-completa-il-bagno-con-la-sua-bilancia-smart-a-meno-di-20e/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T09:37:06+00:00"
     }
   ]
 }

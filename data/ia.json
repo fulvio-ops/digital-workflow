@@ -1,53 +1,21 @@
 {
-  "last_updated": "2025-10-28T11:35:47.752791Z",
+  "last_updated": "2025-10-28T13:03:01.527617+00:00",
   "items": [
     {
-      "modello": "chatgpt",
-      "titolo": "ChatGPT per la produttività quotidiana: 5 usi pratici",
-      "descrizione": "Dalle email ai piani d’azione: come integrare ChatGPT nel flusso di lavoro.",
-      "link": "https://esempio.it/chatgpt-articolo",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752792Z"
+      "titolo": "Reddit fa causa all’ex startup di AI Perplexity. Tutti i problemi che la Google dell’Intelligenza artificiale ha con editori e piattaforme",
+      "descrizione": "Il sito che riunisce i forum online non è però contrario a cedere i propri dati su licenza. Lo ha già fatto con Google e OpenAI",
+      "link": "https://startupitalia.eu/tech/reddit-fa-causa-allex-startup-di-ai-perplexity-tutti-i-problemi-che-la-google-dellintelligenza-artificiale-ha-con-editori-e-piattaforme/",
+      "fonte": "StartupItalia",
+      "data": "2025-10-23T09:14:24+00:00",
+      "modello": "chatgpt"
     },
     {
-      "modello": "gemini",
-      "titolo": "Gemini: ricerca veloce e idee per presentazioni",
-      "descrizione": "Sfrutta l’ecosistema Google per schede e presentazioni rapide.",
-      "link": "https://esempio.it/gemini-articolo",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752794Z"
-    },
-    {
-      "modello": "copilot",
-      "titolo": "Copilot in Microsoft 365: i 3 scenari più utili",
-      "descrizione": "Word, Excel, PowerPoint e Teams: dove Copilot fa la differenza.",
-      "link": "https://esempio.it/copilot-articolo",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752795Z"
-    },
-    {
-      "modello": "claude",
-      "titolo": "Claude: leggere, riassumere e decidere",
-      "descrizione": "Tono naturale e attenzione al contesto per testi lunghi e brainstorming.",
-      "link": "https://esempio.it/claude-articolo",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752796Z"
-    },
-    {
-      "modello": "miia",
-      "titolo": "MIIA: scenari e casi d’uso in Italia",
-      "descrizione": "Panoramica su sperimentazioni, applicazioni d’impresa e strumenti emergenti.",
-      "link": "https://esempio.it/miia-articolo",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752797Z"
-    },
-    {
-      "modello": "altri",
-      "titolo": "Altri modelli: Llama, Mistral & co. in 5 minuti",
-      "descrizione": "Guida rapida per orientarsi tra alternative open e commerciali.",
-      "link": "https://esempio.it/altri-modelli-articolo",
-      "fonte": "Esempio",
-      "data": "2025-10-28T11:35:47.752798Z"
+      "titolo": "Robot umanoidi domestici : la rivoluzione AI entra in casa",
+      "descrizione": "La nuova generazione di robot domestici umanoidi impara osservando e ascoltando, senza righe di codice. Modelli come Gemini Robotics trasformano parole in azioni, mentre versioni on-device garantiscono privacy e…",
+      "link": "https://www.agendadigitale.eu/cultura-digitale/robot-umanoidi-domestici-la-rivoluzione-ai-entra-in-casa/",
+      "fonte": "Agenda Digitale",
+      "data": "2025-10-28T10:39:15+00:00",
+      "modello": "gemini"
     }
   ]
 }
