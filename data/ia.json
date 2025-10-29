@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-10-28T15:56:13.873515+00:00",
+  "last_updated": "2025-10-29T06:54:34.599668+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Go will be free for people in India for a year – here's what it offers",
-      "descrizione": "Providing everything in a free plan and then some, a ChatGPT Go subscription normally sells for just under $5 a month in India.",
-      "link": "https://www.zdnet.com/article/chatgpt-go-will-be-free-for-people-in-india-for-a-year-heres-what-it-offers/",
+      "titolo": "Can these ChatGPT updates make the chatbot safer for mental health?",
+      "descrizione": "OpenAI said its latest GPT-5 improvements reduced undesirable behavior from chatbots by 65%. But usage guidelines remain mixed, even from CEO Sam Altman himself.",
+      "link": "https://www.zdnet.com/article/can-these-chatgpt-updates-make-the-chatbot-safer-for-mental-health/",
       "fonte": "Latest news",
-      "data": "2025-10-28T15:43:21+00:00",
+      "data": "2025-10-28T19:01:38+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "This new Gemini trick takes your presentation ideas and instantly brings them to life - here's how",
-      "descrizione": "Gemini just made it super easy to impress your boss or professor.",
-      "link": "https://www.zdnet.com/article/this-new-gemini-trick-takes-your-presentation-ideas-and-instantly-brings-them-to-life-heres-how/",
+      "titolo": "Sick of your slides? Let Gemini make them - here's how",
+      "descrizione": "Struggling with a presentation? Here's how the latest Gemini updates can help you polish it, and who can access them.",
+      "link": "https://www.zdnet.com/article/create-your-dream-presentation-with-geminis-latest-update-heres-how/",
       "fonte": "Latest news",
-      "data": "2025-10-28T13:13:00+00:00",
+      "data": "2025-10-28T17:19:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Microsoft's decision to axe Windows 10 is driving Apple PC sales growth — users buy Macs instead of AI PCs despite Microsoft’s push for Copilot+ PCs",
-      "descrizione": "Counterpoint Research data shows a massive jump in Mac sales in the same quarter that support for Microsoft Windows 10 ended.",
-      "link": "https://www.tomshardware.com/software/operating-systems/microsofts-decision-to-axe-windows-10-is-driving-apple-pc-sales-growth-users-buy-macs-instead-of-ai-pcs-despite-microsofts-push-for-copilot-pcs",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-10-26T12:24:18+00:00",
+      "titolo": "Come sfruttare Copilot su Windows 11, 7 prompt da provare subito",
+      "descrizione": "Copilot era un assistente ignorato nella barra laterale di Windows 11. Con i prompt giusti diventa uno strumento concreto per risparmiare tempo. The post Come sfruttare Copilot su Windows 11, 7 prompt da provare subito…",
+      "link": "https://www.punto-informatico.it/come-sfruttare-copilot-windows-11-7-prompt-provare-subito/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-28T16:30:52+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Claude Goes to Therapy",
-      "descrizione": "Who better to put Claude on the couch than the original “chatterbot” herself, Doctor Eliza?",
-      "link": "https://www.wired.com/story/ai-mother-eliza-claude-therapy/",
-      "fonte": "WIRED",
-      "data": "2025-10-27T10:00:00+00:00",
+      "titolo": "GitHub's new Agent HQ gives devs a command center for all their AI tools - why this is a huge deal",
+      "descrizione": "GitHub just brought Codex, Claude, and Jules together in one agentic development platform. Here's how it works and why it matters.",
+      "link": "https://www.zdnet.com/article/githubs-new-agent-hq-gives-devs-a-command-center-for-all-their-ai-tools-why-this-is-a-huge-deal/",
+      "fonte": "Latest news",
+      "data": "2025-10-28T16:36:00+00:00",
       "modello": "claude"
     },
     {
