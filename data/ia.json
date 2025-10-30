@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-10-29T06:54:34.599668+00:00",
+  "last_updated": "2025-10-30T06:52:34.456392+00:00",
   "items": [
     {
-      "titolo": "Can these ChatGPT updates make the chatbot safer for mental health?",
-      "descrizione": "OpenAI said its latest GPT-5 improvements reduced undesirable behavior from chatbots by 65%. But usage guidelines remain mixed, even from CEO Sam Altman himself.",
-      "link": "https://www.zdnet.com/article/can-these-chatgpt-updates-make-the-chatbot-safer-for-mental-health/",
-      "fonte": "Latest news",
-      "data": "2025-10-28T19:01:38+00:00",
+      "titolo": "OpenAI and Microsoft sign agreement to restructure OpenAI into a public benefit corporation with Microsoft retaining 27% stake — non-profit 'Open AI Foundation' to oversee 'Open AI PBC'",
+      "descrizione": "OpenAI is restructuring into a public benefit corporation with Microsoft retaining a 27% stake in the new \"OpenAI PBC,\" worth roughly $135 billion. OpenAI PBC will still be overseen by the non-profit OpenAI Inc., soon…",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-sign-agreement-to-restructure-openai-into-a-public-benefit-corporation-with-microsoft-retaining-27-percent-stake-non-profit-open-ai-foundation-to-oversee-open-ai-pbc",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-10-28T18:00:52+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Sick of your slides? Let Gemini make them - here's how",
-      "descrizione": "Struggling with a presentation? Here's how the latest Gemini updates can help you polish it, and who can access them.",
-      "link": "https://www.zdnet.com/article/create-your-dream-presentation-with-geminis-latest-update-heres-how/",
+      "titolo": "Gemini for Home is finally rolling out for early access - here's how to try it first",
+      "descrizione": "There are countless things you can accomplish with Google's long-awaited new AI assistant - once you get off the waitlist. Here's how.",
+      "link": "https://www.zdnet.com/article/gemini-for-home-is-finally-rolling-out-for-early-access-heres-how-to-try-it-first/",
       "fonte": "Latest news",
-      "data": "2025-10-28T17:19:00+00:00",
+      "data": "2025-10-29T22:31:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Come sfruttare Copilot su Windows 11, 7 prompt da provare subito",
-      "descrizione": "Copilot era un assistente ignorato nella barra laterale di Windows 11. Con i prompt giusti diventa uno strumento concreto per risparmiare tempo. The post Come sfruttare Copilot su Windows 11, 7 prompt da provare subito…",
-      "link": "https://www.punto-informatico.it/come-sfruttare-copilot-windows-11-7-prompt-provare-subito/",
-      "fonte": "Punto Informatico",
-      "data": "2025-10-28T16:30:52+00:00",
+      "titolo": "Microsoft Copilot sempre più «personale» ecco le nuove funzioni per memoria, salute e apprendimento",
+      "descrizione": "“In questo momento c’è tantissimo rumore intorno all’intelligenza artificiale: titoli di giornali, entusiasmo, paure e, a dire il vero, credo che per molti tutto questo risulti piuttosto eccessivo”. E se...",
+      "link": "https://www.ilsole24ore.com/art/microsoft-copilot-sempre-piu-personale-ecco-nuove-funzioni-memoria-salute-e-apprendimento-AHGQQnJD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-10-24T06:00:19+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "GitHub's new Agent HQ gives devs a command center for all their AI tools - why this is a huge deal",
-      "descrizione": "GitHub just brought Codex, Claude, and Jules together in one agentic development platform. Here's how it works and why it matters.",
-      "link": "https://www.zdnet.com/article/githubs-new-agent-hq-gives-devs-a-command-center-for-all-their-ai-tools-why-this-is-a-huge-deal/",
-      "fonte": "Latest news",
-      "data": "2025-10-28T16:36:00+00:00",
+      "titolo": "Risparmio e trasparenza con Octopus Energy 2025",
+      "descrizione": "Octopus Energy offre tariffe trasparenti e sostenibili: scegli tra prezzo fisso 12 mesi o costo indicizzato, energia 100% rinnovabile e nessun vincolo contrattuale. The post Risparmio e trasparenza con Octopus Energy…",
+      "link": "https://www.punto-informatico.it/risparmio-e-trasparenza-con-octopus-energy-2025/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-29T16:23:58+00:00",
       "modello": "claude"
     },
     {
