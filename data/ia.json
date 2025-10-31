@@ -1,45 +1,29 @@
 {
-  "last_updated": "2025-10-30T06:52:34.456392+00:00",
+  "last_updated": "2025-10-31T06:53:39.836214+00:00",
   "items": [
     {
-      "titolo": "OpenAI and Microsoft sign agreement to restructure OpenAI into a public benefit corporation with Microsoft retaining 27% stake — non-profit 'Open AI Foundation' to oversee 'Open AI PBC'",
-      "descrizione": "OpenAI is restructuring into a public benefit corporation with Microsoft retaining a 27% stake in the new \"OpenAI PBC,\" worth roughly $135 billion. OpenAI PBC will still be overseen by the non-profit OpenAI Inc., soon…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-sign-agreement-to-restructure-openai-into-a-public-benefit-corporation-with-microsoft-retaining-27-percent-stake-non-profit-open-ai-foundation-to-oversee-open-ai-pbc",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-10-28T18:00:52+00:00",
+      "titolo": "WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs",
+      "descrizione": "In this episode of Uncanny Valley, we run through the top stories of the week and look closely at people’s complaints to the FTC alleging that ChatGPT led them or loved ones into AI psychosis.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/",
+      "fonte": "WIRED",
+      "data": "2025-10-30T21:27:08+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini for Home is finally rolling out for early access - here's how to try it first",
-      "descrizione": "There are countless things you can accomplish with Google's long-awaited new AI assistant - once you get off the waitlist. Here's how.",
-      "link": "https://www.zdnet.com/article/gemini-for-home-is-finally-rolling-out-for-early-access-heres-how-to-try-it-first/",
-      "fonte": "Latest news",
-      "data": "2025-10-29T22:31:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Microsoft Copilot sempre più «personale» ecco le nuove funzioni per memoria, salute e apprendimento",
-      "descrizione": "“In questo momento c’è tantissimo rumore intorno all’intelligenza artificiale: titoli di giornali, entusiasmo, paure e, a dire il vero, credo che per molti tutto questo risulti piuttosto eccessivo”. E se...",
-      "link": "https://www.ilsole24ore.com/art/microsoft-copilot-sempre-piu-personale-ecco-nuove-funzioni-memoria-salute-e-apprendimento-AHGQQnJD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-10-24T06:00:19+00:00",
+      "titolo": "Mustafa Suleyman di Microsoft: “Non faremo mai chatbot erotici”",
+      "descrizione": "Il CEO AI di Microsoft Suleyman dichiara che i chatbot erotici non sono nei programmi dell'azienda. Copilot è un assistente, non un compagno. The post Mustafa Suleyman di Microsoft: “Non faremo mai chatbot erotici”…",
+      "link": "https://www.punto-informatico.it/mustafa-suleyman-microsoft-non-faremo-mai-chatbot-erotici/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-30T14:56:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Risparmio e trasparenza con Octopus Energy 2025",
-      "descrizione": "Octopus Energy offre tariffe trasparenti e sostenibili: scegli tra prezzo fisso 12 mesi o costo indicizzato, energia 100% rinnovabile e nessun vincolo contrattuale. The post Risparmio e trasparenza con Octopus Energy…",
-      "link": "https://www.punto-informatico.it/risparmio-e-trasparenza-con-octopus-energy-2025/",
-      "fonte": "Punto Informatico",
-      "data": "2025-10-29T16:23:58+00:00",
-      "modello": "claude"
-    },
-    {
-      "titolo": "China's autonomous military combat drone powered by DeepSeek highlights Nvidia reliance — investigation reveals People's Liberation Army, supporting institutions continue to use restricted H100 chips",
-      "descrizione": "Chinese defense company Norinco introduced an AI military drone with 'autonomous combat-support' capability to help make warfare more efficient.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-autonomous-military-combat-drone-powered-by-deepseek-highlights-nvidia-reliance-investigation-reveals-peoples-liberation-army-supporting-institutions-continue-to-use-restricted-h100-chips",
+      "titolo": "Grieving family uses AI chatbot to cut hospital bill from $195,000 to $33,000 — family says Claude highlighted duplicative charges, improper coding, and other violations",
+      "descrizione": "Someone has explained how they used AI to slash hospital bills from hundreds to tens of thousands of dollars.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/grieving-family-uses-ai-chatbot-to-cut-hospital-bill-from-usd195-000-to-usd33-000-family-says-claude-highlighted-duplicative-charges-improper-coding-and-other-violations",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2025-10-27T16:50:19+00:00",
-      "modello": "altri"
+      "data": "2025-10-29T14:54:13+00:00",
+      "modello": "claude"
     }
   ]
 }
