@@ -1,28 +1,20 @@
 {
-  "last_updated": "2025-10-31T06:53:39.836214+00:00",
+  "last_updated": "2025-11-01T06:45:57.501658+00:00",
   "items": [
     {
-      "titolo": "WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs",
-      "descrizione": "In this episode of Uncanny Valley, we run through the top stories of the week and look closely at people’s complaints to the FTC alleging that ChatGPT led them or loved ones into AI psychosis.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/",
-      "fonte": "WIRED",
-      "data": "2025-10-30T21:27:08+00:00",
+      "titolo": "OpenAI offre crediti a pagamento per Sora",
+      "descrizione": "OpenAI offrirà agli utenti la possibilità di acquistare generazioni extra di video attraverso acquisti in-app (l'attuale limite mensile verrà ridotto). The post OpenAI offre crediti a pagamento per Sora appeared first…",
+      "link": "https://www.punto-informatico.it/openai-offre-crediti-pagamento-sora/",
+      "fonte": "Punto Informatico",
+      "data": "2025-10-31T17:42:26+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Mustafa Suleyman di Microsoft: “Non faremo mai chatbot erotici”",
-      "descrizione": "Il CEO AI di Microsoft Suleyman dichiara che i chatbot erotici non sono nei programmi dell'azienda. Copilot è un assistente, non un compagno. The post Mustafa Suleyman di Microsoft: “Non faremo mai chatbot erotici”…",
-      "link": "https://www.punto-informatico.it/mustafa-suleyman-microsoft-non-faremo-mai-chatbot-erotici/",
+      "titolo": "Come usare Claude per smettere di procrastinare in 9 prompt",
+      "descrizione": "Produttività non è seguire programmi rigidi, ma tarati sui propri ritmi. Ecco come usare Claude per smettere di rimandare ed essere più efficienti. The post Come usare Claude per smettere di procrastinare in 9 prompt…",
+      "link": "https://www.punto-informatico.it/come-usare-claude-smettere-procrastinare-9-prompt/",
       "fonte": "Punto Informatico",
-      "data": "2025-10-30T14:56:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Grieving family uses AI chatbot to cut hospital bill from $195,000 to $33,000 — family says Claude highlighted duplicative charges, improper coding, and other violations",
-      "descrizione": "Someone has explained how they used AI to slash hospital bills from hundreds to tens of thousands of dollars.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/grieving-family-uses-ai-chatbot-to-cut-hospital-bill-from-usd195-000-to-usd33-000-family-says-claude-highlighted-duplicative-charges-improper-coding-and-other-violations",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-10-29T14:54:13+00:00",
+      "data": "2025-10-31T16:30:37+00:00",
       "modello": "claude"
     }
   ]
