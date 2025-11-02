@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-01T06:45:57.501658+00:00",
+  "last_updated": "2025-11-02T06:49:27.931978+00:00",
   "items": [
     {
       "titolo": "OpenAI offre crediti a pagamento per Sora",
@@ -8,6 +8,14 @@
       "fonte": "Punto Informatico",
       "data": "2025-10-31T17:42:26+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Windows 11 25H2: Ask Copilot e condivisione audio",
+      "descrizione": "La nuova build di Windows 11 25H2 include la funzionalità Ask Copilot (alternativa alla ricerca tradizionale) e la condivisione audio tramite Bluetooth. The post Windows 11 25H2: Ask Copilot e condivisione audio…",
+      "link": "https://www.punto-informatico.it/windows-11-25h2-ask-copilot-condivisione-audio/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-01T11:16:56+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Come usare Claude per smettere di procrastinare in 9 prompt",
