@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-11-02T06:49:27.931978+00:00",
+  "last_updated": "2025-11-03T07:00:38.449392+00:00",
   "items": [
     {
-      "titolo": "OpenAI offre crediti a pagamento per Sora",
-      "descrizione": "OpenAI offrirà agli utenti la possibilità di acquistare generazioni extra di video attraverso acquisti in-app (l'attuale limite mensile verrà ridotto). The post OpenAI offre crediti a pagamento per Sora appeared first…",
-      "link": "https://www.punto-informatico.it/openai-offre-crediti-pagamento-sora/",
-      "fonte": "Punto Informatico",
-      "data": "2025-10-31T17:42:26+00:00",
+      "titolo": "Elon Musk alleges Sam Altman 'stole a non-profit' as AI bros spat over cancelled Tesla Roadster order",
+      "descrizione": "Sam Altman, the CEO of OpenAI, recently posted his Tesla Roadster order being mishandled on X — both of those latter companies are owned by Elon Musk, who replied with a casual \"you stole a non-profit\" statement. Altman…",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-alleges-sam-altman-stole-a-non-profit-as-ai-bros-spat-over-cancelled-tesla-roadster-order",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-11-02T16:41:38+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Windows 11 25H2: Ask Copilot e condivisione audio",
-      "descrizione": "La nuova build di Windows 11 25H2 include la funzionalità Ask Copilot (alternativa alla ricerca tradizionale) e la condivisione audio tramite Bluetooth. The post Windows 11 25H2: Ask Copilot e condivisione audio…",
-      "link": "https://www.punto-informatico.it/windows-11-25h2-ask-copilot-condivisione-audio/",
+      "titolo": "Windows 11 lancia l’audio Bluetooth condiviso, chi può usarlo?",
+      "descrizione": "Windows 11 lancia l'audio Bluetooth condiviso, ma solo sui PC Copilot+ Snapdragon. Compatibilità futura per Samsung Galaxy con Intel Core Ultra 200. The post Windows 11 lancia l’audio Bluetooth condiviso, chi può…",
+      "link": "https://www.punto-informatico.it/windows-11-audio-bluetooth-condiviso-chi-puo-usarlo/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-01T11:16:56+00:00",
+      "data": "2025-11-03T05:58:58+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Come usare Claude per smettere di procrastinare in 9 prompt",
-      "descrizione": "Produttività non è seguire programmi rigidi, ma tarati sui propri ritmi. Ecco come usare Claude per smettere di rimandare ed essere più efficienti. The post Come usare Claude per smettere di procrastinare in 9 prompt…",
-      "link": "https://www.punto-informatico.it/come-usare-claude-smettere-procrastinare-9-prompt/",
-      "fonte": "Punto Informatico",
-      "data": "2025-10-31T16:30:37+00:00",
+      "titolo": "AI is becoming introspective - and that 'should be monitored carefully,' warns Anthropic",
+      "descrizione": "Models that introspect on their own thoughts could be a huge boon for researchers - or pose a threat to humans.",
+      "link": "https://www.zdnet.com/article/ai-is-becoming-introspective-and-that-should-be-monitored-carefully-warns-anthropic/",
+      "fonte": "Latest news",
+      "data": "2025-11-03T03:00:27+00:00",
       "modello": "claude"
     }
   ]
