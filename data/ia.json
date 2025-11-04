@@ -1,29 +1,21 @@
 {
-  "last_updated": "2025-11-03T07:00:38.449392+00:00",
+  "last_updated": "2025-11-04T06:54:59.597887+00:00",
   "items": [
     {
-      "titolo": "Elon Musk alleges Sam Altman 'stole a non-profit' as AI bros spat over cancelled Tesla Roadster order",
-      "descrizione": "Sam Altman, the CEO of OpenAI, recently posted his Tesla Roadster order being mishandled on X — both of those latter companies are owned by Elon Musk, who replied with a casual \"you stole a non-profit\" statement. Altman…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-alleges-sam-altman-stole-a-non-profit-as-ai-bros-spat-over-cancelled-tesla-roadster-order",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-11-02T16:41:38+00:00",
+      "titolo": "Lo Studio Ghibli dichiara guerra a OpenAI, Miyazaki è disgustato",
+      "descrizione": "Lo Studio Ghibli chiede a OpenAI di smettere di usare opere protette da copyright per addestrare ChatGPT e Sora senza permesso. The post Lo Studio Ghibli dichiara guerra a OpenAI, Miyazaki è disgustato appeared first on…",
+      "link": "https://www.punto-informatico.it/studio-ghibli-dichiara-guerra-openai-miyazaki-disgustato/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-04T05:51:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Windows 11 lancia l’audio Bluetooth condiviso, chi può usarlo?",
-      "descrizione": "Windows 11 lancia l'audio Bluetooth condiviso, ma solo sui PC Copilot+ Snapdragon. Compatibilità futura per Samsung Galaxy con Intel Core Ultra 200. The post Windows 11 lancia l’audio Bluetooth condiviso, chi può…",
-      "link": "https://www.punto-informatico.it/windows-11-audio-bluetooth-condiviso-chi-puo-usarlo/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-03T05:58:58+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "AI is becoming introspective - and that 'should be monitored carefully,' warns Anthropic",
-      "descrizione": "Models that introspect on their own thoughts could be a huge boon for researchers - or pose a threat to humans.",
-      "link": "https://www.zdnet.com/article/ai-is-becoming-introspective-and-that-should-be-monitored-carefully-warns-anthropic/",
+      "titolo": "How to turn off Gemini in your Gmail, Photos, Chrome, and more - it's easy to opt out of AI",
+      "descrizione": "The settings are a bit hidden, but there are ways to remove Gemini from your favorite Google services.",
+      "link": "https://www.zdnet.com/article/how-to-turn-off-gemini-in-your-gmail-photos-chrome-and-more-its-easy-to-opt-out-of-ai/",
       "fonte": "Latest news",
-      "data": "2025-11-03T03:00:27+00:00",
-      "modello": "claude"
+      "data": "2025-11-04T03:00:00+00:00",
+      "modello": "gemini"
     }
   ]
 }
