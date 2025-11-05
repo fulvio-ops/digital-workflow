@@ -1,21 +1,37 @@
 {
-  "last_updated": "2025-11-04T06:54:59.597887+00:00",
+  "last_updated": "2025-11-05T06:53:29.061385+00:00",
   "items": [
     {
-      "titolo": "Lo Studio Ghibli dichiara guerra a OpenAI, Miyazaki è disgustato",
-      "descrizione": "Lo Studio Ghibli chiede a OpenAI di smettere di usare opere protette da copyright per addestrare ChatGPT e Sora senza permesso. The post Lo Studio Ghibli dichiara guerra a OpenAI, Miyazaki è disgustato appeared first on…",
-      "link": "https://www.punto-informatico.it/studio-ghibli-dichiara-guerra-openai-miyazaki-disgustato/",
+      "titolo": "Sora arriva su Android (e i deepfake sono già un problema)",
+      "descrizione": "Sora, il generatore video AI di OpenAI, debutta su Android dopo il successo su iOS con oltre un milione di download in sette giorni. The post Sora arriva su Android (e i deepfake sono già un problema) appeared first on…",
+      "link": "https://www.punto-informatico.it/sora-android-deepfake-sono-gia-problema/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-04T05:51:28+00:00",
+      "data": "2025-11-05T05:48:48+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "How to turn off Gemini in your Gmail, Photos, Chrome, and more - it's easy to opt out of AI",
-      "descrizione": "The settings are a bit hidden, but there are ways to remove Gemini from your favorite Google services.",
-      "link": "https://www.zdnet.com/article/how-to-turn-off-gemini-in-your-gmail-photos-chrome-and-more-its-easy-to-opt-out-of-ai/",
-      "fonte": "Latest news",
-      "data": "2025-11-04T03:00:00+00:00",
+      "titolo": "AI Mode di Google prenota i biglietti di eventi e servizi benessere",
+      "descrizione": "Google AI Mode ora consente di prenotare biglietti per concerti, eventi sportivi e appuntamenti di bellezza direttamente dalla Ricerca. The post AI Mode di Google prenota i biglietti di eventi e servizi benessere…",
+      "link": "https://www.punto-informatico.it/ai-mode-google-prenota-biglietti-eventi-servizi-benessere/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-05T06:38:43+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Microsoft 365, tante novità in arrivo per Edge, Copilot, Teams e Outlook",
+      "descrizione": "Nelle prossime settimane/mesi sono in arrivo fino a 43 nuove feature.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n637178/microsoft-365-novita-copilot-outlook-teams-edge/",
+      "fonte": "HDblog.it",
+      "data": "2025-11-04T17:15:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "4 prompt per trasformare Claude in un assistente di ricerca efficace",
+      "descrizione": "Con i prompt giusti, Claude diventa un vero assistente di ricerca. Trova studi e fonti attendibili e offre sintesi critiche e comparate. The post 4 prompt per trasformare Claude in un assistente di ricerca efficace…",
+      "link": "https://www.punto-informatico.it/4-prompt-trasformare-claude-assistente-ricerca-efficace/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-04T16:30:09+00:00",
+      "modello": "claude"
     }
   ]
 }
