@@ -1,37 +1,21 @@
 {
-  "last_updated": "2025-11-05T06:53:29.061385+00:00",
+  "last_updated": "2025-11-06T06:54:38.596271+00:00",
   "items": [
     {
-      "titolo": "Sora arriva su Android (e i deepfake sono già un problema)",
-      "descrizione": "Sora, il generatore video AI di OpenAI, debutta su Android dopo il successo su iOS con oltre un milione di download in sette giorni. The post Sora arriva su Android (e i deepfake sono già un problema) appeared first on…",
-      "link": "https://www.punto-informatico.it/sora-android-deepfake-sono-gia-problema/",
+      "titolo": "Come cancellare tutta la cronologia di ChatGPT, perché farlo",
+      "descrizione": "La cronologia ChatGPT accumula silenziosamente centinaia di conversazioni. Ecco come cancellarla in 4 mosse, in meno di un minuto. The post Come cancellare tutta la cronologia di ChatGPT, perché farlo appeared first on…",
+      "link": "https://www.punto-informatico.it/come-cancellare-tutta-cronologia-chatgpt-perche-farlo/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-05T05:48:48+00:00",
+      "data": "2025-11-05T16:30:17+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "AI Mode di Google prenota i biglietti di eventi e servizi benessere",
-      "descrizione": "Google AI Mode ora consente di prenotare biglietti per concerti, eventi sportivi e appuntamenti di bellezza direttamente dalla Ricerca. The post AI Mode di Google prenota i biglietti di eventi e servizi benessere…",
-      "link": "https://www.punto-informatico.it/ai-mode-google-prenota-biglietti-eventi-servizi-benessere/",
+      "titolo": "Gemini in Google Maps: dopo il ristorante, gira a destra",
+      "descrizione": "Gemini in Google Maps con funzioni AI che migliorano la navigazione e non solo: ricerche vocali e guida con punti di riferimento reali. The post Gemini in Google Maps: dopo il ristorante, gira a destra appeared first on…",
+      "link": "https://www.punto-informatico.it/gemini-google-maps/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-05T06:38:43+00:00",
+      "data": "2025-11-05T15:40:37+00:00",
       "modello": "gemini"
-    },
-    {
-      "titolo": "Microsoft 365, tante novità in arrivo per Edge, Copilot, Teams e Outlook",
-      "descrizione": "Nelle prossime settimane/mesi sono in arrivo fino a 43 nuove feature.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n637178/microsoft-365-novita-copilot-outlook-teams-edge/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-04T17:15:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "4 prompt per trasformare Claude in un assistente di ricerca efficace",
-      "descrizione": "Con i prompt giusti, Claude diventa un vero assistente di ricerca. Trova studi e fonti attendibili e offre sintesi critiche e comparate. The post 4 prompt per trasformare Claude in un assistente di ricerca efficace…",
-      "link": "https://www.punto-informatico.it/4-prompt-trasformare-claude-assistente-ricerca-efficace/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-04T16:30:09+00:00",
-      "modello": "claude"
     }
   ]
 }
