@@ -1,21 +1,37 @@
 {
-  "last_updated": "2025-11-06T06:54:38.596271+00:00",
+  "last_updated": "2025-11-07T06:53:39.927935+00:00",
   "items": [
     {
-      "titolo": "Come cancellare tutta la cronologia di ChatGPT, perché farlo",
-      "descrizione": "La cronologia ChatGPT accumula silenziosamente centinaia di conversazioni. Ecco come cancellarla in 4 mosse, in meno di un minuto. The post Come cancellare tutta la cronologia di ChatGPT, perché farlo appeared first on…",
-      "link": "https://www.punto-informatico.it/come-cancellare-tutta-cronologia-chatgpt-perche-farlo/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-05T16:30:17+00:00",
+      "titolo": "OpenAI walks back statement it wants a government 'backstop' for its massive loans — company says government 'playing its part' critical for industrial AI capacity increases",
+      "descrizione": "OpenAI has walked back claims its CFO made in an interview that it was looking for a governmental backstop for its investments, providing a guarantee against its loans that would allow it to borrow more and reduce the…",
+      "link": "https://www.tomshardware.com/tech-industry/openai-walks-back-statement-it-wants-a-government-backstop-for-its-massive-loans-company-says-government-playing-its-part-critical-for-industrial-ai-capacity-increases",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-11-06T12:36:41+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini in Google Maps: dopo il ristorante, gira a destra",
-      "descrizione": "Gemini in Google Maps con funzioni AI che migliorano la navigazione e non solo: ricerche vocali e guida con punti di riferimento reali. The post Gemini in Google Maps: dopo il ristorante, gira a destra appeared first on…",
-      "link": "https://www.punto-informatico.it/gemini-google-maps/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-05T15:40:37+00:00",
+      "titolo": "Let Gemini make your next slide presentation for you - here's how",
+      "descrizione": "Struggling with your slides? Here's how Gemini's latest updates can help you polish your presentation, and who can access them.",
+      "link": "https://www.zdnet.com/article/let-gemini-make-your-next-slide-presentation-for-you-heres-how/",
+      "fonte": "Latest news",
+      "data": "2025-11-06T20:46:00+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Google Maps diventa un copilota intelligente grazie a Gemini",
+      "descrizione": "Gemini trasforma Google Maps in un copilota smart con comandi vocali e mappe più intuitive.",
+      "link": "https://www.hdblog.it/google/articoli/n637368/google-maps-gemini-navigazione/",
+      "fonte": "HDblog.it",
+      "data": "2025-11-06T18:37:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Bollette stabili per tutto l’anno: blocca il prezzo di luce e gas in due minuti",
+      "descrizione": "Stop alle bollette imprevedibili: Octopus Energy offre luce e gas a costi fissi per 12 mesi. Hai tempo fino al 18 novembre. The post Bollette stabili per tutto l’anno: blocca il prezzo di luce e gas in due minuti…",
+      "link": "https://www.punto-informatico.it/bollette-stabili-per-tutto-lanno-blocca-il-prezzo-di-luce-e-gas-in-due-minuti/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-06T20:47:52+00:00",
+      "modello": "claude"
     }
   ]
 }
