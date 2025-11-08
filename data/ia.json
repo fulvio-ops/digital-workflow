@@ -1,36 +1,28 @@
 {
-  "last_updated": "2025-11-07T06:53:39.927935+00:00",
+  "last_updated": "2025-11-08T06:47:24.428265+00:00",
   "items": [
     {
-      "titolo": "OpenAI walks back statement it wants a government 'backstop' for its massive loans — company says government 'playing its part' critical for industrial AI capacity increases",
-      "descrizione": "OpenAI has walked back claims its CFO made in an interview that it was looking for a governmental backstop for its investments, providing a guarantee against its loans that would allow it to borrow more and reduce the…",
-      "link": "https://www.tomshardware.com/tech-industry/openai-walks-back-statement-it-wants-a-government-backstop-for-its-massive-loans-company-says-government-playing-its-part-critical-for-industrial-ai-capacity-increases",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-11-06T12:36:41+00:00",
+      "titolo": "A new Chinese AI model claims to outperform GPT-5 and Sonnet 4.5 - and it's free",
+      "descrizione": "The plot of the US-China AI arms race just thickened - again.",
+      "link": "https://www.zdnet.com/article/a-new-chinese-ai-model-claims-to-outperform-gpt-5-and-sonnet-4-5-and-its-free/",
+      "fonte": "Latest news",
+      "data": "2025-11-07T22:07:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Let Gemini make your next slide presentation for you - here's how",
-      "descrizione": "Struggling with your slides? Here's how Gemini's latest updates can help you polish your presentation, and who can access them.",
-      "link": "https://www.zdnet.com/article/let-gemini-make-your-next-slide-presentation-for-you-heres-how/",
-      "fonte": "Latest news",
-      "data": "2025-11-06T20:46:00+00:00",
+      "titolo": "Google Assistant va in pensione: Gemini conquista Android Auto",
+      "descrizione": "Gemini inizia il rollout su Android Auto, sostituendo Google Assistant nei veicoli connessi.",
+      "link": "https://www.hdblog.it/google/articoli/n637533/gemini-android-auto-rollout/",
+      "fonte": "HDblog.it",
+      "data": "2025-11-07T18:12:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Google Maps diventa un copilota intelligente grazie a Gemini",
-      "descrizione": "Gemini trasforma Google Maps in un copilota smart con comandi vocali e mappe più intuitive.",
-      "link": "https://www.hdblog.it/google/articoli/n637368/google-maps-gemini-navigazione/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-06T18:37:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Bollette stabili per tutto l’anno: blocca il prezzo di luce e gas in due minuti",
-      "descrizione": "Stop alle bollette imprevedibili: Octopus Energy offre luce e gas a costi fissi per 12 mesi. Hai tempo fino al 18 novembre. The post Bollette stabili per tutto l’anno: blocca il prezzo di luce e gas in due minuti…",
-      "link": "https://www.punto-informatico.it/bollette-stabili-per-tutto-lanno-blocca-il-prezzo-di-luce-e-gas-in-due-minuti/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-06T20:47:52+00:00",
+      "titolo": "A new Chinese AI model claims to outperform GPT-5 and Sonnet 4.5 - and it's free",
+      "descrizione": "The plot of the US-China AI arms race just thickened - again.",
+      "link": "https://www.zdnet.com/article/a-new-chinese-ai-model-claims-to-outperform-gpt-5-and-sonnet-4-5-and-its-free/",
+      "fonte": "Latest news",
+      "data": "2025-11-07T22:07:28+00:00",
       "modello": "claude"
     }
   ]
