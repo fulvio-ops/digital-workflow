@@ -1,21 +1,13 @@
 {
-  "last_updated": "2025-11-08T06:47:24.428265+00:00",
+  "last_updated": "2025-11-09T06:48:29.923177+00:00",
   "items": [
     {
-      "titolo": "A new Chinese AI model claims to outperform GPT-5 and Sonnet 4.5 - and it's free",
-      "descrizione": "The plot of the US-China AI arms race just thickened - again.",
-      "link": "https://www.zdnet.com/article/a-new-chinese-ai-model-claims-to-outperform-gpt-5-and-sonnet-4-5-and-its-free/",
-      "fonte": "Latest news",
-      "data": "2025-11-07T22:07:28+00:00",
+      "titolo": "OpenAI asks U.S. to expand CHIPS Act tax credit to cover AI infrastructure despite firm's denial wanting a government 'backstop' for its massive loans",
+      "descrizione": "OpenAI has asked the Trump administration to expand a major CHIPS Act tax credit to support the build-out of AI infrastructure, including servers, data centers, and power systems.",
+      "link": "https://www.tomshardware.com/tech-industry/openai-asks-us-to-expand-chips-act-tax-credit-to-cover-ai-infrastructure",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-11-08T17:00:09+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Google Assistant va in pensione: Gemini conquista Android Auto",
-      "descrizione": "Gemini inizia il rollout su Android Auto, sostituendo Google Assistant nei veicoli connessi.",
-      "link": "https://www.hdblog.it/google/articoli/n637533/gemini-android-auto-rollout/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-07T18:12:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "A new Chinese AI model claims to outperform GPT-5 and Sonnet 4.5 - and it's free",
