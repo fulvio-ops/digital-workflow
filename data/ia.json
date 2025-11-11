@@ -1,20 +1,28 @@
 {
-  "last_updated": "2025-11-10T06:54:26.579135+00:00",
+  "last_updated": "2025-11-11T06:53:54.389810+00:00",
   "items": [
     {
-      "titolo": "OpenAI asks U.S. to expand CHIPS Act tax credit to cover AI infrastructure despite firm's denial wanting a government 'backstop' for its massive loans",
-      "descrizione": "OpenAI has asked the Trump administration to expand a major CHIPS Act tax credit to support the build-out of AI infrastructure, including servers, data centers, and power systems.",
-      "link": "https://www.tomshardware.com/tech-industry/openai-asks-us-to-expand-chips-act-tax-credit-to-cover-ai-infrastructure",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-11-08T17:00:09+00:00",
+      "titolo": "Sora 2 invaso da video violenti contro le donne, e la moderazione?",
+      "descrizione": "OpenAI ha un problema serio. I social media sono invasi da video generati da Sora che violano le sue stesse policy contro i contenuti violenti. The post Sora 2 invaso da video violenti contro le donne, e la moderazione?…",
+      "link": "https://www.punto-informatico.it/sora-2-invaso-video-violenti-contro-donne-moderazione/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-10T15:54:13+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "A new Chinese AI model claims to outperform GPT-5 and Sonnet 4.5 - and it's free",
-      "descrizione": "The plot of the US-China AI arms race just thickened - again.",
-      "link": "https://www.zdnet.com/article/a-new-chinese-ai-model-claims-to-outperform-gpt-5-and-sonnet-4-5-and-its-free/",
-      "fonte": "Latest news",
-      "data": "2025-11-07T22:07:28+00:00",
+      "titolo": "Google celebra Gemini Home, ma le FAQ dicono altro",
+      "descrizione": "Secondo le FAQ di Gemini Home, l'assistente confonde gli orari delle sveglie e non controlla correttamente i dispositivi smart home. The post Google celebra Gemini Home, ma le FAQ dicono altro appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/google-celebra-gemini-home-faq-dicono-altro/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-11T06:46:10+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Claude, 4 prompt per testare le capacità di ragionamento",
+      "descrizione": "Il test su quattro problemi complessi mostra dove Claude eccelle e dove fatica nel ragionamento strutturato. The post Claude, 4 prompt per testare le capacità di ragionamento appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/claude-4-prompt-testare-capacita-ragionamento/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-10T16:30:20+00:00",
       "modello": "claude"
     }
   ]
