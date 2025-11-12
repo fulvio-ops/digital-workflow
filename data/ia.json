@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-11-11T06:53:54.389810+00:00",
+  "last_updated": "2025-11-12T06:55:13.931860+00:00",
   "items": [
     {
-      "titolo": "Sora 2 invaso da video violenti contro le donne, e la moderazione?",
-      "descrizione": "OpenAI ha un problema serio. I social media sono invasi da video generati da Sora che violano le sue stesse policy contro i contenuti violenti. The post Sora 2 invaso da video violenti contro le donne, e la moderazione?…",
-      "link": "https://www.punto-informatico.it/sora-2-invaso-video-violenti-contro-donne-moderazione/",
+      "titolo": "ChatGPT legge ad alta voce, addio Audible",
+      "descrizione": "La funzione Read Aloud di ChatGPT legge documenti, email e libri ad alta voce con voce naturale e umana. Disponibile gratis su iPhone e Android. The post ChatGPT legge ad alta voce, addio Audible appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/chatgpt-legge-alta-voce-addio-audible/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-10T15:54:13+00:00",
+      "data": "2025-11-11T17:25:27+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google celebra Gemini Home, ma le FAQ dicono altro",
-      "descrizione": "Secondo le FAQ di Gemini Home, l'assistente confonde gli orari delle sveglie e non controlla correttamente i dispositivi smart home. The post Google celebra Gemini Home, ma le FAQ dicono altro appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/google-celebra-gemini-home-faq-dicono-altro/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-11T06:46:10+00:00",
+      "titolo": "Il roll-out di Gemini in Google Home va alla grande, dice Google; o forse no?",
+      "descrizione": "Nonostante un post dai toni molto ottimisti, pare che gli utenti (pochi) che hanno già ricevuto l'upgrade stiano incappando in qualche problema tecnico.",
+      "link": "https://www.hdblog.it/google/articoli/n637987/google-home-gemini-primi-feedback-distribuzione/",
+      "fonte": "HDblog.it",
+      "data": "2025-11-11T17:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Claude, 4 prompt per testare le capacità di ragionamento",
-      "descrizione": "Il test su quattro problemi complessi mostra dove Claude eccelle e dove fatica nel ragionamento strutturato. The post Claude, 4 prompt per testare le capacità di ragionamento appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/claude-4-prompt-testare-capacita-ragionamento/",
+      "titolo": "Vuoi bollette prevedibili? Luce e gas a prezzo fisso per 12 mesi con Octopus Energy",
+      "descrizione": "Con le tariffe bloccate luce e gas di Octopus Energy risparmi sulla bolletta e sai esattamente quanto spendi. The post Vuoi bollette prevedibili? Luce e gas a prezzo fisso per 12 mesi con Octopus Energy appeared first…",
+      "link": "https://www.punto-informatico.it/vuoi-bollette-prevedibili-luce-e-gas-a-prezzo-fisso-per-12-mesi-con-octopus-energy/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-10T16:30:20+00:00",
+      "data": "2025-11-11T15:42:56+00:00",
       "modello": "claude"
     }
   ]
