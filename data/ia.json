@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-11-12T06:55:13.931860+00:00",
+  "last_updated": "2025-11-13T06:54:36.677254+00:00",
   "items": [
     {
-      "titolo": "ChatGPT legge ad alta voce, addio Audible",
-      "descrizione": "La funzione Read Aloud di ChatGPT legge documenti, email e libri ad alta voce con voce naturale e umana. Disponibile gratis su iPhone e Android. The post ChatGPT legge ad alta voce, addio Audible appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/chatgpt-legge-alta-voce-addio-audible/",
+      "titolo": "Arriva GPT-5.1, ChatGPT diventa più caloroso e personalizzabile",
+      "descrizione": "OpenAI rilascia GPT-5.1, l'aggiornamento che introduce otto personalità diverse per ChatGPT e i nuovi modelli Instant e Thinking. The post Arriva GPT-5.1, ChatGPT diventa più caloroso e personalizzabile appeared first…",
+      "link": "https://www.punto-informatico.it/gpt-5-chatgpt-piu-caloroso-personalizzabile/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-11T17:25:27+00:00",
+      "data": "2025-11-13T05:42:02+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Il roll-out di Gemini in Google Home va alla grande, dice Google; o forse no?",
-      "descrizione": "Nonostante un post dai toni molto ottimisti, pare che gli utenti (pochi) che hanno già ricevuto l'upgrade stiano incappando in qualche problema tecnico.",
-      "link": "https://www.hdblog.it/google/articoli/n637987/google-home-gemini-primi-feedback-distribuzione/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-11T17:05:00+00:00",
+      "titolo": "Google's Private AI Compute promises good-as-local privacy in the Gemini cloud",
+      "descrizione": "The aim: Move AI functionality back to the cloud, while maintaining the privacy of on-device processing. Can Google have it both ways?",
+      "link": "https://www.zdnet.com/article/googles-private-ai-compute-promises-good-as-local-privacy-in-the-gemini-cloud/",
+      "fonte": "Latest news",
+      "data": "2025-11-12T20:10:21+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Vuoi bollette prevedibili? Luce e gas a prezzo fisso per 12 mesi con Octopus Energy",
-      "descrizione": "Con le tariffe bloccate luce e gas di Octopus Energy risparmi sulla bolletta e sai esattamente quanto spendi. The post Vuoi bollette prevedibili? Luce e gas a prezzo fisso per 12 mesi con Octopus Energy appeared first…",
-      "link": "https://www.punto-informatico.it/vuoi-bollette-prevedibili-luce-e-gas-a-prezzo-fisso-per-12-mesi-con-octopus-energy/",
+      "titolo": "Luce e gas con Octopus: la soluzione giusta per tagliare le bollette",
+      "descrizione": "Con l'offerta di Octopus Energy è possibile dare un taglio netto alle bollette sfruttando la comodità del prezzo bloccato per 12 mesi. The post Luce e gas con Octopus: la soluzione giusta per tagliare le bollette…",
+      "link": "https://www.punto-informatico.it/luce-e-gas-con-octopus-la-soluzione-giusta-per-tagliare-le-bollette/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-11T15:42:56+00:00",
+      "data": "2025-11-12T21:00:23+00:00",
       "modello": "claude"
     }
   ]
