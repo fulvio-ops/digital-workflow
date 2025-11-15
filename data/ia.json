@@ -1,28 +1,20 @@
 {
-  "last_updated": "2025-11-14T06:54:19.480911+00:00",
+  "last_updated": "2025-11-15T06:47:42.412504+00:00",
   "items": [
     {
-      "titolo": "Developers gain major speed and cost savings with new GPT-5.1 update",
-      "descrizione": "This update could reshape how apps embed AI intelligence.",
-      "link": "https://www.zdnet.com/article/developers-gain-major-speed-and-cost-savings-with-new-gpt-5-1-update/",
-      "fonte": "Latest news",
-      "data": "2025-11-14T03:42:49+00:00",
+      "titolo": "5 prompt semplici di ChatGPT: gli unici che servono davvero",
+      "descrizione": "Esistono migliaia di prompt elaborati per ChatGPT, ma quelli migliori e che funzionano sempre sono i più semplici. Ecco quali. The post 5 prompt semplici di ChatGPT: gli unici che servono davvero appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/5-prompt-semplici-chatgpt-unici-servono-davvero/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-14T16:30:44+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Come usare Gemini per colorare le foto in bianco e nero",
-      "descrizione": "Ecco come come colorare le vecchie foto in bianco e nero usando Gemini di Google senza bisogno di ricorrere a Photoshop. The post Come usare Gemini per colorare le foto in bianco e nero appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/come-usare-gemini-colorare-foto-bianco-nero/",
+      "titolo": "Un inverno senza sorprese in bolletta? Blocca ora i prezzi di luce e gas",
+      "descrizione": "Con Octopus Energy metti fine alle bollette imprevedibili grazie a una tariffa fissa, che rimane tale per un intero anno. The post Un inverno senza sorprese in bolletta? Blocca ora i prezzi di luce e gas appeared first…",
+      "link": "https://www.punto-informatico.it/un-inverno-senza-sorprese-in-bolletta-blocca-ora-i-prezzi-di-luce-e-gas/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-13T16:30:04+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "How Anthropic's DIY data centers could accelerate AI's infrastructure frenzy",
-      "descrizione": "This expert sees the move becoming the next deciding factor in the AI race - at least for companies that can afford it.",
-      "link": "https://www.zdnet.com/article/how-anthropics-diy-data-centers-could-accelerate-ais-infrastructure-frenzy/",
-      "fonte": "Latest news",
-      "data": "2025-11-14T03:00:43+00:00",
+      "data": "2025-11-14T17:17:54+00:00",
       "modello": "claude"
     }
   ]
