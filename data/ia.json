@@ -1,20 +1,28 @@
 {
-  "last_updated": "2025-11-15T06:47:42.412504+00:00",
+  "last_updated": "2025-11-16T06:54:48.417294+00:00",
   "items": [
     {
-      "titolo": "5 prompt semplici di ChatGPT: gli unici che servono davvero",
-      "descrizione": "Esistono migliaia di prompt elaborati per ChatGPT, ma quelli migliori e che funzionano sempre sono i più semplici. Ecco quali. The post 5 prompt semplici di ChatGPT: gli unici che servono davvero appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/5-prompt-semplici-chatgpt-unici-servono-davvero/",
+      "titolo": "OpenAI non vuole dare le chat al New York Times",
+      "descrizione": "OpenAI non ha fornito al New York Times le 20 milioni di conversazioni con ChatGPT (come chiesto dalla giudice) perché vuole garantire la privacy. The post OpenAI non vuole dare le chat al New York Times appeared first…",
+      "link": "https://www.punto-informatico.it/openai-non-vuole-dare-chat-new-york-times/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-14T16:30:44+00:00",
+      "data": "2025-11-15T15:39:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Un inverno senza sorprese in bolletta? Blocca ora i prezzi di luce e gas",
-      "descrizione": "Con Octopus Energy metti fine alle bollette imprevedibili grazie a una tariffa fissa, che rimane tale per un intero anno. The post Un inverno senza sorprese in bolletta? Blocca ora i prezzi di luce e gas appeared first…",
-      "link": "https://www.punto-informatico.it/un-inverno-senza-sorprese-in-bolletta-blocca-ora-i-prezzi-di-luce-e-gas/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-14T17:17:54+00:00",
+      "titolo": "Gemini ora crea video perfetti: bastano tre foto per controllare tutto",
+      "descrizione": "Gemini aggiunge immagini di riferimento per generare video più precisi e coerenti.",
+      "link": "https://www.hdblog.it/google/articoli/n638495/google-gemini-nuova-funzione-video-veo/",
+      "fonte": "HDblog.it",
+      "data": "2025-11-15T11:05:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Anthropic says it has foiled the first-ever AI-orchestrated cyber attack, originating from China — company alleges attack was run by Chinese state-sponsored group",
+      "descrizione": "Anthropic reported that it has detected and mitigated an AI-powered cyberattack that targeted 30 companies and government agencies.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/anthropic-says-it-has-foiled-the-first-ever-ai-orchestrated-cyber-attack-originating-from-china-company-alleges-attack-was-run-by-chinese-state-sponsored-group",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-11-14T13:52:55+00:00",
       "modello": "claude"
     }
   ]
