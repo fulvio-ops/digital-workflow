@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-11-16T06:54:48.417294+00:00",
+  "last_updated": "2025-11-17T06:53:56.995169+00:00",
   "items": [
     {
-      "titolo": "OpenAI non vuole dare le chat al New York Times",
-      "descrizione": "OpenAI non ha fornito al New York Times le 20 milioni di conversazioni con ChatGPT (come chiesto dalla giudice) perché vuole garantire la privacy. The post OpenAI non vuole dare le chat al New York Times appeared first…",
-      "link": "https://www.punto-informatico.it/openai-non-vuole-dare-chat-new-york-times/",
+      "titolo": "ChatGPT smette di usare il trattino lungo, come disattivarlo",
+      "descrizione": "OpenAI afferma di aver risolto il problema del trattino lungo nei testi generati da ChatGPT, ma va richiesto nelle istruzioni personalizzate. The post ChatGPT smette di usare il trattino lungo, come disattivarlo…",
+      "link": "https://www.punto-informatico.it/chatgpt-smette-usare-trattino-lungo-come-disattivarlo/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-15T15:39:28+00:00",
+      "data": "2025-11-17T05:42:35+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini ora crea video perfetti: bastano tre foto per controllare tutto",
-      "descrizione": "Gemini aggiunge immagini di riferimento per generare video più precisi e coerenti.",
-      "link": "https://www.hdblog.it/google/articoli/n638495/google-gemini-nuova-funzione-video-veo/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-15T11:05:00+00:00",
+      "titolo": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions",
+      "descrizione": "The AI’s latest trick is following the schedule you set for it.",
+      "link": "https://www.wired.com/story/google-gemini-and-chatgpt-scheduled-actions/",
+      "fonte": "WIRED",
+      "data": "2025-11-16T11:30:00+00:00",
       "modello": "gemini"
     },
     {
