@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-11-19T06:53:02.215659+00:00",
+  "last_updated": "2025-11-20T06:52:50.745493+00:00",
   "items": [
     {
-      "titolo": "Major Cloudflare outage took down ChatGPT, X, and Spotify Tuesday - here's what happened",
-      "descrizione": "A major outage rippled across the web, knocking many of the internet's biggest sites offline.",
-      "link": "https://www.zdnet.com/article/major-cloudflare-outage-took-down-chatgpt-x-and-spotify-tuesday-heres-what-happened/",
+      "titolo": "OpenAI's Codex Max solves one of my biggest AI coding annoyances - and it's a lot faster",
+      "descrizione": "GPT-5.1-Codex-Max is ready to take on your next massive coding job. Here's what's new.",
+      "link": "https://www.zdnet.com/article/openais-codex-max-solves-one-of-my-biggest-ai-coding-annoyances-and-its-a-lot-faster/",
       "fonte": "Latest news",
-      "data": "2025-11-19T01:33:00+00:00",
+      "data": "2025-11-19T20:24:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "You should still learn to code, says top Google AI exec - here's why",
-      "descrizione": "ZDNET sat down with Andrew Ng at AI Dev 25 in New York to talk about developer futures, responsible AI, and why AGI is overhyped.",
-      "link": "https://www.zdnet.com/article/you-should-still-learn-to-code-says-top-google-ai-exec-heres-why/",
-      "fonte": "Latest news",
-      "data": "2025-11-18T20:16:00+00:00",
+      "titolo": "Google Maps diventa un assistente di viaggio con Gemini",
+      "descrizione": "Google Maps lancia nuove funzioni basate su Gemini tra cui la sezione Informati prima di partire con suggerimenti su ristoranti, hotel e parcheggi. The post Google Maps diventa un assistente di viaggio con Gemini…",
+      "link": "https://www.punto-informatico.it/google-maps-assistente-viaggio-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-20T05:35:31+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Windows 11 si trasforma, gli agenti AI nella barra delle applicazioni",
-      "descrizione": "Su Windows 11 arrivano gli agenti AI integrati nella barra delle applicazioni, mentre Copilot arriva in Esplora file. The post Windows 11 si trasforma, gli agenti AI nella barra delle applicazioni appeared first on…",
-      "link": "https://www.punto-informatico.it/windows-11-si-trasforma-agenti-ai-barra-applicazioni/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-19T05:41:13+00:00",
+      "titolo": "Da Copilot alla sicurezza agentica, tutte le novità di Microsoft Ignite",
+      "descrizione": "L’edizione 2025 della Microsoft Ignite, l’evento internazionale che ogni anno raduna migliaia di addetti ai lavori della comunità tecnologica per parlare di trasformazione digitale, è considerata da molti un momento...",
+      "link": "https://www.ilsole24ore.com/art/da-copilot-sicurezza-agentica-tutte-novita-microsoft-ignite-AHFKtpnD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-11-18T21:13:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Octopus Energy anticipa il Black Friday con l’offerta che taglia le bollette",
-      "descrizione": "Con Octopus Energy è possibile dare un taglio alle bollette di luce e gas: ecco la promo con cui il risparmio è garantito per un lungo periodo. The post Octopus Energy anticipa il Black Friday con l’offerta che taglia…",
-      "link": "https://www.punto-informatico.it/octopus-energy-anticipa-il-black-friday-con-lofferta-che-taglia-le-bollette/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-18T18:24:05+00:00",
+      "titolo": "Anthropic signs $30 billion deal with Amazon to deploy Claude on AWS — Nvidia and Microsoft jointly invest $15 billion into AI firm as it becomes first provider across Azure, AWS and Google",
+      "descrizione": "Anthropic, Microsoft, and Nvidia have struck a joint partnership to run the Claude AI on Microsoft's Azure servers using Nvidia hardware. Anthropic will invest $30 billion in the move, as well as a guarantee to provide…",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-signs-usd30-billion-deal-with-amazon-to-deploy-claude-on-aws-nvidia-and-microsoft-jointly-invest-usd15-billion-into-ai-firm-as-it-becomes-first-provider-across-azure-aws-and-google",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-11-19T20:28:19+00:00",
       "modello": "claude"
     }
   ]
