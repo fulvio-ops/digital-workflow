@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-11-20T06:52:50.745493+00:00",
+  "last_updated": "2025-11-21T06:54:55.826318+00:00",
   "items": [
     {
-      "titolo": "OpenAI's Codex Max solves one of my biggest AI coding annoyances - and it's a lot faster",
-      "descrizione": "GPT-5.1-Codex-Max is ready to take on your next massive coding job. Here's what's new.",
-      "link": "https://www.zdnet.com/article/openais-codex-max-solves-one-of-my-biggest-ai-coding-annoyances-and-its-a-lot-faster/",
-      "fonte": "Latest news",
-      "data": "2025-11-19T20:24:00+00:00",
+      "titolo": "ChatGPT lancia chat di gruppo per tutti: fino a 20 persone insieme",
+      "descrizione": "ChatGPT lancia le chat di gruppo a livello globale per tutti i piani. Gli utenti possono invitare fino a 20 persone. L'AI interviene quando taggata. The post ChatGPT lancia chat di gruppo per tutti: fino a 20 persone…",
+      "link": "https://www.punto-informatico.it/chatgpt-chat-di-gruppo-tutti-fino-20-persone-insieme/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-21T05:40:24+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Maps diventa un assistente di viaggio con Gemini",
-      "descrizione": "Google Maps lancia nuove funzioni basate su Gemini tra cui la sezione Informati prima di partire con suggerimenti su ristoranti, hotel e parcheggi. The post Google Maps diventa un assistente di viaggio con Gemini…",
-      "link": "https://www.punto-informatico.it/google-maps-assistente-viaggio-gemini/",
+      "titolo": "App Gemini riconosce le immagini generate dall’AI, ecco come",
+      "descrizione": "L'app di Gemini identifica le foto generate o modificate dall'AI grazie a SynthID, che inserisce segnali invisibili nelle immagini. The post App Gemini riconosce le immagini generate dall’AI, ecco come appeared first on…",
+      "link": "https://www.punto-informatico.it/app-gemini-riconosce-immagini-generate-ai-ecco-come/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-20T05:35:31+00:00",
+      "data": "2025-11-21T06:07:24+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Da Copilot alla sicurezza agentica, tutte le novità di Microsoft Ignite",
-      "descrizione": "L’edizione 2025 della Microsoft Ignite, l’evento internazionale che ogni anno raduna migliaia di addetti ai lavori della comunità tecnologica per parlare di trasformazione digitale, è considerata da molti un momento...",
-      "link": "https://www.ilsole24ore.com/art/da-copilot-sicurezza-agentica-tutte-novita-microsoft-ignite-AHFKtpnD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-11-18T21:13:00+00:00",
+      "titolo": "Gruppo FS utilizzerà Microsoft 365 Copilot",
+      "descrizione": "Il Gruppo FS ha avviato una collaborazione con Microsoft che prevede l'uso di Microsoft 365 Copilot da parte degli oltre 50.000 dipendenti. The post Gruppo FS utilizzerà Microsoft 365 Copilot appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/gruppo-fs-utilizzera-microsoft-365-copilot/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-20T16:03:41+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic signs $30 billion deal with Amazon to deploy Claude on AWS — Nvidia and Microsoft jointly invest $15 billion into AI firm as it becomes first provider across Azure, AWS and Google",
-      "descrizione": "Anthropic, Microsoft, and Nvidia have struck a joint partnership to run the Claude AI on Microsoft's Azure servers using Nvidia hardware. Anthropic will invest $30 billion in the move, as well as a guarantee to provide…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-signs-usd30-billion-deal-with-amazon-to-deploy-claude-on-aws-nvidia-and-microsoft-jointly-invest-usd15-billion-into-ai-firm-as-it-becomes-first-provider-across-azure-aws-and-google",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-11-19T20:28:19+00:00",
+      "titolo": "Octopus Energy: ancora per oggi luce e gas a prezzo bloccato per un anno",
+      "descrizione": "Vuoi finalmente risparmiare sulla bolletta di luce e gas? Ti consigliamo Octopus Energy: scopri le tariffe a prezzo bloccato per un anno. The post Octopus Energy: ancora per oggi luce e gas a prezzo bloccato per un anno…",
+      "link": "https://www.punto-informatico.it/octopus-energy-ancora-per-oggi-luce-e-gas-a-prezzo-bloccato-per-un-anno/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-20T15:14:17+00:00",
       "modello": "claude"
     }
   ]
