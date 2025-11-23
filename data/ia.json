@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22T06:47:37.730994+00:00",
+  "last_updated": "2025-11-23T06:51:21.822512+00:00",
   "items": [
     {
       "titolo": "OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist",
@@ -10,19 +10,27 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Come usare Copilot per creare podcast in pochi secondi",
-      "descrizione": "Copilot di Microsoft può generare podcast in meno di cinque minuti con un solo prompt, con conduttori virtuali che dialogano in stile radiofonico. The post Come usare Copilot per creare podcast in pochi secondi appeared…",
-      "link": "https://www.punto-informatico.it/come-usare-copilot-creare-podcast-in-pochi-secondi/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-21T16:30:58+00:00",
+      "titolo": "Gear News of the Week: Matter 1.5 Adds Smart Home Camera Support, and Gemini Comes to Android Auto",
+      "descrizione": "Plus: Omega debuts a new Seamaster Planet Ocean, and DJI has a new action camera.",
+      "link": "https://www.wired.com/story/gear-news-of-the-week-matter-15-adds-smart-home-camera-support-and-gemini-comes-to-android-auto/",
+      "fonte": "WIRED",
+      "data": "2025-11-22T11:00:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "Da Copilot alla sicurezza agentica, tutte le novità di Microsoft Ignite",
+      "descrizione": "L’edizione 2025 della Microsoft Ignite, l’evento internazionale che ogni anno raduna migliaia di addetti ai lavori della comunità tecnologica per parlare di trasformazione digitale, è considerata da molti un momento...",
+      "link": "https://www.ilsole24ore.com/art/da-copilot-sicurezza-agentica-tutte-novita-microsoft-ignite-AHFKtpnD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-11-18T21:13:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Anthropic signs $30 billion deal with Amazon to deploy Claude on AWS — Nvidia and Microsoft jointly invest $15 billion into AI firm as it becomes first provider across Azure, AWS and Google",
-      "descrizione": "Anthropic, Microsoft, and Nvidia have struck a joint partnership to run the Claude AI on Microsoft's Azure servers using Nvidia hardware. Anthropic will invest $30 billion in the move, as well as a guarantee to provide…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-signs-usd30-billion-deal-with-amazon-to-deploy-claude-on-aws-nvidia-and-microsoft-jointly-invest-usd15-billion-into-ai-firm-as-it-becomes-first-provider-across-azure-aws-and-google",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-11-19T20:28:19+00:00",
+      "titolo": "Octopus Fissa 12 mesi: l’offerta che cancella l’ansia da bolletta e ti fa godere la vita",
+      "descrizione": "Ansia da bolletta? Con Octopus Energy il canone resta fisso per un anno intero. Niente rincari, nessun costo nascosto. Scopri come attivarla. The post Octopus Fissa 12 mesi: l’offerta che cancella l’ansia da bolletta e…",
+      "link": "https://www.punto-informatico.it/octopus-fissa-12-mesi-lofferta-che-cancella-lansia-da-bolletta-e-ti-fa-godere-la-vita/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-22T10:27:37+00:00",
       "modello": "claude"
     }
   ]
