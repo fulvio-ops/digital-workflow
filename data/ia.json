@@ -1,36 +1,28 @@
 {
-  "last_updated": "2025-11-23T06:51:21.822512+00:00",
+  "last_updated": "2025-11-24T06:54:22.503930+00:00",
   "items": [
     {
-      "titolo": "OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist",
-      "descrizione": "A message on OpenAI’s internal Slack claimed the activist in question had expressed interest in “causing physical harm to OpenAI employees.”",
-      "link": "https://www.wired.com/story/openai-office-lockdown-threat-san-francisco/",
-      "fonte": "WIRED",
-      "data": "2025-11-21T23:54:29+00:00",
+      "titolo": "ChatGPT accusato di isolare gli utenti dalle famiglie",
+      "descrizione": "Sette cause contro OpenAI accusano ChatGPT di aver causato 4 suicidi e 3 casi di deliri gravi. GPT-4o avrebbe isolato gli utenti dalle famiglie. The post ChatGPT accusato di isolare gli utenti dalle famiglie appeared…",
+      "link": "https://www.punto-informatico.it/chatgpt-accusato-isolare-utenti-famiglie/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-24T05:54:49+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gear News of the Week: Matter 1.5 Adds Smart Home Camera Support, and Gemini Comes to Android Auto",
-      "descrizione": "Plus: Omega debuts a new Seamaster Planet Ocean, and DJI has a new action camera.",
-      "link": "https://www.wired.com/story/gear-news-of-the-week-matter-15-adds-smart-home-camera-support-and-gemini-comes-to-android-auto/",
-      "fonte": "WIRED",
-      "data": "2025-11-22T11:00:00+00:00",
+      "titolo": "Google non usa le email di Gmail per addestrare Gemini",
+      "descrizione": "Google ha comunicato che non utilizza email e allegati di Gmail per addestrare i modelli Gemini, quindi le notizie che circolano online sono false. The post Google non usa le email di Gmail per addestrare Gemini…",
+      "link": "https://www.punto-informatico.it/google-non-usa-email-gmail-addestrare-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-23T12:14:50+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Da Copilot alla sicurezza agentica, tutte le novità di Microsoft Ignite",
-      "descrizione": "L’edizione 2025 della Microsoft Ignite, l’evento internazionale che ogni anno raduna migliaia di addetti ai lavori della comunità tecnologica per parlare di trasformazione digitale, è considerata da molti un momento...",
-      "link": "https://www.ilsole24ore.com/art/da-copilot-sicurezza-agentica-tutte-novita-microsoft-ignite-AHFKtpnD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-11-18T21:13:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Octopus Fissa 12 mesi: l’offerta che cancella l’ansia da bolletta e ti fa godere la vita",
-      "descrizione": "Ansia da bolletta? Con Octopus Energy il canone resta fisso per un anno intero. Niente rincari, nessun costo nascosto. Scopri come attivarla. The post Octopus Fissa 12 mesi: l’offerta che cancella l’ansia da bolletta e…",
-      "link": "https://www.punto-informatico.it/octopus-fissa-12-mesi-lofferta-che-cancella-lansia-da-bolletta-e-ti-fa-godere-la-vita/",
+      "titolo": "Octopus Energy: energia 100% rinnovabile e costi sicuri per 12 mesi senza sorprese",
+      "descrizione": "Blocca il prezzo di luce e gas per 12 mesi con Octopus Energy. Tariffe trasparenti, energia 100% rinnovabile e zero sorprese in bolletta. The post Octopus Energy: energia 100% rinnovabile e costi sicuri per 12 mesi…",
+      "link": "https://www.punto-informatico.it/octopus-energy-energia-100-rinnovabile-e-costi-sicuri-per-12-mesi-senza-sorprese/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-22T10:27:37+00:00",
+      "data": "2025-11-23T10:33:00+00:00",
       "modello": "claude"
     }
   ]
