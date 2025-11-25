@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-11-24T06:54:22.503930+00:00",
+  "last_updated": "2025-11-25T06:59:01.984336+00:00",
   "items": [
     {
-      "titolo": "ChatGPT accusato di isolare gli utenti dalle famiglie",
-      "descrizione": "Sette cause contro OpenAI accusano ChatGPT di aver causato 4 suicidi e 3 casi di deliri gravi. GPT-4o avrebbe isolato gli utenti dalle famiglie. The post ChatGPT accusato di isolare gli utenti dalle famiglie appeared…",
-      "link": "https://www.punto-informatico.it/chatgpt-accusato-isolare-utenti-famiglie/",
+      "titolo": "Il dispositivo AI di OpenAI e Jony senza schermo sarà zen…",
+      "descrizione": "Sam Altman e Jony Ive descrivono il prossimo dispositivo AI di OpenAI come semplice e silenzioso, nulla a che vedere con l'iPhone. The post Il dispositivo AI di OpenAI e Jony senza schermo sarà zen… appeared first on…",
+      "link": "https://www.punto-informatico.it/dispositivo-ai-di-openai-jony-senza-schermo-zen/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-24T05:54:49+00:00",
+      "data": "2025-11-25T05:48:27+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google non usa le email di Gmail per addestrare Gemini",
-      "descrizione": "Google ha comunicato che non utilizza email e allegati di Gmail per addestrare i modelli Gemini, quindi le notizie che circolano online sono false. The post Google non usa le email di Gmail per addestrare Gemini…",
-      "link": "https://www.punto-informatico.it/google-non-usa-email-gmail-addestrare-gemini/",
+      "titolo": "Come usare davvero Gemini, Google svela 3 regole fondamentali",
+      "descrizione": "La nuova guida utente di Gemini 3 rivela che l'approccio tradizionale ai chatbot non funziona più. Google consiglia prompt concisi e diretti. The post Come usare davvero Gemini, Google svela 3 regole fondamentali…",
+      "link": "https://www.punto-informatico.it/come-usare-davvero-gemini-google-svela-3-regole-fondamentali/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-23T12:14:50+00:00",
+      "data": "2025-11-24T16:30:07+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Octopus Energy: energia 100% rinnovabile e costi sicuri per 12 mesi senza sorprese",
-      "descrizione": "Blocca il prezzo di luce e gas per 12 mesi con Octopus Energy. Tariffe trasparenti, energia 100% rinnovabile e zero sorprese in bolletta. The post Octopus Energy: energia 100% rinnovabile e costi sicuri per 12 mesi…",
-      "link": "https://www.punto-informatico.it/octopus-energy-energia-100-rinnovabile-e-costi-sicuri-per-12-mesi-senza-sorprese/",
+      "titolo": "Anthropic lancia Opus 4.5, il migliore per il coding",
+      "descrizione": "Anthropic presenta Opus 4.5, il nuovo modello AI con memoria infinita e integrazioni per Chrome ed Excel. Eccelle anche nel coding. The post Anthropic lancia Opus 4.5, il migliore per il coding appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/anthropic-opus-4-5-migliore-coding/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-23T10:33:00+00:00",
+      "data": "2025-11-25T06:07:44+00:00",
       "modello": "claude"
     }
   ]
