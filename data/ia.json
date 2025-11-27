@@ -1,28 +1,36 @@
 {
-  "last_updated": "2025-11-26T06:55:48.810243+00:00",
+  "last_updated": "2025-11-27T06:56:05.254356+00:00",
   "items": [
     {
-      "titolo": "ChatGPT: la modalità vocale non è più separata, ma nella chat",
-      "descrizione": "OpenAI aggiorna la modalità vocale di ChatGPT integrandola direttamente nella chat, con risposte visibili in tempo reale. The post ChatGPT: la modalità vocale non è più separata, ma nella chat appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/chatgpt-modalita-vocale-non-e-piu-separata-nella-chat/",
+      "titolo": "ChatGPT e il caso Raine: l’adolescente ha violato i termini d’uso",
+      "descrizione": "OpenAI risponde alla causa per il suicidio di Adam Raine, sostenendo che aggirò le misure di sicurezza violando i termini di utilizzo. The post ChatGPT e il caso Raine: l’adolescente ha violato i termini d’uso appeared…",
+      "link": "https://www.punto-informatico.it/chatgpt-caso-raine-adolescente-ha-violato-termini-uso/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-26T05:45:42+00:00",
+      "data": "2025-11-27T05:51:21+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "WIRED Roundup: Gemini 3 Release, Nvidia Earnings, Epstein Files Fallout",
-      "descrizione": "In this episode of Uncanny Valley, we cover the news of the week and take a closer look at the Gemini 3, Google’s latest AI model and chatbot.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-gemini-3-release-nvidia-earnings-epstein-files-fallout/",
-      "fonte": "WIRED",
-      "data": "2025-11-25T21:24:53+00:00",
+      "titolo": "Come usare Nano Banana Pro per creare infografiche perfette",
+      "descrizione": "Le immagini generate dall'AI spesso tradiscono la loro origine artificiale, ma Gemini Nano Banana Pro eccelle nel creare infografiche. The post Come usare Nano Banana Pro per creare infografiche perfette appeared first…",
+      "link": "https://www.punto-informatico.it/come-usare-nano-banana-pro-creare-infografiche-perfette/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-26T16:30:19+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Luce e gas a prezzo fisso: ecco l’offerta del Black Friday di Octopus",
-      "descrizione": "Con Octopus Energy è possibile bloccare il costo dell'energia elettrica e del gas e tagliare le bollette: ecco la promo da scegliere oggi. The post Luce e gas a prezzo fisso: ecco l’offerta del Black Friday di Octopus…",
-      "link": "https://www.punto-informatico.it/luce-e-gas-a-prezzo-fisso-ecco-lofferta-del-black-friday-di-octopus/",
+      "titolo": "WhatsApp cambia le regole: ChatGPT e Copilot lasciano la piattaforma",
+      "descrizione": "ChatGPT e Copilot saranno rimossi entro gennaio 2026 a causa dei nuovi termini che vietano la distribuzione di chatbot non sviluppati da Meta",
+      "link": "https://www.hdblog.it/microsoft/articoli/n639824/whatsapp-cambia-regole-chatgpt-copilot/",
+      "fonte": "HDblog.it",
+      "data": "2025-11-26T18:41:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Octopus Energy Fissa 12M blocca il prezzo di Luce e Gas per tutto l’anno",
+      "descrizione": "Con la tariffa Octopus Fissa 12M puoi bloccare il prezzo di luce e gas per un anno: scopri l'offerta Octopus Energy. The post Octopus Energy Fissa 12M blocca il prezzo di Luce e Gas per tutto l’anno appeared first on…",
+      "link": "https://www.punto-informatico.it/octopus-energy-fissa-12m-blocca-il-prezzo-di-luce-e-gas-per-tutto-lanno/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-25T17:17:41+00:00",
+      "data": "2025-11-26T15:17:03+00:00",
       "modello": "claude"
     }
   ]
