@@ -1,37 +1,37 @@
 {
-  "last_updated": "2025-11-27T06:56:05.254356+00:00",
+  "last_updated": "2025-11-28T06:55:24.523108+00:00",
   "items": [
     {
-      "titolo": "ChatGPT e il caso Raine: l’adolescente ha violato i termini d’uso",
-      "descrizione": "OpenAI risponde alla causa per il suicidio di Adam Raine, sostenendo che aggirò le misure di sicurezza violando i termini di utilizzo. The post ChatGPT e il caso Raine: l’adolescente ha violato i termini d’uso appeared…",
-      "link": "https://www.punto-informatico.it/chatgpt-caso-raine-adolescente-ha-violato-termini-uso/",
+      "titolo": "ChatGPT, da dicembre conversazioni senza censura per adulti",
+      "descrizione": "Da dicembre, i contenuti per adulti saranno accessibili su ChatGPT, previa verifica dell'età. I contenuti NSFW sono un mercato gigantesco. The post ChatGPT, da dicembre conversazioni senza censura per adulti appeared…",
+      "link": "https://www.punto-informatico.it/chatgpt-dicembre-conversazioni-senza-censura-adulti/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-27T05:51:21+00:00",
+      "data": "2025-11-28T05:53:56+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Come usare Nano Banana Pro per creare infografiche perfette",
-      "descrizione": "Le immagini generate dall'AI spesso tradiscono la loro origine artificiale, ma Gemini Nano Banana Pro eccelle nel creare infografiche. The post Come usare Nano Banana Pro per creare infografiche perfette appeared first…",
-      "link": "https://www.punto-informatico.it/come-usare-nano-banana-pro-creare-infografiche-perfette/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-26T16:30:19+00:00",
+      "titolo": "IT-alert, oggi simulazione di incidente industriale in Lombardia: tutti i dettagli",
+      "descrizione": "Presso Bracco Imaging.",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n639492/it-alert-incidente-industriale-lombardia-quando/",
+      "fonte": "HDblog.it",
+      "data": "2025-11-28T05:45:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "WhatsApp cambia le regole: ChatGPT e Copilot lasciano la piattaforma",
-      "descrizione": "ChatGPT e Copilot saranno rimossi entro gennaio 2026 a causa dei nuovi termini che vietano la distribuzione di chatbot non sviluppati da Meta",
-      "link": "https://www.hdblog.it/microsoft/articoli/n639824/whatsapp-cambia-regole-chatgpt-copilot/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-26T18:41:00+00:00",
-      "modello": "copilot"
+      "titolo": "Antropic lancia Claude Opus 4.5: la battaglia dei giganti dell’Ai si gioca sul codice",
+      "descrizione": "Il nuovo modello conquista la vetta dei benchmark con prezzi dimezzati e una sfida che ridefinisce i confini dell’intelligenza artificiale",
+      "link": "https://www.ilsole24ore.com/art/antropic-lancia-claude-opus-45-battaglia-giganti-dell-ai-si-gioca-codice-AHka9ExD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-11-26T07:19:47+00:00",
+      "modello": "claude"
     },
     {
-      "titolo": "Octopus Energy Fissa 12M blocca il prezzo di Luce e Gas per tutto l’anno",
-      "descrizione": "Con la tariffa Octopus Fissa 12M puoi bloccare il prezzo di luce e gas per un anno: scopri l'offerta Octopus Energy. The post Octopus Energy Fissa 12M blocca il prezzo di Luce e Gas per tutto l’anno appeared first on…",
-      "link": "https://www.punto-informatico.it/octopus-energy-fissa-12m-blocca-il-prezzo-di-luce-e-gas-per-tutto-lanno/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-26T15:17:03+00:00",
-      "modello": "claude"
+      "titolo": "Alibaba and ByteDance allegedly train Qwen and Doubao LLMs using Nvidia chips, despite export controls — Southeast Asian data center leases skirt around U.S. chip restrictions",
+      "descrizione": "Chinese technology giants, including Alibaba and ByteDance, are increasingly training their most advanced artificial intelligence models in Southeast Asia.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-top-ai-firms-shift-model-training-overseas-to-access-nvidia-gpus",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-11-27T14:05:39+00:00",
+      "modello": "altri"
     }
   ]
 }
