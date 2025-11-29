@@ -1,21 +1,13 @@
 {
-  "last_updated": "2025-11-28T06:55:24.523108+00:00",
+  "last_updated": "2025-11-29T06:18:19.198699+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, da dicembre conversazioni senza censura per adulti",
-      "descrizione": "Da dicembre, i contenuti per adulti saranno accessibili su ChatGPT, previa verifica dell'età. I contenuti NSFW sono un mercato gigantesco. The post ChatGPT, da dicembre conversazioni senza censura per adulti appeared…",
-      "link": "https://www.punto-informatico.it/chatgpt-dicembre-conversazioni-senza-censura-adulti/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-28T05:53:56+00:00",
+      "titolo": "Browser AI a confronto: così ChatGPT Atlas, Neon e Comet rivoluzionano la navigazione web",
+      "descrizione": "Abbiamo testato Atlas, Neon e Comet i tre browser più avanzati per capire se possono davvero scalfire il dominio di Google Chrome",
+      "link": "https://www.ilsole24ore.com/art/la-navigazione-web-si-trasforma-l-intelligenza-artificiale-nostra-prova-AHQreSfD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-11-24T13:48:00+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "IT-alert, oggi simulazione di incidente industriale in Lombardia: tutti i dettagli",
-      "descrizione": "Presso Bracco Imaging.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n639492/it-alert-incidente-industriale-lombardia-quando/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-28T05:45:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Antropic lancia Claude Opus 4.5: la battaglia dei giganti dell’Ai si gioca sul codice",
