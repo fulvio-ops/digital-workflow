@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-11-30T06:19:12.041263+00:00",
+  "last_updated": "2025-12-01T06:22:10.771178+00:00",
   "items": [
     {
-      "titolo": "Browser AI a confronto: così ChatGPT Atlas, Neon e Comet rivoluzionano la navigazione web",
-      "descrizione": "Abbiamo testato Atlas, Neon e Comet i tre browser più avanzati per capire se possono davvero scalfire il dominio di Google Chrome",
-      "link": "https://www.ilsole24ore.com/art/la-navigazione-web-si-trasforma-l-intelligenza-artificiale-nostra-prova-AHQreSfD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-11-24T13:48:00+00:00",
+      "titolo": "OpenAI limita Sora a 6 video gratis al giorno, troppa richiesta",
+      "descrizione": "Dopo Big G, che ha ridotto la generazione di immagini di Nano Banana Pro a 2 immagini, OpenAI limita Sora a 6 video al giorno per utenti free. The post OpenAI limita Sora a 6 video gratis al giorno, troppa richiesta…",
+      "link": "https://www.punto-informatico.it/openai-limita-sora-6-video-gratis-al-giorno-troppa-richiesta/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-01T05:48:43+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft aggiorna Outlook, Teams, Edge e Copilot: tutte le novità in arrivo",
-      "descrizione": "Nuove funzioni in arrivo su Outlook, Teams, Edge e Copilot tra gennaio e febbraio 2026.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n640268/microsoft-outlook-teams-edge-copilot-novita-2026/",
-      "fonte": "HDblog.it",
-      "data": "2025-11-29T11:20:00+00:00",
-      "modello": "copilot"
+      "titolo": "Agenti AI: CERT-AgID testa la sicurezza di Gemini",
+      "descrizione": "Il CERT-AgID ha effettuato un test con Gemini per verificare i rischi associati all'uso di un agente AI che può accedere a documenti e sistema operativo. The post Agenti AI: CERT-AgID testa la sicurezza di Gemini…",
+      "link": "https://www.punto-informatico.it/agenti-ai-cert-agid-testa-sicurezza-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2025-11-30T15:38:53+00:00",
+      "modello": "gemini"
     },
     {
-      "titolo": "Octopus Energy: accendi tutte le lucine di Natale e cucina no stop, la bolletta non cambia mai",
-      "descrizione": "Accendi tutte le luci di Natale e prepara il cenone senza ansia: con Octopus Energy blocchi il prezzo di luce e gas per 12 mesi. The post Octopus Energy: accendi tutte le lucine di Natale e cucina no stop, la bolletta…",
-      "link": "https://www.punto-informatico.it/octopus-energy-accendi-tutte-le-lucine-di-natale-e-cucina-no-stop-la-bolletta-non-cambia-mai/",
-      "fonte": "Punto Informatico",
-      "data": "2025-11-29T09:31:23+00:00",
+      "titolo": "Antropic lancia Claude Opus 4.5: la battaglia dei giganti dell’Ai si gioca sul codice",
+      "descrizione": "Il nuovo modello conquista la vetta dei benchmark con prezzi dimezzati e una sfida che ridefinisce i confini dell’intelligenza artificiale",
+      "link": "https://www.ilsole24ore.com/art/antropic-lancia-claude-opus-45-battaglia-giganti-dell-ai-si-gioca-codice-AHka9ExD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-11-26T07:19:47+00:00",
       "modello": "claude"
     }
   ]
