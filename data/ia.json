@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-12-01T06:22:10.771178+00:00",
+  "last_updated": "2025-12-02T06:21:17.848665+00:00",
   "items": [
     {
-      "titolo": "OpenAI limita Sora a 6 video gratis al giorno, troppa richiesta",
-      "descrizione": "Dopo Big G, che ha ridotto la generazione di immagini di Nano Banana Pro a 2 immagini, OpenAI limita Sora a 6 video al giorno per utenti free. The post OpenAI limita Sora a 6 video gratis al giorno, troppa richiesta…",
-      "link": "https://www.punto-informatico.it/openai-limita-sora-6-video-gratis-al-giorno-troppa-richiesta/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-01T05:48:43+00:00",
+      "titolo": "OpenAI investe in Thrive Holdings: perché cambierebbe il mercato dell’AI",
+      "descrizione": "Una sorta di “cerchio” di interessi reciproci.",
+      "link": "https://www.hdblog.it/business/articoli/n640503/openai-investe-thrive-holdings/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-01T18:05:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Agenti AI: CERT-AgID testa la sicurezza di Gemini",
-      "descrizione": "Il CERT-AgID ha effettuato un test con Gemini per verificare i rischi associati all'uso di un agente AI che può accedere a documenti e sistema operativo. The post Agenti AI: CERT-AgID testa la sicurezza di Gemini…",
-      "link": "https://www.punto-informatico.it/agenti-ai-cert-agid-testa-sicurezza-gemini/",
+      "titolo": "Opera integra Gemini di Google nel browser gratis",
+      "descrizione": "Opera annuncia l'accesso gratuito ai modelli Gemini più recenti. L'AI analizza i contenuti web, riassume siti, ed elabora foto e video. The post Opera integra Gemini di Google nel browser gratis appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/opera-integra-gemini-browser-gratis/",
       "fonte": "Punto Informatico",
-      "data": "2025-11-30T15:38:53+00:00",
+      "data": "2025-12-02T06:03:37+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Antropic lancia Claude Opus 4.5: la battaglia dei giganti dell’Ai si gioca sul codice",
-      "descrizione": "Il nuovo modello conquista la vetta dei benchmark con prezzi dimezzati e una sfida che ridefinisce i confini dell’intelligenza artificiale",
-      "link": "https://www.ilsole24ore.com/art/antropic-lancia-claude-opus-45-battaglia-giganti-dell-ai-si-gioca-codice-AHka9ExD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-11-26T07:19:47+00:00",
+      "titolo": "Octopus Energy, risparmio immediato su luce e gas con il prezzo bloccato",
+      "descrizione": "L'offerta Octopus Energy include luce 100% rinnovabile e prezzo bloccato per 12 mesi senza vincoli, con attivazione veloce online. The post Octopus Energy, risparmio immediato su luce e gas con il prezzo bloccato…",
+      "link": "https://www.punto-informatico.it/octopus-energy-risparmio-immediato-su-luce-e-gas-con-il-prezzo-bloccato/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-01T21:38:50+00:00",
       "modello": "claude"
     }
   ]
