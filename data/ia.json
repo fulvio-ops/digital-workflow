@@ -1,29 +1,37 @@
 {
-  "last_updated": "2025-12-02T06:21:17.848665+00:00",
+  "last_updated": "2025-12-03T06:21:02.599292+00:00",
   "items": [
     {
-      "titolo": "OpenAI investe in Thrive Holdings: perché cambierebbe il mercato dell’AI",
-      "descrizione": "Una sorta di “cerchio” di interessi reciproci.",
-      "link": "https://www.hdblog.it/business/articoli/n640503/openai-investe-thrive-holdings/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-01T18:05:00+00:00",
+      "titolo": "Smettere di cercare su Google: 6 cose che ChatGPT fa meglio",
+      "descrizione": "Google non è più l'unica opzione per le ricerche online. ChatGPT supera il motore di ricerca in sei situazioni specifiche, ecco quali. The post Smettere di cercare su Google: 6 cose che ChatGPT fa meglio appeared first…",
+      "link": "https://www.punto-informatico.it/smettere-cercare-su-google-6-cose-chatgpt-fa-meglio/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-02T16:54:30+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Opera integra Gemini di Google nel browser gratis",
-      "descrizione": "Opera annuncia l'accesso gratuito ai modelli Gemini più recenti. L'AI analizza i contenuti web, riassume siti, ed elabora foto e video. The post Opera integra Gemini di Google nel browser gratis appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/opera-integra-gemini-browser-gratis/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-02T06:03:37+00:00",
+      "titolo": "Gemini 3, espansione globale rapidissima: già in oltre 120 mercati",
+      "descrizione": "Italia inclusa.",
+      "link": "https://www.hdblog.it/google/articoli/n640641/google-gemini-3-espansione-globale-rapida/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-02T16:45:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Octopus Energy, risparmio immediato su luce e gas con il prezzo bloccato",
-      "descrizione": "L'offerta Octopus Energy include luce 100% rinnovabile e prezzo bloccato per 12 mesi senza vincoli, con attivazione veloce online. The post Octopus Energy, risparmio immediato su luce e gas con il prezzo bloccato…",
-      "link": "https://www.punto-informatico.it/octopus-energy-risparmio-immediato-su-luce-e-gas-con-il-prezzo-bloccato/",
+      "titolo": "Luce e gas a prezzo fisso con Octopus: ecco la promo di dicembre 2025",
+      "descrizione": "Con Octopus è possibile bloccare il prezzo di luce e gas per 12 mesi: ecco la promo da attivare oggi per risparmiare in bolletta subito. The post Luce e gas a prezzo fisso con Octopus: ecco la promo di dicembre 2025…",
+      "link": "https://www.punto-informatico.it/luce-e-gas-a-prezzo-fisso-con-octopus-ecco-la-promo-di-dicembre-2025/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-01T21:38:50+00:00",
+      "data": "2025-12-02T21:13:52+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Is DeepSeek's new model the latest blow to proprietary AI?",
+      "descrizione": "With impressive benchmark results, the Chinese AI lab's latest open-source release reignites questions about whether expensive models are worth it.",
+      "link": "https://www.zdnet.com/article/is-deepseeks-new-model-the-latest-blow-to-proprietary-ai/",
+      "fonte": "Latest news",
+      "data": "2025-12-03T03:00:36+00:00",
+      "modello": "altri"
     }
   ]
 }
