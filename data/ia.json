@@ -1,37 +1,29 @@
 {
-  "last_updated": "2025-12-03T06:21:02.599292+00:00",
+  "last_updated": "2025-12-04T06:20:56.882515+00:00",
   "items": [
     {
-      "titolo": "Smettere di cercare su Google: 6 cose che ChatGPT fa meglio",
-      "descrizione": "Google non è più l'unica opzione per le ricerche online. ChatGPT supera il motore di ricerca in sei situazioni specifiche, ecco quali. The post Smettere di cercare su Google: 6 cose che ChatGPT fa meglio appeared first…",
-      "link": "https://www.punto-informatico.it/smettere-cercare-su-google-6-cose-chatgpt-fa-meglio/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-02T16:54:30+00:00",
+      "titolo": "OpenAI is secretly fast-tracking 'Garlic' to fix ChatGPT's biggest flaws: What we know",
+      "descrizione": "The company's next model could be around the corner. Here's what's driving it.",
+      "link": "https://www.zdnet.com/article/openai-is-secretly-fast-tracking-garlic-to-fix-chatgpts-biggest-flaws-what-we-know/",
+      "fonte": "Latest news",
+      "data": "2025-12-03T21:40:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 3, espansione globale rapidissima: già in oltre 120 mercati",
-      "descrizione": "Italia inclusa.",
-      "link": "https://www.hdblog.it/google/articoli/n640641/google-gemini-3-espansione-globale-rapida/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-02T16:45:00+00:00",
+      "titolo": "Google Foto Recap 2025: Gemini trova hobby e momenti migliori",
+      "descrizione": "Google Foto Recap 2025 integra Gemini. L'AI analizza il contesto delle foto per identificare le passioni e 4 momenti salienti dell'anno. The post Google Foto Recap 2025: Gemini trova hobby e momenti migliori appeared…",
+      "link": "https://www.punto-informatico.it/google-foto-recap-2025-gemini-trova-hobby-momenti-migliori/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-04T05:44:28+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Luce e gas a prezzo fisso con Octopus: ecco la promo di dicembre 2025",
-      "descrizione": "Con Octopus è possibile bloccare il prezzo di luce e gas per 12 mesi: ecco la promo da attivare oggi per risparmiare in bolletta subito. The post Luce e gas a prezzo fisso con Octopus: ecco la promo di dicembre 2025…",
-      "link": "https://www.punto-informatico.it/luce-e-gas-a-prezzo-fisso-con-octopus-ecco-la-promo-di-dicembre-2025/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-02T21:13:52+00:00",
+      "titolo": "Antropic lancia Claude Opus 4.5: la battaglia dei giganti dell’Ai si gioca sul codice",
+      "descrizione": "Il nuovo modello conquista la vetta dei benchmark con prezzi dimezzati e una sfida che ridefinisce i confini dell’intelligenza artificiale",
+      "link": "https://www.ilsole24ore.com/art/antropic-lancia-claude-opus-45-battaglia-giganti-dell-ai-si-gioca-codice-AHka9ExD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-11-26T07:19:47+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Is DeepSeek's new model the latest blow to proprietary AI?",
-      "descrizione": "With impressive benchmark results, the Chinese AI lab's latest open-source release reignites questions about whether expensive models are worth it.",
-      "link": "https://www.zdnet.com/article/is-deepseeks-new-model-the-latest-blow-to-proprietary-ai/",
-      "fonte": "Latest news",
-      "data": "2025-12-03T03:00:36+00:00",
-      "modello": "altri"
     }
   ]
 }
