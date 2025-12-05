@@ -1,29 +1,37 @@
 {
-  "last_updated": "2025-12-04T06:20:56.882515+00:00",
+  "last_updated": "2025-12-05T06:20:51.175231+00:00",
   "items": [
     {
-      "titolo": "OpenAI is secretly fast-tracking 'Garlic' to fix ChatGPT's biggest flaws: What we know",
-      "descrizione": "The company's next model could be around the corner. Here's what's driving it.",
-      "link": "https://www.zdnet.com/article/openai-is-secretly-fast-tracking-garlic-to-fix-chatgpts-biggest-flaws-what-we-know/",
-      "fonte": "Latest news",
-      "data": "2025-12-03T21:40:47+00:00",
+      "titolo": "3 trucchi di ChatGPT che cambiano completamente i risultati",
+      "descrizione": "Tre trucchi che trasformano ChatGPT da strumento mediocre ad assistente perfetto. Esempi pratici e prompt da copiare. The post 3 trucchi di ChatGPT che cambiano completamente i risultati appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/3-trucchi-chatgpt-cambiano-completamente-risultati/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-04T16:30:40+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Foto Recap 2025: Gemini trova hobby e momenti migliori",
-      "descrizione": "Google Foto Recap 2025 integra Gemini. L'AI analizza il contesto delle foto per identificare le passioni e 4 momenti salienti dell'anno. The post Google Foto Recap 2025: Gemini trova hobby e momenti migliori appeared…",
-      "link": "https://www.punto-informatico.it/google-foto-recap-2025-gemini-trova-hobby-momenti-migliori/",
+      "titolo": "Google Workspace Studio per creare agenti AI in pochi minuti",
+      "descrizione": "Google annuncia Workspace Studio, una piattaforma basata su Gemini 3, progettare per creare e condividere agenti AI senza saper programmare. The post Google Workspace Studio per creare agenti AI in pochi minuti appeared…",
+      "link": "https://www.punto-informatico.it/google-workspace-studio-creare-agenti-ai-pochi-minuti/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-04T05:44:28+00:00",
+      "data": "2025-12-04T15:49:39+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Antropic lancia Claude Opus 4.5: la battaglia dei giganti dell’Ai si gioca sul codice",
-      "descrizione": "Il nuovo modello conquista la vetta dei benchmark con prezzi dimezzati e una sfida che ridefinisce i confini dell’intelligenza artificiale",
-      "link": "https://www.ilsole24ore.com/art/antropic-lancia-claude-opus-45-battaglia-giganti-dell-ai-si-gioca-codice-AHka9ExD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-11-26T07:19:47+00:00",
+      "titolo": "Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI",
+      "descrizione": "The Trump administration might think regulation is killing the AI industry, but Anthropic president Daniela Amodei disagrees.",
+      "link": "https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/",
+      "fonte": "WIRED",
+      "data": "2025-12-04T21:40:38+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "ByteDance and DeepSeek Are Placing Very Different AI Bets",
+      "descrizione": "The diverging path of China’s two leading AI players shows where the country’s artificial intelligence industry is headed.",
+      "link": "https://www.wired.com/story/deepseek-goes-high-while-bytedance-goes-wide/",
+      "fonte": "WIRED",
+      "data": "2025-12-04T16:57:09+00:00",
+      "modello": "altri"
     }
   ]
 }
