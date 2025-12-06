@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-12-05T06:20:51.175231+00:00",
+  "last_updated": "2025-12-06T06:18:08.405916+00:00",
   "items": [
     {
-      "titolo": "3 trucchi di ChatGPT che cambiano completamente i risultati",
-      "descrizione": "Tre trucchi che trasformano ChatGPT da strumento mediocre ad assistente perfetto. Esempi pratici e prompt da copiare. The post 3 trucchi di ChatGPT che cambiano completamente i risultati appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/3-trucchi-chatgpt-cambiano-completamente-risultati/",
+      "titolo": "Gemini 3 supera ChatGPT, le funzioni che fanno la differenza",
+      "descrizione": "Google ha lanciato Gemini 3, il suo modello più intelligente che batte ChatGPT nei test principali. Tre funzioni da conoscere. The post Gemini 3 supera ChatGPT, le funzioni che fanno la differenza appeared first on…",
+      "link": "https://www.punto-informatico.it/gemini-3-supera-chatgpt-funzioni-fanno-differenza/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-04T16:30:40+00:00",
+      "data": "2025-12-05T16:30:22+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Workspace Studio per creare agenti AI in pochi minuti",
-      "descrizione": "Google annuncia Workspace Studio, una piattaforma basata su Gemini 3, progettare per creare e condividere agenti AI senza saper programmare. The post Google Workspace Studio per creare agenti AI in pochi minuti appeared…",
-      "link": "https://www.punto-informatico.it/google-workspace-studio-creare-agenti-ai-pochi-minuti/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-04T15:49:39+00:00",
+      "titolo": "A month with Fitbit Premium on my Pixel Watch changed how I see AI health coaching",
+      "descrizione": "Gemini's smarts elevate the service, making the subscription surprisingly worthwhile to keep.",
+      "link": "https://www.zdnet.com/article/a-month-with-fitbit-premium-on-my-pixel-watch-changed-how-i-see-ai-health-coaching/",
+      "fonte": "Latest news",
+      "data": "2025-12-05T18:28:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI",
-      "descrizione": "The Trump administration might think regulation is killing the AI industry, but Anthropic president Daniela Amodei disagrees.",
-      "link": "https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/",
-      "fonte": "WIRED",
-      "data": "2025-12-04T21:40:38+00:00",
+      "titolo": "Claude intervista gli utenti per capire come usano l’AI",
+      "descrizione": "Anthropic ha lanciato uno strumento che conduce interviste automatizzate per studiare come i professionisti usano l'AI sul lavoro. The post Claude intervista gli utenti per capire come usano l’AI appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/claude-intervista-utenti-capire-come-usano-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-05T15:55:21+00:00",
       "modello": "claude"
     },
     {
