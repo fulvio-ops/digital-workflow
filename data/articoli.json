@@ -1,173 +1,173 @@
 {
-  "last_updated": "2025-12-06T06:18:05.228942+00:00",
+  "last_updated": "2025-12-07T06:18:07.760428+00:00",
   "items": [
+    {
+      "titolo": "Bollette più leggere e prezzi fissi: con l’offerta di Octopus si risparmia",
+      "descrizione": "Con Octopus Energy è possibile tagliare le bollette e massimizzare il risparmio andando a proteggersi dai rincari: ecco la promo di oggi. The post Bollette più leggere e prezzi fissi: con l’offerta di Octopus si…",
+      "link": "https://www.punto-informatico.it/bollette-piu-leggere-e-prezzi-fissi-con-lofferta-di-octopus-si-risparmia/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-06T16:55:31+00:00"
+    },
+    {
+      "titolo": "Nvidia refuses to replace RTX 5080 FE GPU's broken 16-pin power connector retention clip — the owner says Nvidia is trying to 'burn my house down'",
+      "descrizione": "A Reddit user has reported that Nvidia declined to replace their brand-new GeForce RTX 5080 Founders Edition and that the company is trying to “burn my house down”.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/rtx-5080-fe-owner-says-nvidia-denied-warranty-after-power-connector-clip-snapped",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-06T16:27:56+00:00"
+    },
+    {
+      "titolo": "Cerchia e Cerca arriva anche sulla desktop mode di Android 16 QPR2",
+      "descrizione": "Una bella comodità che ora arriva anche su monitor esterni.",
+      "link": "https://www.hdblog.it/google/articoli/n641110/android-16-qpr2-cerchia-cerca-desktop-modalita/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T14:50:00+00:00"
+    },
+    {
+      "titolo": "TSMC claims 4.2X efficiency gain over a decade from N7 to A14 fabrication process",
+      "descrizione": "TSMC clarifies A14 specifications: Even more performance, but better tools might be needed to extract the full potential of the latest process technologies.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-claims-4-2x-efficiency-gain-over-a-decade-from-n7-to-a14-fabrication-process",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-06T14:44:41+00:00"
+    },
+    {
+      "titolo": "Gboard cambia volto: novità per emoji e interfaccia in stile Material 3 Expressive",
+      "descrizione": "Google aggiorna il look della sua tastiera.",
+      "link": "https://www.hdblog.it/google/articoli/n641106/gboard-material-3-expressive-design-emoji/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T14:15:00+00:00"
+    },
+    {
+      "titolo": "Meta compra Limitless e prepara nuovi wearable AI oltre occhiali e visori",
+      "descrizione": "Meta acquista Limitless e punta a nuovi wearable AI oltre smart glasses e visori.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n641084/meta-acquisisce-limitless-wearable-ai/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T14:05:00+00:00"
+    },
+    {
+      "titolo": "RobotEra accelera: finanziamento record per i nuovi robot umanoidi industriali",
+      "descrizione": "RobotEra ottiene 140 milioni per produrre robot umanoidi destinati a fabbriche e logistica.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n640976/robotera-finanziamento-robot-umanoidi/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T13:35:00+00:00"
+    },
+    {
+      "titolo": "Luce solare, acqua e aria: così nasce il nuovo perossido “pulito”",
+      "descrizione": "Un metodo solare trasforma acqua e ossigeno in perossido, riducendo costi e rischi industriali.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n640950/produzione-perossido-idrogeno-solare/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T13:05:00+00:00"
+    },
+    {
+      "titolo": "Two GTX 580s in SLI are responsible for the AI we have today — Nvidia's Huang revealed that the invention of deep learning began with two flagship Fermi GPUs in 2012",
+      "descrizione": "Nvidia CEO Jensen Huang revealed in a recent Joe Rogan podcast that the inventors behind deep learning ran the world's first machine learning network on a pair of GTX 580s in SLI in 2012.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-gtx-580s-in-sli-are-responsible-for-the-ai-we-have-today-nvidias-huang-revealed-that-the-invention-of-deep-learning-began-with-two-flagship-fermi-gpus-in-2012",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-06T13:00:00+00:00"
+    },
+    {
+      "titolo": "Su Google Foto torna una funzione richiesta a gran voce dagli utenti",
+      "descrizione": "Google ha cambiato idea: anzi, prospettiva.",
+      "link": "https://www.hdblog.it/google/articoli/n641104/google-foto-come-modificare-prospettiva-ritagliare/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T12:40:00+00:00"
+    },
+    {
+      "titolo": "Giornali online a pagamento, AI aggira il blocco e parte la battaglia legale",
+      "descrizione": "Coinvolti il New York Times e Perplexity",
+      "link": "https://www.hdblog.it/mercato/articoli/n641063/giornali-online-pagamento-ai-paywall/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T12:05:00+00:00"
+    },
+    {
+      "titolo": "ChatGPT rallenta: Gemini accelera e insidia la leadership globale",
+      "descrizione": "La crescita di ChatGPT rallenta mentre Gemini accelera su download e utenti attivi.",
+      "link": "https://www.hdblog.it/mercato/articoli/n641086/chatgpt-crescita-rallenta-gemini-in-risalita/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T11:35:00+00:00"
+    },
+    {
+      "titolo": "Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
+      "descrizione": "Plus: The Trump administration declines to issue sanctions over Salt Typhoon’s hacking spree, officials warn of a disturbingly stealthy Chinese malware specimen, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
+      "fonte": "WIRED",
+      "data": "2025-12-06T11:30:00+00:00"
+    },
+    {
+      "titolo": "'World's first scalable DNA data storage offering' announced offering a staggering ‘60PB in 60 cubic inches,’ enough to hold 660,000 4K movies — Atlas Data storage claims its solution is 1000x denser than LTO-10 tape",
+      "descrizione": "Atlas Data Storage, a DNA-based storage tech startup, has announced its first commercial offering.",
+      "link": "https://www.tomshardware.com/pc-components/storage/worlds-first-scalable-dna-data-storage-offering-announced-offering-a-staggering-60pb-in-60-cubic-inches-enough-to-hold-660-000-4k-movies-atlas-data-storage-claims-its-solution-is-1000x-denser-than-lto-10-tape",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-06T11:30:00+00:00"
+    },
+    {
+      "titolo": "Aaru vola a quota 1 miliardo: la startup che prevede i consumatori con l’AI",
+      "descrizione": "Aaru ottiene oltre 50 milioni e una valutazione di vertice grazie alla ricerca clienti basata su AI.",
+      "link": "https://www.hdblog.it/mercato/articoli/n641089/aaru-finanziamento-serie-a-ai/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T11:20:00+00:00"
+    },
+    {
+      "titolo": "Misterioso robot spia cinese al confine indiano: cosa mostra davvero il video",
+      "descrizione": "Un video virale mostra un presunto robot cinese al confine: ipotesi e dubbi restano aperti.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n640943/robot-spia-confine-india-cina-video/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T11:05:00+00:00"
+    },
+    {
+      "titolo": "Russia allegedly still using Starlink-guided drones in Ukraine, report claims — Starlink Mini strapped to grounded drone points to ongoing issue, despite U.S. DoD claims threat was blunted",
+      "descrizione": "Russian drones are still flying into Ukrainian airspace to strike their targets with Starlink hardware clearly strapped to them, say Ukrainian media reports.",
+      "link": "https://www.tomshardware.com/service-providers/network-providers/russia-still-using-starlink-guided-drones-in-ukraine-insists-report-starlink-mini-atop-grounded-drone-points-to-ongoing-issue-despite-u-s-dod-claims-threat-was-blunted",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-06T11:00:00+00:00"
+    },
+    {
+      "titolo": "Google Pixel Watch si aggiorna e l'Always on Display diventa più intelligente",
+      "descrizione": "Così controlli multimediali e timer hanno molto più senso.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n641100/pixel-watch-always-on-display-timer-musica-update/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T10:35:00+00:00"
+    },
+    {
+      "titolo": "Fuga di cervelli da Apple: chi sta passando a OpenAI e perché",
+      "descrizione": "Nuovi dettagli sui numerosi ingegneri Apple che stanno lasciando l’azienda per OpenAI.",
+      "link": "https://www.hdblog.it/apple/articoli/n641091/apple-ingegneri-openai-fuga-cervelli/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T10:05:00+00:00"
+    },
+    {
+      "titolo": "Nuova Dacia Jogger versione base, che equipaggiamenti offre davvero?",
+      "descrizione": "Dacia Jogger si è rinnovata da poco con un restyling: volendo accontentarsi della versione base, cosa include davvero di serie?",
+      "link": "https://www.hdmotori.it/nuova-dacia-jogger-restyling-versione-base-motore-dotazioni-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-06T09:30:31+00:00"
+    },
+    {
+      "titolo": "Chrome compila i moduli con i dati da Google Wallet",
+      "descrizione": "Chrome può compilare automaticamente i moduli online usando informazioni da Google Wallet, account personali e prenotazioni di viaggi salvate. The post Chrome compila i moduli con i dati da Google Wallet appeared first…",
+      "link": "https://www.punto-informatico.it/google-compila-moduli-dati-google-wallet/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-06T09:23:05+00:00"
+    },
+    {
+      "titolo": "Bitcoin: per JPMorgan il destino del prezzo di BTC dipende dalla tenuta di MicroStrategy",
+      "descrizione": "La tenuta delle riserve di Strategy evita il crollo dei miner previsto da JPMorgan, ripristinando la fiducia istituzionale sul mercato. Questo clima positivo premia l'ascesa di Bitcoin Hyper, l'infrastruttura Layer-2…",
+      "link": "https://www.punto-informatico.it/fintech/criptovalute/bitcoin-prezzo-btc/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-06T09:00:33+00:00"
+    },
+    {
+      "titolo": "Inizia il tuo progetto online senza costi: scopri come fare con IONOS",
+      "descrizione": "Crea il tuo primo sito web in modo semplice e senza conoscenze tecniche. Con IONOS MyWebsite Now Starter hai dominio, email professionale e AI gratuiti. The post Inizia il tuo progetto online senza costi: scopri come…",
+      "link": "https://www.punto-informatico.it/inizia-il-tuo-progetto-online-senza-costi-scopri-come-fare-con-ionos/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-06T07:30:08+00:00"
+    },
     {
       "titolo": "OCCASIONI PAZZESCHE a meno di 5€ su Amazon Haul",
       "descrizione": "Tantissime occasioni pazzesche a meno di 5 euro ti stanno aspettando su Amazon Haul: fai una scorpacciata di risparmio prima che finiscano. The post OCCASIONI PAZZESCHE a meno di 5€ su Amazon Haul appeared first on…",
       "link": "https://www.punto-informatico.it/occasioni-pazzesche-a-meno-di-5e-su-amazon-haul/",
       "fonte": "Punto Informatico",
       "data": "2025-12-06T05:30:23+00:00"
-    },
-    {
-      "titolo": "‘Horses,’ the Most Controversial Game of the Year, Doesn’t Live Up to the Hype",
-      "descrizione": "First it was banned. Then its sales blew up. But Horses fails to meet the lofty goals of its own ideas.",
-      "link": "https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/",
-      "fonte": "WIRED",
-      "data": "2025-12-05T20:45:38+00:00"
-    },
-    {
-      "titolo": "Ethereum: BitMine investe altri 150 milioni di dollari in ETH e punta al 5% della supply totale",
-      "descrizione": "La mossa di BitMine su Ethereum anticipa i tagli della Fed e conferma il ritorno della fiducia istituzionale. Questo scenario rialzista innesca una forte rotazione di capitali verso l'innovazione gamificata e la…",
-      "link": "https://www.punto-informatico.it/fintech/criptovalute/ethereum-bitmine-investe-eth/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-05T19:30:40+00:00"
-    },
-    {
-      "titolo": "Airalo: restare connessi in viaggio senza roaming",
-      "descrizione": "Airalo offre eSIM globali, regionali e locali per oltre 200 destinazioni, attivabili in pochi minuti. The post Airalo: restare connessi in viaggio senza roaming appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/airalo-resta-connesso-in-viaggio-senza-roaming/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-05T18:58:33+00:00"
-    },
-    {
-      "titolo": "Recensione Moto Edge 60, a questo prezzo fa tremare la fascia media!",
-      "descrizione": "Abbiamo provato il Motorola Edge 60 che, se al lancio poteva non essere troppo interessante, al prezzo attuale è quasi un BEST BUY!",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n641007/moto-edge-60-test-prova-prezzo-offerta-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T18:50:00+00:00"
-    },
-    {
-      "titolo": "Abbiamo provato la nuova Sony A7V: la mirrorless full frame ibrida \"per tutti\"",
-      "descrizione": "Abbiamo utilizzato per qualche ora la nuova Sony A7 V, la mirrorless \"entry level\" della nuova gamma di fotocamere full frame di Sony. Parliamo di una fotocamera ibrida, adatta anche a chi vuole...",
-      "link": "https://www.hdblog.it/fotografia/speciali/n640801/prova-sony-a7v-la-mirrorless-full-frame/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T18:49:00+00:00"
-    },
-    {
-      "titolo": "Mazda 6e, la prova della berlina elettrica: comoda e tecnologica | Video",
-      "descrizione": "Abbiamo provato la nuova Mazda 6e, una vettura che si caratterizza per un'ottima dinamica di guida e un'elevatissima qualità costruttiva",
-      "link": "https://www.hdmotori.it/prove/mazda-6e-design-interni-specifiche-motori-autonomia/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T18:48:00+00:00"
-    },
-    {
-      "titolo": "Recensione Boox Note Air5 C: display Kaleido 3, Android 15 e scrittura migliorata",
-      "descrizione": "Abbiamo provato il nuovo ePaper Reader con Android 15",
-      "link": "https://www.hdblog.it/tablet/recensioni/n640921/recensione-boox-note-air5-c/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T18:47:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi lancia una plafoniera smart da 10.000 lumen",
-      "descrizione": "Chissà se arriverà anche in Italia.",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n641047/xiaomi-plafoniera-smart-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T18:46:00+00:00"
-    },
-    {
-      "titolo": "Netflix ha comprato Warner Bros. Discovery per 72 miliardi di dollari",
-      "descrizione": "Una delle operazioni più clamorose della storia della televisione e dello streaming.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n641034/netflix-compra-warner-bros-discovery/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T18:45:00+00:00"
-    },
-    {
-      "titolo": "New York Times denuncia Perplexity",
-      "descrizione": "Il New York Times ha denunciato Perplexity perché gli articoli sono usati per addestrare i modelli, rispondere agli utenti e generare riassunti in Comet. The post New York Times denuncia Perplexity appeared first on…",
-      "link": "https://www.punto-informatico.it/new-york-times-denuncia-perplexity/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-05T18:12:45+00:00"
-    },
-    {
-      "titolo": "ASRock ha lanciato la motherboard perfetta contro la crisi della RAM",
-      "descrizione": "Supporta sia le RAM DDR4 sia le DDR5 (non in contemporanea). Sei slot in totale, dual channel per entrambi gli standard.",
-      "link": "https://www.hdblog.it/hardware/articoli/n641073/asrock-scheda-madre-ram-ddr4-ddr5/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T18:10:00+00:00"
-    },
-    {
-      "titolo": "Avengers: Doomsday preferirà gli effetti pratici a quelli speciali",
-      "descrizione": "Ritorno alle origini?",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n641070/avengers-doomsday-effetti-speciali/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T17:50:00+00:00"
-    },
-    {
-      "titolo": "PS5, la batteria del nuovo controller DualSense dura molto di più",
-      "descrizione": "Ecco cosa emerge dai primi test.",
-      "link": "https://www.hdblog.it/sony/articoli/n641071/ps5-playstation-dualsense-v2-nuovo-autonomia-ore/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T17:40:00+00:00"
-    },
-    {
-      "titolo": "Year in Review di Wikipedia: ecco le ricerche più strane del 2025",
-      "descrizione": "Wikipedia la sua versione di Spotify Wrapped per l'app mobile. La funzione mostra i minuti totali di lettura e gli argomenti più cercati. The post Year in Review di Wikipedia: ecco le ricerche più strane del 2025…",
-      "link": "https://www.punto-informatico.it/year-in-review-wikipedia-ricerche-piu-strane-2025/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-05T17:34:41+00:00"
-    },
-    {
-      "titolo": "Paramount+ lancia Girl Taken: la serie che non ti aspetti",
-      "descrizione": "Thriller in sei episodi su un rapimento che segna una famiglia: debutta l’8 gennaio 2026.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n640909/girltaken-paramount-plus-thriller/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T17:30:00+00:00"
-    },
-    {
-      "titolo": "Robot militare cinese copia in tempo reale i movimenti dei soldati",
-      "descrizione": "Robot cinese replica in tempo reale i movimenti dei soldati durante l’addestramento.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n640816/robot-militare-cinese-movimenti/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T17:15:00+00:00"
-    },
-    {
-      "titolo": "Tesla Model 3 Standard debutta in Italia, caratteristiche e dotazioni: ecco quanto costa",
-      "descrizione": "Arriva anche sul mercato italiano la nuova Tesla Model 3 Standard: ecco cosa c'è da sapere e il prezzo",
-      "link": "https://www.hdmotori.it/tesla-model-3-standard-debutto-italia-caratteristiche-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T17:12:00+00:00"
-    },
-    {
-      "titolo": "Microsoft 365, in arrivo aumenti significativi per i clienti commerciali",
-      "descrizione": "I nuovi listini entreranno in vigore a luglio 2026.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n641072/microsoft-365-aumenti-clienti-commerciali/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T17:05:00+00:00"
-    },
-    {
-      "titolo": "Nuova batteria da 400V per laser anti-drone: il salto tecnologico di KULR",
-      "descrizione": "KULR presenta una nuova batteria da 400V per sistemi laser anti-drone di prossima generazione.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n640810/batteria-400v-laser-anti-drone-kulr/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T16:55:00+00:00"
-    },
-    {
-      "titolo": "TicWatch addio? In ritirata da Amazon e sito ufficiale. Mobvoi è criptica",
-      "descrizione": "Pare che la società cinese abbia deciso di concludere un'avventura durata circa 8 anni.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n641068/mobvoi-ticwatch-addio-smartwatch-wear-os/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T16:45:00+00:00"
-    },
-    {
-      "titolo": "I'm a diehard Mac Mini user - here are 5 accessories I can't live without (and under $100)",
-      "descrizione": "These Mac Mini accessories have proven to be reliable over time, and I recommend them to anyone with a Mac Mini.",
-      "link": "https://www.zdnet.com/article/im-a-diehard-mac-mini-user-here-are-5-accessories-i-cant-live-without-and-under-100/",
-      "fonte": "Latest news",
-      "data": "2025-12-05T16:40:00+00:00"
-    },
-    {
-      "titolo": "Bradley Cooper torna alla regia con È l’Ultima Battuta? | Trailer",
-      "descrizione": "Il trailer svela il nuovo film di Bradley Cooper con Will Arnett e Laura Dern.",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n640915/bradley-cooper-nuovo-film-ultima-battuta-trailer/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-05T16:35:00+00:00"
-    },
-    {
-      "titolo": "Riprendi il controllo dei tuoi dati personali con Incogni",
-      "descrizione": "Incogni rimuove automaticamente dati personali da oltre 2.420 siti, riducendo rischi di truffe, phishing e furti d’identità. Piani flessibili, report mensili e garanzia soddisfatti o rimborsati. The post Riprendi il…",
-      "link": "https://www.punto-informatico.it/riprendi-il-controllo-dei-tuoi-dati-personali-con-incogni/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-05T16:30:40+00:00"
     }
   ]
 }
