@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-12-07T06:18:11.659011+00:00",
+  "last_updated": "2025-12-08T06:22:56.809411+00:00",
   "items": [
     {
-      "titolo": "ChatGPT rallenta: Gemini accelera e insidia la leadership globale",
-      "descrizione": "La crescita di ChatGPT rallenta mentre Gemini accelera su download e utenti attivi.",
-      "link": "https://www.hdblog.it/mercato/articoli/n641086/chatgpt-crescita-rallenta-gemini-in-risalita/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-06T11:35:00+00:00",
+      "titolo": "Mistral 3 sfida ChatGPT, il modello francese gira su smartphone",
+      "descrizione": "Mistral AI presenta Mistral 3, nuova generazione di modelli di intelligenza artificiale completamente open source con licenza Apache 2.0. The post Mistral 3 sfida ChatGPT, il modello francese gira su smartphone appeared…",
+      "link": "https://www.punto-informatico.it/mistral-3-sfida-chatgpt-modello-francese-gira-smartphone/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-08T06:00:41+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "ChatGPT rallenta: Gemini accelera e insidia la leadership globale",
-      "descrizione": "La crescita di ChatGPT rallenta mentre Gemini accelera su download e utenti attivi.",
-      "link": "https://www.hdblog.it/mercato/articoli/n641086/chatgpt-crescita-rallenta-gemini-in-risalita/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-06T11:35:00+00:00",
+      "titolo": "A month with Fitbit Premium on my Pixel Watch changed how I see AI health coaching",
+      "descrizione": "Gemini's smarts elevate the service, making the subscription surprisingly worthwhile to keep.",
+      "link": "https://www.zdnet.com/article/a-month-with-fitbit-premium-on-my-pixel-watch-changed-how-i-see-ai-health-coaching/",
+      "fonte": "Latest news",
+      "data": "2025-12-05T18:28:00+00:00",
       "modello": "gemini"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "ByteDance and DeepSeek Are Placing Very Different AI Bets",
-      "descrizione": "The diverging path of China’s two leading AI players shows where the country’s artificial intelligence industry is headed.",
-      "link": "https://www.wired.com/story/deepseek-goes-high-while-bytedance-goes-wide/",
-      "fonte": "WIRED",
-      "data": "2025-12-04T16:57:09+00:00",
+      "titolo": "Mistral 3 sfida ChatGPT, il modello francese gira su smartphone",
+      "descrizione": "Mistral AI presenta Mistral 3, nuova generazione di modelli di intelligenza artificiale completamente open source con licenza Apache 2.0. The post Mistral 3 sfida ChatGPT, il modello francese gira su smartphone appeared…",
+      "link": "https://www.punto-informatico.it/mistral-3-sfida-chatgpt-modello-francese-gira-smartphone/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-08T06:00:41+00:00",
       "modello": "altri"
     }
   ]
