@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-12-09T06:24:52.096194+00:00",
+  "last_updated": "2025-12-10T06:21:40.078609+00:00",
   "items": [
     {
-      "titolo": "OpenAI Should Stop Naming Its Creations After Products That Already Exist",
-      "descrizione": "From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.",
-      "link": "https://www.wired.com/story/openai-cameo-products-that-already-exist/",
-      "fonte": "WIRED",
-      "data": "2025-12-08T20:40:18+00:00",
+      "titolo": "The fastest-growing AI chatbot now isn't from OpenAI, Anthropic, or Google",
+      "descrizione": "'Different assistants map to different moments,' according to ComScore's latest report on the AI market.",
+      "link": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
+      "fonte": "Latest news",
+      "data": "2025-12-10T01:00:14+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Agenti AI su Chrome, le misure di sicurezza di Google",
-      "descrizione": "Gli agenti AI di Chrome sollevano rischi di sicurezza. Google spiega come proteggerà gli utenti con i modelli di controllo di Gemini. The post Agenti AI su Chrome, le misure di sicurezza di Google appeared first on…",
-      "link": "https://www.punto-informatico.it/agenti-ai-chrome-misure-sicurezza-google/",
+      "titolo": "7 modi per usare Gemini 3 che moltiplicano la produttività",
+      "descrizione": "Gemini 3 può fare molto più che rispondere a domande. Sette utilizzi concreti per moltiplicare la produttività e risparmiare ore di lavoro. The post 7 modi per usare Gemini 3 che moltiplicano la produttività appeared…",
+      "link": "https://www.punto-informatico.it/7-modi-usare-gemini-3-moltiplicano-produttivita/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-09T05:34:08+00:00",
+      "data": "2025-12-09T16:30:35+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Gemini vs. Copilot: I tested the AI tools on 7 everyday tasks, and it wasn't even close",
-      "descrizione": "Microsoft is building Copilot into every product it owns, while Google is integrating its Gemini LLM tool into all of its properties. To determine which tool is better, I came up with seven challenges.",
-      "link": "https://www.zdnet.com/article/gemini-vs-copilot/",
-      "fonte": "Latest news",
-      "data": "2025-12-08T16:36:00+00:00",
+      "titolo": "This GitHub script claims to wipe all of Windows 11's AI features in seconds — \"RemoveWindowsAI\" can disable every single AI feature in the OS, from Copilot to Recall and more",
+      "descrizione": "If you've been unhappy with the direction Microsoft has taken Windows, offering no meaningful improvements beyond AI and aesthetics, then, well, not much can be done about that. But, at least you can disable all the AI…",
+      "link": "https://www.tomshardware.com/software/windows/this-github-script-claims-to-wipe-all-of-windows-11s-ai-features-in-seconds-removewindowsai-can-disable-every-single-ai-feature-in-the-os-from-copilot-to-recall-and-more",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-09T14:21:08+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Research commissioned by OpenAI and Anthropic claims that workers are more efficient when using AI — Up to one hour saved on average, as companies make bid to maintain enterprise AI spending",
-      "descrizione": "OpenAI and Anthropic claim in a pair of reports released today and earlier in the month that the use of enterprise AI tools increase productivity and corporate ROI. These studies may be damage control to counter those…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/research-commissioned-by-openai-and-anthropic-claims-that-workers-are-more-efficient-when-using-ai-up-to-one-hour-saved-on-average-as-companies-make-bid-to-maintain-enterprise-ai-spending",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-08T18:14:54+00:00",
+      "titolo": "The fastest-growing AI chatbot now isn't from OpenAI, Anthropic, or Google",
+      "descrizione": "'Different assistants map to different moments,' according to ComScore's latest report on the AI market.",
+      "link": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
+      "fonte": "Latest news",
+      "data": "2025-12-10T01:00:14+00:00",
       "modello": "claude"
     }
   ]
