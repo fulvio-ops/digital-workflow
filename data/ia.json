@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-12-10T06:21:40.078609+00:00",
+  "last_updated": "2025-12-11T06:22:22.348586+00:00",
   "items": [
     {
-      "titolo": "The fastest-growing AI chatbot now isn't from OpenAI, Anthropic, or Google",
-      "descrizione": "'Different assistants map to different moments,' according to ComScore's latest report on the AI market.",
-      "link": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
+      "titolo": "I just ordered Instacart delivery through ChatGPT using a few simple prompts - here's how",
+      "descrizione": "It's fast and easy, and it all happens inside ChatGPT, with no Instacart+ required.",
+      "link": "https://www.zdnet.com/article/instacart-chatgpt-integration-hands-on/",
       "fonte": "Latest news",
-      "data": "2025-12-10T01:00:14+00:00",
+      "data": "2025-12-10T17:21:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "7 modi per usare Gemini 3 che moltiplicano la produttività",
-      "descrizione": "Gemini 3 può fare molto più che rispondere a domande. Sette utilizzi concreti per moltiplicare la produttività e risparmiare ore di lavoro. The post 7 modi per usare Gemini 3 che moltiplicano la produttività appeared…",
-      "link": "https://www.punto-informatico.it/7-modi-usare-gemini-3-moltiplicano-produttivita/",
+      "titolo": "Meta lancia Avocado: nuovo modello AI per battere ChatGPT",
+      "descrizione": "Meta archivia Llama definitivamente e presenta Avocado, il nuovo modello AI pensato per sfidare ChatGPT, Claude e Gemini. The post Meta lancia Avocado: nuovo modello AI per battere ChatGPT appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/meta-lancia-avocado-nuovo-modello-ai-battere-chatgpt/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-09T16:30:35+00:00",
+      "data": "2025-12-10T15:47:00+00:00",
       "modello": "gemini"
     },
     {
@@ -26,12 +26,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "The fastest-growing AI chatbot now isn't from OpenAI, Anthropic, or Google",
-      "descrizione": "'Different assistants map to different moments,' according to ComScore's latest report on the AI market.",
-      "link": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
-      "fonte": "Latest news",
-      "data": "2025-12-10T01:00:14+00:00",
+      "titolo": "Bollette luce e gas più leggere: basta scegliere la nuova offerta di Octopus",
+      "descrizione": "Con Octopus Energy è possibile bloccare il prezzo di luce e gas per 12 mesi e minimizzare le bollette: ecco la promo da attivare oggi. The post Bollette luce e gas più leggere: basta scegliere la nuova offerta di…",
+      "link": "https://www.punto-informatico.it/bollette-luce-e-gas-piu-leggere-basta-scegliere-la-nuova-offerta-di-octopus/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-10T19:20:29+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "Nvidia decries 'far-fetched' reports of smuggling in face of DeepSeek training reports — unnamed sources claim Chinese company is involved in Blackwell smuggling ring",
+      "descrizione": "DeepSeek is allegedly involved in a \"phantom data center\" smuggling scheme to get Blackwell GPU servers into China as part of training its newest LLM generation. While Nvidia refutes the claims as \"farfetched\", some…",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-decries-far-fetched-reports-of-smuggling-in-face-of-deepseek-training-reports-unnamed-sources-claim-chinese-company-is-involved-in-blackwell-smuggling-ring",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-10T16:41:06+00:00",
+      "modello": "altri"
     }
   ]
 }
