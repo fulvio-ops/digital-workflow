@@ -1,36 +1,28 @@
 {
-  "last_updated": "2025-12-12T06:21:34.756949+00:00",
+  "last_updated": "2025-12-13T06:19:03.147810+00:00",
   "items": [
     {
-      "titolo": "OpenAI lancia GPT-5.2, è più veloce e affidabile",
-      "descrizione": "OpenAI lancia GPT-5.2 definendolo il miglior modello per uso professionale, più veloce, preciso e meno soggetto ad allucinazioni. The post OpenAI lancia GPT-5.2, è più veloce e affidabile appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/openai-gpt-5-2-piu-veloce-affidabile/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-12T05:53:08+00:00",
+      "titolo": "I tested GPT-5.2 and the AI model's mixed results raise tough questions",
+      "descrizione": "Subjected to my battery of 10 text tests and 4 image challenges, OpenAI's latest model barely edged out GPT-5.1. What are Plus subscribers actually paying for?",
+      "link": "https://www.zdnet.com/article/text-image-tests-openai-gpt-5-2-mixed-results-compare-gpt-5-1/",
+      "fonte": "Latest news",
+      "data": "2025-12-12T19:21:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Are GPT-5.2's new powers enough to surpass Gemini 3? Try it and see",
-      "descrizione": "The new model performs 'at or above a human expert level,' according to OpenAI.",
-      "link": "https://www.zdnet.com/article/new-openai-gpt-5-2-how-to-try-it/",
+      "titolo": "Your earbuds can translate 70 languages in real-time now, thanks to Gemini",
+      "descrizione": "Android users can hear live translations in more than 70 languages, with Gemini preserving the speaker's tone and cadence.",
+      "link": "https://www.zdnet.com/article/google-translate-languages-real-time-earbuds-gemini-update/",
       "fonte": "Latest news",
-      "data": "2025-12-11T21:15:00+00:00",
+      "data": "2025-12-12T17:00:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Do you ask AI deep questions at night? 37.5 million Copilot conversations show you're not alone",
-      "descrizione": "From work-related conversations on our desktops by day to personal advice on our phones after hours, AI now integrates 'into the full texture of human life,' a Microsoft study finds.",
-      "link": "https://www.zdnet.com/article/ai-chatbot-copilot-microsoft-study-coworker-and-friend/",
-      "fonte": "Latest news",
-      "data": "2025-12-11T21:44:29+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Microsoft, Google, OpenAI, and Anthropic join forces to form Agentic AI alliance, according to report — organization backed by the Linux Foundation is set to create open source standards for AI agents",
-      "descrizione": "The world's leading AI firms are collaborating on a new Agentic Artificial Intelligence Foundation managed by the Linux Foundation to build open standards around AI agents. The move will focus on three key open source…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-google-openai-and-anthropic-join-forces-to-form-agentic-ai-alliance-according-to-report-organization-backed-by-the-linux-foundation-is-set-to-create-open-source-standards-for-ai-agents",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-11T11:40:14+00:00",
+      "titolo": "Octopus ha l’offerta giusta per risparmiare su luce e gas nell’inverno 2026",
+      "descrizione": "Le nuove tariffe dell'offerta a prezzo fisso del fornitore energetico britannico con il costo della materia prima bloccato per un anno. The post Octopus ha l’offerta giusta per risparmiare su luce e gas nell’inverno…",
+      "link": "https://www.punto-informatico.it/octopus-offerta-risparmiare-luce-e-gas-inverno-2026/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-12T17:44:34+00:00",
       "modello": "claude"
     },
     {
