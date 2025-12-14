@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-12-13T06:19:03.147810+00:00",
+  "last_updated": "2025-12-14T06:19:38.485888+00:00",
   "items": [
     {
-      "titolo": "I tested GPT-5.2 and the AI model's mixed results raise tough questions",
-      "descrizione": "Subjected to my battery of 10 text tests and 4 image challenges, OpenAI's latest model barely edged out GPT-5.1. What are Plus subscribers actually paying for?",
-      "link": "https://www.zdnet.com/article/text-image-tests-openai-gpt-5-2-mixed-results-compare-gpt-5-1/",
+      "titolo": "How I use AI to bring my kid's art to life - and why it's a fun learning opportunity",
+      "descrizione": "I want to introduce my kid to AI tools like ChatGPT, Gemini, and Sora, but without turning it into a shortcut or replacing her imagination.",
+      "link": "https://www.zdnet.com/article/how-to-use-ai-to-bring-art-to-life/",
       "fonte": "Latest news",
-      "data": "2025-12-12T19:21:00+00:00",
+      "data": "2025-12-13T12:01:25+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Your earbuds can translate 70 languages in real-time now, thanks to Gemini",
-      "descrizione": "Android users can hear live translations in more than 70 languages, with Gemini preserving the speaker's tone and cadence.",
-      "link": "https://www.zdnet.com/article/google-translate-languages-real-time-earbuds-gemini-update/",
+      "titolo": "How I use AI to bring my kid's art to life - and why it's a fun learning opportunity",
+      "descrizione": "I want to introduce my kid to AI tools like ChatGPT, Gemini, and Sora, but without turning it into a shortcut or replacing her imagination.",
+      "link": "https://www.zdnet.com/article/how-to-use-ai-to-bring-art-to-life/",
       "fonte": "Latest news",
-      "data": "2025-12-12T17:00:00+00:00",
+      "data": "2025-12-13T12:01:25+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Octopus ha l’offerta giusta per risparmiare su luce e gas nell’inverno 2026",
-      "descrizione": "Le nuove tariffe dell'offerta a prezzo fisso del fornitore energetico britannico con il costo della materia prima bloccato per un anno. The post Octopus ha l’offerta giusta per risparmiare su luce e gas nell’inverno…",
-      "link": "https://www.punto-informatico.it/octopus-offerta-risparmiare-luce-e-gas-inverno-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-12T17:44:34+00:00",
+      "titolo": "How to install and configure Claude Code, step by step",
+      "descrizione": "Curious about Anthropic's AI coding tool but unsure where to begin? My walkthrough covers pricing, installation, authorization, and project initialization so developers can get up and running smoothly.",
+      "link": "https://www.zdnet.com/article/how-to-install-configure-claude-code-ai-pricing-developers/",
+      "fonte": "Latest news",
+      "data": "2025-12-13T13:00:41+00:00",
       "modello": "claude"
     },
     {
