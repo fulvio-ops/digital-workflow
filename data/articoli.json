@@ -1,6 +1,160 @@
 {
-  "last_updated": "2025-12-14T06:19:34.123303+00:00",
+  "last_updated": "2025-12-15T06:24:39.689384+00:00",
   "items": [
+    {
+      "titolo": "Google e Apple: patch d’emergenza dopo attacchi zero-day",
+      "descrizione": "Google e Apple rilasciano aggiornamenti di emergenza dopo una campagna di hacking basata su attacchi zero-day. The post Google e Apple: patch d’emergenza dopo attacchi zero-day appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/google-apple-patch-emergenza-dopo-attacchi-zero-day/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-15T06:10:59+00:00"
+    },
+    {
+      "titolo": "Gli smartphone nel 2026 avranno meno RAM per colpa dell’AI",
+      "descrizione": "Gli smartphone del 2026 avranno meno RAM a causa dell'impennata dei prezzi della memoria causata dal boom dell'AI, come conferma TrendForce. The post Gli smartphone nel 2026 avranno meno RAM per colpa dell’AI appeared…",
+      "link": "https://www.punto-informatico.it/smartphone-2026-avranno-meno-ram-per-colpa-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-15T05:47:37+00:00"
+    },
+    {
+      "titolo": "20+ useful Roku shortcuts and menus that every user should know about (and how to access them)",
+      "descrizione": "You're not using your Roku system to its full potential. These secret menus, settings, and hacks will unlock that for you.",
+      "link": "https://www.zdnet.com/article/best-roku-shortcuts/",
+      "fonte": "Latest news",
+      "data": "2025-12-14T21:05:00+00:00"
+    },
+    {
+      "titolo": "Brave avvia i test per il browser agentico",
+      "descrizione": "Brave ha avviato i test per la navigazione agentica con la versione preliminare del browser, adottando varie misure per garantire sicurezza e privacy. The post Brave avvia i test per il browser agentico appeared first…",
+      "link": "https://www.punto-informatico.it/brave-avvia-test-browser-agentico/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-14T17:40:54+00:00"
+    },
+    {
+      "titolo": "Unreleased RTX Titan Ada prototype gets taken apart to reveal complex internal design and assembly — Nvidia's mythical GPU is engineered to the max with dual 12VHPWR connectors",
+      "descrizione": "Following prior benchmarks, the man himself, der8auer, has disassembled the RTX Titan Ada prototype he's had for months. Inside, the card is a maze of wires, connections, and side-plate wizardry, holding together a…",
+      "link": "https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-titan-ada-prototype-gets-taken-apart-to-reveal-complex-internal-design-and-assembly-nvidias-mythical-gpu-is-engineered-to-the-max-with-dual-12vhpwr-connectors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-14T16:41:32+00:00"
+    },
+    {
+      "titolo": "TOI-561 b: il primo pianeta roccioso con atmosfera rilevata grazie al telescopio James Webb",
+      "descrizione": "Oggi come oggi conosciamo almeno 6.000 pianeti extrasolari, sono quelli che ruotano attorno ad una stella diversa dal nostro Sole. Per il momento riusciamo a scovare solo quelli piuttosto grandi...",
+      "link": "https://www.ilsole24ore.com/art/per-prima-volta-scoperto-pianeta-roccioso-come-terra-un-atmosfera-intorno-AIDJ2RP",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-12-14T16:13:00+00:00"
+    },
+    {
+      "titolo": "First truly 3D chip fabbed at US foundry, features carbon nanotube transistors and RAM on a single die — future devices could have up to 1000x improvement in energy-delay product",
+      "descrizione": "A collaborative research team has demonstrated what it says is the first monolithic 3D integrated circuit manufactured at a commercial U.S. foundry.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/stanford-led-team-builds-3d-ai-chip-at-us-foundry-reports-4x-performance-gains",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-14T15:25:47+00:00"
+    },
+    {
+      "titolo": "Passa a Kena Mobile e risparmia: ecco l’offerta a 5,99€ che non trovi da nessuna altra parte",
+      "descrizione": "Scopri l’offerta Kena Mobile da 5,99€ al mese: minuti illimitati, SMS e giga inclusi, zero vincoli e costi chiari. Passa a Kena e inizia a risparmiare. The post Passa a Kena Mobile e risparmia: ecco l’offerta a 5,99€…",
+      "link": "https://www.punto-informatico.it/passa-a-kena-mobile-e-risparmia-ecco-lofferta-a-599e-che-non-trovi-da-nessuna-altra-parte/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-14T14:48:08+00:00"
+    },
+    {
+      "titolo": "New fabric speakers use flexible electronics to be thin, light, and flexible — AIST Japan's latest breakthrough; audiophile ready, or only suitable for cloth ears?",
+      "descrizione": "Thin, light, and flexible electronics technology commercialized in new ‘Fabric Speaker Portable’ product.",
+      "link": "https://www.tomshardware.com/speakers/new-fabric-speakers-use-flexible-electronics-to-be-thin-light-and-flexible-aist-japans-latest-breakthrough-audiophile-ready-or-only-suitable-for-cloth-ears",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-14T14:47:34+00:00"
+    },
+    {
+      "titolo": "Google Play premia Pokémon TCG Pocket come miglior gioco 2025",
+      "descrizione": "And the winner is... Mountain View celebra i suoi “oscar”, ovvero le eccellenze del 2025 con la tradizionale classifica “Google Play Best of”. Pokémon TCG Pocket si aggiudica il titolo...",
+      "link": "https://www.ilsole24ore.com/art/google-play-premia-pokemon-tcg-pocket-come-miglior-gioco-2025-AHelAXvD",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-12-14T13:50:27+00:00"
+    },
+    {
+      "titolo": "Commodore International challenges Italian rival’s trademarks in escalating brand dispute — firm says clarity needed to clear the path for new licensed products",
+      "descrizione": "Commodore International Corporation has initiated legal action against Italian start-up Commodore Industries, claiming that a set of Commodore trademarks registered in Europe in 2017 were improperly granted.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-international-challenges-rivals-trademarks-in-escalating-brand-dispute",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-14T13:45:00+00:00"
+    },
+    {
+      "titolo": "Russian media finally admits Putin is under fire from angry citizens, but it's for the recent Roblox ban — Kremlin says kids have written 63,000 complaint letters, half said they wanted to leave Russia due to the ban",
+      "descrizione": "There's been a Russian youth uprising, with tens of thousands of kids writing to say they want to emigrate because Roblox has been blocked.",
+      "link": "https://www.tomshardware.com/software/social-media/russian-media-finally-admits-putin-is-under-fire-from-angry-citizens-but-its-for-the-recent-roblox-ban-kremlin-says-kids-have-written-63-000-complaint-letters-half-said-they-wanted-to-leave-russia-due-to-the-ban",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-14T13:00:00+00:00"
+    },
+    {
+      "titolo": "Dev hacks Xiaomi's Smart Humidifier to free it from the cloud, now works with Home Assistant locally — custom firmware allows the product to evade planned obsolescence",
+      "descrizione": "If the one thing about smart home appliances that deterred you from ever investing in this connected future was how your data was always being routed through servers, you're in for a treat. A skilled developer has…",
+      "link": "https://www.tomshardware.com/maker-stem/microcontrollers-projects/dev-hacks-xiaomis-smart-humidifier-to-free-it-from-the-cloud-now-works-with-home-assistant-locally-custom-firmware-allows-the-product-to-evade-planned-obsolescence",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-14T12:36:45+00:00"
+    },
+    {
+      "titolo": "Samsung illustra quanta energia fa risparmiare l'AI nelle lavatrici e asciugatrici",
+      "descrizione": "Fino al 30%, dice la società citando uno studio che ha coinvolto quasi 200.000 lavatrici e asciugatrici per un anno.",
+      "link": "https://www.hdblog.it/samsung/articoli/n641863/samsung-ai-lavatrici-asciugatrici-risparmio/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-14T11:05:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi, in arrivo tanti prodotti in vista del capodanno cinese 2026",
+      "descrizione": "In arrivo flagship, midrange, tablet, indossabili audio e da polso, e tanti altri gadget IoT.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n641861/xiaomi-17-ultra-prodotti-lancio-capodanno-cinese/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-14T10:35:00+00:00"
+    },
+    {
+      "titolo": "Stop using your router's USB port - what PC experts recommend instead",
+      "descrizione": "Don't rely on your router's USB port; it's unreliable and potentially vulnerable to malware.",
+      "link": "https://www.zdnet.com/article/why-you-shouldnt-use-your-router-usb-port/",
+      "fonte": "Latest news",
+      "data": "2025-12-14T10:30:46+00:00"
+    },
+    {
+      "titolo": "Con Incogni cancelli i tuoi dati personali dal web: ora costa il 55% in meno",
+      "descrizione": "Con Incogni puoi eliminare i tuoi dati personali dal web. I benefici? Stop alle chiamate dei call center e ai messaggi truffa. Ed è in super sconto. The post Con Incogni cancelli i tuoi dati personali dal web: ora costa…",
+      "link": "https://www.punto-informatico.it/con-incogni-cancelli-i-tuoi-dati-personali-dal-web-ora-costa-il-55-in-meno/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-14T09:49:32+00:00"
+    },
+    {
+      "titolo": "Galaxy A 2025, aumenti imminenti in India: dobbiamo prepararci anche noi?",
+      "descrizione": "In un mercato in cui i componenti sono sempre più rari e costosi, ciò che sta accadendo in India sembra un monito per il resto dei mercati.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n641857/samsung-galaxy-a-2025-aumenti-india/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-14T09:35:00+00:00"
+    },
+    {
+      "titolo": "Alla ricerca dei cinque gadget che nel 2025 cambiano davvero le regole",
+      "descrizione": "I dispositivi indossabili con l’Ai sono stati un flop. Ma l’intelligenza artificiale ha già deciso come renderà l’elettronica di consuma più innovativa (e forse utile)",
+      "link": "https://www.ilsole24ore.com/art/alla-ricerca-cinque-gadget-che-2025-cambiano-davvero-regole-AHfWuZ0D",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2025-12-14T08:23:00+00:00"
+    },
+    {
+      "titolo": "Changan Deepal S07 si presenta in Italia: caratteristiche e prezzo del nuovo SUV elettrico",
+      "descrizione": "Il nuovo SUV elettrico cinese debutta in Italia in un unico allestimento e con un'autonomia di 475 km: ecco cosa c'è da sapere",
+      "link": "https://www.hdmotori.it/changan-deepal-s07-debutto-italia-caratteristiche-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-14T08:00:56+00:00"
+    },
+    {
+      "titolo": "BYD Dolphin Surf vs Citroen C3, piccole a confronto: versioni e prezzi",
+      "descrizione": "Mettiamo a confronto due protagoniste del segmento B, la BYD Dolphin Surf solo elettrica e la Citroen C3 benzina, ibrida ed elettrica",
+      "link": "https://www.hdmotori.it/byd-dolphin-surf-vs-citroen-c3-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-14T07:00:42+00:00"
+    },
+    {
+      "titolo": "Novità Renault 2026: i nuovi modelli in arrivo",
+      "descrizione": "Il 2026 sarà ricco di novità per Renault che oltre a iniziare le consegne della nuova Clio, porterà al debutto il restyling della Megane",
+      "link": "https://www.hdmotori.it/novita-renault-2026-nuovi-modelli/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-14T06:30:08+00:00"
+    },
     {
       "titolo": "La migliore VPN diventa ancora più conveniente con la promo di Natale (-75%)",
       "descrizione": "NordVPN si conferma la migliore VPN sul mercato con una promozione ottima che taglia il prezzo del servizio: ecco la promo da attivare oggi. The post La migliore VPN diventa ancora più conveniente con la promo di Natale…",
@@ -14,160 +168,6 @@
       "link": "https://www.tomshardware.com/laptops/dell-preps-massive-price-hikes-up-to-30-percent-citing-memory-pricing-out-of-our-control-company-reminds-commercial-customers-that-placing-an-order-today-for-future-delivery-will-not-guarantee-current-prices",
       "fonte": "Latest from Tom's Hardware",
       "data": "2025-12-13T16:52:57+00:00"
-    },
-    {
-      "titolo": "Apple annuncia iOS 26.2: ecco le principali novità",
-      "descrizione": "Apple ha rilasciato iOS 26.2 che include diverse novità per app, funzionalità e interfaccia, tra cui l'opzione per regolare l'opacità sul lock screen. The post Apple annuncia iOS 26.2: ecco le principali novità appeared…",
-      "link": "https://www.punto-informatico.it/apple-annuncia-ios-26-2-principali-novita/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-13T16:22:14+00:00"
-    },
-    {
-      "titolo": "Industry preps new 'cheap' HBM4 memory spec with narrow interface, but it isn't a GDDR killer — JEDEC's new SPHBM4 spec weds HBM4 performance and lower costs to enable higher capacity",
-      "descrizione": "JEDEC is nearing completion of SPHBM4, a standard that enables full HBM4 bandwidth over a 512-bit interface using a 4:1 serialization, reusing standard HBM DRAM dies and a base die. The tech promises to enable a 2.5D…",
-      "link": "https://www.tomshardware.com/pc-components/dram/industry-preps-cheap-hbm4-memory-spec-with-narrow-interface-but-it-isnt-a-gddr-killer-jedecs-new-sphbm4-spec-weds-hbm4-performance-and-lower-costs-to-enable-higher-capacity",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-13T16:10:08+00:00"
-    },
-    {
-      "titolo": "Diablo IV, arriva il merch per Lord of Hatred. Anche una statuetta da 700 euro!",
-      "descrizione": "Preordini già aperti.",
-      "link": "https://www.hdblog.it/games/articoli/n641844/diablo-merchandise-lord-hatred-statua-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T15:05:00+00:00"
-    },
-    {
-      "titolo": "Tether offre 1,1 miliardi per acquisire la Juventus (update)",
-      "descrizione": "Tether ha offerto 1,1 miliardi di euro per l'acquisizione delle azioni della Juventus e promesso un miliardo di investimenti, ma Exor ha rifiutato. The post Tether offre 1,1 miliardi per acquisire la Juventus (update)…",
-      "link": "https://www.punto-informatico.it//tether-offre-11-miliardi-acquisire-juventus/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-13T15:04:18+00:00"
-    },
-    {
-      "titolo": "Apple e Google: patch di emergenza contro attacchi zero-day sofisticati e mirati",
-      "descrizione": "Per ora i dettagli sono molto scarsi, ma pare si sia trattato di campagne di spionaggio o comunque governative.",
-      "link": "https://www.hdblog.it/google/articoli/n641843/apple-google-patch-sicurezza-firmware-exploit/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T14:35:00+00:00"
-    },
-    {
-      "titolo": "Il Sole 24 Ore lancia 24GPT, il primo assistente IA per la divulgazione economico-finanziaria",
-      "descrizione": "L’obiettivo è accompagnare le persone nella comprensione dei temi che influenzano la vita quotidiana, favorendo una maggiore consapevolezza",
-      "link": "https://www.ilsole24ore.com/art/il-sole-24-ore-lancia-24gpt-primo-assistente-ia-la-divulgazione-economico-finanziaria-AIVCmdO",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-12-13T13:35:32+00:00"
-    },
-    {
-      "titolo": "Il regista di 47 Ronin è stato dichiarato colpevole di truffa ai danni di Netflix",
-      "descrizione": "Doveva produrre una serie TV sci-fi, e invece ha sperperato il denaro in investimenti ad alto rischio e beni di lusso. Questa primavera arriverà la sentenza definitiva.",
-      "link": "https://www.hdblog.it/mercato/articoli/n641842/carl-rinsch-netflix-truffa-lusso-cripto-serie-tv/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T13:35:00+00:00"
-    },
-    {
-      "titolo": "Nvidia details new software that enables location tracking for AI GPUs — opt-in remote data center GPU fleet management includes power usage and thermal monitoring",
-      "descrizione": "Nvidia's GPU fleet management software can track spikes in power usage, monitor utilization, detect hotspots, spot anomalies, identify software errors, and detect the physical location of processors. However, the…",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-new-software-that-enables-location-tracking-for-ai-gpus-opt-in-remote-data-center-gpu-fleet-management-includes-power-usage-and-thermal-monitoring",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-13T13:30:05+00:00"
-    },
-    {
-      "titolo": "L’Europa investe sui droni subacquei silenziosi: parte il progetto SPHYDA",
-      "descrizione": "L’UE finanzia SPHYDA per ridurre il rumore dei droni subacquei autonomi",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n641687/droni-sottomarini-silenziosi-progetto-sphyda-ue/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T13:05:00+00:00"
-    },
-    {
-      "titolo": "How to install and configure Claude Code, step by step",
-      "descrizione": "Curious about Anthropic's AI coding tool but unsure where to begin? My walkthrough covers pricing, installation, authorization, and project initialization so developers can get up and running smoothly.",
-      "link": "https://www.zdnet.com/article/how-to-install-configure-claude-code-ai-pricing-developers/",
-      "fonte": "Latest news",
-      "data": "2025-12-13T13:00:41+00:00"
-    },
-    {
-      "titolo": "Germany summons Russian ambassador over GRU-linked cyberattacks — air traffic control and elections systems targeted",
-      "descrizione": "Germany has formally summoned Russia’s ambassador in Berlin after publicly attributing a series of cyber and influence operations to Moscow’s GRU military intelligence agency.",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/germany-summons-russian-ambassador-over-gru-linked-cyberattacks-on-atc-and-elections",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-13T13:00:00+00:00"
-    },
-    {
-      "titolo": "Cellule pronte in 5 ore: la scoperta che può cambiare medicina e cibo",
-      "descrizione": "Una tecnica semplice crea fogli cellulari robusti in sole cinque ore",
-      "link": "https://www.hdblog.it/curiosita/articoli/n641713/tecnica-fogli-cellulari-cinque-ore/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T12:05:00+00:00"
-    },
-    {
-      "titolo": "AMD, Intel, and TI are ‘merchants of death’ says lawyer representing Ukrainian civilians — five new suits complain that Russian drones and missiles continue to use high-tech components from these brands",
-      "descrizione": "Five lawsuits were filed in Texas this week, putting some of the biggest names in PC tech under an uncomfortable spotlight, as their components are still being found in Russian weaponry.",
-      "link": "https://www.tomshardware.com/pc-components/amd-intel-and-ti-are-merchants-of-death-says-lawyer-representing-ukrainian-civilians-five-new-suits-complain-that-russian-drones-and-missiles-continue-to-use-high-tech-components-from-these-brands",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-13T12:00:00+00:00"
-    },
-    {
-      "titolo": "I migliori smartphone medio gamma del 2025 per HDBlog",
-      "descrizione": "Abbiamo premiato i migliori smartphone di fascia media del 2025: da quelli più economici attorno ai 300 euro fino ad arrivare ai 700 euro. Tanti consigli per gli acquisti anche in vista di Natale.",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n641400/migliori-smartphone-medio-gamma-2025/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T11:35:00+00:00"
-    },
-    {
-      "titolo": "AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda",
-      "descrizione": "Plus: Travelers to the US may have to hand over five years of social media history, South Korean CEOs are resigning due to cyberattacks, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/",
-      "fonte": "WIRED",
-      "data": "2025-12-13T11:30:00+00:00"
-    },
-    {
-      "titolo": "Il nuovo aggiornamento di webOS per le smart TV LG punta tutto sull'informazione",
-      "descrizione": "Ci sarà un hub dedicato a news e informazione con tantissime fonti diverse. Arriverà anche in Italia.",
-      "link": "https://www.hdblog.it/tv/articoli/n641809/lg-webos-aggiornamento-informazione-news-portal/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T11:05:00+00:00"
-    },
-    {
-      "titolo": "Questo robot cane cinese vede tutto e si muove ovunque senza guida umana",
-      "descrizione": "Il robot quadrupede D5 di Pudu mappa e naviga grandi aree in autonomia totale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n641688/robot-cane-d5-pudu-robotics/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T10:20:00+00:00"
-    },
-    {
-      "titolo": "Google Maps, cambiano le impostazioni e arriva la modalità risparmio energetico",
-      "descrizione": "Tutto sull’ultimo aggiornamento",
-      "link": "https://www.hdblog.it/smartphone/articoli/n641812/google-maps-aggiornamento-impostazioni/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T10:05:00+00:00"
-    },
-    {
-      "titolo": "The Instagram-Fueled Boom in Copycat Vintage Car-Body Shells",
-      "descrizione": "Instagram is awash with Asian firms showing how they can remake old Broncos, Defenders, and other whole classic cars—better and much cheaper than in the US.",
-      "link": "https://www.wired.com/story/the-instagram-fueled-boom-in-copycat-vintage-car-body-shells/",
-      "fonte": "WIRED",
-      "data": "2025-12-13T10:00:00+00:00"
-    },
-    {
-      "titolo": "Forza Horizon e Fable saranno protagonisti di un Xbox Developer Direct a gennaio",
-      "descrizione": "Matt Booty promette un anno record: \"Abbiamo più giochi di quanti ne entrino in un solo show\"",
-      "link": "https://www.hdblog.it/microsoft/articoli/n641833/xbox-showcase-gennaio-forza-horizon-fable/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T09:50:00+00:00"
-    },
-    {
-      "titolo": "Il paradosso di Call of Duty: Black Ops 7. Sempre più ricco ma noi siamo cambiati",
-      "descrizione": "Il frachise di Activision è più bello ma fatica a trovare un compromesso con l’attualità delle guerre reali",
-      "link": "https://www.ilsole24ore.com/art/il-paradosso-call-of-duty-black-ops-7-sempre-piu-ricco-ma-noi-siamo-cambiati-AHYjrqvD",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2025-12-13T09:20:16+00:00"
-    },
-    {
-      "titolo": "Beast Games riparte su Prime Video: nuovi episodi e una collaborazione speciale",
-      "descrizione": "Beast Games 2 arriva il 7 gennaio su Prime Video con nuove sfide e un crossover con Survivor",
-      "link": "https://www.hdblog.it/amazon/articoli/n641692/beast-games-stagione-2-prime-video/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-13T09:20:00+00:00"
     }
   ]
 }

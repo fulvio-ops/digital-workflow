@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T06:19:38.485888+00:00",
+  "last_updated": "2025-12-15T06:26:33.925491+00:00",
   "items": [
     {
       "titolo": "How I use AI to bring my kid's art to life - and why it's a fun learning opportunity",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "How I use AI to bring my kid's art to life - and why it's a fun learning opportunity",
-      "descrizione": "I want to introduce my kid to AI tools like ChatGPT, Gemini, and Sora, but without turning it into a shortcut or replacing her imagination.",
-      "link": "https://www.zdnet.com/article/how-to-use-ai-to-bring-art-to-life/",
-      "fonte": "Latest news",
-      "data": "2025-12-13T12:01:25+00:00",
+      "titolo": "Gemini Live, le conversazioni diventano ancora più naturali con queste novità",
+      "descrizione": "Gemini Live è sempre più educata.",
+      "link": "https://www.hdblog.it/google/articoli/n641862/gemini-live-tasto-muto-novita-conversazione-app/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-14T10:15:00+00:00",
       "modello": "gemini"
     },
     {
@@ -24,14 +24,6 @@
       "fonte": "Latest news",
       "data": "2025-12-13T13:00:41+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Nvidia decries 'far-fetched' reports of smuggling in face of DeepSeek training reports — unnamed sources claim Chinese company is involved in Blackwell smuggling ring",
-      "descrizione": "DeepSeek is allegedly involved in a \"phantom data center\" smuggling scheme to get Blackwell GPU servers into China as part of training its newest LLM generation. While Nvidia refutes the claims as \"farfetched\", some…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-decries-far-fetched-reports-of-smuggling-in-face-of-deepseek-training-reports-unnamed-sources-claim-chinese-company-is-involved-in-blackwell-smuggling-ring",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-10T16:41:06+00:00",
-      "modello": "altri"
     }
   ]
 }
