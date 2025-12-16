@@ -1,29 +1,29 @@
 {
-  "last_updated": "2025-12-15T06:26:33.925491+00:00",
+  "last_updated": "2025-12-16T06:21:54.369397+00:00",
   "items": [
     {
-      "titolo": "How I use AI to bring my kid's art to life - and why it's a fun learning opportunity",
-      "descrizione": "I want to introduce my kid to AI tools like ChatGPT, Gemini, and Sora, but without turning it into a shortcut or replacing her imagination.",
-      "link": "https://www.zdnet.com/article/how-to-use-ai-to-bring-art-to-life/",
-      "fonte": "Latest news",
-      "data": "2025-12-13T12:01:25+00:00",
+      "titolo": "OpenAI’s Chief Communications Officer Is Leaving the Company",
+      "descrizione": "Hannah Wong told staff she is moving on to her “next chapter.” The company will be running an executive search to find a replacement, according to a memo.",
+      "link": "https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/",
+      "fonte": "WIRED",
+      "data": "2025-12-16T00:10:24+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Live, le conversazioni diventano ancora più naturali con queste novità",
-      "descrizione": "Gemini Live è sempre più educata.",
-      "link": "https://www.hdblog.it/google/articoli/n641862/gemini-live-tasto-muto-novita-conversazione-app/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-14T10:15:00+00:00",
+      "titolo": "I got an early demo of AI smart glasses with Gemini, and they're almost too ambitious",
+      "descrizione": "The color display and integrated AI make a compelling product, but these glasses have some things to solve before I can recommend them.",
+      "link": "https://www.zdnet.com/article/rayneo-x3-pro-ar-glasses-review/",
+      "fonte": "Latest news",
+      "data": "2025-12-15T22:15:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "How to install and configure Claude Code, step by step",
-      "descrizione": "Curious about Anthropic's AI coding tool but unsure where to begin? My walkthrough covers pricing, installation, authorization, and project initialization so developers can get up and running smoothly.",
-      "link": "https://www.zdnet.com/article/how-to-install-configure-claude-code-ai-pricing-developers/",
-      "fonte": "Latest news",
-      "data": "2025-12-13T13:00:41+00:00",
-      "modello": "claude"
+      "titolo": "Copilot si installa da solo sulle TV LG, ma chi lo vuole?",
+      "descrizione": "L'applicazione di Copilot compare all'improvviso su alcune TV LG, senza chiedere il permesso per l'installazione: non può essere eliminata. The post Copilot si installa da solo sulle TV LG, ma chi lo vuole? appeared…",
+      "link": "https://www.punto-informatico.it/copilot-tv-lg/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-15T14:42:51+00:00",
+      "modello": "copilot"
     }
   ]
 }
