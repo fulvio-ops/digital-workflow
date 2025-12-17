@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-12-16T06:21:54.369397+00:00",
+  "last_updated": "2025-12-17T06:21:28.996184+00:00",
   "items": [
     {
-      "titolo": "OpenAI’s Chief Communications Officer Is Leaving the Company",
-      "descrizione": "Hannah Wong told staff she is moving on to her “next chapter.” The company will be running an executive search to find a replacement, according to a memo.",
-      "link": "https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/",
-      "fonte": "WIRED",
-      "data": "2025-12-16T00:10:24+00:00",
+      "titolo": "Nuovo ChatGPT Images per battere Nano Banana di Gemini",
+      "descrizione": "OpenAI rilascia il nuovo ChatGPT Images per competere con Nano Banana di Gemini.  Offre editing più preciso e migliore rendering del testo. The post Nuovo ChatGPT Images per battere Nano Banana di Gemini appeared first…",
+      "link": "https://www.punto-informatico.it/nuovo-chatgpt-images-battere-nano-banana-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-17T05:34:59+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I got an early demo of AI smart glasses with Gemini, and they're almost too ambitious",
-      "descrizione": "The color display and integrated AI make a compelling product, but these glasses have some things to solve before I can recommend them.",
-      "link": "https://www.zdnet.com/article/rayneo-x3-pro-ar-glasses-review/",
-      "fonte": "Latest news",
-      "data": "2025-12-15T22:15:00+00:00",
+      "titolo": "Nuovo ChatGPT Images per battere Nano Banana di Gemini",
+      "descrizione": "OpenAI rilascia il nuovo ChatGPT Images per competere con Nano Banana di Gemini.  Offre editing più preciso e migliore rendering del testo. The post Nuovo ChatGPT Images per battere Nano Banana di Gemini appeared first…",
+      "link": "https://www.punto-informatico.it/nuovo-chatgpt-images-battere-nano-banana-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-17T05:34:59+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Copilot si installa da solo sulle TV LG, ma chi lo vuole?",
-      "descrizione": "L'applicazione di Copilot compare all'improvviso su alcune TV LG, senza chiedere il permesso per l'installazione: non può essere eliminata. The post Copilot si installa da solo sulle TV LG, ma chi lo vuole? appeared…",
-      "link": "https://www.punto-informatico.it/copilot-tv-lg/",
+      "titolo": "Microsoft promuove Copilot con un trucco sull’App Store",
+      "descrizione": "Microsoft trova un nuovo angolo per promuovere Copilot, che ora appare in fondo alle note delle app Microsoft su App Store. The post Microsoft promuove Copilot con un trucco sull’App Store appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/microsoft-promuove-copilot-trucco-app-store/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-15T14:42:51+00:00",
+      "data": "2025-12-16T14:58:05+00:00",
       "modello": "copilot"
     }
   ]
