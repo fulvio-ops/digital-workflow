@@ -1,29 +1,37 @@
 {
-  "last_updated": "2025-12-17T06:21:28.996184+00:00",
+  "last_updated": "2025-12-18T06:21:29.709564+00:00",
   "items": [
     {
-      "titolo": "Nuovo ChatGPT Images per battere Nano Banana di Gemini",
-      "descrizione": "OpenAI rilascia il nuovo ChatGPT Images per competere con Nano Banana di Gemini.  Offre editing più preciso e migliore rendering del testo. The post Nuovo ChatGPT Images per battere Nano Banana di Gemini appeared first…",
-      "link": "https://www.punto-informatico.it/nuovo-chatgpt-images-battere-nano-banana-gemini/",
+      "titolo": "I 9 errori che fanno tutti con ChatGPT che limitano i risultati",
+      "descrizione": "La maggior parte delle persone usa ChatGPT male, commettendo errori ripetitivi, che limitano i risultati. Ecco come correggere il tiro. The post I 9 errori che fanno tutti con ChatGPT che limitano i risultati appeared…",
+      "link": "https://www.punto-informatico.it/9-errori-fanno-tutti-chatgpt-limitano-risultati/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-17T05:34:59+00:00",
+      "data": "2025-12-17T16:30:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Nuovo ChatGPT Images per battere Nano Banana di Gemini",
-      "descrizione": "OpenAI rilascia il nuovo ChatGPT Images per competere con Nano Banana di Gemini.  Offre editing più preciso e migliore rendering del testo. The post Nuovo ChatGPT Images per battere Nano Banana di Gemini appeared first…",
-      "link": "https://www.punto-informatico.it/nuovo-chatgpt-images-battere-nano-banana-gemini/",
+      "titolo": "Gemini 3 Flash: nuovo modello per app e AI Mode",
+      "descrizione": "Il nuovo modello Gemini 3 Flash è accessibile gratuitamente in tutto il mondo tramite l'app Gemini e la funzionalità AI Mode in Google Search. The post Gemini 3 Flash: nuovo modello per app e AI Mode appeared first on…",
+      "link": "https://www.punto-informatico.it/gemini-3-flash-nuovo-modello-app-ai-mode/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-17T05:34:59+00:00",
+      "data": "2025-12-17T17:47:32+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Microsoft promuove Copilot con un trucco sull’App Store",
-      "descrizione": "Microsoft trova un nuovo angolo per promuovere Copilot, che ora appare in fondo alle note delle app Microsoft su App Store. The post Microsoft promuove Copilot con un trucco sull’App Store appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/microsoft-promuove-copilot-trucco-app-store/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-16T14:58:05+00:00",
+      "titolo": "LG TV users baffled by unremovable Microsoft Copilot installation — surprise forced update shows app pinned to the home screen",
+      "descrizione": "LG smart TV owners are reporting that a recent webOS software update has added Microsoft Copilot to their TVs, with no apparent way to remove it.",
+      "link": "https://www.tomshardware.com/service-providers/tv-providers/lg-tv-update-adds-non-removable-microsoft-copilot-app-to-webos",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-15T13:28:07+00:00",
       "modello": "copilot"
+    },
+    {
+      "titolo": "Bollette luce e gas più basse nel 2026: con questa promo è possibile",
+      "descrizione": "Con Octopus è possibile abbassare le bollette di luce e gas ed evitare rincari per tutto il 2026: ecco la promozione da cogliere al volo. The post Bollette luce e gas più basse nel 2026: con questa promo è possibile…",
+      "link": "https://www.punto-informatico.it/bollette-luce-e-gas-piu-basse-nel-2026-con-questa-promo-e-possibile/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-17T20:28:55+00:00",
+      "modello": "claude"
     }
   ]
 }
