@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-12-18T06:21:29.709564+00:00",
+  "last_updated": "2025-12-19T06:21:10.015907+00:00",
   "items": [
     {
-      "titolo": "I 9 errori che fanno tutti con ChatGPT che limitano i risultati",
-      "descrizione": "La maggior parte delle persone usa ChatGPT male, commettendo errori ripetitivi, che limitano i risultati. Ecco come correggere il tiro. The post I 9 errori che fanno tutti con ChatGPT che limitano i risultati appeared…",
-      "link": "https://www.punto-informatico.it/9-errori-fanno-tutti-chatgpt-limitano-risultati/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-17T16:30:47+00:00",
+      "titolo": "How to use Canva in ChatGPT to build a stunning presentation in minutes - for free",
+      "descrizione": "This is by far the fastest way I've ever made a presentation - and it might even help me win Christmas this year.",
+      "link": "https://www.zdnet.com/article/how-to-use-canva-in-chatgpt-to-design-presentations/",
+      "fonte": "Latest news",
+      "data": "2025-12-19T02:00:46+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 3 Flash: nuovo modello per app e AI Mode",
-      "descrizione": "Il nuovo modello Gemini 3 Flash è accessibile gratuitamente in tutto il mondo tramite l'app Gemini e la funzionalità AI Mode in Google Search. The post Gemini 3 Flash: nuovo modello per app e AI Mode appeared first on…",
-      "link": "https://www.punto-informatico.it/gemini-3-flash-nuovo-modello-app-ai-mode/",
+      "titolo": "Gemini rileva video AI con watermark SynthID (solo i suoi)",
+      "descrizione": "Gemini può verificare se un video è stato generato con l'AI di Google analizzando il watermark SynthID, ma non con altre piattaforme. The post Gemini rileva video AI con watermark SynthID (solo i suoi) appeared first on…",
+      "link": "https://www.punto-informatico.it/gemini-rileva-video-ai-watermark-synthid-solo-suoi/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-17T17:47:32+00:00",
+      "data": "2025-12-19T06:08:53+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "LG TV users baffled by unremovable Microsoft Copilot installation — surprise forced update shows app pinned to the home screen",
-      "descrizione": "LG smart TV owners are reporting that a recent webOS software update has added Microsoft Copilot to their TVs, with no apparent way to remove it.",
-      "link": "https://www.tomshardware.com/service-providers/tv-providers/lg-tv-update-adds-non-removable-microsoft-copilot-app-to-webos",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-15T13:28:07+00:00",
+      "titolo": "Copilot sulle TV LG, si potrà eliminare l’icona dopo le proteste",
+      "descrizione": "Dopo le polemiche online, LG annuncia che presto sarà possibile eliminare l’icona Copilot dalle sue TV, ma non dice quando. The post Copilot sulle TV LG, si potrà eliminare l’icona dopo le proteste appeared first on…",
+      "link": "https://www.punto-informatico.it/copilot-tv-lg-eliminare-icona-dopo-proteste/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-19T05:46:59+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Bollette luce e gas più basse nel 2026: con questa promo è possibile",
-      "descrizione": "Con Octopus è possibile abbassare le bollette di luce e gas ed evitare rincari per tutto il 2026: ecco la promozione da cogliere al volo. The post Bollette luce e gas più basse nel 2026: con questa promo è possibile…",
-      "link": "https://www.punto-informatico.it/bollette-luce-e-gas-piu-basse-nel-2026-con-questa-promo-e-possibile/",
+      "titolo": "Gemini 3 vs Gemini 3 Flash, le differenze e quale versione usare",
+      "descrizione": "Gemini 3 Flash è tre volte più veloce delle versioni precedenti, compete con GPT-5.2 e Claude Sonnet 4.5, ed è completamente gratuito. The post Gemini 3 vs Gemini 3 Flash, le differenze e quale versione usare appeared…",
+      "link": "https://www.punto-informatico.it/gemini-3-vs-gemini-3-flash-differenze-quale-versione-usare/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-17T20:28:55+00:00",
+      "data": "2025-12-18T16:30:59+00:00",
       "modello": "claude"
     }
   ]
