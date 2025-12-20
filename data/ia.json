@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-12-19T06:21:10.015907+00:00",
+  "last_updated": "2025-12-20T06:20:32.508430+00:00",
   "items": [
     {
-      "titolo": "How to use Canva in ChatGPT to build a stunning presentation in minutes - for free",
-      "descrizione": "This is by far the fastest way I've ever made a presentation - and it might even help me win Christmas this year.",
-      "link": "https://www.zdnet.com/article/how-to-use-canva-in-chatgpt-to-design-presentations/",
-      "fonte": "Latest news",
-      "data": "2025-12-19T02:00:46+00:00",
+      "titolo": "ChatGPT ha 8 personalità diverse: quale usare per ogni situazione",
+      "descrizione": "hatGPT offre otto personalità predefinite Professionale, Amichevole, Schietto, Eccentrico, Efficiente, Nerd e Cinico. Ecco come sfruttarle. The post ChatGPT ha 8 personalità diverse: quale usare per ogni situazione…",
+      "link": "https://www.punto-informatico.it/chatgpt-8-personalita-diverse-quale-usare-ogni-situazione/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-19T16:30:07+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini rileva video AI con watermark SynthID (solo i suoi)",
-      "descrizione": "Gemini può verificare se un video è stato generato con l'AI di Google analizzando il watermark SynthID, ma non con altre piattaforme. The post Gemini rileva video AI con watermark SynthID (solo i suoi) appeared first on…",
-      "link": "https://www.punto-informatico.it/gemini-rileva-video-ai-watermark-synthid-solo-suoi/",
+      "titolo": "Gemini: disegnare le modifiche invece di scrivere prompt",
+      "descrizione": "Gemini introduce una nuova modalità di interazione, si può disegnare o annotare direttamente sulle immagini per modificarle. The post Gemini: disegnare le modifiche invece di scrivere prompt appeared first on Punto…",
+      "link": "https://www.punto-informatico.it/gemini-disegnare-modifiche-invece-scrivere-prompt/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-19T06:08:53+00:00",
+      "data": "2025-12-19T17:25:22+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Copilot sulle TV LG, si potrà eliminare l’icona dopo le proteste",
-      "descrizione": "Dopo le polemiche online, LG annuncia che presto sarà possibile eliminare l’icona Copilot dalle sue TV, ma non dice quando. The post Copilot sulle TV LG, si potrà eliminare l’icona dopo le proteste appeared first on…",
-      "link": "https://www.punto-informatico.it/copilot-tv-lg-eliminare-icona-dopo-proteste/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-19T05:46:59+00:00",
+      "titolo": "LG responds swiftly to user backlash, will allow users to remove Microsoft Copilot link from TVs — clarifies service is not an app, future update will include tile removal option from WebOS",
+      "descrizione": "LG has clarified how Microsoft Copilot appears on its webOS smart TVs following recent coverage that described the feature as a non-removable app bundled into the operating system.",
+      "link": "https://www.tomshardware.com/monitors/televisions/lg-says-microsoft-copilot-on-webos-tvs-is-a-browser-shortcut-not-a-built-in-app",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-19T16:05:14+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini 3 vs Gemini 3 Flash, le differenze e quale versione usare",
-      "descrizione": "Gemini 3 Flash è tre volte più veloce delle versioni precedenti, compete con GPT-5.2 e Claude Sonnet 4.5, ed è completamente gratuito. The post Gemini 3 vs Gemini 3 Flash, le differenze e quale versione usare appeared…",
-      "link": "https://www.punto-informatico.it/gemini-3-vs-gemini-3-flash-differenze-quale-versione-usare/",
+      "titolo": "Salva le tue bollette dall’inverno: luce e gas a prezzi bloccati con Octopus Energy",
+      "descrizione": "Scegliendo Octpus Energy, il costo della materia prima di luce e gas è bloccato per 12 mesi. Energia rinnovabile inclusa e attivazione online. The post Salva le tue bollette dall’inverno: luce e gas a prezzi bloccati…",
+      "link": "https://www.punto-informatico.it/salva-le-tue-bollette-dallinverno-luce-e-gas-a-prezzi-bloccati-con-octopus-energy/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-18T16:30:59+00:00",
+      "data": "2025-12-19T21:41:02+00:00",
       "modello": "claude"
     }
   ]
