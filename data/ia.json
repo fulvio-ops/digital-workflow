@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T06:20:32.508430+00:00",
+  "last_updated": "2025-12-21T06:19:56.412464+00:00",
   "items": [
     {
       "titolo": "ChatGPT ha 8 personalità diverse: quale usare per ogni situazione",
@@ -18,19 +18,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "LG responds swiftly to user backlash, will allow users to remove Microsoft Copilot link from TVs — clarifies service is not an app, future update will include tile removal option from WebOS",
-      "descrizione": "LG has clarified how Microsoft Copilot appears on its webOS smart TVs following recent coverage that described the feature as a non-removable app bundled into the operating system.",
-      "link": "https://www.tomshardware.com/monitors/televisions/lg-says-microsoft-copilot-on-webos-tvs-is-a-browser-shortcut-not-a-built-in-app",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-19T16:05:14+00:00",
+      "titolo": "Windows 11 25H2: invasione di agenti AI",
+      "descrizione": "La nuova build di Windows 11 25H2 per gli Insider include varie funzionalità AI, tra cui Ask Copilot nella barra delle applicazioni e gli agenti AI. The post Windows 11 25H2: invasione di agenti AI appeared first on…",
+      "link": "https://www.punto-informatico.it/windows-11-25h2-invasione-agenti-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-20T11:02:49+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Salva le tue bollette dall’inverno: luce e gas a prezzi bloccati con Octopus Energy",
-      "descrizione": "Scegliendo Octpus Energy, il costo della materia prima di luce e gas è bloccato per 12 mesi. Energia rinnovabile inclusa e attivazione online. The post Salva le tue bollette dall’inverno: luce e gas a prezzi bloccati…",
-      "link": "https://www.punto-informatico.it/salva-le-tue-bollette-dallinverno-luce-e-gas-a-prezzi-bloccati-con-octopus-energy/",
+      "titolo": "Offerte luce e gas senza vincoli: scopri Octopus Energy che blocca le tariffe",
+      "descrizione": "Scopri come risparmiare su luce e gas con Octopus Energy. Tariffe chiare, energia 100% rinnovabile, attivazione semplice e nessun costo nascosto. The post Offerte luce e gas senza vincoli: scopri Octopus Energy che…",
+      "link": "https://www.punto-informatico.it/offerte-luce-e-gas-senza-vincoli-scopri-octopus-energy-che-blocca-le-tariffe/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-19T21:41:02+00:00",
+      "data": "2025-12-20T10:42:26+00:00",
       "modello": "claude"
     }
   ]
