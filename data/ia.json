@@ -1,37 +1,37 @@
 {
-  "last_updated": "2025-12-21T06:19:56.412464+00:00",
+  "last_updated": "2025-12-23T06:21:57.499412+00:00",
   "items": [
     {
-      "titolo": "ChatGPT ha 8 personalità diverse: quale usare per ogni situazione",
-      "descrizione": "hatGPT offre otto personalità predefinite Professionale, Amichevole, Schietto, Eccentrico, Efficiente, Nerd e Cinico. Ecco come sfruttarle. The post ChatGPT ha 8 personalità diverse: quale usare per ogni situazione…",
-      "link": "https://www.punto-informatico.it/chatgpt-8-personalita-diverse-quale-usare-ogni-situazione/",
+      "titolo": "Browser AI sempre vulnerabili, OpenAI ammette il problema",
+      "descrizione": "OpenAI ammette che il prompt injection nei browser AI come Atlas è un problema che non sarà mai risolto del tutto. The post Browser AI sempre vulnerabili, OpenAI ammette il problema appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/browser-ai-sempre-vulnerabili-openai-ammette-problema/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-19T16:30:07+00:00",
+      "data": "2025-12-23T06:00:34+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini: disegnare le modifiche invece di scrivere prompt",
-      "descrizione": "Gemini introduce una nuova modalità di interazione, si può disegnare o annotare direttamente sulle immagini per modificarle. The post Gemini: disegnare le modifiche invece di scrivere prompt appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/gemini-disegnare-modifiche-invece-scrivere-prompt/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-19T17:25:22+00:00",
+      "titolo": "Uno smartphone e Gemini, creare immagini e video con l'AI non è mai stato così facile!",
+      "descrizione": "Generare immagini e video con l'AI non è mai stato così semplice, basta uno smartphone e Gemini, l'intelligenza artificiale di Google",
+      "link": "https://www.hdblog.it/smartphone/speciali/n642622/gemini-ai-come-creare-immagini-video-gratis/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-22T18:34:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Windows 11 25H2: invasione di agenti AI",
-      "descrizione": "La nuova build di Windows 11 25H2 per gli Insider include varie funzionalità AI, tra cui Ask Copilot nella barra delle applicazioni e gli agenti AI. The post Windows 11 25H2: invasione di agenti AI appeared first on…",
-      "link": "https://www.punto-informatico.it/windows-11-25h2-invasione-agenti-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-20T11:02:49+00:00",
+      "titolo": "LG responds swiftly to user backlash, will allow users to remove Microsoft Copilot link from TVs — clarifies service is not an app, future update will include tile removal option from WebOS",
+      "descrizione": "LG has clarified how Microsoft Copilot appears on its webOS smart TVs following recent coverage that described the feature as a non-removable app bundled into the operating system.",
+      "link": "https://www.tomshardware.com/monitors/televisions/lg-says-microsoft-copilot-on-webos-tvs-is-a-browser-shortcut-not-a-built-in-app",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-19T16:05:14+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Offerte luce e gas senza vincoli: scopri Octopus Energy che blocca le tariffe",
-      "descrizione": "Scopri come risparmiare su luce e gas con Octopus Energy. Tariffe chiare, energia 100% rinnovabile, attivazione semplice e nessun costo nascosto. The post Offerte luce e gas senza vincoli: scopri Octopus Energy che…",
-      "link": "https://www.punto-informatico.it/offerte-luce-e-gas-senza-vincoli-scopri-octopus-energy-che-blocca-le-tariffe/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-20T10:42:26+00:00",
-      "modello": "claude"
+      "titolo": "Turns out, AI can actually build competent Minesweeper clones — Four AI coding agents put to the test reveal OpenAI's Codex as the best, while Google's Gemini CLI as the worst",
+      "descrizione": "Ars Technica took four popular coding agents available today and asked them to make a Minesweeper clone, to see which one comes out on top. OpenAI's Codex produced the closest to a ready-to-shop version, while Mistral…",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/turns-out-ai-can-actually-build-competent-minesweeper-clones-four-ai-coding-agents-put-to-the-test-reveal-openais-codex-as-the-best-while-googles-gemini-cli-as-the-worst",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-21T15:04:51+00:00",
+      "modello": "altri"
     }
   ]
 }
