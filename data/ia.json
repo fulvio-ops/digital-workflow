@@ -1,29 +1,29 @@
 {
-  "last_updated": "2025-12-23T06:21:57.499412+00:00",
+  "last_updated": "2025-12-24T06:22:01.649814+00:00",
   "items": [
     {
-      "titolo": "Browser AI sempre vulnerabili, OpenAI ammette il problema",
-      "descrizione": "OpenAI ammette che il prompt injection nei browser AI come Atlas è un problema che non sarà mai risolto del tutto. The post Browser AI sempre vulnerabili, OpenAI ammette il problema appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/browser-ai-sempre-vulnerabili-openai-ammette-problema/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-23T06:00:34+00:00",
+      "titolo": "How OpenAI is defending ChatGPT Atlas from attacks now - and why safety's not guaranteed",
+      "descrizione": "An 'automated attacker' mimics the actions of human hackers to test the browser's defenses against prompt injection attacks. But there's a catch.",
+      "link": "https://www.zdnet.com/article/openai-artificial-intelligence-protect-chatgpt-atlas-prompt-injection-attacks/",
+      "fonte": "Latest news",
+      "data": "2025-12-23T19:50:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Uno smartphone e Gemini, creare immagini e video con l'AI non è mai stato così facile!",
-      "descrizione": "Generare immagini e video con l'AI non è mai stato così semplice, basta uno smartphone e Gemini, l'intelligenza artificiale di Google",
-      "link": "https://www.hdblog.it/smartphone/speciali/n642622/gemini-ai-come-creare-immagini-video-gratis/",
+      "titolo": "NotebookLM cambia marcia: Gemini 3 porta l’AI di Google a un nuovo livello",
+      "descrizione": "NotebookLM ora usa Gemini 3 per ragionamento e comprensione multimodale migliori",
+      "link": "https://www.hdblog.it/google/articoli/n642826/notebooklm-gemini-3-aggiornamento-google/",
       "fonte": "HDblog.it",
-      "data": "2025-12-22T18:34:00+00:00",
+      "data": "2025-12-23T17:10:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "LG responds swiftly to user backlash, will allow users to remove Microsoft Copilot link from TVs — clarifies service is not an app, future update will include tile removal option from WebOS",
-      "descrizione": "LG has clarified how Microsoft Copilot appears on its webOS smart TVs following recent coverage that described the feature as a non-removable app bundled into the operating system.",
-      "link": "https://www.tomshardware.com/monitors/televisions/lg-says-microsoft-copilot-on-webos-tvs-is-a-browser-shortcut-not-a-built-in-app",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-19T16:05:14+00:00",
-      "modello": "copilot"
+      "titolo": "Come usare i connettori di Claude per controllare le app",
+      "descrizione": "I Connettori permettono di collegare l'account di Claude alle app esterne come Notion, Asana, Canva, ecc., tramite prompt testuali. The post Come usare i connettori di Claude per controllare le app appeared first on…",
+      "link": "https://www.punto-informatico.it/come-connettori-claude-controllare-app/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-23T16:30:36+00:00",
+      "modello": "claude"
     },
     {
       "titolo": "Turns out, AI can actually build competent Minesweeper clones — Four AI coding agents put to the test reveal OpenAI's Codex as the best, while Google's Gemini CLI as the worst",
