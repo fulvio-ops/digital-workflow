@@ -1,37 +1,29 @@
 {
-  "last_updated": "2025-12-24T06:22:01.649814+00:00",
+  "last_updated": "2025-12-25T06:21:34.276547+00:00",
   "items": [
     {
-      "titolo": "How OpenAI is defending ChatGPT Atlas from attacks now - and why safety's not guaranteed",
-      "descrizione": "An 'automated attacker' mimics the actions of human hackers to test the browser's defenses against prompt injection attacks. But there's a catch.",
-      "link": "https://www.zdnet.com/article/openai-artificial-intelligence-protect-chatgpt-atlas-prompt-injection-attacks/",
-      "fonte": "Latest news",
-      "data": "2025-12-23T19:50:47+00:00",
+      "titolo": "10 strumenti AI sottovalutati che fanno risparmiare tempo",
+      "descrizione": "10 strumenti AI nascosti in ChatGPT, Gemini, Claude e NotebookLM che moltiplicano la produttività e fanno risparmiare tempo concreto. The post 10 strumenti AI sottovalutati che fanno risparmiare tempo appeared first on…",
+      "link": "https://www.punto-informatico.it/10-strumenti-ai-sottovalutati-fanno-risparmiare-tempo/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-24T16:30:39+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "NotebookLM cambia marcia: Gemini 3 porta l’AI di Google a un nuovo livello",
-      "descrizione": "NotebookLM ora usa Gemini 3 per ragionamento e comprensione multimodale migliori",
-      "link": "https://www.hdblog.it/google/articoli/n642826/notebooklm-gemini-3-aggiornamento-google/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T17:10:00+00:00",
+      "titolo": "10 strumenti AI sottovalutati che fanno risparmiare tempo",
+      "descrizione": "10 strumenti AI nascosti in ChatGPT, Gemini, Claude e NotebookLM che moltiplicano la produttività e fanno risparmiare tempo concreto. The post 10 strumenti AI sottovalutati che fanno risparmiare tempo appeared first on…",
+      "link": "https://www.punto-informatico.it/10-strumenti-ai-sottovalutati-fanno-risparmiare-tempo/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-24T16:30:39+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Come usare i connettori di Claude per controllare le app",
-      "descrizione": "I Connettori permettono di collegare l'account di Claude alle app esterne come Notion, Asana, Canva, ecc., tramite prompt testuali. The post Come usare i connettori di Claude per controllare le app appeared first on…",
-      "link": "https://www.punto-informatico.it/come-connettori-claude-controllare-app/",
+      "titolo": "10 strumenti AI sottovalutati che fanno risparmiare tempo",
+      "descrizione": "10 strumenti AI nascosti in ChatGPT, Gemini, Claude e NotebookLM che moltiplicano la produttività e fanno risparmiare tempo concreto. The post 10 strumenti AI sottovalutati che fanno risparmiare tempo appeared first on…",
+      "link": "https://www.punto-informatico.it/10-strumenti-ai-sottovalutati-fanno-risparmiare-tempo/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-23T16:30:36+00:00",
+      "data": "2025-12-24T16:30:39+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Turns out, AI can actually build competent Minesweeper clones — Four AI coding agents put to the test reveal OpenAI's Codex as the best, while Google's Gemini CLI as the worst",
-      "descrizione": "Ars Technica took four popular coding agents available today and asked them to make a Minesweeper clone, to see which one comes out on top. OpenAI's Codex produced the closest to a ready-to-shop version, while Mistral…",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/turns-out-ai-can-actually-build-competent-minesweeper-clones-four-ai-coding-agents-put-to-the-test-reveal-openais-codex-as-the-best-while-googles-gemini-cli-as-the-worst",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2025-12-21T15:04:51+00:00",
-      "modello": "altri"
     }
   ]
 }

@@ -1,19 +1,138 @@
 {
-  "last_updated": "2025-12-24T06:21:57.288594+00:00",
+  "last_updated": "2025-12-25T06:21:30.275571+00:00",
   "items": [
     {
-      "titolo": "Truffe di Natale 2025: l’AI le rende quasi perfette, come difendersi",
-      "descrizione": "Uno studio di Check Point rivela un aumento delle frodi durante le feste, potenziate dall'AI. Come riconoscere i segnali di allarme e difendersi. The post Truffe di Natale 2025: l’AI le rende quasi perfette, come…",
-      "link": "https://www.punto-informatico.it/truffe-natale-2025-ai-le-rende-quasi-perfette-come-difendersi/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-24T06:14:35+00:00"
+      "titolo": "SK hynix expands U.S. presence with new Bellevue, Seattle office in efforts to get closer to its largest customers — offices near Nvidia, Amazon, and Microsoft highlight co-designed HBM efforts",
+      "descrizione": "SK hynix is expanding its U.S. presence with a new office in the Seattle metropolitan area, placing the world’s leading HBM supplier within minutes of Nvidia, Amazon, and Microsoft.",
+      "link": "https://www.tomshardware.com/pc-components/dram/sk-hynix-expands-us-footprint-with-seattle-area-office-near-nvidia-and-amazon",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-24T17:56:35+00:00"
     },
     {
-      "titolo": "Nuove integrazioni Alexa+, l’assistente fa tutto al posto nostro",
-      "descrizione": "Alexa+ aggiunge quattro nuove integrazioni, tra cui Expedia. Amazon vuole rendere l'assistente il nuovo modo di accedere ai servizi online. The post Nuove integrazioni Alexa+, l’assistente fa tutto al posto nostro…",
-      "link": "https://www.punto-informatico.it/nuove-integrazioni-alexa-plus-assistente-fa-tutto-posto-nostro/",
+      "titolo": "Researchers discover that some biodegradable electronics produce microplastics as they degrade — the investigated material is commonly used in medical research",
+      "descrizione": "Researchers from Northeastern University discovered that PEDOT:PSS, which is typically used in medical research, breaks down into harmful microplastics.",
+      "link": "https://www.tomshardware.com/tech-industry/manufacturing/researchers-discover-that-some-biodegradable-electronics-produce-microplastics-as-they-degrade-the-investigated-material-is-commonly-used-in-medical-research",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-24T17:52:07+00:00"
+    },
+    {
+      "titolo": "50 mila robot umanoidi per la guerra e le fabbriche: il piano USA",
+      "descrizione": "Un’azienda USA accelera sui robot umanoidi per uso industriale e militare.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n642854/foundation-phantom-mk1-robot-difesa/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-24T17:30:00+00:00"
+    },
+    {
+      "titolo": "10 strumenti AI sottovalutati che fanno risparmiare tempo",
+      "descrizione": "10 strumenti AI nascosti in ChatGPT, Gemini, Claude e NotebookLM che moltiplicano la produttività e fanno risparmiare tempo concreto. The post 10 strumenti AI sottovalutati che fanno risparmiare tempo appeared first on…",
+      "link": "https://www.punto-informatico.it/10-strumenti-ai-sottovalutati-fanno-risparmiare-tempo/",
       "fonte": "Punto Informatico",
-      "data": "2025-12-24T05:42:59+00:00"
+      "data": "2025-12-24T16:30:39+00:00"
+    },
+    {
+      "titolo": "Samsung alza l’asticella: arriva il primo monitor gaming 3D 6K senza occhiali",
+      "descrizione": "Samsung presenta i monitor Odyssey 2026 con 3D 6K e refresh fino a 1.040Hz",
+      "link": "https://www.hdblog.it/hardware/articoli/n642947/samsung-odyssey-2026-monitor-gaming-3d-6k/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-24T16:15:00+00:00"
+    },
+    {
+      "titolo": "La migliore VPN è in offerta: prezzo mai visto per il piano da 28 mesi",
+      "descrizione": "Con NordVPN è possibile accedere alla migliore VPN sul mercato che oggi viene proposta con un super prezzo scegliendo il piano di 28 mesi. The post La migliore VPN è in offerta: prezzo mai visto per il piano da 28 mesi…",
+      "link": "https://www.punto-informatico.it/la-migliore-vpn-e-in-offerta-prezzi-mai-visto-per-il-piano-da-28-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-24T15:59:59+00:00"
+    },
+    {
+      "titolo": "This ultraportable Lenovo tablet has no business being this good (especially for its price)",
+      "descrizione": "The 13-inch Lenovo Yoga Tab Plus is a multimedia powerhouse, with a brilliant display, reliable battery life, and powerful, room-filling speakers.",
+      "link": "https://www.zdnet.com/article/lenovo-yoga-tab-plus-review/",
+      "fonte": "Latest news",
+      "data": "2025-12-24T15:45:11+00:00"
+    },
+    {
+      "titolo": "La ruota che attraversa il fuoco è pronta per i rover lunari",
+      "descrizione": "Una ruota senza aria sopravvive al fuoco e a cadute estreme pensando alla Luna.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n642851/ruota-senza-aria-rover-lunare/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-24T15:40:00+00:00"
+    },
+    {
+      "titolo": "Samsung to delay its planned DDR4 end-of-life due to signing a long-term 'non-cancellable, non-returnable' contract with key customer — agreement will not alleviate consumer shortage, supply earmarked for server clients",
+      "descrizione": "Samsung has delayed the end of its DDR4 production line due to increased demand, and is expected to earmark output for a client signing an NCNR contract with the company.",
+      "link": "https://www.tomshardware.com/pc-components/ddr4/samsung-to-delay-its-planned-ddr4-end-of-life-due-to-signing-a-long-term-non-cancellable-non-returnable-contract-with-key-customer-agreement-will-not-alleviate-consumer-shortage-supply-earmarked-for-server-clients",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-24T13:57:34+00:00"
+    },
+    {
+      "titolo": "DS 7, nel 2026 sarà tutta nuova e si chiamerà DS N°7",
+      "descrizione": "Con la nuova generazione, la DS 7 cambierà nome diventando DS N°7 e sarà sia elettrica e sia ibrida",
+      "link": "https://www.hdmotori.it/ds-n7-2026-foto-spia-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-24T13:30:41+00:00"
+    },
+    {
+      "titolo": "Modalità vacanze sbloccata con Saily: fino al 20% di sconto sulle eSIM",
+      "descrizione": "Scegli un piano eSIM da 10 GB o più, risparmi fino al 20%: è la promo Saily che ti rivoluziona le vacanze natalizie. The post Modalità vacanze sbloccata con Saily: fino al 20% di sconto sulle eSIM appeared first on…",
+      "link": "https://www.punto-informatico.it/modalita-vacanze-sbloccata-con-saily-fino-al-20-di-sconto-sulle-esim/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-24T12:39:44+00:00"
+    },
+    {
+      "titolo": "Webb trova un pianeta alieno al carbonio che sfida ogni teoria",
+      "descrizione": "Webb osserva un esopianeta al carbonio che orbita una pulsar, mai visto prima",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n642862/webb-esopianeta-carbonio-pulsar/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-24T12:35:00+00:00"
+    },
+    {
+      "titolo": "S Pen verso il ritorno sui pieghevoli Samsung, e il merito è di... Apple",
+      "descrizione": "Per fronteggiare iPhone Fold a Seul sarebbero pronti a ripescare la S Pen. Samsung vorrebbe riproporla, ma contrariamente a quanto si possa pensare l’idea non è di rendere compatibile con il pennino...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n642926/samsung-s-pen-per-contrastare-iphone-fold/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-24T12:10:00+00:00"
+    },
+    {
+      "titolo": "Save $650 on this powerful RTX 5070 Ti gaming PC with 32GB RAM and 2TB SSD — now just $1649, this formidable MSI Aegis Z2 machine is perfect for a 1440p setup",
+      "descrizione": "A huge $650 saving means this MSI Aegis Z2 gaming PC, with an eight-core AMD Ryzen CPU, Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 RAM, and 2TB SSD, could be yours for just $1,649 right now.",
+      "link": "https://www.tomshardware.com/pc-components/save-usd650-on-this-powerful-rtx-5070-ti-gaming-pc-with-32gb-ram-and-2tb-ssd-now-just-usd1649-this-formidable-msi-aegis-z2-machine-is-perfect-for-a-1440p-setup",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-24T11:53:30+00:00"
+    },
+    {
+      "titolo": "È uscito il finale di Pluribus: la serie evento è completa (guardala gratis su Apple TV)",
+      "descrizione": "Per la Vigilia di Natale arriva il finale di stagione di Pluribus: e hai la tua occasione per vedere tutta la serie gratis su Apple TV. The post È uscito il finale di Pluribus: la serie evento è completa (guardala…",
+      "link": "https://www.punto-informatico.it/e-uscito-il-finale-di-pluribus-la-serie-evento-e-completa-guardala-gratis-su-apple-tv/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-24T11:49:05+00:00"
+    },
+    {
+      "titolo": "Samsung Galaxy Z TriFold sotto esame: quanto resiste la doppia cerniera?",
+      "descrizione": "Samsung ha dichiarato fino a 200.000 piegature: sarà vero?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n642914/samsung-galaxy-z-trifold-schermo-resistenza-test/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-24T11:45:00+00:00"
+    },
+    {
+      "titolo": "Windows 11 non sarà riscritto dall’AI (e un indizio su W12)",
+      "descrizione": "L'autore del post che ha innescato il dibattito chiarisce: nessuna intenzione di riscrivere il codice di Windows 11 con l'aiuto dell'AI. The post Windows 11 non sarà riscritto dall’AI (e un indizio su W12) appeared…",
+      "link": "https://www.punto-informatico.it/windows-11-codice-ai-indizio-w12/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-24T11:01:13+00:00"
+    },
+    {
+      "titolo": "Prezzi bassi sempre su Amazon: fai la spesa senza uscire di casa anche la vigilia di Natale",
+      "descrizione": "Fai la spesa senza uscire di casa anche la viglia di Natale su Amazon grazie ai prezzi bassi sempre per avere massima qualità risparmiando. The post Prezzi bassi sempre su Amazon: fai la spesa senza uscire di casa anche…",
+      "link": "https://www.punto-informatico.it/prezzi-bassi-sempre-su-amazon-fai-la-spesa-senza-uscire-di-casa-anche-la-vigilia-di-natale/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-24T10:15:29+00:00"
+    },
+    {
+      "titolo": "Paramount Plus Coupon Codes and Deals: 50% Off",
+      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2025-12-24T06:30:00+00:00"
     },
     {
       "titolo": "Former Chinese gaming company with China govt ties accused of smuggling banned AI GPUs — Nvidia’s biggest Southeast Asia customer exposes the limits of U.S. AI export controls",
@@ -23,67 +142,11 @@
       "data": "2025-12-23T20:12:30+00:00"
     },
     {
-      "titolo": "How OpenAI is defending ChatGPT Atlas from attacks now - and why safety's not guaranteed",
-      "descrizione": "An 'automated attacker' mimics the actions of human hackers to test the browser's defenses against prompt injection attacks. But there's a catch.",
-      "link": "https://www.zdnet.com/article/openai-artificial-intelligence-protect-chatgpt-atlas-prompt-injection-attacks/",
-      "fonte": "Latest news",
-      "data": "2025-12-23T19:50:47+00:00"
-    },
-    {
-      "titolo": "Crea il tuo sito web a costo zero con IONOS: gratis per un anno",
-      "descrizione": "Crea il tuo sito web professionale con IONOS: piano Plus gratis per un anno con dominio, e-mail da 12GB e strumenti AI inclusi. The post Crea il tuo sito web a costo zero con IONOS: gratis per un anno appeared first on…",
-      "link": "https://www.punto-informatico.it/crea-il-tuo-sito-web-a-costo-zero-con-ionos-gratis-per-un-anno/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-23T18:40:57+00:00"
-    },
-    {
-      "titolo": "Recensione Motorola Edge 70, sottile sì ma concreto!",
-      "descrizione": "Abbiamo provato il nuovo Motorola Edge 70 e non è solo uno smartphone sottile, dietro lo spessore c'è di più",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n642736/motorola-edge-70-test-prove-prezzo-offerte-sconti/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T18:34:00+00:00"
-    },
-    {
-      "titolo": "PagoPA, lo Stato cede a Poste e Istituto Poligrafico: affare da 500 milioni di euro",
-      "descrizione": "L’operazione è subordinata al via libera definitivo dell’Autorità Garante della Concorrenza e del Mercato",
-      "link": "https://www.hdblog.it/mercato/articoli/n642751/pagopa-acquisizione-poste-istituto-poligrafico/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T18:31:00+00:00"
-    },
-    {
-      "titolo": "Addio a Vince Zampella, l’uomo dietro a COD che ha cambiato per sempre gli FPS",
-      "descrizione": "È morto Vince Zampella, figura chiave dei videogiochi FPS moderni",
-      "link": "https://www.hdblog.it/games/articoli/n642729/vince-zampella-morto-gaming/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T18:30:00+00:00"
-    },
-    {
-      "titolo": "Why the best budget Android tablet I tested this year isn't made by TCL or Samsung",
-      "descrizione": "The OnePlus Pad Go 2 is officially available for sale, and my first week's experience has been positive - with only a few caveats.",
-      "link": "https://www.zdnet.com/article/oneplus-pad-go-2-tablet-review/",
-      "fonte": "Latest news",
-      "data": "2025-12-23T18:19:00+00:00"
-    },
-    {
-      "titolo": "Proteggi i ricordi di una vita: a Capodanno pCloud è scontato fino al 62%",
-      "descrizione": "Approfitta della Promo Capodanno di pCloud: sconti fino al 60% sui piani Family a vita e bundle di strumenti di sicurezza. The post Proteggi i ricordi di una vita: a Capodanno pCloud è scontato fino al 62% appeared…",
-      "link": "https://www.punto-informatico.it/proteggi-i-ricordi-di-una-vita-a-capodanno-pcloud-e-scontato-fino-al-62/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-23T18:14:07+00:00"
-    },
-    {
       "titolo": "Nvidia prepares shipment of 82,000 AI GPUs to China as chip war lines blur — H200 shipments with 25% tax to begin as US loosens restrictions",
       "descrizione": "Nvidia is preparing to deliver up to 80,000 H200 AI chips to China before the Lunar New Year holiday, marking the first time this level of silicon would be legally exported to the country since 2022.",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-prepares-h200-shipments-to-china-as-chip-war-lines-blur",
       "fonte": "Latest from Tom's Hardware",
       "data": "2025-12-23T17:54:48+00:00"
-    },
-    {
-      "titolo": "ChatGPT come confidente, la spirale verso la psicosi",
-      "descrizione": "ChatGPT ha spinto un giovane uomo verso l'isolamento, dipendenza da farmaci e una psicosi che lo ha portato al ricovero psichiatrico. The post ChatGPT come confidente, la spirale verso la psicosi appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/chatgpt-come-confidente-spirale-verso-psicosi/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-23T17:20:05+00:00"
     },
     {
       "titolo": "Ten former Samsung employees arrested for industrial espionage charges for giving China chipmaker 10nm tech — executives and researchers allegedly leaked DRAM technology to China-based CXMT, resulting in trillions of…",
@@ -93,48 +156,6 @@
       "data": "2025-12-23T17:15:38+00:00"
     },
     {
-      "titolo": "Suzuki Jimny, così si trasforma in una piccola Land Rover Defender",
-      "descrizione": "L'azienda tedesca Carpoint ha preso il fuoristrada giapponese per personalizzarne l'aspetto, rendendola simile ad una piccola Defender",
-      "link": "https://www.hdmotori.it/suzuki-jimny-trasforma-land-rover-defender/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T17:12:00+00:00"
-    },
-    {
-      "titolo": "NotebookLM cambia marcia: Gemini 3 porta l’AI di Google a un nuovo livello",
-      "descrizione": "NotebookLM ora usa Gemini 3 per ragionamento e comprensione multimodale migliori",
-      "link": "https://www.hdblog.it/google/articoli/n642826/notebooklm-gemini-3-aggiornamento-google/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T17:10:00+00:00"
-    },
-    {
-      "titolo": "In Cina la prima linea di batterie EV con robot umanoidi al lavoro",
-      "descrizione": "CATL avvia in Cina la prima linea EV con robot umanoidi per test e controllo qualità",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n642726/catl-robot-umanoide-produzione-batterie-ev/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T16:35:00+00:00"
-    },
-    {
-      "titolo": "Gemini cambia look, nuova casella input e menu semplificato",
-      "descrizione": "Google sta rinnovando l'interfaccia di Gemini con una casella di input fluttuante più pulita, menu riorganizzati e una nuova sezione Gemini Lab The post Gemini cambia look, nuova casella input e menu semplificato…",
-      "link": "https://www.punto-informatico.it/gemini-cambia-look-nuova-casella-input-menu-semplificato/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-23T16:33:24+00:00"
-    },
-    {
-      "titolo": "Come usare i connettori di Claude per controllare le app",
-      "descrizione": "I Connettori permettono di collegare l'account di Claude alle app esterne come Notion, Asana, Canva, ecc., tramite prompt testuali. The post Come usare i connettori di Claude per controllare le app appeared first on…",
-      "link": "https://www.punto-informatico.it/come-connettori-claude-controllare-app/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-23T16:30:36+00:00"
-    },
-    {
-      "titolo": "Windows 11, il nuovo driver nativo NVMe fa volare gli SSD NVMe",
-      "descrizione": "Ben più del 10%... E tutto semplicemente trattando i drive per quello che sono, invece di far finta che siano delle unità SCSI.",
-      "link": "https://www.hdblog.it/hardware/articoli/n642831/windows-11-driver-ssd-nvme-aumento-prestazioni/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T16:25:00+00:00"
-    },
-    {
       "titolo": "U.S. FCC bans foreign-made drones from DJI, others — DJI to be heavily affected by the announcement, with many American drone pilots up in arms due to lack of viable alternatives",
       "descrizione": "FCC's announcement signals the end of DJI in the U.S.",
       "link": "https://www.tomshardware.com/tech-industry/u-s-fcc-bans-foreign-made-drones-from-dji-others-dji-to-be-heavily-affected-by-the-announcement-with-many-american-drone-pilots-up-in-arms-due-to-lack-of-viable-alternatives",
@@ -142,32 +163,11 @@
       "data": "2025-12-23T16:19:17+00:00"
     },
     {
-      "titolo": "Cyberattacco colpisce La Poste: servizi postali e bancari offline in Francia",
-      "descrizione": "I servizi non funzionano ancora.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n642823/cyberattacco-postali-bancari-offline-francia/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T16:05:00+00:00"
-    },
-    {
       "titolo": "Interpol-led cybercrime crackdown results in 574 arrests in 19 African nations, decrypts six ransomware variants — Operation Sentinel disrupts rings that caused $21 million in losses, recovers $3 million",
       "descrizione": "Conducted between late October and November, Operation Sentinel saw international law enforcement agencies shut down cybercrime infrastructure, decrypt ransomware variants, and prevent large-scale financial losses…",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/interpol-led-cybercrime-crackdown-results-in-574-arrests-in-19-african-nations-decrypts-six-ransomware-variants-operation-sentinel-disrupts-rings-that-caused-usd21-million-in-losses-recovers-usd3-million",
       "fonte": "Latest from Tom's Hardware",
       "data": "2025-12-23T16:03:00+00:00"
-    },
-    {
-      "titolo": "Cina, test reali di BCI: un uomo paralizzato controlla robot e dispositivi",
-      "descrizione": "Un paziente paralizzato usa un impianto cerebrale per lavorare e muovere robot",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n642722/uomo-paralizzato-controlla-robot-cervello-cina/",
-      "fonte": "HDblog.it",
-      "data": "2025-12-23T15:55:00+00:00"
-    },
-    {
-      "titolo": "Google Foto: due scorciatoie per trovare persone e animali",
-      "descrizione": "Google Foto introduce due nuove scorciatoie su Android e iOS per trovare rapidamente foto di persone e animali domestici. The post Google Foto: due scorciatoie per trovare persone e animali appeared first on Punto…",
-      "link": "https://www.punto-informatico.it/google-foto-due-scorciatoie-trovare-persone-animali/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-23T15:33:20+00:00"
     }
   ]
 }
