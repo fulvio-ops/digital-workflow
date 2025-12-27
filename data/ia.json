@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26T06:21:12.502938+00:00",
+  "last_updated": "2025-12-27T06:20:13.777219+00:00",
   "items": [
     {
       "titolo": "Il prompt universale per ChatGPT che funziona davvero",
@@ -16,14 +16,6 @@
       "fonte": "Punto Informatico",
       "data": "2025-12-25T17:48:51+00:00",
       "modello": "gemini"
-    },
-    {
-      "titolo": "Bollette luce e gas più leggere per tutto il 2026: l’offerta di Octopus",
-      "descrizione": "Scegli l'offerta che fa per te tra Fissa 12M e Flex: con Octopus risparmierai sulle bollette di luce e gas, non ci sono vincoli né penali. The post Bollette luce e gas più leggere per tutto il 2026: l’offerta di Octopus…",
-      "link": "https://www.punto-informatico.it/bollette-luce-gas-leggere-2026-octopus/",
-      "fonte": "Punto Informatico",
-      "data": "2025-12-25T07:00:20+00:00",
-      "modello": "claude"
     }
   ]
 }
