@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Digital Workflow — Rassegna</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container hero">
+    <img class="hero-img" src="assets/img/hero.svg" alt="" aria-hidden="true">
+    <div class="hero-overlay">
+      <div class="brand"><span class="logo">DW</span>
+        <div class="brand-text"><h1>Digital Workflow</h1><p class="tagline">Selezione giornaliera di idee, strumenti e IA</p></div>
+      </div>
+      <div class="hero-actions">
+        <form class="search" role="search" onsubmit="return false;">
+          <input id="q" type="search" placeholder="Cerca argomenti, strumenti, parole chiave…" aria-label="Cerca">
+          <button type="button" onclick="applySearch()">Cerca</button>
+          <button type="button" class="ghost" onclick="resetSearch()">Azzera</button>
+        </form>
+        <nav class="topics" aria-label="Argomenti">
+          <button class="topic is-active" data-topic="tutte">Tutte</button>
+          <button class="topic" data-topic="produttività">Produttività</button>
+          <button class="topic" data-topic="automazioni">Automazioni</button>
+          <button class="topic" data-topic="strumenti">Strumenti</button>
+          <button class="topic" data-topic="ia">IA</button>
+          <button class="topic" data-topic="riunioni">Riunioni</button>
+          <button class="topic" data-topic="notion">Notion</button>
+          <button class="topic" data-topic="canva">Canva</button>
+          <button class="topic" data-topic="clickup">ClickUp</button>
+        </nav>
+        <div class="disclaimer"><strong>Nota:</strong> titoli e sintesi sono originali, il contenuto completo è sempre sul sito della <em>fonte</em> linkata.</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="container layout">
+  <section class="maincol">
+    <section id="top" class="block">
+      <h2 class="block-title">In evidenza</h2>
+      <div id="top-stories" class="grid grid-top"></div>
+    </section>
+    <section id="latest" class="block">
+      <h2 class="block-title">Ultime notizie</h2>
+      <div id="latest-list" class="list"></div>
+      <div class="pager"><button id="load-more" onclick="loadMore()">Carica altri</button></div>
+    </section>
+  </section>
+  <aside class="sidebar">
+    <section class="card media"><img src="assets/img/produttivita.svg" alt="" aria-hidden="true"><div><h3>Produttività</h3><p>Selezioni su metodi, focus e organizzazione.</p></div></section>
+    <section class="card media"><img src="assets/img/automazioni.svg" alt="" aria-hidden="true"><div><h3>Automazioni</h3><p>Workflow e integrazioni per risparmiare tempo.</p></div></section>
+    <section class="card media"><img src="assets/img/strumenti.svg" alt="" aria-hidden="true"><div><h3>Strumenti</h3><p>App e piattaforme utili nel lavoro quotidiano.</p></div></section>
+    <section class="block"><h3 class="block-title small">Più letti</h3><div id="most-read" class="list compact"></div></section>
+    <section class="block"><h3 class="block-title small">Sezione IA</h3>
+      <ul class="ia-list">
+        <li><a href="#ia-chatgpt">ChatGPT</a></li><li><a href="#ia-gemini">Gemini</a></li>
+        <li><a href="#ia-copilot">Copilot</a></li><li><a href="#ia-claude">Claude</a></li>
+        <li><a href="#ia-miia">MIIA</a></li><li><a href="#ia-altri">Altri modelli</a></li>
+      </ul>
+    </section>
+  </aside>
+</main>
+
+<section class="container ia-panels">
+  <article id="ia-chatgpt" class="ia-card"><h3>ChatGPT</h3><div class="ia-article" data-model="chatgpt"></div></article>
+  <article id="ia-gemini" class="ia-card"><h3>Gemini</h3><div class="ia-article" data-model="gemini"></div></article>
+  <article id="ia-copilot" class="ia-card"><h3>Copilot</h3><div class="ia-article" data-model="copilot"></div></article>
+  <article id="ia-claude" class="ia-card"><h3>Claude</h3><div class="ia-article" data-model="claude"></div></article>
+  <article id="ia-miia" class="ia-card"><h3>MIIA</h3><div class="ia-article" data-model="miia"></div></article>
+  <article id="ia-altri" class="ia-card"><h3>Altri modelli</h3><div class="ia-article" data-model="altri"></div></article>
+</section>
+
+<footer class="site-footer"><div class="container">
+  <p>© 2025 Digital Workflow — a cura di Fulvio Fugallo</p>
+  <p class="muted">Selezione originale con link alla fonte. I contenuti restano dei rispettivi autori.</p>
+</div></footer>
+
+<script src="scripts/app.js"></script>
+</body></html>

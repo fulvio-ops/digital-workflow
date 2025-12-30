@@ -1,0 +1,53 @@
+{
+  "last_updated": "2025-10-28T16:24:57.038764Z",
+  "items": [
+    {
+      "modello": "chatgpt",
+      "titolo": "ChatGPT: come usarlo bene al lavoro",
+      "descrizione": "Esempio iniziale, poi auto-update.",
+      "link": "https://www.wired.it/",
+      "fonte": "Digital Workflow",
+      "data": "2025-10-28T16:24:57.038764Z"
+    },
+    {
+      "modello": "gemini",
+      "titolo": "Gemini: ricerche e schede smart",
+      "descrizione": "Esempio iniziale.",
+      "link": "https://www.wired.it/",
+      "fonte": "Digital Workflow",
+      "data": "2025-10-28T16:24:57.038764Z"
+    },
+    {
+      "modello": "copilot",
+      "titolo": "Copilot in 365",
+      "descrizione": "Esempio iniziale.",
+      "link": "https://www.wired.it/",
+      "fonte": "Digital Workflow",
+      "data": "2025-10-28T16:24:57.038764Z"
+    },
+    {
+      "modello": "claude",
+      "titolo": "Claude per testi lunghi",
+      "descrizione": "Esempio iniziale.",
+      "link": "https://www.wired.it/",
+      "fonte": "Digital Workflow",
+      "data": "2025-10-28T16:24:57.038764Z"
+    },
+    {
+      "modello": "miia",
+      "titolo": "MIIA: panorama italiano",
+      "descrizione": "Esempio iniziale.",
+      "link": "https://www.wired.it/",
+      "fonte": "Digital Workflow",
+      "data": "2025-10-28T16:24:57.038764Z"
+    },
+    {
+      "modello": "altri",
+      "titolo": "Altri modelli in breve",
+      "descrizione": "Esempio iniziale.",
+      "link": "https://www.wired.it/",
+      "fonte": "Digital Workflow",
+      "data": "2025-10-28T16:24:57.038764Z"
+    }
+  ]
+}

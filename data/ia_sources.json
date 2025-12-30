@@ -1,0 +1,69 @@
+{
+  "feeds": [
+    "https://www.punto-informatico.it/feed/",
+    "https://www.wired.it/feed/",
+    "https://www.hdblog.it/rss/",
+    "https://www.zeusnews.it/index.php3?xslt=rss",
+    "https://www.ilsole24ore.com/rss/tecnologia.xml",
+    "https://www.wired.com/feed/rss",
+    "https://www.tomshardware.com/feeds/all",
+    "https://www.zdnet.com/rss.xml",
+    "https://www.geek.com/feed/"
+  ],
+  "models": {
+    "chatgpt": {
+      "keywords": [
+        "chatgpt",
+        "gpt-4",
+        "openai",
+        "gpt-4.1",
+        "gpt-4o",
+        "gpt-5"
+      ]
+    },
+    "gemini": {
+      "keywords": [
+        "gemini",
+        "google ai",
+        "bard",
+        "google deepmind"
+      ]
+    },
+    "copilot": {
+      "keywords": [
+        "copilot",
+        "microsoft 365 copilot",
+        "ms copilot",
+        "github copilot"
+      ]
+    },
+    "claude": {
+      "keywords": [
+        "claude",
+        "anthropic",
+        "opus",
+        "sonnet",
+        "haiku"
+      ]
+    },
+    "miia": {
+      "keywords": [
+        "miia",
+        "modello italiano",
+        "ia italiana",
+        "italia intelligenza artificiale",
+        "italian llm"
+      ]
+    },
+    "altri": {
+      "keywords": [
+        "llama",
+        "mistral",
+        "mixtral",
+        "command r",
+        "qwen",
+        "deepseek"
+      ]
+    }
+  }
+}
