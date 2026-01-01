@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-01-01T22:55:51.342221+00:00",
+  "last_updated": "2026-01-01T23:07:47.905683+00:00",
   "items": [
     {
       "titolo": "Criptovalute, nel 2025 boom di furti: \"Sono gli hacker di Kim Jong-un\"",
       "descrizione": "Registrata a febbraio una delle più grandi rapine finanziarie nella storia dell'umanità",
       "link": "https://www.hdblog.it/sicurezza/articoli/n643403/criptovalute-2025-boom-furti-hacker-kim-jong-un/",
       "fonte": "HDblog.it",
+      "image": "",
       "data": "2026-01-01T16:35:00+00:00",
       "modello": "chatgpt"
     },
@@ -14,6 +15,7 @@
       "descrizione": "Google's AI is now even smarter, and more versatile.",
       "link": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/",
       "fonte": "WIRED",
+      "image": "https://media.wired.com/photos/694978bcd440f25f26616df1/master/pass/gear-android-2230409281.jpg",
       "data": "2025-12-29T11:00:00+00:00",
       "modello": "gemini"
     }
