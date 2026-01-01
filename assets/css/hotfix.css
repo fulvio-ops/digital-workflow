@@ -1,0 +1,24 @@
+
+/* DW hotfix CSS */
+.brand { display:flex; gap:12px; align-items:center; }
+.brand img.logo{
+  width:44px; height:44px; max-width:44px; max-height:44px;
+  object-fit:contain; display:block;
+}
+@media (max-width: 640px){
+  .brand img.logo{ width:38px; height:38px; }
+}
+.card{ display:flex; gap:14px; padding:14px; border:1px solid rgba(0,0,0,.08); border-radius:14px; background:#fff; }
+.card.featured{ padding:18px; }
+.thumb{ width:120px; height:90px; object-fit:cover; border-radius:12px; flex:0 0 auto; background:rgba(0,0,0,.03); }
+.card.featured .thumb{ width:160px; height:120px; }
+.thumb-fallback{ width:120px; height:90px; border-radius:12px; background:rgba(0,0,0,.04); flex:0 0 auto; }
+.card.noimg .thumb-fallback{ display:block; }
+.content{ min-width:0; flex:1; }
+.topline{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:6px;}
+.badge{ font-size:12px; padding:4px 10px; border-radius:999px; border:1px solid rgba(0,0,0,.12); }
+.meta{ font-size:12px; opacity:.75; }
+.title{ font-size:18px; font-weight:700; line-height:1.25; text-decoration:none; color:inherit; display:inline-block; }
+.desc{ margin-top:6px; font-size:14px; opacity:.9; }
+.link{ margin-top:8px; font-size:14px; }
+.card.empty{ justify-content:center; }
