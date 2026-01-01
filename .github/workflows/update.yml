@@ -8,13 +8,21 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: dw-update
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -28,14 +36,32 @@ jobs:
           python scripts/update.py
           python scripts/update_ia.py
 
-      - name: Commit & push if changed
+      - name: Commit & push if changed (safe)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data/articoli.json data/ia.json
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: aggiorna contenuti"
-            git push
-          else
+
+          if git diff --cached --quiet; then
             echo "Nessuna modifica"
+            exit 0
           fi
+
+          git commit -m "chore: aggiorna contenuti"
+
+          # Rebase su eventuali commit arrivati nel frattempo (es. altri workflow)
+          git pull --rebase origin main
+
+          # Push con retry (in caso di ulteriore concorrenza)
+          for i in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push fallito, riprovo ($i)..."
+            git pull --rebase origin main
+            sleep 2
+          done
+
+          echo "Impossibile pushare dopo 3 tentativi"
+          exit 1
