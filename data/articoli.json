@@ -1,16 +1,173 @@
 {
-  "last_updated": "2025-10-28T16:24:57.038764Z",
+  "last_updated": "2026-01-01T22:55:48.130638+00:00",
   "items": [
     {
-      "titolo": "Benvenuto nella nuova grafica",
-      "descrizione": "Gli articoli veri arrivano dai feed automatici.",
-      "link": "https://www.wired.it/",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T16:24:57.038764Z",
-      "categoria": "Produttività",
-      "tags": [
-        "produttività"
-      ]
+      "titolo": "Grok Business e Enterprise: chatbot per aziende",
+      "descrizione": "Grok Business e Grok Enterprise sono i nuovi piani che consentono di accedere alle funzionalità del chatbot dedicate alle aziende di varie dimensioni. The post Grok Business e Enterprise: chatbot per aziende appeared fir",
+      "link": "https://www.punto-informatico.it/grok-business-enterprise-chatbot-aziende/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T17:56:56+00:00"
+    },
+    {
+      "titolo": "Americans lost $333 million to Bitcoin ATM fraud in 2025 — FBI says there is a ‘clear and constant rise’ of this scam, and that it is ‘not slowing down’",
+      "descrizione": "The FBI reported that Americans lost $333 million to scams via crypto ATMs, and that the number of victims constantly rose from 2020 to 2025.",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/americans-lost-usd333-million-to-bitcoin-atm-fraud-in-2025-fbi-says-there-is-a-clear-and-constant-rise-of-this-scam-and-that-it-is-not-slowing-down",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-01T16:59:51+00:00"
+    },
+    {
+      "titolo": "Artemis II: viaggio verso la Luna tra un mese?",
+      "descrizione": "La NASA ha fornito nuovi dettagli sulla missione Artemis II (una simulazione della procedura di lancio è avvenuta prima di Natale) prevista a febbraio. The post Artemis II: viaggio verso la Luna tra un mese? appeared fir",
+      "link": "https://www.punto-informatico.it/artemis-ii-viaggio-verso-la-luna-tra-un-mese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T16:45:35+00:00"
+    },
+    {
+      "titolo": "Chinese enthusiast overclocks AMD's Ryzen 7 9800X3D to 7.33GHz on Colorful X870E Vulcan motherboard — New world record achieved using liquid nitrogen cooling",
+      "descrizione": "A new record-high clock speed has been achieved on AMD's Ryzen 7 9800X3D. The best gaming CPU in the world doesn't need to be overclocked to achieve exceptional performance, but Chinese overclocker \"Hero\" has just pushed",
+      "link": "https://www.tomshardware.com/pc-components/cpus/chinese-enthusiast-overclocks-amds-ryzen-7-9800x3d-to-7-33ghz-on-colorful-x870e-vulcan-motherboard-new-world-record-achieved-using-liquid-nitrogen-cooling",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-01T16:44:20+00:00"
+    },
+    {
+      "titolo": "Criptovalute, nel 2025 boom di furti: \"Sono gli hacker di Kim Jong-un\"",
+      "descrizione": "Registrata a febbraio una delle più grandi rapine finanziarie nella storia dell'umanità",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n643403/criptovalute-2025-boom-furti-hacker-kim-jong-un/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-01T16:35:00+00:00"
+    },
+    {
+      "titolo": "Controllare il plasma con l’AI: team USA premiato per la fusione",
+      "descrizione": "Premio USA a tre ricercatori per campi magnetici 3D e controllo AI del plasma",
+      "link": "https://www.hdblog.it/green/articoli/n643397/premio-fusione-ai-campi-magnetici-3d/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-01T15:55:00+00:00"
+    },
+    {
+      "titolo": "SpaceX: 165 lanci completati nel 2025 (record)",
+      "descrizione": "SpaceX ha completato 165 lanci del razzo Falcon 9 nel corso del 2025, portando in orbita oltre 3.800 veicoli spaziali (soprattutto satelliti Starlink). The post SpaceX: 165 lanci completati nel 2025 (record) appeared fir",
+      "link": "https://www.punto-informatico.it/spacex-165-lanci-completati-2025-record/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T15:24:30+00:00"
+    },
+    {
+      "titolo": "Galaxy Z Flip 8 e Fold 8: Samsung punterà su peso e autonomia",
+      "descrizione": "Samsung studia pieghevoli più leggeri e un Fold con batteria più grande.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n643398/samsung-pieghevoli-peso-batteria-galaxy-z-fold-fli/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-01T14:55:00+00:00"
+    },
+    {
+      "titolo": "Fino al 50% di sconto sullo store ufficiale Dyson di eBay",
+      "descrizione": "Puoi ottenere fino al 50% di sconto sullo store ufficiale Dyson di eBay acquistando uno o più prodotti disponibili in promozione speciale. The post Fino al 50% di sconto sullo store ufficiale Dyson di eBay appeared first",
+      "link": "https://www.punto-informatico.it/fino-al-50-di-sconto-sullo-store-ufficiale-dyson-di-ebay/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T11:24:50+00:00"
+    },
+    {
+      "titolo": "ARPANET standardized TCP/IP on this day in 1983 — 43-year-old standard set the foundations for today’s Internet",
+      "descrizione": "On January 1, 1983, ARPANET system architects initiated the cutover from the existing NCP to TCP/IP on all hosts.",
+      "link": "https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-01T11:20:00+00:00"
+    },
+    {
+      "titolo": "Robot AI che operano senza GPS: l’Esercito USA finanzia Purdue",
+      "descrizione": "Purdue ottiene 1,4 milioni di euro per robot AI capaci di operare senza GPS.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n643386/purdue-robot-ai-senza-gps-esercito-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-01T10:50:00+00:00"
+    },
+    {
+      "titolo": "Instagram: etichette per le immagini reali?",
+      "descrizione": "Adam Mosseri ha evidenziato che su Instagram ci sono più contenuti AI, quindi si dovrebbero indicare quelli reali con etichette o firme crittografiche. The post Instagram: etichette per le immagini reali? appeared first",
+      "link": "https://www.punto-informatico.it/instagram-etichette-immagini-reali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T10:46:08+00:00"
+    },
+    {
+      "titolo": "Telecamere e Fotocamere in offerta su Amazon il 1° gennaio 2026",
+      "descrizione": "Inizia l'anno con il botto sfruttando tutte le offerte dedicate a telecamere e fotocamere su Amazon il 1° gennaio 2026: durano pochissimo. The post Telecamere e Fotocamere in offerta su Amazon il 1° gennaio 2026 appeared",
+      "link": "https://www.punto-informatico.it/telecamere-e-fotocamere-in-offerta-su-amazon-il-1-gennaio-2026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T10:45:53+00:00"
+    },
+    {
+      "titolo": "Google Pixel Watch 3 a METÀ PREZZO oggi su Amazon",
+      "descrizione": "Oggi solo ed esclusivamente su Amazon il Google Pixel Watch 3 è crollato a metà prezzo: da acquistare immediatamente prima che finisca. The post Google Pixel Watch 3 a METÀ PREZZO oggi su Amazon appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/google-pixel-watch-3-meta-prezzo-oggi-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T10:00:35+00:00"
+    },
+    {
+      "titolo": "Casio lancia i G-Shock Hokusai: arte giapponese al polso",
+      "descrizione": "Casio svela due nuovi G-Shock con design ispirato alle stampe di Hokusai.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n643387/casio-g-shock-hokusai-giappone/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-01T09:50:00+00:00"
+    },
+    {
+      "titolo": "IONOS Web Hosting: un anno gratis per lanciare il tuo sito",
+      "descrizione": "IONOS offre web hosting gratuito per un anno: dominio, SSL, e-mail e assistenza 24/7 inclusi. Una soluzione europea, affidabile e scalabile per avviare progetti online. The post IONOS Web Hosting: un anno gratis per lanc",
+      "link": "https://www.punto-informatico.it/ionos-web-hosting-un-anno-gratis-per-lanciare-il-tuo-sito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T09:25:10+00:00"
+    },
+    {
+      "titolo": "Nuovo anno, impara una nuova lingua: l’offerta Babbel per iniziare subito",
+      "descrizione": "Babbel lancia la Promo del Nuovo Anno: corsi di lingua creati da esperti, oltre 15 milioni di abbonamenti venduti e risultati concreti in pochi mesi. The post Nuovo anno, impara una nuova lingua: l’offerta Babbel per ini",
+      "link": "https://www.punto-informatico.it/nuovo-anno-impara-una-nuova-lingua-lofferta-babbel-per-iniziare-subito/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T08:11:14+00:00"
+    },
+    {
+      "titolo": "VPN, l’offerta del capodanno 2026: Surfshark a -87%",
+      "descrizione": "Inizia l'anno con il piede giusto, naviga sicuro e protetto fino al 2028 inoltrato: non lasciarti sfuggire l'offerta sulla VPN di Surfshark. The post VPN, l’offerta del capodanno 2026: Surfshark a -87% appeared first on",
+      "link": "https://www.punto-informatico.it/vpn-offerta-capodanno-2026-surfshark/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-01T07:00:16+00:00"
+    },
+    {
+      "titolo": "20% Off LG Promo Code & Coupons | January 2026",
+      "descrizione": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors, and more early Black Friday bundle offers that won’t last long.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "fonte": "WIRED",
+      "data": "2026-01-01T06:10:00+00:00"
+    },
+    {
+      "titolo": "Stranger Things 5 chiude l'anno col botto: da che ora vedere in Italia l'ultimo episodio",
+      "descrizione": "Capodanno nel Sottosopra: è la notte del gran finale.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n643383/stranger-things-5-ultimo-episodio-ora-italia-fine/",
+      "fonte": "HDblog.it",
+      "data": "2025-12-31T18:40:00+00:00"
+    },
+    {
+      "titolo": "Can one state save us from AI disaster? Inside California's new legislative crackdown",
+      "descrizione": "With no federal rules in place, state lawmakers are stepping in to regulate AI safety themselves.",
+      "link": "https://www.zdnet.com/article/california-ai-law-crackdown-on-risks/",
+      "fonte": "Latest news",
+      "data": "2025-12-31T17:37:16+00:00"
+    },
+    {
+      "titolo": "Finnish authorities seize ship and crew after undersea cable cut, pursuing criminal charges — Finnish special forces board ship, detain all 14 crewmembers",
+      "descrizione": "Cables and pipelines in the Gulf of Finland have been damaged four times in less than 1.5 years.",
+      "link": "https://www.tomshardware.com/peripherals/cables-connectors/finnish-authorities-seize-ship-and-crew-after-undersea-cable-cut-pursuing-criminal-charges-finnish-special-forces-board-ship-detain-all-14-crewmembers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2025-12-31T17:25:15+00:00"
+    },
+    {
+      "titolo": "Social media vietati ai minori di 15 anni in Francia?",
+      "descrizione": "All'inizio del 2026, il Parlamento francese esaminerà un disegno di legge che vieta l'accesso ai social media da parte dei minori di 15 anni. The post Social media vietati ai minori di 15 anni in Francia? appeared first",
+      "link": "https://www.punto-informatico.it/social-media-vietati-minori-15-anni-francia/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-31T16:46:59+00:00"
+    },
+    {
+      "titolo": "Come l’AI può aiutare a eliminare le cattive abitudini",
+      "descrizione": "L'intelligenza artificiale può aiutare a eliminare le cattive abitudini come mangiarsi le unghie, con un approccio basato sulla comprensione. The post Come l’AI può aiutare a eliminare le cattive abitudini appeared first",
+      "link": "https://www.punto-informatico.it/come-ai-aiuta-eliminare-cattive-abitudini/",
+      "fonte": "Punto Informatico",
+      "data": "2025-12-31T16:30:49+00:00"
     }
   ]
 }
