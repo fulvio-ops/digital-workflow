@@ -14,7 +14,6 @@
     "template",
     "intelligenza artificiale",
     "ia",
-    "prompt",
     "organizzazione"
   ],
   "feeds": [
@@ -23,10 +22,9 @@
     "https://www.hdblog.it/rss/",
     "https://www.zeusnews.it/index.php3?xslt=rss",
     "https://www.ilsole24ore.com/rss/tecnologia.xml",
-    "https://www.wired.com/feed/rss",
-    "https://www.tomshardware.com/feeds/all",
     "https://www.zdnet.com/rss.xml",
-    "https://www.geek.com/feed/"
+    "https://www.tomshardware.com/feeds/all",
+    "https://www.wired.com/feed/rss"
   ],
   "max_items": 24
 }
