@@ -1,53 +1,21 @@
 {
-  "last_updated": "2025-10-28T16:24:57.038764Z",
+  "last_updated": "2026-01-01T23:47:12.459682+00:00",
   "items": [
     {
-      "modello": "chatgpt",
-      "titolo": "ChatGPT: come usarlo bene al lavoro",
-      "descrizione": "Esempio iniziale, poi auto-update.",
-      "link": "https://www.wired.it/",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T16:24:57.038764Z"
+      "titolo": "Criptovalute, nel 2025 boom di furti: \"Sono gli hacker di Kim Jong-un\"",
+      "descrizione": "Registrata a febbraio una delle più grandi rapine finanziarie nella storia dell'umanità",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n643403/criptovalute-2025-boom-furti-hacker-kim-jong-un/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-01T16:35:00+00:00",
+      "modello": "chatgpt"
     },
     {
-      "modello": "gemini",
-      "titolo": "Gemini: ricerche e schede smart",
-      "descrizione": "Esempio iniziale.",
-      "link": "https://www.wired.it/",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T16:24:57.038764Z"
-    },
-    {
-      "modello": "copilot",
-      "titolo": "Copilot in 365",
-      "descrizione": "Esempio iniziale.",
-      "link": "https://www.wired.it/",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T16:24:57.038764Z"
-    },
-    {
-      "modello": "claude",
-      "titolo": "Claude per testi lunghi",
-      "descrizione": "Esempio iniziale.",
-      "link": "https://www.wired.it/",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T16:24:57.038764Z"
-    },
-    {
-      "modello": "miia",
-      "titolo": "MIIA: panorama italiano",
-      "descrizione": "Esempio iniziale.",
-      "link": "https://www.wired.it/",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T16:24:57.038764Z"
-    },
-    {
-      "modello": "altri",
-      "titolo": "Altri modelli in breve",
-      "descrizione": "Esempio iniziale.",
-      "link": "https://www.wired.it/",
-      "fonte": "Digital Workflow",
-      "data": "2025-10-28T16:24:57.038764Z"
+      "titolo": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade",
+      "descrizione": "Google's AI is now even smarter, and more versatile.",
+      "link": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/",
+      "fonte": "WIRED",
+      "data": "2025-12-29T11:00:00+00:00",
+      "modello": "gemini"
     }
   ]
 }
