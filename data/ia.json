@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-02T06:51:19.681584+00:00",
+  "last_updated": "2026-01-02T13:03:01.080496+00:00",
   "items": [
     {
-      "titolo": "Criptovalute, nel 2025 boom di furti: \"Sono gli hacker di Kim Jong-un\"",
-      "descrizione": "Registrata a febbraio una delle più grandi rapine finanziarie nella storia dell'umanità",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n643403/criptovalute-2025-boom-furti-hacker-kim-jong-un/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-01T16:35:00+00:00",
+      "titolo": "Batteria dell’auto scarica, che INCUBO: risolvi con l’avviatore a 24,99€",
+      "descrizione": "Questo avviatore d'emergenza ripristina la carica della batteria dell'auto rapidamente: super offerta su Amazon in questo momento. The post Batteria dell’auto scarica, che INCUBO: risolvi con l’avviatore a 24,99€ appeare",
+      "link": "https://www.punto-informatico.it/batteria-dellauto-scarica-che-incubo-risolvi-con-lavviatore-a-2499e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-02T11:45:14+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,6 +16,14 @@
       "fonte": "WIRED",
       "data": "2025-12-29T11:00:00+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Dev uses Claude AI to write a ‘functional NES emulator’ — you can test it now, playing Donkey Kong in your browser",
+      "descrizione": "A developer has succeeded in prompting Claude to write 'a functional NES emulator.'",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/dev-uses-claude-ai-to-write-a-functional-nes-emulator-you-can-test-it-now-playing-donkey-kong-in-your-browser",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-02T12:00:00+00:00",
+      "modello": "claude"
     }
   ]
 }
