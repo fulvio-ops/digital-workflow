@@ -1,4 +1,4 @@
-/* Digital Workflow — app.js (compatibile con index.html che hai incollato) */
+/* Digital Workflow — app.js (per il tuo index.html con #top-stories, #latest-list, #most-read, IA panels) */
 
 let ALL_ITEMS = [];
 let FILTERED_ITEMS = [];
@@ -13,12 +13,8 @@ const elMostRead = document.getElementById("most-read");
 const btnLoadMore = document.getElementById("load-more");
 const inputQ = document.getElementById("q");
 
-function log(...a) { console.log("[DW]", ...a); }
-function warn(...a) { console.warn("[DW]", ...a); }
-
-function safeText(x) {
-  return String(x ?? "").trim();
-}
+function safeText(x) { return String(x ?? "").trim(); }
+function norm(x) { return safeText(x).toLowerCase(); }
 
 function parseItems(data) {
   if (Array.isArray(data)) return data;
@@ -26,14 +22,8 @@ function parseItems(data) {
   return [];
 }
 
-function normalizeTopic(t) {
-  return safeText(t).toLowerCase();
-}
-
-// Fallback categoria se manca nel JSON (non rompe i filtri)
 function inferTopic(item) {
   const base = (safeText(item.titolo) + " " + safeText(item.descrizione)).toLowerCase();
-
   if (/(notion)/.test(base)) return "notion";
   if (/(canva)/.test(base)) return "canva";
   if (/(clickup)/.test(base)) return "clickup";
@@ -45,7 +35,7 @@ function inferTopic(item) {
 }
 
 function getTopic(item) {
-  const t = normalizeTopic(item.categoria || "");
+  const t = norm(item.categoria || "");
   return t || inferTopic(item);
 }
 
@@ -64,9 +54,7 @@ function cardHTML(item, compact = false) {
   const data = safeText(item.data);
   const topic = getTopic(item);
 
-  const imgHtml = img
-    ? `<div class="thumb"><img src="${img}" alt="" loading="lazy"></div>`
-    : "";
+  const imgHtml = img ? `<div class="thumb"><img src="${img}" alt="" loading="lazy"></div>` : "";
 
   const meta = `
     <div class="meta">
@@ -92,17 +80,13 @@ function cardHTML(item, compact = false) {
 
 function renderTop(items) {
   if (!elTop) return;
-  const top = items.slice(0, 6);
-  elTop.innerHTML = top.map(i => cardHTML(i, false)).join("");
+  elTop.innerHTML = items.slice(0, 6).map(i => cardHTML(i, false)).join("");
 }
 
 function renderLatest(items) {
   if (!elLatest) return;
-
-  const start = 0;
   const end = (LATEST_PAGE + 1) * LATEST_PAGE_SIZE;
-  const slice = items.slice(start, end);
-
+  const slice = items.slice(0, end);
   elLatest.innerHTML = slice.map(i => cardHTML(i, false)).join("");
 
   if (btnLoadMore) {
@@ -112,10 +96,8 @@ function renderLatest(items) {
 
 function renderMostRead(items) {
   if (!elMostRead) return;
-  // “Più letti” senza tracking: prendiamo un mix dei primi (più recenti) e un po’ di varietà
   const pick = [];
   const seen = new Set();
-
   for (const it of items) {
     const k = it.link || it.titolo;
     if (!k || seen.has(k)) continue;
@@ -123,13 +105,12 @@ function renderMostRead(items) {
     seen.add(k);
     if (pick.length >= 6) break;
   }
-
   elMostRead.innerHTML = pick.map(i => cardHTML(i, true)).join("");
 }
 
 function applyFilters() {
-  const q = normalizeTopic(CURRENT_QUERY);
-  const topic = normalizeTopic(CURRENT_TOPIC);
+  const q = norm(CURRENT_QUERY);
+  const topic = norm(CURRENT_TOPIC);
 
   FILTERED_ITEMS = ALL_ITEMS.filter(it => {
     const t = getTopic(it);
@@ -148,58 +129,58 @@ function applyFilters() {
   renderMostRead(FILTERED_ITEMS);
 }
 
-function setActiveTopicButton(topic) {
-  const btns = document.querySelectorAll(".topics .topic");
-  btns.forEach(b => b.classList.remove("is-active"));
-  const active = document.querySelector(`.topics .topic[data-topic="${topic}"]`);
-  if (active) active.classList.add("is-active");
-}
-
 function bindTopics() {
   const btns = document.querySelectorAll(".topics .topic");
-  if (!btns.length) return;
-
   btns.forEach(btn => {
     btn.addEventListener("click", () => {
+      btns.forEach(b => b.classList.remove("is-active"));
+      btn.classList.add("is-active");
       CURRENT_TOPIC = btn.dataset.topic || "tutte";
-      setActiveTopicButton(CURRENT_TOPIC);
       applyFilters();
     });
   });
 }
 
+// 🔒 fetch robusto: prova sia /data/... sia data/... (così funziona anche se finisci su sottopercorsi)
+async function fetchJsonSmart(primary, fallback) {
+  const tryFetch = async (u) => {
+    const res = await fetch(u + (u.includes("?") ? "" : "?") + "nocache=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error(`${u} -> ${res.status}`);
+    return res.json();
+  };
+  try {
+    return await tryFetch(primary);
+  } catch (_) {
+    return await tryFetch(fallback);
+  }
+}
+
 async function loadArticoli() {
-  const url = "/data/articoli.json?nocache=" + Date.now();
-  const res = await fetch(url, { cache: "no-store" });
-  if (!res.ok) throw new Error(`Fetch articoli.json fallita: ${res.status}`);
-  const data = await res.json();
+  const data = await fetchJsonSmart("/data/articoli.json", "data/articoli.json");
   return parseItems(data);
 }
 
 async function loadIA() {
-  const url = "/data/ia.json?nocache=" + Date.now();
-  const res = await fetch(url, { cache: "no-store" });
-  if (!res.ok) {
-    warn("ia.json non disponibile o errore:", res.status);
+  try {
+    const data = await fetchJsonSmart("/data/ia.json", "data/ia.json");
+    return parseItems(data);
+  } catch {
     return [];
   }
-  const data = await res.json();
-  return parseItems(data);
 }
 
 function renderIA(iaItems) {
-  // pannelli: <div class="ia-article" data-model="chatgpt"></div>
   const slots = document.querySelectorAll(".ia-article[data-model]");
   if (!slots.length) return;
 
   const byModel = new Map();
   iaItems.forEach(it => {
-    const m = normalizeTopic(it.modello || "");
+    const m = norm(it.modello || "");
     if (m) byModel.set(m, it);
   });
 
   slots.forEach(slot => {
-    const model = normalizeTopic(slot.dataset.model || "");
+    const model = norm(slot.dataset.model || "");
     const it = byModel.get(model);
 
     if (!it) {
@@ -217,9 +198,7 @@ function renderIA(iaItems) {
       <a class="ia-item" href="${link}" target="_blank" rel="noopener">
         ${img ? `<img src="${img}" alt="" loading="lazy">` : ""}
         <div>
-          <div class="meta">
-            ${fonte ? `<span class="source">${fonte}</span>` : ""}
-          </div>
+          <div class="meta">${fonte ? `<span class="source">${fonte}</span>` : ""}</div>
           <h4>${titolo}</h4>
           ${descr ? `<p>${descr}</p>` : ""}
         </div>
@@ -228,19 +207,17 @@ function renderIA(iaItems) {
   });
 }
 
-/* Funzioni chiamate dal tuo HTML (onclick / onsubmit) */
-window.applySearch = function applySearch() {
+/* Funzioni chiamate dal tuo HTML */
+window.applySearch = function () {
   CURRENT_QUERY = inputQ ? inputQ.value : "";
   applyFilters();
 };
-
-window.resetSearch = function resetSearch() {
+window.resetSearch = function () {
   CURRENT_QUERY = "";
   if (inputQ) inputQ.value = "";
   applyFilters();
 };
-
-window.loadMore = function loadMore() {
+window.loadMore = function () {
   LATEST_PAGE += 1;
   renderLatest(FILTERED_ITEMS);
 };
@@ -248,16 +225,15 @@ window.loadMore = function loadMore() {
 async function init() {
   try {
     if (elLatest) elLatest.innerHTML = `<p class="muted">Caricamento…</p>`;
-    ALL_ITEMS = await loadArticoli();
-    log("Articoli caricati:", ALL_ITEMS.length);
 
+    ALL_ITEMS = await loadArticoli();
     bindTopics();
     applyFilters();
 
     const iaItems = await loadIA();
     renderIA(iaItems);
   } catch (e) {
-    console.error(e);
+    console.error("[DW] Errore init:", e);
     if (elLatest) elLatest.innerHTML = `<p class="muted">Errore nel caricamento delle notizie.</p>`;
     if (btnLoadMore) btnLoadMore.style.display = "none";
   }
@@ -268,3 +244,4 @@ if (document.readyState === "loading") {
 } else {
   init();
 }
+
