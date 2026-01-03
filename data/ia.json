@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T18:47:06.499875+00:00",
+  "last_updated": "2026-01-03T02:21:38.016774+00:00",
   "items": [
     {
       "titolo": "Tesla Supercharger, i numeri del 2025: erogati 6,7 TWh di energia",
@@ -24,6 +24,14 @@
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-02T12:00:00+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "How DeepSeek's new way to train advanced AI models could disrupt everything - again",
+      "descrizione": "The Chinese AI lab may have just found an approach to training frontier LLMs that's both practical and scalable, even for more cash-strapped developers.",
+      "link": "https://www.zdnet.com/article/deepseek-research-training-models/",
+      "fonte": "Latest news",
+      "data": "2026-01-02T20:25:00+00:00",
+      "modello": "altri"
     }
   ]
 }
