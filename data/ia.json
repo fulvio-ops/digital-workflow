@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T06:48:37.733597+00:00",
+  "last_updated": "2026-01-03T13:00:47.166199+00:00",
   "items": [
     {
       "titolo": "OpenAI, in arrivo una penna connessa a ChatGPT?",
@@ -8,14 +8,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-01-03T06:11:05+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade",
-      "descrizione": "Google's AI is now even smarter, and more versatile.",
-      "link": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/",
-      "fonte": "WIRED",
-      "data": "2025-12-29T11:00:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Dev uses Claude AI to write a ‘functional NES emulator’ — you can test it now, playing Donkey Kong in your browser",
