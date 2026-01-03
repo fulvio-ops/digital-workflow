@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-01-03T13:00:42.636797+00:00",
+  "last_updated": "2026-01-03T18:45:19.043827+00:00",
   "items": [
+    {
+      "titolo": "Microsoft silently kills Windows and Office phone activation and forces online activation with a Microsoft account — Windows users are now herded into an online-only portal for activation",
+      "descrizione": "Microsoft has somehow put the cap on yet another way to circumvent its internet-powered setup process, and this time it's on a build that they haven't even supported for a while! Production activation via call is still l",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-silently-kills-windows-and-office-phone-activation-and-forces-online-activation-with-a-microsoft-account-windows-users-are-now-herded-into-an-online-only-portal-for-activation",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-03T18:22:18+00:00"
+    },
+    {
+      "titolo": "Intel Arc B570 GPU kicks off new year at just $199 — save $30 on one of the best budget GPUs around",
+      "descrizione": "Sparkle's Arc B570 Guardian OC dual-fan graphics card is on sale for 13%, bringing its price down to $199.99 on Amazon.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/intel-arc-b570-gpu-kicks-off-new-year-at-just-usd199-save-usd30-on-one-of-the-best-budget-gpus-around",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-03T18:21:18+00:00"
+    },
+    {
+      "titolo": "Disinformation Floods Social Media After Nicolás Maduro's Capture",
+      "descrizione": "From seemingly AI-generated videos to repurposed old footage, TikTok, Instagram, and X did little to stop the onslaught of misleading posts in the wake of the US invasion of Venezuela.",
+      "link": "https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/",
+      "fonte": "WIRED",
+      "data": "2026-01-03T18:14:47+00:00"
+    },
+    {
+      "titolo": "LG's 2026 Gram laptops look to dethrone the MacBook Air with this new build material",
+      "descrizione": "LG previewed its next-gen Gram models, combining updated hardware and vivid screens with a newly developed lightweight material.",
+      "link": "https://www.zdnet.com/article/lg-gram-pro-2026-ces/",
+      "fonte": "Latest news",
+      "data": "2026-01-03T17:57:00+00:00"
+    },
+    {
+      "titolo": "La migliore VPN inizia il 2026 con una super promo: è il momento di attivarla",
+      "descrizione": "NordVPN è in offerta e diventa oggi la migliore VPN da attivare per navigare in sicurezza e senza alcun tracciamento: ecco la promo da scegliere oggi. The post La migliore VPN inizia il 2026 con una super promo: è il mom",
+      "link": "https://www.punto-informatico.it/la-migliore-vpn-inizia-il-2026-con-una-super-promo-e-il-momento-di-attivarla/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-03T16:54:04+00:00"
+    },
+    {
+      "titolo": "MediaTek Dimensity 7100: nuovo chip per smartphone",
+      "descrizione": "MediaTek ha annunciato in sordina il nuovo Dimensity 7100 per smartphone di fascia medio-bassa con CPU octa core, GPU dual core e modem 5G. The post MediaTek Dimensity 7100: nuovo chip per smartphone appeared first on Pu",
+      "link": "https://www.punto-informatico.it/mediatek-dimensity-7100-nuovo-chip-smartphone/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-03T16:44:40+00:00"
+    },
+    {
+      "titolo": "Gigabyte unleashes new DDR4 AM4 motherboards as RAM shortage continues to slam PC builders — sky-high DDR5 prices spark rush for affordable alternatives",
+      "descrizione": "Consumers are flocking back to AM4, which supports DDR4, as DDR5 prices continue to skyrocket. Gigabyte is taking advantage of the opportunity and has launched four new AM4 motherboard variants in Mini-ITX and Micro-ATX",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-unleashes-new-ddr4-am4-motherboards-as-ram-shortage-continues-to-slam-pc-builders-sky-high-ddr5-prices-spark-rush-for-affordable-alternatives",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-03T16:35:09+00:00"
+    },
+    {
+      "titolo": "Prestazioni lavoro occasionale: nuovo portale INPS",
+      "descrizione": "INPS ha aggiornato il portale che permette di gestire le prestazioni di lavoro occasionale tramite Libretto Famiglia e accedere a tutte le informazioni. The post Prestazioni lavoro occasionale: nuovo portale INPS appeare",
+      "link": "https://www.punto-informatico.it/prestazioni-lavoro-occasionale-nuovo-portale-inps/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-03T15:52:48+00:00"
+    },
+    {
+      "titolo": "Super chiavetta USB 256GB Lexar si SDOPPIA: adatta a tutti i dispositivi",
+      "descrizione": "La chiavetta USB 256GB di Lexar è vincente con doppio connettore per utilizzarla su qualunque dispositivo. The post Super chiavetta USB 256GB Lexar si SDOPPIA: adatta a tutti i dispositivi appeared first on Punto Informa",
+      "link": "https://www.punto-informatico.it/super-chiavetta-usb-256gb-lexar-si-sdoppia-adatta-a-tutti-i-dispositivi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-03T15:15:13+00:00"
+    },
+    {
+      "titolo": "Honor Pad 10 è il tablet dei sogni: 256GB e display 2,5K a prezzo TOP",
+      "descrizione": "Honor Pad 10 è il tablet dei sogni con corpo in metallo premium e una potenza che fugge via: 256GB + display 120Hz. The post Honor Pad 10 è il tablet dei sogni: 256GB e display 2,5K a prezzo TOP appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/honor-pad-10-e-il-tablet-dei-sogni-256gb-e-display-25k-a-prezzo-top/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-03T14:48:04+00:00"
+    },
     {
       "titolo": "Rubrica degli SCONTI 2026: il primo weekend Amazon è INFUOCATO di offerte",
       "descrizione": "Con la Rubrica degli Sconti Amazon, il 2026 parte infuocato: 10 offerte da non perdere per risparmiare fino all'80% con un clic. The post Rubrica degli SCONTI 2026: il primo weekend Amazon è INFUOCATO di offerte appeared",
@@ -98,76 +168,6 @@
       "link": "https://www.punto-informatico.it/preparati-a-sciare-grazie-a-queste-offerte-amazon-infuocate/",
       "fonte": "Punto Informatico",
       "data": "2026-01-03T06:00:37+00:00"
-    },
-    {
-      "titolo": "LG's 2026 laptops aim to redefine ultraportable PCs by using a special new material",
-      "descrizione": "LG previewed its next-gen Gram models, combining updated hardware and vivid screens with a newly developed lightweight material.",
-      "link": "https://www.zdnet.com/article/ces-2026-lg-gram-pro/",
-      "fonte": "Latest news",
-      "data": "2026-01-02T22:28:57+00:00"
-    },
-    {
-      "titolo": "NordVPN inizia il 2026 con una super promo: è la VPN da scegliere oggi",
-      "descrizione": "NordVPN è la VPN da scegliere oggi: con la promo di inizio 2026, infatti, il prezzo crolla ed è una vera occasione da cogliere al volo. The post NordVPN inizia il 2026 con una super promo: è la VPN da scegliere oggi appe",
-      "link": "https://www.punto-informatico.it/nordvpn-inizia-il-2026-con-una-super-promo-e-la-vpn-da-scegliere-oggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-02T19:34:20+00:00"
-    },
-    {
-      "titolo": "Hostinger avvera i tuoi buoni propositi per il 2026: sconti fino all’80%",
-      "descrizione": "Promo Hostinger di Capodanno: hosting da 2,49 euro al mese, fino all'80% di sconto, 3 mesi extra e strumenti AI inclusi. The post Hostinger avvera i tuoi buoni propositi per il 2026: sconti fino all’80% appeared first on",
-      "link": "https://www.punto-informatico.it/hostinger-avvera-i-tuoi-buoni-propositi-per-il-2026-sconti-fino-all80/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-02T19:03:14+00:00"
-    },
-    {
-      "titolo": "Abbiamo scoperto i brand di smartphone che hanno venduto di più a Natale | VIDEO",
-      "descrizione": "Ecco gli smartphone più venduti nel periodo natalizio: tantissimi telefoni economici ma anche top di gamma.. di un solo brand!",
-      "link": "https://www.hdblog.it/smartphone/speciali/n643346/smartphone-piu-venduti-natale/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-02T18:19:00+00:00"
-    },
-    {
-      "titolo": "Forgotten Star Wars Racer Revenge game is key to jailbreaking PlayStation 5, price soars 1,900% overnight amid leaked ROM keys exploit — Physical copies of the PS4 game go from $20 to $400 on eBay",
-      "descrizione": "News that Star Wars Racer Revenge is now essential for the latest PlayStation 5 jailbreaks has sent physical copy prices skyrocketing, sparking a frenzy among collectors and gamers alike.",
-      "link": "https://www.tomshardware.com/video-games/playstation/forgotten-star-wars-racer-revenge-game-is-key-to-jailbreaking-playstation-5-price-soars-1-900-percent-overnight-amid-leaked-rom-keys-exploit-physical-copies-of-the-ps4-game-go-from-usd20-to-usd400-on-ebay",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-02T17:45:19+00:00"
-    },
-    {
-      "titolo": "Grok genera immagini sessualizzate di minori su X (update)",
-      "descrizione": "A fine dicembre 2025, Grok ha generato numerose immagini di minori in biancheria intimi e donne in bikini (successivamente sono state rimosse). The post Grok genera immagini sessualizzate di minori su X (update) appeared",
-      "link": "https://www.punto-informatico.it/grok-genera-immagini-sessualizzate-minori-x/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-02T17:28:03+00:00"
-    },
-    {
-      "titolo": "MC03 di Punkt, il telefono che protegge davvero i dati",
-      "descrizione": "Punkt. presenta l'MC03, uno smartphone orientato alla privacy con doppia modalità, Vault con app approvate e Wild Web per app Android normali. The post MC03 di Punkt, il telefono che protegge davvero i dati appeared firs",
-      "link": "https://www.punto-informatico.it/mc03-punkt-telefono-protegge-davvero-dati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-02T17:24:37+00:00"
-    },
-    {
-      "titolo": "Il prompt che migliora le risposte e funziona con qualsiasi AI",
-      "descrizione": "Esiste un prompt di follow-up universale che migliora le risposte dell'AI. Costringe il modello a chiarire punti vaghi e a proporre alternative. The post Il prompt che migliora le risposte e funziona con qualsiasi AI app",
-      "link": "https://www.punto-informatico.it/prompt-migliora-risposte-funziona-con-qualsiasi-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-02T16:30:56+00:00"
-    },
-    {
-      "titolo": "Ukrainian soldier's M1 MacBook Air takes direct shrapnel hit, saving his life — screen cracked and letter 'K' missing but laptop remains functional",
-      "descrizione": "An Apple M1 MacBook Air took a shell shrapnel hit and survived, with the laptop still working despite damage to the screen and the letter K on the keyboard missing.",
-      "link": "https://www.tomshardware.com/laptops/macbooks/ukrainian-soldiers-m1-macbook-air-takes-direct-shrapnel-hit-still-works-despite-battle-damage-screen-cracked-and-letter-k-missing-but-laptop-remains-functional",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-02T16:29:14+00:00"
-    },
-    {
-      "titolo": "Viaggio in vista? Lo zaino Invicta è ROBUSTO e sicuro (vale i tuoi soldi)",
-      "descrizione": "Lo zaino Invicta Travel è perfetto per spostarti in tutta comodità: resistenza certificata e spazio da vendere al suo interno. The post Viaggio in vista? Lo zaino Invicta è ROBUSTO e sicuro (vale i tuoi soldi) appeared f",
-      "link": "https://www.punto-informatico.it/viaggio-in-vista-lo-zaino-invicta-e-robusto-e-sicuro-vale-i-tuoi-soldi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-02T16:22:33+00:00"
     }
   ]
 }
