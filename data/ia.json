@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-04T13:01:20.809287+00:00",
+  "last_updated": "2026-01-04T18:45:29.717889+00:00",
   "items": [
     {
       "titolo": "OpenAI punta sulla voce e prepara il suo primo dispositivo fisico",
@@ -16,14 +16,6 @@
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-02T12:00:00+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "How DeepSeek's new way to train advanced AI models could disrupt everything - again",
-      "descrizione": "The Chinese AI lab may have just found an approach to training frontier LLMs that's both practical and scalable, even for more cash-strapped developers.",
-      "link": "https://www.zdnet.com/article/deepseek-research-training-models/",
-      "fonte": "Latest news",
-      "data": "2026-01-02T20:25:00+00:00",
-      "modello": "altri"
     }
   ]
 }
