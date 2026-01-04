@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-03T18:45:19.043827+00:00",
+  "last_updated": "2026-01-04T02:40:41.422708+00:00",
   "items": [
+    {
+      "titolo": "Videogiochi, nell’attesa di GTA VI il 2026 sarà l’anno degli ultimi kolossal",
+      "descrizione": "Dal ritorno di Grand Theft Auto alla nuova opera visionaria di Kojima: il 2026 si annuncia come l’anno dei videogiochi “too big to fail”",
+      "link": "https://www.ilsole24ore.com/art/videogiochi-nell-attesa-gta-vi-2026-sara-l-anno-ultimi-kolossal-AIySzFc",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-04T00:55:16+00:00"
+    },
+    {
+      "titolo": "CES 2026: rivoluzione o marketing? L’intelligenza artificiale alla prova dei fatti.",
+      "descrizione": "Al via dal 6 gennaio la fiera dell’elettronica di consumo più grande del mondo. Quest’anno promette una valanga di prodotti “AI-first”, ma il confine tra svolta tecnologica e AI-washing è sempre più sottile.",
+      "link": "https://www.ilsole24ore.com/art/ces-2026-rivoluzione-o-marketing-l-intelligenza-artificiale-prova-fatti-AI6JHjc",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-04T00:49:00+00:00"
+    },
+    {
+      "titolo": "What Happens Next in Venezuela—and the Rest of Latin America?",
+      "descrizione": "Donald Trump says that Venezuela’s governance will remain in the hands of senior US officials until a “proper and judicious transition” can take place. The rest of the region is on notice.",
+      "link": "https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/",
+      "fonte": "WIRED",
+      "data": "2026-01-03T22:10:35+00:00"
+    },
     {
       "titolo": "Microsoft silently kills Windows and Office phone activation and forces online activation with a Microsoft account — Windows users are now herded into an online-only portal for activation",
       "descrizione": "Microsoft has somehow put the cap on yet another way to circumvent its internet-powered setup process, and this time it's on a build that they haven't even supported for a while! Production activation via call is still l",
@@ -16,7 +37,7 @@
       "data": "2026-01-03T18:21:18+00:00"
     },
     {
-      "titolo": "Disinformation Floods Social Media After Nicolás Maduro's Capture",
+      "titolo": "Disinformation Floods Social Media After Nicolás Maduro’s Capture",
       "descrizione": "From seemingly AI-generated videos to repurposed old footage, TikTok, Instagram, and X did little to stop the onslaught of misleading posts in the wake of the US invasion of Venezuela.",
       "link": "https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/",
       "fonte": "WIRED",
@@ -147,27 +168,6 @@
       "link": "https://www.wired.com/story/vistaprint-coupon-code/",
       "fonte": "WIRED",
       "data": "2026-01-03T07:10:00+00:00"
-    },
-    {
-      "titolo": "Dacia Duster vs DR 5, sfida tra SUV concreti: confronto, versioni e prezzi",
-      "descrizione": "Entrambi questi modelli puntano molto sulla concretezza, offrendo un buon rapporto contenuti / prezzo: mettiamoli a confronto",
-      "link": "https://www.hdmotori.it/dacia-duster-vs-dr-5-sfida-suv-concreti-confronto-versioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-03T07:00:23+00:00"
-    },
-    {
-      "titolo": "Novità Ferrari 2026, i nuovi modelli in arrivo",
-      "descrizione": "Il 2026 sarà un anno storico per Ferrari dato che porterà al debutto ufficiale la sua prima auto elettrica",
-      "link": "https://www.hdmotori.it/novita-ferrari-2026-nuovi-modelli/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-03T06:30:45+00:00"
-    },
-    {
-      "titolo": "Preparati a sciare grazie a queste offerte Amazon infuocate",
-      "descrizione": "La stagione per sciare è alle porte? Allora non perdere altro tempo! Preparati grazie a queste offerte Amazon davvero infuocate. The post Preparati a sciare grazie a queste offerte Amazon infuocate appeared first on Punt",
-      "link": "https://www.punto-informatico.it/preparati-a-sciare-grazie-a-queste-offerte-amazon-infuocate/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-03T06:00:37+00:00"
     }
   ]
 }
