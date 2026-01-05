@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-01-05T13:09:51.294836+00:00",
+  "last_updated": "2026-01-05T18:50:02.456137+00:00",
   "items": [
     {
-      "titolo": "The US Invaded Venezuela and Captured Nicolás Maduro. ChatGPT Disagrees",
-      "descrizione": "Some AI chatbots have a surprisingly good handle on breaking news. Others decidedly don’t.",
-      "link": "https://www.wired.com/story/us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees/",
-      "fonte": "WIRED",
-      "data": "2026-01-03T16:03:15+00:00",
+      "titolo": "China’s top chip foundries move to consolidate as Beijing pushes semiconductor self-sufficiency — SMIC and Hua Hong Semiconductor deals pave the path to unified power",
+      "descrizione": "China’s two largest pure-play foundries, SMIC and Hua Hong Semiconductor, are in the middle of significant consolidation efforts that demonstrate how industrial policy is reshaping the country’s chip sector.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-top-chip-foundries-move-to-consolidate",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-05T18:10:28+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Windows 11, FlyOOBE 2.4 permette di rimuovere l’AI Copilot",
+      "descrizione": "FlyOOBE si aggiorna alla versione 2.4 con strumenti avanzati per eliminare l'AI da Windows 11. La funzione si chiama ironicamente Slopilot. The post Windows 11, FlyOOBE 2.4 permette di rimuovere l’AI Copilot appeared fir",
+      "link": "https://www.punto-informatico.it/windows-11-flyoobe-2-4-rimuovere-ai-copilot/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-05T15:59:56+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Gemini porta Nano Banana e Veo su Google TV",
+      "descrizione": "Google ha annunciato nuove funzionalità di Gemini su Google TV, tra cui quelle che permettono di creare e modificare immagini e video con Nano Banana e Veo. The post Gemini porta Nano Banana e Veo su Google TV appeared f",
+      "link": "https://www.punto-informatico.it/gemini-porta-nano-banana-veo-google-tv/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-05T18:09:36+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Dev uses Claude AI to write a ‘functional NES emulator’ — you can test it now, playing Donkey Kong in your browser",
