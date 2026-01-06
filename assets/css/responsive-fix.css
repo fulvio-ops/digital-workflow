@@ -1,0 +1,120 @@
+/* ======================================================
+   RESPONSIVE FIX — MOBILE FIRST
+   Da caricare DOPO il CSS principale
+   ====================================================== */
+
+/* ---------- RESET MINIMO ---------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ---------- CONTAINER ---------- */
+.container,
+.wrapper,
+.section {
+  width: 100%;
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+/* ---------- TYPOGRAPHY ---------- */
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: clamp(1.8rem, 5vw, 3rem);
+}
+
+h2 {
+  font-size: clamp(1.4rem, 4vw, 2.2rem);
+}
+
+p {
+  font-size: 1rem;
+}
+
+/* ---------- FILTRI / PILL ---------- */
+.filters,
+.tags,
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.filters button,
+.tags button,
+.categories button {
+  white-space: nowrap;
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+}
+
+/* ---------- BOX NOTA ---------- */
+.note,
+.notice,
+.alert {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+@media (max-width: 480px) {
+  .note,
+  .notice,
+  .alert {
+    padding: 0.75rem;
+    border-radius: 10px;
+  }
+}
+
+/* ---------- CARD ---------- */
+.card,
+.item,
+.post-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-radius: 16px;
+}
+
+.card-icon,
+.item-icon {
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+}
+
+/* ---------- HERO ---------- */
+.hero {
+  min-height: 60vh;
+  padding: 2rem 1rem;
+}
+
+/* ---------- DESKTOP ENHANCEMENT ---------- */
+@media (min-width: 768px) {
+  .cards,
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cards,
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
