@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-06T02:28:09.601588+00:00",
+  "last_updated": "2026-01-06T06:52:55.655351+00:00",
   "items": [
     {
-      "titolo": "Nvidia: «Il momento ChatGPT della robotica è arrivato»",
-      "descrizione": "Nvidia ha rilasciato una nuova generazione di modelli disponibili pensati per evitare agli sviluppatori la parte più costosa e lenta: la pre-formazione da zero.",
-      "link": "https://www.ilsole24ore.com/art/nvidia-il-momento-chatgpt-robotica-e-arrivato-AIjctxi",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-05T22:40:00+00:00",
+      "titolo": "Being rude to ChatGPT changes you - and maybe even your relationships",
+      "descrizione": "From Alexa to ChatGPT, our interactions with AI are reshaping communication norms. Here's why how we talk to machines can affect real human relationships.",
+      "link": "https://www.zdnet.com/article/be-polite-to-your-ai/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T04:00:41+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Windows 11, FlyOOBE 2.4 permette di rimuovere l’AI Copilot",
-      "descrizione": "FlyOOBE si aggiorna alla versione 2.4 con strumenti avanzati per eliminare l'AI da Windows 11. La funzione si chiama ironicamente Slopilot. The post Windows 11, FlyOOBE 2.4 permette di rimuovere l’AI Copilot appeared fir",
-      "link": "https://www.punto-informatico.it/windows-11-flyoobe-2-4-rimuovere-ai-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T15:59:56+00:00",
+      "titolo": "AMD's Ryzen AI 400 series includes the first Copilot+ desktop CPU — Team Red refreshes Zen 5 APUs and Strix Halo",
+      "descrizione": "AMD’s new Ryzen AI 400 ‘Gorgon Point’ APUs are primarily driven by a clock speed bump, featuring similar silicon as the previous generation otherwise.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-ryzen-ai-400-series-includes-the-first-copilot-desktop-cpu-team-red-refreshes-zen-5-apus-and-strix-halo",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T03:30:41+00:00",
       "modello": "copilot"
     },
     {

@@ -1,12 +1,40 @@
 {
-  "last_updated": "2026-01-06T02:28:04.609526+00:00",
+  "last_updated": "2026-01-06T06:52:52.429368+00:00",
   "items": [
     {
-      "titolo": "Why Nvidia's new Rubin platform could change the future of AI computing forever",
-      "descrizione": "At CES 2026, Nvidia unveiled Rubin, a new AI supercomputing platform that aims to accelerate the adoption of LLMs among the public.",
-      "link": "https://www.zdnet.com/article/nvidia-rubin-ai-ces-2026/",
+      "titolo": "Nvidia introduces DLSS 4.5 and Multi Frame Generation 6X at CES 2026 — updated models can generate higher-quality upscaled frames and more of them, dynamically",
+      "descrizione": "Nvidia might not be introducing new gaming GPUs at CES 2026, but version 4.5 of its DLSS upscaler and an upcoming MFG 6x mode promises better image quality and smoother performance.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-introduces-dlss-4-5-and-multi-frame-generation-6x-at-ces-2026-updated-models-can-generate-higher-quality-upscaled-frames-and-more-of-them-dynamically",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T05:30:22+00:00"
+    },
+    {
+      "titolo": "Amd risponde a Nvidia con la nuova famiglia chip i data center aziendali",
+      "descrizione": "Al Ces 2026 la ceo Lisa Su rilancia con chip per data center, soluzioni AI all’edge, processori per il gaming e nuovi laptop.",
+      "link": "https://www.ilsole24ore.com/art/amd-risponde-nvidia-la-nuova-famiglia-chip-data-center-aziendali-AI1GN1i",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-06T04:52:39+00:00"
+    },
+    {
+      "titolo": "AMD’s Ryzen 7 9850X3D promises 7% uplift over Ryzen 7 9800X3D – AMD fights itself with ‘new fastest gaming processor’",
+      "descrizione": "The long-rumored Ryzen 7 9850X3D is official, but AMD’s own benchmarks paint an underwhelming picture for performance gains.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-ryzen-7-9850x3d-promises-7-percent-uplift-over-ryzen-7-9800x3d-amd-fights-itself-with-new-fastest-gaming-processor",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T03:30:57+00:00"
+    },
+    {
+      "titolo": "This menstrual pad takes period blood and turns it into data diagnostics",
+      "descrizione": "Vivoo introduced its conceptual FlowPad at CES, alongside the launch of its smart toilet sensor for hydration detection.",
+      "link": "https://www.zdnet.com/article/this-menstrual-pad-takes-period-blood-and-turns-it-into-data-diagnostics/",
       "fonte": "Latest news",
-      "data": "2026-01-06T00:17:16+00:00"
+      "data": "2026-01-06T03:21:21+00:00"
+    },
+    {
+      "titolo": "Intel's Panther Lake CPUs may be the PC shake-up we didn't know we needed",
+      "descrizione": "Intel's Core Ultra Series 3 processors, built on its new 18A architecture, was just officially unveiled at CES.",
+      "link": "https://www.zdnet.com/article/intel-panther-lake-announced-at-ces/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T03:19:00+00:00"
     },
     {
       "titolo": "MSI’s newest 16-inch Raider and Stealth gaming laptops debut — Panther Lake options, OLED panels, and familiar RTX 50 GPUs",
@@ -37,13 +65,6 @@
       "data": "2026-01-05T23:00:36+00:00"
     },
     {
-      "titolo": "Nvidia's physical AI models clear the way for next-gen robots - here's what's new",
-      "descrizione": "At CES, robotics leaders debut the latest robots and autonomous machines built with Nvidia technologies.",
-      "link": "https://www.zdnet.com/article/nvidia-physical-ai-models-robotics-ces/",
-      "fonte": "Latest news",
-      "data": "2026-01-05T22:55:53+00:00"
-    },
-    {
       "titolo": "Nvidia launches Vera Rubin NVL72 AI supercomputer at CES — promises up to 5x greater inference performance and 10x lower cost per token than Blackwell, coming 2H 2026",
       "descrizione": "During his CES 2026 keynote, Nvidia CEO Jensen Huang introduced Vera Rubin NVL72, the company’s next-generation rack-scale AI accelerator. Rubin promises 5x greater inference performance and 10x lower cost per token than",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-launches-vera-rubin-nvl72-ai-supercomputer-at-ces-promises-up-to-5x-greater-inference-performance-and-10x-lower-cost-per-token-than-blackwell-coming-2h-2026",
@@ -62,7 +83,7 @@
       "descrizione": "Dal palco del CES di Las Vegas Jensen Huang presenta Alpamayo, una nuova famiglia di modelli, simulatori e dataset open source pensata per addestrare auto autonome e robot a ragionare nel mondo reale.",
       "link": "https://www.ilsole24ore.com/art/ces-2026-nvidia-lancia-alpamayo-famiglia-modelli-per-guida-autonoma-AI9pTxi",
       "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-05T22:38:10+00:00"
+      "data": "2026-01-05T22:38:00+00:00"
     },
     {
       "titolo": "Dell presenta al CES 2026 i nuovi XPS: cambiano volto e offrono più autonomia",
@@ -147,27 +168,6 @@
       "link": "https://www.hdblog.it/curiosita/articoli/n643567/longevita-centenari-italia-dna-antico/",
       "fonte": "HDblog.it",
       "data": "2026-01-05T17:50:00+00:00"
-    },
-    {
-      "titolo": "Nuova Volkswagen ID. Polo 2026: svelati interni e bagagliaio",
-      "descrizione": "Volkswagen ha fornito un'anticipazioni degli interni della nuova ID. Polo che presentano diverse interessanti novità",
-      "link": "https://www.hdmotori.it/volkswagen-id-polo-2026-interni-bagagliaio/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T17:22:00+00:00"
-    },
-    {
-      "titolo": "ASUS ROG XREAL 1R: occhiali AR per il gaming",
-      "descrizione": "Gli ASUS ROG XREAL R1 sono occhiali AR con schermi micro OLED (1080p a 240 Hz) per il gaming che possono essere collegati a PC e ROG Ally. The post ASUS ROG XREAL 1R: occhiali AR per il gaming appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/asus-rog-xreal-1r-occhiali-ar-gaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T17:19:22+00:00"
-    },
-    {
-      "titolo": "ChatGPT sceglie il nome del figlio, genitori derisi dal web",
-      "descrizione": "Una coppia americana ha usato ChatGPT per scegliere il nome del figlio: Hudson Oakley Winkler. Internet reagisce furiosamente. The post ChatGPT sceglie il nome del figlio, genitori derisi dal web appeared first on Punto",
-      "link": "https://www.punto-informatico.it/chatgpt-sceglie-nome-figlio-genitori-derisi-web/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T17:05:28+00:00"
     }
   ]
 }
