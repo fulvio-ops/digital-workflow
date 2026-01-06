@@ -1,12 +1,138 @@
 {
-  "last_updated": "2026-01-06T13:06:41.868226+00:00",
+  "last_updated": "2026-01-06T18:48:32.785092+00:00",
   "items": [
+    {
+      "titolo": "This portable power station kept my essentials running during a snowstorm outage",
+      "descrizione": "I tested the EcoFlow Delta 3 Max Plus during a recent power outage, and it didn't flinch, even in cold weather.",
+      "link": "https://www.zdnet.com/article/ecoflow-delta-3-max-plus-review/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T18:28:34+00:00"
+    },
+    {
+      "titolo": "Asus unveils the ROG Cronox, its first panoramic PC case with a 9.2\" screen and rotating fan bracket — chassis supports up to 14x 120mm fans & dual 360mm radiators",
+      "descrizione": "Asus has just announced a brand new flagship PC case called the ROG Cronox, featuring a rotating screen and fan bracket that can be angled to your taste. The Cronox is made from aluminum and has tempered glass forming a",
+      "link": "https://www.tomshardware.com/pc-components/pc-cases/asus-unveils-the-rog-cronox-its-first-panoramic-pc-case-with-a-9-2-screen-and-rotating-fan-bracket-chassis-supports-up-to-14x-120mm-fans-and-dual-360mm-radiators",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T17:56:00+00:00"
+    },
+    {
+      "titolo": "Nvidia's focus on rack-scale AI systems is a portent for the year to come — Rubin points the way forward for company, as data center business booms",
+      "descrizione": "Nvidia's CES keynote was notably not consumer-focused. Instead, the company detailed its booming data center business, with a deeper look at its NVL72 Rubin platform.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-skips-new-gpus-at-ces-2026-as-its-roadmap-shifts-toward-rack-scale-ai-systems",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T17:45:40+00:00"
+    },
+    {
+      "titolo": "Robot per ogni compito? Nvidia costruisce la piattaforma universale",
+      "descrizione": "Nvidia presenta a CES 2026 modelli AI e hardware per robot versatili",
+      "link": "https://www.hdblog.it/nvidia/articoli/n643691/nvidia-android-robotica-generalista/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T16:55:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA GeForce NOW anche su Linux e Fire TV Stick",
+      "descrizione": "NVIDIA ha annunciato l'imminente rilascio delle app native per Linux e Fire TV Stick che permetteranno di accedere ai giochi del servizio GeForce NOW. The post NVIDIA GeForce NOW anche su Linux e Fire TV Stick appeared f",
+      "link": "https://www.punto-informatico.it/nvidia-geforce-now-linux-fire-tv-stick/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-06T16:27:50+00:00"
+    },
+    {
+      "titolo": "Use Google AI Overview for health advice? It's 'really dangerous,' investigation finds",
+      "descrizione": "Google's AI in Search served up false and misleading health information, according to an investigation by The Guardian.",
+      "link": "https://www.zdnet.com/article/google-ai-overview-search-health-advice-risk-investigation/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T16:01:41+00:00"
+    },
+    {
+      "titolo": "XREAL scommette su Android XR e stringe alleanza con Google",
+      "descrizione": "XREAL annuncia al CES 2026 una partnership rafforzata con Google su Android XR.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n643707/xreal-google-android-xr-ces-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T15:55:00+00:00"
+    },
+    {
+      "titolo": "HyperX OMEN MAX 16: notebook gaming più potente",
+      "descrizione": "HyperX è il nuovo brand usato da HP per gli OMEN MAX 16, OMEN 15 e OMEN 16, tre nuovi gaming laptop annunciati al CES 2026 di Las Vegas. The post HyperX OMEN MAX 16: notebook gaming più potente appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/hyperx-omen-max-16-notebook-gaming-piu-potente/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-06T15:19:36+00:00"
+    },
+    {
+      "titolo": "China’s GPU cloud consolidates around Baidu and Huawei as domestic AI chips scale up — export controls leave gap open for homegrown solutions",
+      "descrizione": "China’s GPU cloud market is consolidating rapidly around a small number of domestic champions, with Baidu and Huawei emerging as the clear leaders, as access to Nvidia’s most advanced accelerators remains restricted.",
+      "link": "https://www.tomshardware.com/tech-industry/chinas-gpu-cloud-consolidates-around-baidu-and-huawei-as-domestic-ai-chips-scale-up",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T15:13:25+00:00"
+    },
+    {
+      "titolo": "CES 2026 Day 0: Nvidia debuts DLSS 4.5, Ryzen 7 9850X3D aims for desktop gaming glory, Intel Panther Lake arrives",
+      "descrizione": "CES 2026 is off to a fast start, with a flurry of announcements coming in from your favorite tech companies",
+      "link": "https://www.tomshardware.com/pc-components/cpus/ces-2026-day-zero-nvidia-debuts-dlss-4-5-ryzen-7-9850x3d-aims-for-desktop-gaming-glory-intel-panther-lake-arrives",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T15:07:25+00:00"
+    },
+    {
+      "titolo": "Xbox Game Pass comincia ad arrivare su Google TV",
+      "descrizione": "Xbox Game Pass debutta su Google TV con il nuovo top di gamma TCL.",
+      "link": "https://www.hdblog.it/google/articoli/n643678/xbox-game-pass-google-tv-tcl/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T15:05:00+00:00"
+    },
+    {
+      "titolo": "Intelligenza artificiale e mobilità smart: le soluzioni Bosch al CES 2026",
+      "descrizione": "Bosch guarda al futuro a CES 2026 mostrando come software e hardware possano lavorare insieme per ottenere grandi risultati in diversi ambiti",
+      "link": "https://www.hdmotori.it/bosch-ces-2026-las-vegas-innovazioni-ia-cockpit-mal-dauto-mems-guida-autonoma/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T14:30:37+00:00"
+    },
+    {
+      "titolo": "Meta frena i Ray-Ban Display in Europa: domanda troppo alta",
+      "descrizione": "Meta rinvia l’arrivo dei Ray-Ban Display in Europa per domanda elevata e poche scorte",
+      "link": "https://www.hdblog.it/indossabili/articoli/n643688/meta-ray-ban-display-ritardo-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T13:35:00+00:00"
+    },
+    {
+      "titolo": "Gigabyte's Aorus RTX 5090 Infinity takes aim at Asus' ROG Matrix — superconducting heatpipes, 'Windforce Hyperburst' cooling brings 'penetrating airflow' to both sides of the card",
+      "descrizione": "Gigabyte’s latest Aorus flagship GPU combines a double flow-through design, advanced thermal materials, and a reduced footprint.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/gigabytes-aorus-rtx-5090-infinity-takes-aim-at-asus-rog-matrix-superconducting-heatpipes-windforce-hyperburst-cooling-brings-penetrating-airflow-to-both-sides-of-the-card",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T13:27:39+00:00"
+    },
+    {
+      "titolo": "Samsung presenta i Neo QLED 2026: meno modelli ma qualità superiore",
+      "descrizione": "Samsung svela i Neo QLED 2026: nuove tecnologie, gaming potenziato e lineup più compatta",
+      "link": "https://www.hdblog.it/samsung/articoli/n643690/samsung-neo-qled-2026-novita/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T13:20:00+00:00"
+    },
+    {
+      "titolo": "Dell rinnova la gamma al CES 2026: le novità ufficiali alla fiera tech",
+      "descrizione": "Al CES 2026 Dell ha presentato un ampio rinnovamento della propria offerta, con nuovi notebook XPS, l’espansione della gamma Alienware e monitor UltraSharp dedicati ai professionisti.",
+      "link": "https://www.hdblog.it/portatili/articoli/n643603/dell-le-novita-del-ces-2026-quali/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T13:01:00+00:00"
+    },
     {
       "titolo": "Thermaltake goes retro at CES 2026, shows off liquid cooler with CRT-themed display and 80s-style PC cases",
       "descrizione": "The nostalgia hits hard with Thermaltake's new products",
       "link": "https://www.tomshardware.com/pc-components/pc-cases/thermaltake-goes-retro-at-ces-2026-shows-off-liquid-cooler-with-crt-themed-display-and-80s-style-pc-cases",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-06T13:00:00+00:00"
+    },
+    {
+      "titolo": "Nvidia presenta Vera Rubin al CES 2026: ecco la nuova piattaforma AI",
+      "descrizione": "Nvidia lancia Vera Rubin, piattaforma AI cinque volte più potente di Blackwell.",
+      "link": "https://www.hdblog.it/hardware/articoli/n643665/nvidia-vera-rubin-ces-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T12:35:00+00:00"
+    },
+    {
+      "titolo": "iPhone 17e, produzione al via presto: Dynamic Island, chip A19 e 256 GB base",
+      "descrizione": "Ecco cosa possiamo aspettarci secondo i prossimi rumor.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n643686/iphone-17e-a19-dynamic-island-2026-produzione-chip/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T12:25:00+00:00"
     },
     {
       "titolo": "CES 2026: Qualcomm svela lo Snapdragon X2 Plus",
@@ -42,132 +168,6 @@
       "link": "https://www.hdblog.it/indossabili/articoli/n643682/samsung-galaxy-buds-4-pro-apricot-colore-design/",
       "fonte": "HDblog.it",
       "data": "2026-01-06T11:05:00+00:00"
-    },
-    {
-      "titolo": "Lego unveils new smart brick with embedded computer inside — Smart Play platform features tiny 4.1mm custom ASIC with sensors, RGB LEDs, and even a tiny speaker",
-      "descrizione": "LEGO has pulled the wraps off a familiar-looking product that behaves like a small computer. The new Smart Play platform centers on a standard 2x4 LEGO brick that packs processing, sensing, audio, wireless networking, an",
-      "link": "https://www.tomshardware.com/tech-industry/the-smallest-computer-at-ces-2026-is-a-lego-brick",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T11:00:00+00:00"
-    },
-    {
-      "titolo": "Lego svela Smart Brick: mattoncini intelligenti e set che reagiscono al gioco",
-      "descrizione": "Lego lancia Smart Brick, il mattoncino intelligente che reagisce al gioco",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643668/lego-smart-brick-ces-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T10:55:00+00:00"
-    },
-    {
-      "titolo": "CES 2026: nuovi processori AMD Ryzen AI 400",
-      "descrizione": "AMD ha annunciato 7 processori Ryzen AI 400 con CPU fino a 12 core, GPU Radeon e NPU, insieme a due processori Ryzen AI Max+ e al Ryzen 7 9850X3D. The post CES 2026: nuovi processori AMD Ryzen AI 400 appeared first on Pu",
-      "link": "https://www.punto-informatico.it/ces-2026-nuovi-processori-amd-ryzen-ai-400/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-06T10:53:58+00:00"
-    },
-    {
-      "titolo": "Xpeng P7+ 2026 è pronta alla sfida del mercato europeo",
-      "descrizione": "La nuova Xpeng P7+ 2026 la vedremo al Salone di Bruxelles ma intanto è stata completata la produzione di prova in Austria",
-      "link": "https://www.hdmotori.it/xpeng-p7-2026-caratteristiche-produzione-austria/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T10:30:02+00:00"
-    },
-    {
-      "titolo": "Nvidia CEO confirms Vera Rubin NVL72 is now in production — Jensen Huang uses CES keynote to announce the milestone",
-      "descrizione": "Nvidia CEO Jensen Huang announced during his keynote speech at CES that Vera Rubin NVL72 is now officially in production. The new datacenter AI platform offers up to 5x the performance of Blackwell counterparts.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-confirms-vera-rubin-nvl72-is-now-in-production-jensen-huang-uses-ces-keynote-to-announce-the-milestone",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T10:23:05+00:00"
-    },
-    {
-      "titolo": "Tantissimi Trapani a Batteria a meno di 40€ su eBay solo per oggi",
-      "descrizione": "Tantissimi trapani a batteria ti stanno aspettando su eBay a meno di 40 euro grazie al nuovo coupon JANUARY26 per un fai da te professionale. The post Tantissimi Trapani a Batteria a meno di 40€ su eBay solo per oggi app",
-      "link": "https://www.punto-informatico.it/tantissimi-trapani-a-batteria-a-meno-di-40e-su-ebay-solo-per-oggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-06T10:20:33+00:00"
-    },
-    {
-      "titolo": "TCL porta al CES 2026 l’ottava generazione dei display Mini-LED",
-      "descrizione": "TCL presenta al CES 2026 la tecnologia SQD Mini-LED con colori più precisi e AI evoluta",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n643669/tcl-ces-2026-sqd-mini-led/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T10:20:00+00:00"
-    },
-    {
-      "titolo": "Leapmotor raddoppia le vendite nel 2025 e punta ancora più in alto",
-      "descrizione": "Il 2025 è stato un anno di forte crescita per Leapmotor che ha consegnato quasi 600 mila vetture",
-      "link": "https://www.hdmotori.it/leapmotor-raddoppia-vendite-2025/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T10:00:45+00:00"
-    },
-    {
-      "titolo": "The 3 Keys to Understanding Trump’s Retro Coup in Venezuela",
-      "descrizione": "This weekend’s invasion was both a throwback to the last century and a new, uniquely Trumpian nightmare—one that’s just beginning.",
-      "link": "https://www.wired.com/story/3-keys-understanding-trumps-retro-coup-in-venezuela/",
-      "fonte": "WIRED",
-      "data": "2026-01-06T10:00:00+00:00"
-    },
-    {
-      "titolo": "Snapdragon X2 Plus amplia l’offerta Qualcomm per i portatili Windows",
-      "descrizione": "Nuovo chip Qualcomm a 3 nm con NPU da 80 TOPS per laptop Windows più economici.",
-      "link": "https://www.hdblog.it/hardware/articoli/n643671/qualcomm-snapdragon-x2-plus-laptop-windows/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T09:35:00+00:00"
-    },
-    {
-      "titolo": "BOMBE del 6 Gennaio: tutte le migliori offerte Amazon sotto i 10€",
-      "descrizione": "Prodotti di tecnologia e per tutti i giorni, su Amazon ti stanno aspettando vere e proprie bombe del 6 gennaio tutte sotto i 10 euro. The post BOMBE del 6 Gennaio: tutte le migliori offerte Amazon sotto i 10€ appeared fi",
-      "link": "https://www.punto-informatico.it/bombe-del-6-gennaio-tutte-le-migliori-offerte-amazon-sotto-i-10e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-06T09:34:44+00:00"
-    },
-    {
-      "titolo": "Offerta Citroen C3 a benzina versione base: da 49 euro al mese con finanziamento",
-      "descrizione": "Citroen rilancia con il nuovo anno la promozione sulla C3 a benzina in allestimento YOU con finanziamento e rate da 49 euro",
-      "link": "https://www.hdmotori.it/citroen-c3-benzina-offerta-finanziamento-sconto-rate-interessi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T09:30:11+00:00"
-    },
-    {
-      "titolo": "DLSS 4.5 porta il gaming a 4K 240Hz: l’annuncio NVIDIA al CES 2026",
-      "descrizione": "DLSS 4.5 migliora qualità visiva e prestazioni fino a 4K 240Hz con ray tracing",
-      "link": "https://www.hdblog.it/nvidia/articoli/n643660/nvidia-dlss-4-5-ces-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T09:15:00+00:00"
-    },
-    {
-      "titolo": "Samsung avvisa: gli smartphone costeranno di più nel 2026",
-      "descrizione": "La carenza globale di memoria farà aumentare i prezzi degli smartphone nel 2026. Il Samsung ammette che i rincari sono inevitabili. The post Samsung avvisa: gli smartphone costeranno di più nel 2026 appeared first on Pun",
-      "link": "https://www.punto-informatico.it/samsung-avvisa-smartphone-costeranno-di-piu-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-06T09:07:15+00:00"
-    },
-    {
-      "titolo": "Nissan Wave sta arrivando, tutto quello che sappiamo sulla nuova piccola citycar elettrica",
-      "descrizione": "La nuova citycar elettrica nascerà sulla base della Renault Twingo e si caratterizzerà per un look ispirato alle vecchie auto Nissan Pike.",
-      "link": "https://www.hdmotori.it/nissan-wave-piccola-citycar-elettrica-economica-2027/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T09:00:42+00:00"
-    },
-    {
-      "titolo": "Office 2021 Pro per 30,25€ e Win 11 Pro a 12,25€: Godeal24 batte qualsiasi prezzo",
-      "descrizione": "Scopri i primi sconti Godeal per il 2026: i migliori prezzi per le licenze Windows e Office. The post Office 2021 Pro per 30,25€ e Win 11 Pro a 12,25€: Godeal24 batte qualsiasi prezzo appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/office-2021-pro-per-3025e-e-win-11-pro-a-1225e-godeal24-batte-qualsiasi-prezzo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-06T07:39:32+00:00"
-    },
-    {
-      "titolo": "Nvidia introduces DLSS 4.5 and Multi Frame Generation 6X at CES 2026 — updated models can generate higher-quality upscaled frames and more of them, dynamically",
-      "descrizione": "Nvidia might not be introducing new gaming GPUs at CES 2026, but version 4.5 of its DLSS upscaler and an upcoming MFG 6x mode promises better image quality and smoother performance.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-introduces-dlss-4-5-and-multi-frame-generation-6x-at-ces-2026-updated-models-can-generate-higher-quality-upscaled-frames-and-more-of-them-dynamically",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T05:30:22+00:00"
-    },
-    {
-      "titolo": "Amd risponde a Nvidia con la nuova famiglia chip per i data center aziendali",
-      "descrizione": "Al Ces 2026 la ceo Lisa Su rilancia con chip per data center, soluzioni AI all’edge, processori per il gaming e nuovi laptop.",
-      "link": "https://www.ilsole24ore.com/art/amd-risponde-nvidia-la-nuova-famiglia-chip-data-center-aziendali-AI1GN1i",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-06T04:52:00+00:00"
     }
   ]
 }

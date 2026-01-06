@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-06T13:06:46.053750+00:00",
+  "last_updated": "2026-01-06T18:48:35.989082+00:00",
   "items": [
     {
-      "titolo": "Nvidia: «Il momento ChatGPT della robotica è arrivato»",
-      "descrizione": "Nvidia ha rilasciato una nuova generazione di modelli disponibili pensati per evitare agli sviluppatori la parte più costosa e lenta: la pre-formazione da zero.",
-      "link": "https://www.ilsole24ore.com/art/nvidia-il-momento-chatgpt-robotica-e-arrivato-AIjctxi",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-05T22:40:00+00:00",
+      "titolo": "Best VPNs for streaming of 2026: Expert tested and reviewed",
+      "descrizione": "Check out our favorite VPNs for rapid speeds, high server counts, and access to streaming libraries when you leave home.",
+      "link": "https://www.zdnet.com/article/best-streaming-vpn/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T17:36:55+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
-      "descrizione": "Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas.",
-      "link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
-      "fonte": "WIRED",
-      "data": "2026-01-05T21:00:00+00:00",
+      "titolo": "Use Google AI Overview for health advice? It's 'really dangerous,' investigation finds",
+      "descrizione": "Google's AI in Search served up false and misleading health information, according to an investigation by The Guardian.",
+      "link": "https://www.zdnet.com/article/google-ai-overview-search-health-advice-risk-investigation/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T16:01:41+00:00",
       "modello": "gemini"
     }
   ]
