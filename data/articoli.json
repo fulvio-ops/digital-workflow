@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-01-05T18:49:58.955712+00:00",
+  "last_updated": "2026-01-06T02:28:04.609526+00:00",
   "items": [
+    {
+      "titolo": "Why Nvidia's new Rubin platform could change the future of AI computing forever",
+      "descrizione": "At CES 2026, Nvidia unveiled Rubin, a new AI supercomputing platform that aims to accelerate the adoption of LLMs among the public.",
+      "link": "https://www.zdnet.com/article/nvidia-rubin-ai-ces-2026/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T00:17:16+00:00"
+    },
+    {
+      "titolo": "MSI’s newest 16-inch Raider and Stealth gaming laptops debut — Panther Lake options, OLED panels, and familiar RTX 50 GPUs",
+      "descrizione": "MSI is updating the design languages for its Stealth and Raider laptops, with the former going for a more “professional” look.",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/msis-newest-16-inch-raider-and-stealth-gaming-laptops-debut-panther-lake-options-oled-panels-and-familiar-rtx-50-gpus",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-05T23:16:36+00:00"
+    },
+    {
+      "titolo": "Nvidia accelera: i chip Rubin entrano in produzione",
+      "descrizione": "Al CES di Las Vegas Jensen Huang svela la piattaforma Vera Rubin. L’obiettivo è abbattere il costo per token di inferenza fino a 10 volte e ridurre di quattro volte il numero di GPU necessarie per addestrare modelli comp",
+      "link": "https://www.ilsole24ore.com/art/nvidia-accelera-chip-rubin-entrano-produzione-AIrnSyi",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-05T23:08:00+00:00"
+    },
+    {
+      "titolo": "Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’",
+      "descrizione": "The chip giant says Vera Rubin will sharply cut the cost of training and running AI models, strengthening the appeal of its integrated computing platform.",
+      "link": "https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/",
+      "fonte": "WIRED",
+      "data": "2026-01-05T23:05:32+00:00"
+    },
+    {
+      "titolo": "Dell brings back XPS laptops — ditches the capacitive touch bar, adds 1Hz display option, and upgrades 14 and 16-inch models",
+      "descrizione": "Dell is bringing back the XPS laptop brand, and has redesigned the system to remove the controversial capacitive function row. This year's XPS 14 and 16 are getting Intel's Panther Lake processors, and a new 13-incher is",
+      "link": "https://www.tomshardware.com/laptops/dell-brings-back-xps-laptops-ditches-the-capacitive-touch-bar-adds-1hz-display-option-and-upgrades-14-and-16-inch-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-05T23:00:36+00:00"
+    },
+    {
+      "titolo": "Nvidia's physical AI models clear the way for next-gen robots - here's what's new",
+      "descrizione": "At CES, robotics leaders debut the latest robots and autonomous machines built with Nvidia technologies.",
+      "link": "https://www.zdnet.com/article/nvidia-physical-ai-models-robotics-ces/",
+      "fonte": "Latest news",
+      "data": "2026-01-05T22:55:53+00:00"
+    },
+    {
+      "titolo": "Nvidia launches Vera Rubin NVL72 AI supercomputer at CES — promises up to 5x greater inference performance and 10x lower cost per token than Blackwell, coming 2H 2026",
+      "descrizione": "During his CES 2026 keynote, Nvidia CEO Jensen Huang introduced Vera Rubin NVL72, the company’s next-generation rack-scale AI accelerator. Rubin promises 5x greater inference performance and 10x lower cost per token than",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-launches-vera-rubin-nvl72-ai-supercomputer-at-ces-promises-up-to-5x-greater-inference-performance-and-10x-lower-cost-per-token-than-blackwell-coming-2h-2026",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-05T22:42:00+00:00"
+    },
+    {
+      "titolo": "Nvidia: «Il momento ChatGPT della robotica è arrivato»",
+      "descrizione": "Nvidia ha rilasciato una nuova generazione di modelli disponibili pensati per evitare agli sviluppatori la parte più costosa e lenta: la pre-formazione da zero.",
+      "link": "https://www.ilsole24ore.com/art/nvidia-il-momento-chatgpt-robotica-e-arrivato-AIjctxi",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-05T22:40:00+00:00"
+    },
+    {
+      "titolo": "CES 2026, Nvidia lancia Alpamayo una famiglia di modelli Ai per la guida autonoma",
+      "descrizione": "Dal palco del CES di Las Vegas Jensen Huang presenta Alpamayo, una nuova famiglia di modelli, simulatori e dataset open source pensata per addestrare auto autonome e robot a ragionare nel mondo reale.",
+      "link": "https://www.ilsole24ore.com/art/ces-2026-nvidia-lancia-alpamayo-famiglia-modelli-per-guida-autonoma-AI9pTxi",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-05T22:38:10+00:00"
+    },
+    {
+      "titolo": "Dell presenta al CES 2026 i nuovi XPS: cambiano volto e offrono più autonomia",
+      "descrizione": "I nuovi XPS adottano una scocca unibody in alluminio CNC, il ritorno dei tasti funzione fisici, un touchpad in vetro e una tastiera migliorata, con un’attenzione particolare alla riparabilità e ai...",
+      "link": "https://www.hdblog.it/hardware/articoli/n643598/dell-xps-14-16-novita-ces-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-05T22:01:00+00:00"
+    },
+    {
+      "titolo": "IONOS Website Builder in offerta: il tuo sito web gratis per un anno con dominio incluso",
+      "descrizione": "Crea il tuo sito web come vuoi grazie all'Intelligenza Artificiale grazie al website builder di IONOS, gratis per un intero anno. The post IONOS Website Builder in offerta: il tuo sito web gratis per un anno con dominio",
+      "link": "https://www.punto-informatico.it/ionos-website-builder-in-offerta-il-tuo-sito-web-gratis-per-un-anno-con-dominio-incluso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-05T20:51:37+00:00"
+    },
+    {
+      "titolo": "Nvidia CES 2026 keynote live blog — Jensen Huang takes the stage to reveal what's next for the AI company, but don't expect new consumer GPUs",
+      "descrizione": "Nvidia CEO Jensen Huang is set to take the stage at CES 2026, following a record year for the company. The keynote, held in Las Vegas, Nevada, is set to begin at 1 p.m PT, and we'll be covering it live, with the latest u",
+      "link": "https://www.tomshardware.com/news/live/nvidia-ces-2026-live-blog",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-05T20:45:54+00:00"
+    },
+    {
+      "titolo": "For the first time in 5 years, Nvidia will not announce any new GPUs at CES — company quashes RTX 50 Super rumors as AI expected to take center stage",
+      "descrizione": "Nvidia has just announced on X that its CES 2026 keynote will not include \"any new GPUs,\" breaking a five-year long streak of unveiling new hardware at every Las Vegas show. Instead, the company will focus on AI developm",
+      "link": "https://www.tomshardware.com/pc-components/gpus/for-the-first-time-in-5-years-nvidia-will-not-announce-any-new-gpus-at-ces-company-quashes-rtx-50-super-rumors-as-ai-expected-to-take-center-stage",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-05T19:21:25+00:00"
+    },
+    {
+      "titolo": "MediaTek unveils Filogic 8000 Wi-Fi 8 family at CES 2026 – new chipsets expected to arrive later this year",
+      "descrizione": "Wi-Fi 8 is the most exciting revision to the spec since the mid-2010s, and MediaTek is one of the first to announce real hardware for it.",
+      "link": "https://www.tomshardware.com/networking/mediatek-unveils-filogic-8000-wi-fi-8-family-at-ces-2026-new-chipsets-expected-to-arrive-later-this-year",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-05T19:04:34+00:00"
+    },
+    {
+      "titolo": "Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain",
+      "descrizione": "The new sensor-packed Smart Play Brick will land this spring as part of a special Star Wars collection. The update adds interactive lights and sound to the Lego experience—including the minifigs.",
+      "link": "https://www.wired.com/story/lego-smart-brick-new-digital-brain/",
+      "fonte": "WIRED",
+      "data": "2026-01-05T19:00:00+00:00"
+    },
+    {
+      "titolo": "Una casa senza lavori domestici esiste già: LG presenta il robot CLOiD",
+      "descrizione": "LG presenta CLOiD a CES 2026, un robot domestico AI per automatizzare le faccende",
+      "link": "https://www.hdblog.it/domotica/articoli/n643539/lg-cloid-robot-domestico-ces-2026-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-05T18:38:00+00:00"
+    },
+    {
+      "titolo": "Motorola Signature: il nuovo top di gamma senza segreti a un paio di giorni dal lancio",
+      "descrizione": "Adesso è come se fosse ufficiale, il prossimo smartphone premium di Motorola. Grazie alle informazioni raccolte e pubblicate su X dall’autorevole Evan Blass, Motorola Signature di fatto...",
+      "link": "https://www.hdblog.it/smartphone/articoli/n643557/motorola-signature-smartphone-specifiche-anteprima/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-05T18:37:00+00:00"
+    },
+    {
+      "titolo": "Dire grazie all’AI costa tanta energia: ecco cosa succede e qual è l'impatto",
+      "descrizione": "Ogni parola all’AI consuma energia ma l’educazione rende le risposte migliori.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n643574/perche-dire-grazie-ai-consuma-energia/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-05T18:36:00+00:00"
+    },
     {
       "titolo": "China’s top chip foundries move to consolidate as Beijing pushes semiconductor self-sufficiency — SMIC and Hua Hong Semiconductor deals pave the path to unified power",
       "descrizione": "China’s two largest pure-play foundries, SMIC and Hua Hong Semiconductor, are in the middle of significant consolidation efforts that demonstrate how industrial policy is reshaping the country’s chip sector.",
@@ -16,6 +142,20 @@
       "data": "2026-01-05T18:09:36+00:00"
     },
     {
+      "titolo": "Vivere oltre i 100 anni? Il segreto arriva dall’Europa preistorica",
+      "descrizione": "Uno studio genetico collega i centenari italiani ai primi abitanti d’Europa",
+      "link": "https://www.hdblog.it/curiosita/articoli/n643567/longevita-centenari-italia-dna-antico/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-05T17:50:00+00:00"
+    },
+    {
+      "titolo": "Nuova Volkswagen ID. Polo 2026: svelati interni e bagagliaio",
+      "descrizione": "Volkswagen ha fornito un'anticipazioni degli interni della nuova ID. Polo che presentano diverse interessanti novità",
+      "link": "https://www.hdmotori.it/volkswagen-id-polo-2026-interni-bagagliaio/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-05T17:22:00+00:00"
+    },
+    {
       "titolo": "ASUS ROG XREAL 1R: occhiali AR per il gaming",
       "descrizione": "Gli ASUS ROG XREAL R1 sono occhiali AR con schermi micro OLED (1080p a 240 Hz) per il gaming che possono essere collegati a PC e ROG Ally. The post ASUS ROG XREAL 1R: occhiali AR per il gaming appeared first on Punto Inf",
       "link": "https://www.punto-informatico.it/asus-rog-xreal-1r-occhiali-ar-gaming/",
@@ -28,146 +168,6 @@
       "link": "https://www.punto-informatico.it/chatgpt-sceglie-nome-figlio-genitori-derisi-web/",
       "fonte": "Punto Informatico",
       "data": "2026-01-05T17:05:28+00:00"
-    },
-    {
-      "titolo": "HP's new OmniBook Ultra 14 gets Panther Lake and Snapdragon X2 options inside — exclusive variant of Qualcomm chip has 85 TOPS",
-      "descrizione": "HP's new top-of-the-line consumer laptop is focused on slim AI performance with Qualcomm's new Snapdragon X2 chips and Intel's Panther Lake processors inside.",
-      "link": "https://www.tomshardware.com/laptops/hps-new-omnibook-ultra-14-gets-panther-lake-and-snapdragon-x2-options-inside-exclusive-variant-of-qualcomm-chip-has-85-tops",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-05T17:00:13+00:00"
-    },
-    {
-      "titolo": "La Russia brevetta una stazione spaziale rotante con gravità artificiale",
-      "descrizione": "Brevetto russo per una stazione rotante che simula la gravità e tutela la salute degli astronauti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643558/russia-stazione-spaziale-rotante-gravita-artificia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T16:55:00+00:00"
-    },
-    {
-      "titolo": "Aruba down: problemi di connessione in tutta Italia | Open Fiber risolto",
-      "descrizione": "Problemi segnalati in tutta Italia",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643633/aruba-open-fiber-down-problemi-connessione-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T16:54:00+00:00"
-    },
-    {
-      "titolo": "Nuova interfaccia per Amazon Fire TV e Alexa+ sul web",
-      "descrizione": "Amazon ha annunciato la nuova interfaccia di Fire TV con layout aggiornato che semplifica la ricerca dei contenuti, insieme alla versione web di Alexa+. The post Nuova interfaccia per Amazon Fire TV e Alexa+ sul web appe",
-      "link": "https://www.punto-informatico.it/nuova-interfaccia-amazon-fire-tv-alexa-plus-web/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T16:39:53+00:00"
-    },
-    {
-      "titolo": "Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis — fragile sector rocked by undersupply, which may end worse than the 2021 shortage",
-      "descrizione": "Due to DRAM demand and the rapid scale-up of AI infrastructure, the automotive industry faces a fresh chip crisis, which means that the industry stands on the precipice of a tightened supply, as stocks dwindle.",
-      "link": "https://www.tomshardware.com/tech-industry/chip-scarcity-assaults-auto-industry-amid-the-worsening-nexperia-and-dram-crisis",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-05T16:05:46+00:00"
-    },
-    {
-      "titolo": "Windows 11, FlyOOBE 2.4 permette di rimuovere l’AI Copilot",
-      "descrizione": "FlyOOBE si aggiorna alla versione 2.4 con strumenti avanzati per eliminare l'AI da Windows 11. La funzione si chiama ironicamente Slopilot. The post Windows 11, FlyOOBE 2.4 permette di rimuovere l’AI Copilot appeared fir",
-      "link": "https://www.punto-informatico.it/windows-11-flyoobe-2-4-rimuovere-ai-copilot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T15:59:56+00:00"
-    },
-    {
-      "titolo": "Alexa Plus debutta sul web in accesso anticipato, ma non in Italia",
-      "descrizione": "Ma quando arriva in Italia?",
-      "link": "https://www.hdblog.it/amazon/articoli/n643625/alexa-plus-web-accesso-anticipato/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T15:50:00+00:00"
-    },
-    {
-      "titolo": "Acciaio e robot umanoidi: maxi investimento coreano negli USA",
-      "descrizione": "POSCO investe in Persona AI per portare robot umanoidi nei siti industriali",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643554/robot-umanoidi-industria-pesante-posco-dx/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T15:40:00+00:00"
-    },
-    {
-      "titolo": "CES 2026: Samsung porterà Gemini su 800 milioni di dispositivi. Google festeggia",
-      "descrizione": "Samsung Electronics ha presentato la propria visione Companion to Ai Living in occasione di The First Look al Ces 2026. Ecco tutte le novità",
-      "link": "https://www.ilsole24ore.com/art/samsung-portera-gemini-800-milioni-dispositivi-google-festeggia-AIRb1Li",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-05T14:46:00+00:00"
-    },
-    {
-      "titolo": "Come liberare GB su Windows 11 senza installare nulla",
-      "descrizione": "Windows nasconde tre strumenti nativi per liberare spazio sul disco senza dover installare software esterni come CCleaner e altre app. The post Come liberare GB su Windows 11 senza installare nulla appeared first on Punt",
-      "link": "https://www.punto-informatico.it/come-liberare-gb-windows-11-senza-installare-nulla/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T14:35:36+00:00"
-    },
-    {
-      "titolo": "Withings Body Scan 2 ufficiale: la bilancia super smart AI | Prezzo",
-      "descrizione": "Prevenzione rivoluzionata.",
-      "link": "https://www.hdblog.it/home/articoli/n643620/withings-body-scan-2-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T14:35:00+00:00"
-    },
-    {
-      "titolo": "Developer turns floppy disks into secret black-and-white picture canvases — pbm2track \"paints\" pixel art into the disk's magnetic timing diagram",
-      "descrizione": "The pbm2track tool repurposes a floppy disk's track timing diagram into a secret tool for hiding pixel images.",
-      "link": "https://www.tomshardware.com/pc-components/storage/developer-turns-floppy-disks-into-secret-black-and-white-picture-canvases-pbm2track-paints-pixel-art-into-the-disks-magnetic-timing-diagram",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-05T14:34:54+00:00"
-    },
-    {
-      "titolo": "Le preferite: Nothing Ear (a) rimangono vincenti a prezzo minimo Amazon",
-      "descrizione": "Le Nothing Ear (a) sono auricolari Bluetooth che lasciano il segno: economiche ma dall'audio senza difetti e personalizzabile. The post Le preferite: Nothing Ear (a) rimangono vincenti a prezzo minimo Amazon appeared fir",
-      "link": "https://www.punto-informatico.it/le-preferite-nothing-ear-a-rimangono-vincenti-a-prezzo-minimo-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T14:18:04+00:00"
-    },
-    {
-      "titolo": "U.S. electricity grid stretches thin as data centers rush to turn on onsite generators — Meta, xAI, and other tech giants race to solve AI's insatiable power appetite",
-      "descrizione": "The AI infrastructure boom is pushing the national electricity grid to its limit, but artificial intelligence is too lucrative for companies to wait for a connection. So, they're taking the solution for their power suppl",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-electricity-grid-stretches-thin-as-data-centers-rush-to-turn-on-onsite-generators-meta-xai-and-other-tech-giants-race-to-solve-ais-insatiable-power-appetite",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-05T14:12:03+00:00"
-    },
-    {
-      "titolo": "Flop Vision Pro: Apple taglia la produzione",
-      "descrizione": "Apple ha tagliato la produzione e ridotto le spesa in pubblicità del 95%, considerato che il Vision Pro non diventerà mai un prodotto di massa. The post Flop Vision Pro: Apple taglia la produzione appeared first on Punto",
-      "link": "https://www.punto-informatico.it/flop-vision-pro-apple-taglia-produzione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T14:03:53+00:00"
-    },
-    {
-      "titolo": "Logitech Lift è il TRUCCO che chi passa tante ore al PC non svela (-39%)",
-      "descrizione": "Logitech Lift è il perfetto mouse con cui stare ore e ore davanti allo schermo: batteria infinita, angolazione da 57°. The post Logitech Lift è il TRUCCO che chi passa tante ore al PC non svela (-39%) appeared first on P",
-      "link": "https://www.punto-informatico.it/logitech-lift-e-il-trucco-che-chi-passa-tante-ore-al-pc-non-svela-39/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T14:03:13+00:00"
-    },
-    {
-      "titolo": "Non servono cuffie quando hai questi Occhiali da sole SMART: soli 39€",
-      "descrizione": "Gli occhiali da sole smart sono geniali con le loro funzioni che rimpiazzano gli auricolari: tanta autonomia e qualità. The post Non servono cuffie quando hai questi Occhiali da sole SMART: soli 39€ appeared first on Pun",
-      "link": "https://www.punto-informatico.it/non-servono-cuffie-quando-hai-questi-occhiali-da-sole-smart-soli-39e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T13:21:40+00:00"
-    },
-    {
-      "titolo": "JBL Flip 7: il potente speaker Bluetooth è al minimo storico (-30%)",
-      "descrizione": "Sconto del 30% e minimo storico per lo speaker Bluetooth JBL Flip 7 con AI Boost e 16 ore di autonomia.",
-      "link": "https://www.hdblog.it/hardware/offerte/n643607/jbl-flip-7-potente-speaker-bluetooth-sconto/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T13:16:00+00:00"
-    },
-    {
-      "titolo": "Blu-ray compie 20 anni e resiste, alla faccia dello streaming!",
-      "descrizione": "Tanti auguri e figli \"fisici\"!",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n643599/blu-ray-compie-20-anni/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T13:15:00+00:00"
-    },
-    {
-      "titolo": "Samsung al CES 2026 con “Companion to AI Living”: trasforma il quotidiano",
-      "descrizione": "Concretezza, oltre al marketing.",
-      "link": "https://www.hdblog.it/samsung/articoli/n643593/samsung-al-ces-2026-companion-to-ai-living/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-05T12:10:00+00:00"
     }
   ]
 }

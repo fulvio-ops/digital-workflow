@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-05T18:50:02.456137+00:00",
+  "last_updated": "2026-01-06T02:28:09.601588+00:00",
   "items": [
     {
-      "titolo": "China’s top chip foundries move to consolidate as Beijing pushes semiconductor self-sufficiency — SMIC and Hua Hong Semiconductor deals pave the path to unified power",
-      "descrizione": "China’s two largest pure-play foundries, SMIC and Hua Hong Semiconductor, are in the middle of significant consolidation efforts that demonstrate how industrial policy is reshaping the country’s chip sector.",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-top-chip-foundries-move-to-consolidate",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-05T18:10:28+00:00",
+      "titolo": "Nvidia: «Il momento ChatGPT della robotica è arrivato»",
+      "descrizione": "Nvidia ha rilasciato una nuova generazione di modelli disponibili pensati per evitare agli sviluppatori la parte più costosa e lenta: la pre-formazione da zero.",
+      "link": "https://www.ilsole24ore.com/art/nvidia-il-momento-chatgpt-robotica-e-arrivato-AIjctxi",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-05T22:40:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,20 +18,12 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini porta Nano Banana e Veo su Google TV",
-      "descrizione": "Google ha annunciato nuove funzionalità di Gemini su Google TV, tra cui quelle che permettono di creare e modificare immagini e video con Nano Banana e Veo. The post Gemini porta Nano Banana e Veo su Google TV appeared f",
-      "link": "https://www.punto-informatico.it/gemini-porta-nano-banana-veo-google-tv/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-05T18:09:36+00:00",
+      "titolo": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
+      "descrizione": "Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas.",
+      "link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
+      "fonte": "WIRED",
+      "data": "2026-01-05T21:00:00+00:00",
       "modello": "gemini"
-    },
-    {
-      "titolo": "Dev uses Claude AI to write a ‘functional NES emulator’ — you can test it now, playing Donkey Kong in your browser",
-      "descrizione": "A developer has succeeded in prompting Claude to write 'a functional NES emulator.'",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/dev-uses-claude-ai-to-write-a-functional-nes-emulator-you-can-test-it-now-playing-donkey-kong-in-your-browser",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-02T12:00:00+00:00",
-      "modello": "claude"
     }
   ]
 }
