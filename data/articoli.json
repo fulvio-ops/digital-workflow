@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-01-06T18:48:32.785092+00:00",
+  "last_updated": "2026-01-07T02:28:20.646691+00:00",
   "items": [
+    {
+      "titolo": "Ces 2026: PC mutanti, occhiali e AI ovunque: ecco i prototipi di Lenovo",
+      "descrizione": "LAS VEGAS (Usa) - I proof of concept Lenovo non servono a vendere. Servono a orientare. Il più scenografico presentato al Consumer Electronic Show di Las Vegas è il ThinkPad...",
+      "link": "https://www.ilsole24ore.com/art/ces-2026-pc-mutanti-occhiali-e-ovunque-ecco-prototipi-lenovo-AIla5rg",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-07T01:32:00+00:00"
+    },
+    {
+      "titolo": "Il calcio entra nell’era dell’AI: al Mondiale 2026 allenatori, arbitri e tifosi guidati dai dati",
+      "descrizione": "Lenovo e FIFA annunciano soluzioni tecnologiche basate sull’AI per operazioni intelligenti, supporto a giocatori e allenatori e fan experience più immersive alla FIFA World Cup 2026",
+      "link": "https://www.ilsole24ore.com/art/il-calcio-entra-nell-era-dell-ai-mondiale-2026-allenatori-arbitri-e-tifosi-guidati-dati-AI94jzi",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-07T01:29:51+00:00"
+    },
+    {
+      "titolo": "Lenovo al CES 2026: il PC diventa una macchina intelligente, nasce Qira",
+      "descrizione": "Al Tech World quest’anno al Ces di Las Vegas, Lenovo presenta Qira, l’AI personale che vive tra dispositivi, l’obiettivo è uno solo: portare l’intelligenza artificiale integrata nella macchina",
+      "link": "https://www.ilsole24ore.com/art/lenovo-ces-2026-pc-diventa-macchina-intelligente-e-finalmente-utile-AIzjIrg",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-07T01:25:00+00:00"
+    },
+    {
+      "titolo": "Lenovo brings handheld-favorite SteamOS to the flagship Legion Go 2 — the AMD Z2 Extreme gets official SteamOS support for the first time",
+      "descrizione": "Lenovo is bringing official SteamOS support to AMD’s Ryzen Z2 Extreme processor for the first time with an updated Legion Go 2.",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-brings-handheld-favorite-steamos-to-the-flagship-legion-go-2-the-amd-z2-extreme-gets-official-steamos-support-for-the-first-time",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-07T01:00:11+00:00"
+    },
+    {
+      "titolo": "Nvidia CEO Jensen Huang says \"the future is neural rendering\" at CES 2026, teasing DLSS advancements — RTX 5090 could represent the pinnacle of traditional raster",
+      "descrizione": "During a Q&A at CES 2025, Nvidia CEO Jensen Huang says that the future of graphics is neural rendering, and that the company is \"working on things in the lab that are just utterly shocking and incredible.\"",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-says-the-future-is-neural-rendering-at-ces-2026-teasing-dlss-advancements-rtx-5090-could-represent-the-pinnacle-of-traditional-raster",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T23:16:36+00:00"
+    },
+    {
+      "titolo": "AMD hints at officially open-sourcing FSR 4 upscaling and frame generation technology in the wake of accidental release — accidental release may have forced the company's hand",
+      "descrizione": "AMD hints at officially open-sourcing FSR 4",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-hints-at-officially-open-sourcing-fsr-4-upscaling-and-frame-generation-technology-in-the-wake-of-accidental-release-accidental-release-may-have-forced-the-companys-hand",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T22:36:49+00:00"
+    },
+    {
+      "titolo": "Nvidia CEO Jensen Huang says robots could be 'AI immigrants' that can address labor shortages — can 'do the type of work that maybe we decided not to do anymore'",
+      "descrizione": "Jensen Huang, CEO of Nvidia, said that a wave of robots will serve as \"AI immigrants\" to drive the economy and do the jobs others don't want to do.",
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-says-robots-are-ai-immigrants-that-can-address-labor-shortages-can-do-the-type-of-work-that-maybe-we-decided-not-to-do-anymore",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T22:14:18+00:00"
+    },
+    {
+      "titolo": "Nvidia says H200 demand in China is 'very high' as export licenses near completion — a month after the green light, Huang has high hopes for China buy-in despite political sensitivity",
+      "descrizione": "Nvidia says demand in China for its H200 data center GPU is “very high,” as it works through the final stages of U.S. export licensing, according to comments from Jensen Huang at CES 2026.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-says-h200-demand-in-china-is-very-high-as-export-licenses-near-completion",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T21:43:24+00:00"
+    },
+    {
+      "titolo": "CEO Jensen Huang says Nvidia could potentially resurrect old GPUs to address shortages and high pricing — adding performance-boosting advanced AI features to older architectures is also on the table",
+      "descrizione": "Nvidia CEO Jensen Huang says there are options on the table for easing GPU pricing pressures, including bringing newer AI features to older hardware.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-non-committal-on-plans-to-solve-gpu-pricing-squeeze-ceo-jensen-huang-floats-bringing-ai-tech-to-older-models",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T21:20:44+00:00"
+    },
+    {
+      "titolo": "Apple TV inizia il 2026 alla grande: 4 attesi ritorni a gennaio",
+      "descrizione": "Per il servizio streaming Apple TV il 2026 inizierà nel migliore dei modi. Durante il mese di gennaio, infatti, sono attesi quattro ritorni in grande stile: su tutti Hijack, la serie tv con protagonista Idris Elba, pront",
+      "link": "https://www.punto-informatico.it/apple-tv-inizia-il-2026-alla-grande-4-attesi-ritorni-a-gennaio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-06T20:10:36+00:00"
+    },
+    {
+      "titolo": "The 57 Best Shows on Disney+, WIRED’s Picks (January 2026)",
+      "descrizione": "The End of an Era, Percy Jackson and the Olympians, and The Beatles Anthology are just a few of the shows you should be watching on Disney+ this month.",
+      "link": "https://www.wired.com/story/best-shows-disney-plus/",
+      "fonte": "WIRED",
+      "data": "2026-01-06T20:00:00+00:00"
+    },
+    {
+      "titolo": "These Luxurious Headphones Are Almost Half Off",
+      "descrizione": "The Bowers & Wilkins Px8 feature premium materials and luxurious sound.",
+      "link": "https://www.wired.com/story/bowers-wilkins-px8-deal-126/",
+      "fonte": "WIRED",
+      "data": "2026-01-06T19:33:59+00:00"
+    },
+    {
+      "titolo": "Community tests confirm DLSS 4.5 yields 20%+ performance loss on older RTX 30 and 20 series GPUs compared to DLSS 4.0 — Nvidia warnings ring true following rollout",
+      "descrizione": "DLSS 4.5 testing by enthusiasts has revealed a 20% or greater performance reduction compared to DLSS 4.0 on RTX 20- and 30-series GPUs.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/community-tests-confirm-dlss-4-5-yields-20-percent-performance-loss-on-older-rtx-30-and-20-series-gpus-compared-to-dlss-4-0-nvidia-warnings-ring-true-following-rollout",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T19:25:26+00:00"
+    },
+    {
+      "titolo": "Corsair's Galleon 100 SD is an LED-lit keyboard with a built-in Stream Deck — $349 offering includes 720 x 180 screen, dials, and more",
+      "descrizione": "Describing the Galleon in one sentence is simple: it's a near-full-sized keyboard, except the usual numeric pad is instead an Elgato Stream Deck.",
+      "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/corsairs-galleon-100-sd-is-an-led-lit-keyboard-with-a-built-in-stream-deck-usd349-offering-includes-720-x-180-screen-dials-and-more",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-06T19:06:31+00:00"
+    },
+    {
+      "titolo": "Meta frena i Ray-Ban Display in Europa: domanda troppo alta",
+      "descrizione": "Meta rinvia l’arrivo dei Ray-Ban Display in Europa per domanda elevata e poche scorte",
+      "link": "https://www.hdblog.it/indossabili/articoli/n643688/meta-ray-ban-display-ritardo-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T18:33:00+00:00"
+    },
+    {
+      "titolo": "Galaxy Buds 4 Pro: Samsung cambia il design e introduce un colore originale",
+      "descrizione": "Ancora una volta dalla beta di One UI 8.5 arrivano anticipazioni.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n643682/samsung-galaxy-buds-4-pro-apricot-colore-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T18:31:00+00:00"
+    },
     {
       "titolo": "This portable power station kept my essentials running during a snowstorm outage",
       "descrizione": "I tested the EcoFlow Delta 3 Max Plus during a recent power outage, and it didn't flinch, even in cold weather.",
@@ -16,11 +128,25 @@
       "data": "2026-01-06T17:56:00+00:00"
     },
     {
+      "titolo": "CES 2026: Jackery lancia un robot solare autonomo e un gazebo fotovoltaico",
+      "descrizione": "Un robot solare che ti segue e fornisce energia, presentato da Jackery al CES 2026.",
+      "link": "https://www.hdblog.it/domotica/articoli/n643693/jackery-robot-solare-ces-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T17:55:00+00:00"
+    },
+    {
       "titolo": "Nvidia's focus on rack-scale AI systems is a portent for the year to come — Rubin points the way forward for company, as data center business booms",
       "descrizione": "Nvidia's CES keynote was notably not consumer-focused. Instead, the company detailed its booming data center business, with a deeper look at its NVL72 Rubin platform.",
       "link": "https://www.tomshardware.com/tech-industry/nvidia-skips-new-gpus-at-ces-2026-as-its-roadmap-shifts-toward-rack-scale-ai-systems",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-06T17:45:40+00:00"
+    },
+    {
+      "titolo": "AFEELA 1, l'auto elettrica di Honda e Sony al CES 2026. Prime consegne entro fine anno",
+      "descrizione": "Sony Honda Mobility ha svelato anche il concept di un SUV che sarà lanciato negli Stati Uniti nel 2028",
+      "link": "https://www.hdmotori.it/sony-honda-mobility-afeela-1-ces-2026-las-vegas/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-06T17:10:00+00:00"
     },
     {
       "titolo": "Robot per ogni compito? Nvidia costruisce la piattaforma universale",
@@ -37,137 +163,11 @@
       "data": "2026-01-06T16:27:50+00:00"
     },
     {
-      "titolo": "Use Google AI Overview for health advice? It's 'really dangerous,' investigation finds",
-      "descrizione": "Google's AI in Search served up false and misleading health information, according to an investigation by The Guardian.",
-      "link": "https://www.zdnet.com/article/google-ai-overview-search-health-advice-risk-investigation/",
-      "fonte": "Latest news",
-      "data": "2026-01-06T16:01:41+00:00"
-    },
-    {
       "titolo": "XREAL scommette su Android XR e stringe alleanza con Google",
       "descrizione": "XREAL annuncia al CES 2026 una partnership rafforzata con Google su Android XR.",
       "link": "https://www.hdblog.it/indossabili/articoli/n643707/xreal-google-android-xr-ces-2026/",
       "fonte": "HDblog.it",
       "data": "2026-01-06T15:55:00+00:00"
-    },
-    {
-      "titolo": "HyperX OMEN MAX 16: notebook gaming più potente",
-      "descrizione": "HyperX è il nuovo brand usato da HP per gli OMEN MAX 16, OMEN 15 e OMEN 16, tre nuovi gaming laptop annunciati al CES 2026 di Las Vegas. The post HyperX OMEN MAX 16: notebook gaming più potente appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/hyperx-omen-max-16-notebook-gaming-piu-potente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-06T15:19:36+00:00"
-    },
-    {
-      "titolo": "China’s GPU cloud consolidates around Baidu and Huawei as domestic AI chips scale up — export controls leave gap open for homegrown solutions",
-      "descrizione": "China’s GPU cloud market is consolidating rapidly around a small number of domestic champions, with Baidu and Huawei emerging as the clear leaders, as access to Nvidia’s most advanced accelerators remains restricted.",
-      "link": "https://www.tomshardware.com/tech-industry/chinas-gpu-cloud-consolidates-around-baidu-and-huawei-as-domestic-ai-chips-scale-up",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T15:13:25+00:00"
-    },
-    {
-      "titolo": "CES 2026 Day 0: Nvidia debuts DLSS 4.5, Ryzen 7 9850X3D aims for desktop gaming glory, Intel Panther Lake arrives",
-      "descrizione": "CES 2026 is off to a fast start, with a flurry of announcements coming in from your favorite tech companies",
-      "link": "https://www.tomshardware.com/pc-components/cpus/ces-2026-day-zero-nvidia-debuts-dlss-4-5-ryzen-7-9850x3d-aims-for-desktop-gaming-glory-intel-panther-lake-arrives",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T15:07:25+00:00"
-    },
-    {
-      "titolo": "Xbox Game Pass comincia ad arrivare su Google TV",
-      "descrizione": "Xbox Game Pass debutta su Google TV con il nuovo top di gamma TCL.",
-      "link": "https://www.hdblog.it/google/articoli/n643678/xbox-game-pass-google-tv-tcl/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T15:05:00+00:00"
-    },
-    {
-      "titolo": "Intelligenza artificiale e mobilità smart: le soluzioni Bosch al CES 2026",
-      "descrizione": "Bosch guarda al futuro a CES 2026 mostrando come software e hardware possano lavorare insieme per ottenere grandi risultati in diversi ambiti",
-      "link": "https://www.hdmotori.it/bosch-ces-2026-las-vegas-innovazioni-ia-cockpit-mal-dauto-mems-guida-autonoma/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T14:30:37+00:00"
-    },
-    {
-      "titolo": "Meta frena i Ray-Ban Display in Europa: domanda troppo alta",
-      "descrizione": "Meta rinvia l’arrivo dei Ray-Ban Display in Europa per domanda elevata e poche scorte",
-      "link": "https://www.hdblog.it/indossabili/articoli/n643688/meta-ray-ban-display-ritardo-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T13:35:00+00:00"
-    },
-    {
-      "titolo": "Gigabyte's Aorus RTX 5090 Infinity takes aim at Asus' ROG Matrix — superconducting heatpipes, 'Windforce Hyperburst' cooling brings 'penetrating airflow' to both sides of the card",
-      "descrizione": "Gigabyte’s latest Aorus flagship GPU combines a double flow-through design, advanced thermal materials, and a reduced footprint.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/gigabytes-aorus-rtx-5090-infinity-takes-aim-at-asus-rog-matrix-superconducting-heatpipes-windforce-hyperburst-cooling-brings-penetrating-airflow-to-both-sides-of-the-card",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T13:27:39+00:00"
-    },
-    {
-      "titolo": "Samsung presenta i Neo QLED 2026: meno modelli ma qualità superiore",
-      "descrizione": "Samsung svela i Neo QLED 2026: nuove tecnologie, gaming potenziato e lineup più compatta",
-      "link": "https://www.hdblog.it/samsung/articoli/n643690/samsung-neo-qled-2026-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T13:20:00+00:00"
-    },
-    {
-      "titolo": "Dell rinnova la gamma al CES 2026: le novità ufficiali alla fiera tech",
-      "descrizione": "Al CES 2026 Dell ha presentato un ampio rinnovamento della propria offerta, con nuovi notebook XPS, l’espansione della gamma Alienware e monitor UltraSharp dedicati ai professionisti.",
-      "link": "https://www.hdblog.it/portatili/articoli/n643603/dell-le-novita-del-ces-2026-quali/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T13:01:00+00:00"
-    },
-    {
-      "titolo": "Thermaltake goes retro at CES 2026, shows off liquid cooler with CRT-themed display and 80s-style PC cases",
-      "descrizione": "The nostalgia hits hard with Thermaltake's new products",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/thermaltake-goes-retro-at-ces-2026-shows-off-liquid-cooler-with-crt-themed-display-and-80s-style-pc-cases",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T13:00:00+00:00"
-    },
-    {
-      "titolo": "Nvidia presenta Vera Rubin al CES 2026: ecco la nuova piattaforma AI",
-      "descrizione": "Nvidia lancia Vera Rubin, piattaforma AI cinque volte più potente di Blackwell.",
-      "link": "https://www.hdblog.it/hardware/articoli/n643665/nvidia-vera-rubin-ces-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T12:35:00+00:00"
-    },
-    {
-      "titolo": "iPhone 17e, produzione al via presto: Dynamic Island, chip A19 e 256 GB base",
-      "descrizione": "Ecco cosa possiamo aspettarci secondo i prossimi rumor.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n643686/iphone-17e-a19-dynamic-island-2026-produzione-chip/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T12:25:00+00:00"
-    },
-    {
-      "titolo": "CES 2026: Qualcomm svela lo Snapdragon X2 Plus",
-      "descrizione": "Qualcomm ha annunciato il nuovo Snapdragon X2 Plus, terzo processore della serie che verrà utilizzato nei notebook economici con Windows 11 26H1. The post CES 2026: Qualcomm svela lo Snapdragon X2 Plus appeared first on",
-      "link": "https://www.punto-informatico.it/ces-2026-qualcomm-svela-snapdragon-x2-plus/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-06T11:40:58+00:00"
-    },
-    {
-      "titolo": "Samsung The Frame e Frame Pro 2026: più tagli, stessa filosofia",
-      "descrizione": "The Frame 2026 si espande nei formati ma senza upgrade del pannello",
-      "link": "https://www.hdblog.it/samsung/articoli/n643658/samsung-tv-the-frame-2026-ces/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T11:35:00+00:00"
-    },
-    {
-      "titolo": "La supercar elettrica di Dreame ha debuttato al CES 2026: 4 motori elettrici e 1.900 CV",
-      "descrizione": "L'obiettivo è quello di lanciare sul mercato la sua prima supercar elettrica entro il 2027",
-      "link": "https://www.hdmotori.it/supercar-elettrica-dreame-kosmera-ces-2026-motori-prestazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T11:30:51+00:00"
-    },
-    {
-      "titolo": "Red Magic 11 Air passa da Geekbench: prime conferme su design e specifiche",
-      "descrizione": "Un'estetica trasparente che richiama i Nothing Phone.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n643684/red-magic-11-air-specifiche-design-certificazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T11:15:00+00:00"
-    },
-    {
-      "titolo": "Galaxy Buds 4 Pro: Samsung cambia il design e introduce un colore originale",
-      "descrizione": "Ancora una volta dalla beta di One UI 8.5 arrivano anticipazioni.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n643682/samsung-galaxy-buds-4-pro-apricot-colore-design/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-06T11:05:00+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T18:48:35.989082+00:00",
+  "last_updated": "2026-01-07T02:28:24.439507+00:00",
   "items": [
     {
       "titolo": "Best VPNs for streaming of 2026: Expert tested and reviewed",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "AMD's Ryzen AI 400 series includes the first Copilot+ desktop CPU — Team Red refreshes Zen 5 APUs and Strix Halo",
-      "descrizione": "AMD’s new Ryzen AI 400 ‘Gorgon Point’ APUs are primarily driven by a clock speed bump, featuring similar silicon as the previous generation otherwise.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amds-ryzen-ai-400-series-includes-the-first-copilot-desktop-cpu-team-red-refreshes-zen-5-apus-and-strix-halo",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-06T03:30:41+00:00",
+      "titolo": "No, Microsoft Office was not renamed Microsoft 365 Copilot - here's why you're confused",
+      "descrizione": "With Microsoft's bewildering naming conventions, the mistake is easy to make. But Office is still Office, at least when it's not Microsoft 365.",
+      "link": "https://www.zdnet.com/article/microsoft-office-not-renamed-microsoft-365-copilot-confusion/",
+      "fonte": "Latest news",
+      "data": "2026-01-06T21:09:49+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Use Google AI Overview for health advice? It's 'really dangerous,' investigation finds",
-      "descrizione": "Google's AI in Search served up false and misleading health information, according to an investigation by The Guardian.",
-      "link": "https://www.zdnet.com/article/google-ai-overview-search-health-advice-risk-investigation/",
-      "fonte": "Latest news",
-      "data": "2026-01-06T16:01:41+00:00",
+      "titolo": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
+      "descrizione": "Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas.",
+      "link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
+      "fonte": "WIRED",
+      "data": "2026-01-05T21:00:00+00:00",
       "modello": "gemini"
     }
   ]
