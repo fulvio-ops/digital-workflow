@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-08T13:08:51.940977+00:00",
+  "last_updated": "2026-01-08T18:48:26.739327+00:00",
   "items": [
     {
-      "titolo": "Musk contro OpenAI: il processo si farà, sangue chiama sangue",
-      "descrizione": "Vittoria legale per Elon Musk. La giudice Yvonne Gonzalez Rogers autorizza il processo con la giuria contro OpenAI a marzo 2026. The post Musk contro OpenAI: il processo si farà, sangue chiama sangue appeared first on Pu",
-      "link": "https://www.punto-informatico.it/musk-contro-openai-processo-si-fara-sangue-chiama-sangue/",
+      "titolo": "10 motivi concreti per cui Gemini batte ChatGPT",
+      "descrizione": "Confronto tra ChatGPT di OpenAI e Gemini di Google per la produttività quotidiana e perché scegliere il chatbot AI di Big G. The post 10 motivi concreti per cui Gemini batte ChatGPT appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/10-motivi-concreti-gemini-batte-chatgpt/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-08T12:56:21+00:00",
+      "data": "2026-01-08T16:30:23+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Your Gmail is getting an AI makeover - here's what to expect and when",
-      "descrizione": "Google is aggressively pushing Gemini across its apps and services in order to maintain an edge in the AI race. Your email won't ever be the same.",
-      "link": "https://www.zdnet.com/article/gmail-ai-overhaul-overviews-proofread-inbox-what-to-expect/",
+      "titolo": "I tried Gemini's 'scheduled actions' to automate my AI - the potential is enormous (but Google has work to do)",
+      "descrizione": "Here's what you can and cannot automate today via Gemini, including 15 ideas to use as starting points - and a bonus banana in a raincoat with an umbrella.",
+      "link": "https://www.zdnet.com/article/google-gemini-scheduled-actions-hot-to-automate-ai/",
       "fonte": "Latest news",
-      "data": "2026-01-08T13:00:47+00:00",
+      "data": "2026-01-08T16:49:29+00:00",
       "modello": "gemini"
     }
   ]
