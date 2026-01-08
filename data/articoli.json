@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-01-07T18:51:24.619384+00:00",
+  "last_updated": "2026-01-08T02:28:14.513845+00:00",
   "items": [
+    {
+      "titolo": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
+      "descrizione": "A WIRED review of outputs hosted on Grok’s official website shows it’s being used to create violent sexual images and videos, as well as content that includes apparent minors.",
+      "link": "https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/",
+      "fonte": "WIRED",
+      "data": "2026-01-07T21:47:56+00:00"
+    },
+    {
+      "titolo": "La data di presentazione dei Galaxy S26 è praticamente confermata",
+      "descrizione": "Si sbilanciano i grandi nomi del settore",
+      "link": "https://www.hdblog.it/smartphone/articoli/n643741/samsung-galaxy-s26-series-data-presentazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-07T18:29:00+00:00"
+    },
+    {
+      "titolo": "Abbiamo varcato la soglia della singolarità tecnologica, parola di Elon Musk",
+      "descrizione": "Musk parla di Singolarità tecnologica dopo il round record di xAI",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n643812/elon-musk-singolarita-tecnologica-ai-robotica/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-07T18:27:00+00:00"
+    },
+    {
+      "titolo": "TIM, Fastweb + Vodafone: accordo preliminare per condividere le reti 5G",
+      "descrizione": "Avviata una cooperazione per lo sviluppo delle reti di accesso mobile attraverso un modello di Radio Access Network (RAN) sharing",
+      "link": "https://www.hdblog.it/tim/articoli/n643717/tim-fastweb-vodafone-accordo-reti-5g/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-07T18:25:00+00:00"
+    },
+    {
+      "titolo": "Ikea lancia Kallsup, lo speaker da 10 euro che suona più forte del previsto",
+      "descrizione": "Kallsup è il nuovo speaker Bluetooth Ikea da 10 euro, piccolo, colorato e modulare",
+      "link": "https://www.hdblog.it/tv/articoli/n643822/ikea-kallsup-speaker-bluetooth-10-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-07T18:24:00+00:00"
+    },
     {
       "titolo": "Kena Mobile, fino a 200 GB in 5G a 5,99€ al mese: inizia il 2026 risparmiando",
       "descrizione": "Kena Mobile lancia l’offerta 5G: fino a 200 Giga, minuti illimitati e 200 SMS a 5,99 euro al mese. Ma soltanto per chi proviene da specifici operatori. The post Kena Mobile, fino a 200 GB in 5G a 5,99€ al mese: inizia il",
@@ -44,11 +79,25 @@
       "data": "2026-01-07T17:25:00+00:00"
     },
     {
+      "titolo": "Xiaomi SU7 si aggiorna per il 2026, ecco come cambia: più potenza e autonomia",
+      "descrizione": "La berlina elettrica di Xiaomi riceve un importante aggiornamento che va a migliorare diversi aspetti come prestazioni, ricarica e autonomia",
+      "link": "https://www.hdmotori.it/xiaomi-su7-2026-aggiornamento-novita-motori-autonomia-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-07T17:22:00+00:00"
+    },
+    {
       "titolo": "Una ex miniera diventa un colosso solare da record negli Stati Uniti",
       "descrizione": "Un’ex miniera di carbone rinasce come il più grande impianto solare del Maryland",
       "link": "https://www.hdblog.it/green/articoli/n643714/ex-miniera-carbone-impianto-solare-maryland/",
       "fonte": "HDblog.it",
       "data": "2026-01-07T17:15:00+00:00"
+    },
+    {
+      "titolo": "World Car of the Year 2026, ecco le auto finaliste: niente da fare per l'Alfa Romeo Junior",
+      "descrizione": "Il premio sarà assegnato al Salone dell'Auto di New York; nella lista delle finaliste del World Car of the Year 2026 non c'è alcun modello italiano",
+      "link": "https://www.hdmotori.it/world-car-of-the-year-2026-auto-finaliste-elenco-modelli/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-07T17:12:00+00:00"
     },
     {
       "titolo": "Paramount, niente da fare: Warner Bros. la rifiuta per l'ottava volta",
@@ -119,55 +168,6 @@
       "link": "https://www.punto-informatico.it/engie-abbassa-i-prezzi-di-luce-e-gas-invece-di-alzarli-bloccali-per-due-anni/",
       "fonte": "Punto Informatico",
       "data": "2026-01-07T15:45:05+00:00"
-    },
-    {
-      "titolo": "HP al CES 2026: tutte le novità presentate per produttività e gaming",
-      "descrizione": "C'è anche EliteBook X G2.",
-      "link": "https://www.hdblog.it/portatili/articoli/n643814/hp-ces-2026-tastiera-pc-ai-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-07T15:35:00+00:00"
-    },
-    {
-      "titolo": "CES 2026: nuovi Lenovo ThinkPad X1 e X9",
-      "descrizione": "Lenovo ha annunciato nuovi notebook della serie ThinkPad X1 e X9 al CES 2026, insieme ad un ThinkBook Plus con rotazione automatica dello schermo. The post CES 2026: nuovi Lenovo ThinkPad X1 e X9 appeared first on Punto",
-      "link": "https://www.punto-informatico.it/ces-2026-nuovi-lenovo-thinkpad-x1-x9/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-07T15:28:33+00:00"
-    },
-    {
-      "titolo": "Qualcomm e ZF sviluppano una piattaforma ADAS per la guida autonoma fino al Livello 3",
-      "descrizione": "Una nuova piattaforma scalabile per la guida autonoma, ma il futuro dell’accordo resta incerto.",
-      "link": "https://www.hdmotori.it/accordo-qualcomm-zf-piattaforma-adas-guida-autonoma/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-07T15:00:40+00:00"
-    },
-    {
-      "titolo": "Ikea lancia Kallsup, lo speaker da 10 euro che suona più forte del previsto",
-      "descrizione": "Kallsup è il nuovo speaker Bluetooth Ikea da 10 euro, piccolo, colorato e modulare",
-      "link": "https://www.hdblog.it/tv/articoli/n643822/ikea-kallsup-speaker-bluetooth-10-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-07T14:50:00+00:00"
-    },
-    {
-      "titolo": "Stop alle chat libere su Roblox: serve la verifica dell’età",
-      "descrizione": "Roblox attiva in tutto il mondo la verifica dell'età per le chat con riconoscimento facciale per limitare i contatti tra adulti e minori. The post Stop alle chat libere su Roblox: serve la verifica dell’età appeared firs",
-      "link": "https://www.punto-informatico.it/stop-chat-libere-roblox-verifica-eta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-07T14:11:17+00:00"
-    },
-    {
-      "titolo": "Ces 2026: Motorola con serie Signature e Razr dà la caccia al pubblico giovane e ai creativi",
-      "descrizione": "CCon il lancio della nuova serie Signature e del Razr Fold, puntano direttamente al cuore del segmento premium, quello dove i margini sono alti e la competizione è una giungla.",
-      "link": "https://www.ilsole24ore.com/art/ces-2026-motorola-serie-signature-e-razr-da-caccia-pubblico-giovane-e-creativi-AI1dP3h",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-07T14:06:00+00:00"
-    },
-    {
-      "titolo": "CES 2026: Motorola signature e moto watch",
-      "descrizione": "Motorola ha annunciato al CES 2026 lo smartphone signature con schermo AMOLED da 6,8 pollici e lo smartwatch moto watch con schermo OLED da 1,43 pollici. The post CES 2026: Motorola signature e moto watch appeared first",
-      "link": "https://www.punto-informatico.it/ces-2026-motorola-signature-moto-watch/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-07T13:53:39+00:00"
     }
   ]
 }

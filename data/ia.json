@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-07T18:51:29.546329+00:00",
+  "last_updated": "2026-01-08T02:28:18.762504+00:00",
   "items": [
     {
-      "titolo": "Best VPNs for streaming of 2026: Expert tested and reviewed",
-      "descrizione": "Check out our favorite VPNs for rapid speeds, high server counts, and access to streaming libraries when you leave home.",
-      "link": "https://www.zdnet.com/article/best-streaming-vpn/",
+      "titolo": "Use ChatGPT for medical advice? Try its new Health mode - here's how",
+      "descrizione": "ChatGPT Health is OpenAI's new 'dedicated experience' that taps into your medical records for all your health questions. Here's how it works.",
+      "link": "https://www.zdnet.com/article/openai-chatgpt-health-mode/",
       "fonte": "Latest news",
-      "data": "2026-01-07T17:44:00+00:00",
+      "data": "2026-01-07T22:36:41+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Apple's biggest Siri update in years could arrive this March - but will it be enough?",
-      "descrizione": "Likely arriving with iOS 26.4, the so-called LLM Siri promises to act more like ChatGPT and Gemini. But will Apple finally succeed this time around?",
-      "link": "https://www.zdnet.com/article/new-siri-release-date/",
-      "fonte": "Latest news",
-      "data": "2026-01-07T16:13:43+00:00",
+      "titolo": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
+      "descrizione": "Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas.",
+      "link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
+      "fonte": "WIRED",
+      "data": "2026-01-05T21:00:00+00:00",
       "modello": "gemini"
     }
   ]
