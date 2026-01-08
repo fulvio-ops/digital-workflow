@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-08T02:28:18.762504+00:00",
+  "last_updated": "2026-01-08T06:52:05.910942+00:00",
   "items": [
     {
-      "titolo": "Use ChatGPT for medical advice? Try its new Health mode - here's how",
-      "descrizione": "ChatGPT Health is OpenAI's new 'dedicated experience' that taps into your medical records for all your health questions. Here's how it works.",
-      "link": "https://www.zdnet.com/article/openai-chatgpt-health-mode/",
-      "fonte": "Latest news",
-      "data": "2026-01-07T22:36:41+00:00",
+      "titolo": "OpenAI lancia ChatGPT Salute, lo sconsiglia per diagnosi mediche",
+      "descrizione": "OpenAI lancia ChatGPT Salute, uno spazio dedicato per conversazioni sul benessere. Ma non va usato per diagnosi mediche o trattamenti. The post OpenAI lancia ChatGPT Salute, lo sconsiglia per diagnosi mediche appeared fi",
+      "link": "https://www.punto-informatico.it/openai-chatgpt-salute-lo-sconsiglia-diagnosi-mediche/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-08T05:37:22+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
-      "descrizione": "Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas.",
-      "link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
-      "fonte": "WIRED",
-      "data": "2026-01-05T21:00:00+00:00",
+      "titolo": "Google Classroom trasforma le lezioni in podcast grazie a Gemini",
+      "descrizione": "Google Classroom integra Gemini per creare podcast didattici personalizzati. Gli insegnanti scelgono stile, livello scolastico e obiettivi. The post Google Classroom trasforma le lezioni in podcast grazie a Gemini appear",
+      "link": "https://www.punto-informatico.it/google-classroom-trasforma-lezioni-podcast-gemini/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-08T06:01:25+00:00",
       "modello": "gemini"
     }
   ]
