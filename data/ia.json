@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-08T18:48:26.739327+00:00",
+  "last_updated": "2026-01-09T02:28:51.718472+00:00",
   "items": [
     {
-      "titolo": "10 motivi concreti per cui Gemini batte ChatGPT",
-      "descrizione": "Confronto tra ChatGPT di OpenAI e Gemini di Google per la produttività quotidiana e perché scegliere il chatbot AI di Big G. The post 10 motivi concreti per cui Gemini batte ChatGPT appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/10-motivi-concreti-gemini-batte-chatgpt/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-08T16:30:23+00:00",
+      "titolo": "Recensione POCO M8 Pro: il Redmi Note 15 Pro+ più economico e con meno megapixel",
+      "descrizione": "Abbiamo provato il nuovo POCO M8 Pro, uno smartphone con una enorme batteria a 6500mAh e ricarica rapidissima a 100W. Punta ai gamer \"entry level\" ma anche ad un pubblico generalista.",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n643761/poco-m8-pro-prova-recensione-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-08T18:34:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "I tried Gemini's 'scheduled actions' to automate my AI - the potential is enormous (but Google has work to do)",
-      "descrizione": "Here's what you can and cannot automate today via Gemini, including 15 ideas to use as starting points - and a bonus banana in a raincoat with an umbrella.",
-      "link": "https://www.zdnet.com/article/google-gemini-scheduled-actions-hot-to-automate-ai/",
-      "fonte": "Latest news",
-      "data": "2026-01-08T16:49:29+00:00",
+      "titolo": "Gmail, rivoluzione AI per trasformare la casella di posta in un assistente personale",
+      "descrizione": "Google presenta le nuove funzionalità basate su Gemini che cambieranno il modo di gestire le email nel 2026",
+      "link": "https://www.ilsole24ore.com/art/gmail-rivoluzione-per-trasformare-casella-posta-un-assistente-personale-AITBmel",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-08T21:34:55+00:00",
       "modello": "gemini"
     }
   ]
