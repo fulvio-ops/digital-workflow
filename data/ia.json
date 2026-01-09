@@ -1,21 +1,37 @@
 {
-  "last_updated": "2026-01-09T06:52:36.447552+00:00",
+  "last_updated": "2026-01-09T13:07:52.929426+00:00",
   "items": [
     {
-      "titolo": "Recensione POCO M8 Pro: il Redmi Note 15 Pro+ più economico e con meno megapixel",
-      "descrizione": "Abbiamo provato il nuovo POCO M8 Pro, uno smartphone con una enorme batteria a 6500mAh e ricarica rapidissima a 100W. Punta ai gamer \"entry level\" ma anche ad un pubblico generalista.",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n643761/poco-m8-pro-prova-recensione-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-08T18:34:00+00:00",
+      "titolo": "7 Windows laptops that caught us by surprise at CES 2026 - including this trackpad beast",
+      "descrizione": "2026 is shaping up to be an exciting year for PCs: Dell is reviving the XPS, while MSI has just announced a new series of ultra-thin laptops.",
+      "link": "https://www.zdnet.com/article/best-laptops-ces-2026/",
+      "fonte": "Latest news",
+      "data": "2026-01-09T11:51:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gmail, rivoluzione AI per trasformare la casella di posta in un assistente personale",
-      "descrizione": "Google presenta le nuove funzionalità basate su Gemini che cambieranno il modo di gestire le email nel 2026",
-      "link": "https://www.ilsole24ore.com/art/gmail-rivoluzione-per-trasformare-casella-posta-un-assistente-personale-AITBmel",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-08T21:34:55+00:00",
+      "titolo": "AI PCs aren't selling, and Microsoft's PC partners are scrambling",
+      "descrizione": "Microsoft has gone all-in with its plans to turn the Windows PC into an AI-powered 'agentic OS.' But at least one PC maker says consumers aren't buying the Copilot hype.",
+      "link": "https://www.zdnet.com/article/ai-pcs-arent-selling-and-microsofts-pc-partners-are-scrambling/",
+      "fonte": "Latest news",
+      "data": "2026-01-09T09:23:00+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "L’irruzione di Gemini in Gmail è un’arma a doppio taglio",
+      "descrizione": "Google spinge Gemini in Gmail con AI Inbox per l'organizzazione smart delle email, ma gli utenti vogliono davvero delegare tutto all'AI? The post L’irruzione di Gemini in Gmail è un’arma a doppio taglio appeared first on",
+      "link": "https://www.punto-informatico.it/gemini-gmail-arma-doppio-taglio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-09T09:58:09+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "DeepSeek e allucinazioni: antitrust chiude istruttoria",
+      "descrizione": "L'autorità antitrust ha chiuso il procedimento avviato nei confronti di DeepSeek per l'assenza di chiari avvisi sulle allucinazione del chatbot. The post DeepSeek e allucinazioni: antitrust chiude istruttoria appeared fi",
+      "link": "https://www.punto-informatico.it/deepseek-allucinazioni-antitrust-chiude-istruttoria/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-09T09:50:18+00:00",
+      "modello": "altri"
     }
   ]
 }
