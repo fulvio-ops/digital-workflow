@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-01-10T06:47:25.915965+00:00",
+  "last_updated": "2026-01-10T13:00:47.853438+00:00",
   "items": [
+    {
+      "titolo": "FIAT, il 2026 inizia con le \"offerte più forti dell'universo\" su Pandina, Grande Panda, 500 e 600",
+      "descrizione": "Per il mese di gennio, FIAT propone una serie di offerte con finanziamento dedicate a Pandina Hybrid, 500 Hybrid, Grande Panda e 600 Hybrid",
+      "link": "https://www.hdmotori.it/fiat-offerte-pandina-500-600-hybrid-grande-panda/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T11:00:50+00:00"
+    },
+    {
+      "titolo": "Accise sui carburanti: cosa sono, come funzionano e quanto incidono sui prezzi",
+      "descrizione": "In Italia le accise sui carburanti concorrono in maniera pesante alla formazione del prezzo di benzina e diesel: ecco cosa c'è da sapere",
+      "link": "https://www.hdmotori.it/accise-carburanti-cosa-sono-prezzo-benzina-diesel/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T10:30:51+00:00"
+    },
+    {
+      "titolo": "La nuova Toyota Hilux debutta a Salone di Bruxelles: in Italia a metà del 2026",
+      "descrizione": "Il nuovo pickup giapponese fa il suo debutto europeo al Salone di Bruxelles 2026; in Italia arriverà a metà dell'anno",
+      "link": "https://www.hdmotori.it/nuova-toyota-hilux-2026-diesel-elettrico-caratteristiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T10:00:23+00:00"
+    },
+    {
+      "titolo": "La Russia modifica i droni Shahed e li trasforma in armi aria-aria",
+      "descrizione": "Un drone Shahed russo trovato con un MANPADS apre nuovi scenari militari in Ucraina.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n644017/drone-shahed-manpads-russia-ucraina/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T09:40:00+00:00"
+    },
+    {
+      "titolo": "The Bluff: prime immagini e data di uscita del film dei fratelli Russo",
+      "descrizione": "Un’ex pirata torna a combattere per salvare la famiglia in un action d’epoca adrenalinico.",
+      "link": "https://www.hdblog.it/amazon/articoli/n644149/the-bluff-film-prime-video-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T09:20:00+00:00"
+    },
+    {
+      "titolo": "Nasa e SpaceX fissano rientro degli astronauti dalla Iss per problemi di salute",
+      "descrizione": "La missione SpaceX Crew-11 rientrerà mercoledì 14 gennaio alle 22 ora italiana a causa del malessere di un astronauta",
+      "link": "https://www.ilsole24ore.com/art/nasa-e-spacex-fissano-rientro-astronauti-iss-problemi-salute-AIQj6yn",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-10T09:00:38+00:00"
+    },
+    {
+      "titolo": "Nuova BMW iX3 vs Audi Q6 e-tron, confronto tra SUV elettrici premium: versioni e prezzi",
+      "descrizione": "Mettiamo a confronto due SUV elettrici premium, la nuova BMW iX3 presentata al Salone di Monaco e Audi Q6 e-tron",
+      "link": "https://www.hdmotori.it/nuova-bmw-ix3-vs-audi-q6-e-tron-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T09:00:29+00:00"
+    },
+    {
+      "titolo": "Ecco la finestra smart che si autoalimenta e taglia i consumi energetici",
+      "descrizione": "Una finestra smart solare senza cavi riduce i consumi energetici degli edifici.",
+      "link": "https://www.hdblog.it/domotica/articoli/n644019/finestra-smart-autoalimentata-riduce-consumi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T08:55:00+00:00"
+    },
+    {
+      "titolo": "DAZN: il piano Full è in offerta a 29,99 euro al mese per 6 mesi",
+      "descrizione": "L'offerta non prevede vincoli e consente di guardare tutto lo sport di DAZN, tra cui Serie A, Australian Open e Olimpiadi. The post DAZN: il piano Full è in offerta a 29,99 euro al mese per 6 mesi appeared first on Punto",
+      "link": "https://www.punto-informatico.it/dazn-il-piano-full-e-in-offerta-a-2999-euro-al-mese-per-6-mesi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-10T08:30:37+00:00"
+    },
+    {
+      "titolo": "Xpeng P7+ 2026, la nuova ammiraglia elettrica debutta a Bruxelles: presto anche in Italia",
+      "descrizione": "La nuova Xpeng P7+ 2026 arriverà in Italia ad aprile: ecco cosa c'è da sapere e i prezzi",
+      "link": "https://www.hdmotori.it/xpeng-p7plus-2026-informazioni-motori-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T07:30:24+00:00"
+    },
+    {
+      "titolo": "La nuova Leapmotor B05 si mostra a Bruxelles: novità sugli interni e autonomia di 460 km",
+      "descrizione": "Al Salone di Bruxelles, la Leapmotor B05 per il mercato europeo si svela un po' di più: nuovi dettagli su interni e motori",
+      "link": "https://www.hdmotori.it/leapmotor-b05-2026-interni-motori-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T07:00:51+00:00"
+    },
+    {
+      "titolo": "NVIDIA GeForce NOW, arriva l'app nativa Linux! Si parte da Ubuntu",
+      "descrizione": "Arriverà anche l'app per Fire TV.",
+      "link": "https://www.hdblog.it/nvidia/articoli/n644147/nvidia-geforce-now-app-linux-nativa/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T06:55:00+00:00"
+    },
+    {
+      "titolo": "Nuova Nissan Leaf: versioni, allestimenti e prezzi per il mercato italiano",
+      "descrizione": "Due le motorizzazioni e tre gli allestimenti con cui la nuova Nissan Leaf sarà venduta in Italia: ecco i dettagli",
+      "link": "https://www.hdmotori.it/nuova-nissan-leaf-dimensioni-interni-motori-allestimenti-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T06:30:36+00:00"
+    },
     {
       "titolo": "KitchenAid Promo Code: 50% Off This Month",
       "descrizione": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 50% off select countertop appliances.",
@@ -37,41 +128,6 @@
       "data": "2026-01-10T00:23:08+00:00"
     },
     {
-      "titolo": "Abbiamo provato il Samsung Galaxy Z Trifold: prime impressioni dal CES 2026",
-      "descrizione": "Abbiamo provato con mano il nuovo Samsung Z Trifold, smartphone pieghevole a doppia piega del brand coreano. Ecco le nostre prime impressioni.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n643952/prova-samsung-galaxy-z-trifold-ces-2026-video/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T18:34:00+00:00"
-    },
-    {
-      "titolo": "La crisi delle RAM è arrivata anche da noi: prezzi DDR5 alle stelle",
-      "descrizione": "Ormai siamo a prezzi quadruplicati per le RAM DDR5 per PC.",
-      "link": "https://www.hdblog.it/hardware/articoli/n644080/crisi-ram-europa-italia-prezzi-quadruplicati-ddr5/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T18:33:00+00:00"
-    },
-    {
-      "titolo": "Possiamo convincere l'IA a non dirci di no?",
-      "descrizione": "Un documento AGID spiega come, studiando la struttura degli LLM, sia possibile identificare gli elementi propri del rifiuto per capire come aggirarli o rinforzarli.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643962/convincere-ia-non-dire-no/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T18:32:00+00:00"
-    },
-    {
-      "titolo": "Monitoraggio non invasivo della glicemia, forse finalmente ci siamo",
-      "descrizione": "Un indossabile che analizza il fiato e monitora i livelli di glucosio nel sangue. Promette bene, ma bisogna ancora superare i test clinici.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n644145/preevnt-isaac-monitor-glicemia-non-invasiva/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T17:50:00+00:00"
-    },
-    {
-      "titolo": "Pechino svela una piattaforma di AI autonoma per la ricerca scientifica",
-      "descrizione": "Una nuova piattaforma di AI cinese usa i supercomputer nazionali per fare ricerca autonoma.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643871/china-ai-rete-scientifica-supercomputer/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T17:30:00+00:00"
-    },
-    {
       "titolo": "Jensen Huang discusses the economics of inference, power delivery, and more at CES 2026 press Q&A session — 'You sell a chip one time, but when you build software, you maintain it forever'",
       "descrizione": "In a press Q&A at CES 2026, Nvidia CEO Jensen Huang addressed everything from Rubin’s design philosophy to inference economics, power constraints, open models, and more.",
       "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-ces-2026-q-and-a",
@@ -86,39 +142,11 @@
       "data": "2026-01-09T17:18:44+00:00"
     },
     {
-      "titolo": "Un ammasso di 13 miliardi di anni perde stelle nel cuore della Via Lattea",
-      "descrizione": "Un antico ammasso globulare sta cedendo stelle alla Via Lattea",
-      "link": "https://www.hdblog.it/curiosita/articoli/n643897/ammasso-globulare-ngc-6569-via-lattea/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T17:15:00+00:00"
-    },
-    {
-      "titolo": "KIA EV2 si presenta, la baby coreana elettrica pensata per l'Europa: ecco com'è fatta",
-      "descrizione": "Al Salone di Bruxelles fa il suo debutto la KIA EV2: lunga circa 4 metri può contare su batterie fino a 61 kWh",
-      "link": "https://www.hdmotori.it/kia-ev2-dimensioni-interni-motori-autonomia-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T17:11:00+00:00"
-    },
-    {
-      "titolo": "Nuova FIAT Qubo L, una multispazio per le famiglie: fino a 7 posti, anche diesel e sotto i 22.000 euro",
-      "descrizione": "Debutta la nuova FIAT Qubo Le pensata per famiglie: 5 o 7 posti, sarà proposta con motori diesel, benzina ed elettrici",
-      "link": "https://www.hdmotori.it/nuova-fiat-qubo-l-caratteristiche-motori-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T17:10:00+00:00"
-    },
-    {
       "titolo": "Intel showed up for consumers at the 'Consumer Electronics Show;' AMD didn’t",
       "descrizione": "At this year's CES, AMD felt like a dominant force, too focused on AI potential to talk about (or to) consumers. Intel looked more like a laser-focused startup, confidently pitching its Panther Lake chips to gamers, lapt",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-showed-up-for-consumers-at-the-consumer-electronics-show-amd-didnt",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-09T16:53:21+00:00"
-    },
-    {
-      "titolo": "Batteri indistruttibili scoperti dalla NASA: potrebbero arrivare su Marte",
-      "descrizione": "Scoperti 26 nuovi batteri capaci di resistere alle sterilizzazioni NASA e al viaggio spaziale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643889/nasa-batteri-ultraresistenti-sterilizzazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T16:35:00+00:00"
     },
     {
       "titolo": "ChatGPT, il trucco delle citazioni che cambia la qualità delle risposte",
@@ -128,13 +156,6 @@
       "data": "2026-01-09T16:30:40+00:00"
     },
     {
-      "titolo": "Grok AI alleato di maniaci e pedofili: Musk limita lo strumento, ma non basta",
-      "descrizione": "Generate anche immagini che sessualizzano bambini di 10 anni",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n644123/grok-ai-deepfake-minori-musk-limitazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T16:15:00+00:00"
-    },
-    {
       "titolo": "ChatGPT scrive il discorso di matrimonio e il tribunale lo annulla",
       "descrizione": "Coppia scopre dopo mesi che il matrimonio è stato annullato. Il celebrante aveva usato ChatGPT per il discorso senza formula legale obbligatoria. The post ChatGPT scrive il discorso di matrimonio e il tribunale lo annull",
       "link": "https://www.punto-informatico.it/chatgpt-scrive-discorso-matrimonio-tribunale-lo-annulla/",
@@ -142,32 +163,11 @@
       "data": "2026-01-09T16:10:15+00:00"
     },
     {
-      "titolo": "NSX Tribute by Italdesign: arte italiana e ingegneria giapponese",
-      "descrizione": "Al Salone di Tokyo 2026 Italdesign torna a far parlare di sé con una creazione basata sulla NSX che vuole scaldare gli animi degli appassionati",
-      "link": "https://www.hdmotori.it/italdesign-honda-nsx-tribute-by-italdesign-tokyo-auto-salon-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T16:00:20+00:00"
-    },
-    {
       "titolo": "Silicon Valley Billionaires Panic Over California’s Proposed Wealth Tax",
       "descrizione": "Larry Page’s apparent Florida move highlights how seriously the ultra-rich are taking a one-time tax aimed at extreme wealth inequality.",
       "link": "https://www.wired.com/story/backchannel-silicon-valley-billionaires-california-taxes/",
       "fonte": "WIRED",
       "data": "2026-01-09T16:00:00+00:00"
-    },
-    {
-      "titolo": "Niente AI per l’arte di Divinity, scelta drastica",
-      "descrizione": "Divinity sarà privo di arte generata con l'AI: Larian Studios promette asset creati solo da umani, mettendo a tacere ogni polemica. The post Niente AI per l’arte di Divinity, scelta drastica appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/divinity-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-09T15:56:00+00:00"
-    },
-    {
-      "titolo": "Il robot umanoide H2 di Unitree mostra forza e controllo nei test",
-      "descrizione": "Il nuovo umanoide H2 di Unitree sfoggia agilità, forza e controllo avanzato",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644016/unitree-h2-robot-umanoide-video-addestramento/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T15:45:00+00:00"
     }
   ]
 }
