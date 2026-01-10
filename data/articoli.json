@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-01-09T18:49:30.607423+00:00",
+  "last_updated": "2026-01-10T02:24:31.877688+00:00",
   "items": [
+    {
+      "titolo": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
+      "descrizione": "To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.",
+      "link": "https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/",
+      "fonte": "WIRED",
+      "data": "2026-01-10T01:11:25+00:00"
+    },
+    {
+      "titolo": "Grok Is Being Used to Mock and Strip Women in Hijabs and Saris",
+      "descrizione": "A substantial number of AI images generated or edited with Grok are targeting women in religious and cultural clothing.",
+      "link": "https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/",
+      "fonte": "WIRED",
+      "data": "2026-01-10T00:23:08+00:00"
+    },
+    {
+      "titolo": "Abbiamo provato il Samsung Galaxy Z Trifold: prime impressioni dal CES 2026",
+      "descrizione": "Abbiamo provato con mano il nuovo Samsung Z Trifold, smartphone pieghevole a doppia piega del brand coreano. Ecco le nostre prime impressioni.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n643952/prova-samsung-galaxy-z-trifold-ces-2026-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-09T18:34:00+00:00"
+    },
+    {
+      "titolo": "La crisi delle RAM è arrivata anche da noi: prezzi DDR5 alle stelle",
+      "descrizione": "Ormai siamo a prezzi quadruplicati per le RAM DDR5 per PC.",
+      "link": "https://www.hdblog.it/hardware/articoli/n644080/crisi-ram-europa-italia-prezzi-quadruplicati-ddr5/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-09T18:33:00+00:00"
+    },
+    {
+      "titolo": "Possiamo convincere l'IA a non dirci di no?",
+      "descrizione": "Un documento AGID spiega come, studiando la struttura degli LLM, sia possibile identificare gli elementi propri del rifiuto per capire come aggirarli o rinforzarli.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n643962/convincere-ia-non-dire-no/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-09T18:32:00+00:00"
+    },
+    {
+      "titolo": "Monitoraggio non invasivo della glicemia, forse finalmente ci siamo",
+      "descrizione": "Un indossabile che analizza il fiato e monitora i livelli di glucosio nel sangue. Promette bene, ma bisogna ancora superare i test clinici.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n644145/preevnt-isaac-monitor-glicemia-non-invasiva/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-09T17:50:00+00:00"
+    },
     {
       "titolo": "Pechino svela una piattaforma di AI autonoma per la ricerca scientifica",
       "descrizione": "Una nuova piattaforma di AI cinese usa i supercomputer nazionali per fare ricerca autonoma.",
@@ -28,6 +70,20 @@
       "link": "https://www.hdblog.it/curiosita/articoli/n643897/ammasso-globulare-ngc-6569-via-lattea/",
       "fonte": "HDblog.it",
       "data": "2026-01-09T17:15:00+00:00"
+    },
+    {
+      "titolo": "KIA EV2 si presenta, la baby coreana elettrica pensata per l'Europa: ecco com'è fatta",
+      "descrizione": "Al Salone di Bruxelles fa il suo debutto la KIA EV2: lunga circa 4 metri può contare su batterie fino a 61 kWh",
+      "link": "https://www.hdmotori.it/kia-ev2-dimensioni-interni-motori-autonomia-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-09T17:11:00+00:00"
+    },
+    {
+      "titolo": "Nuova FIAT Qubo L, una multispazio per le famiglie: fino a 7 posti, anche diesel e sotto i 22.000 euro",
+      "descrizione": "Debutta la nuova FIAT Qubo Le pensata per famiglie: 5 o 7 posti, sarà proposta con motori diesel, benzina ed elettrici",
+      "link": "https://www.hdmotori.it/nuova-fiat-qubo-l-caratteristiche-motori-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-09T17:10:00+00:00"
     },
     {
       "titolo": "Intel showed up for consumers at the 'Consumer Electronics Show;' AMD didn’t",
@@ -93,39 +149,11 @@
       "data": "2026-01-09T15:45:00+00:00"
     },
     {
-      "titolo": "Microsoft dice basta all'attivazione di Windows via telefono",
-      "descrizione": "Lo switch-off è avvenuto il 3 dicembre, per la precisione.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n644129/windows-attivazione-telefonica-stop-microsoft/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T15:35:00+00:00"
-    },
-    {
-      "titolo": "Dolby Vision 2 arriva nel 2026: come cambia la qualità video sui TV",
-      "descrizione": "Dolby Vision 2 debutta al CES 2026 con immagini più luminose e adattive",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n644119/dolby-vision-2-ces-2026-tv/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T15:25:00+00:00"
-    },
-    {
-      "titolo": "Windows, un errore con OneDrive sta rovinando la vita di migliaia di utenti",
-      "descrizione": "\"Microsoft dovrebbe andare in prigione per questo\"",
-      "link": "https://www.hdblog.it/hardware/articoli/n644106/microsoft-onedrive-malware-file-persi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T15:20:00+00:00"
-    },
-    {
       "titolo": "FIFA World Cup 2026: avatar 3D con tecnologia Lenovo",
       "descrizione": "Lenovo, partner tecnologico ufficiale, fornirà le sue tecnologie per la creazione di avatar 3D dei giocatori che verranno mostrati allo stadio e in TV. The post FIFA World Cup 2026: avatar 3D con tecnologia Lenovo appear",
       "link": "https://www.punto-informatico.it/fifa-world-cup-2026-avatar-3d-tecnologia-lenovo/",
       "fonte": "Punto Informatico",
       "data": "2026-01-09T15:04:43+00:00"
-    },
-    {
-      "titolo": "La bolla dell'AI sta per scoppiare? Adagio con brio",
-      "descrizione": "LA bolla dell'IA sta per scoppiare? Gli analisti consigliano cautela, ma il potenziale non è in discussione.",
-      "link": "https://www.hdblog.it/business/articoli/n644110/bolla-ai-scoppiare-adagio-con-brio/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T14:40:00+00:00"
     },
     {
       "titolo": "Hostinger: ultimi giorni per avere i piani hosting con l’80% di sconto",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/archiviazione-cloud-per-sempre-e-in-sconto-del-37-la-promo-di-pcloud/",
       "fonte": "Punto Informatico",
       "data": "2026-01-09T14:26:59+00:00"
-    },
-    {
-      "titolo": "Meta punta sul nucleare per l’AI: fino a 6,6 GW per i data center USA",
-      "descrizione": "Meta sigla accordi sul nucleare per fornire energia stabile ai data center AI negli USA",
-      "link": "https://www.hdblog.it/mercato/articoli/n644112/meta-nucleare-ai-66-gw-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T14:20:00+00:00"
-    },
-    {
-      "titolo": "Apple, all'asta 50 anni di storia: un raro Apple-1, i primi assegni e tanto altro",
-      "descrizione": "191 lotti legati alle origini di Apple e al percorso umano e professionale dei suoi fondatori",
-      "link": "https://www.hdblog.it/apple/articoli/n644113/apple-asta-50-anni-assegni-tanto-altro/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-09T14:10:00+00:00"
-    },
-    {
-      "titolo": "Researchers turn spoiled milk into 3D printing materials — extracted proteins from dairy waste combined with polymers to create plastic alternative",
-      "descrizione": "This work turns what would otherwise be an agricultural liability into a potential input for advanced manufacturing.",
-      "link": "https://www.tomshardware.com/3d-printing/researchers-turn-spoiled-milk-into-3d-printing-materials-extracted-proteins-from-dairy-waste-combined-with-polymers-to-create-plastic-alternative",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-09T13:57:36+00:00"
-    },
-    {
-      "titolo": "Le AI Overview di Google danno consigli medici pericolosi, l’allarme",
-      "descrizione": "Un'indagine del The Guardian rivela che le AI Overview di Google forniscono consigli medici pericolosi. Big G finisce nei guai. The post Le AI Overview di Google danno consigli medici pericolosi, l’allarme appeared first",
-      "link": "https://www.punto-informatico.it/ai-overview-google-danno-consigli-medici-pericolosi-allarme/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-09T13:17:47+00:00"
     }
   ]
 }

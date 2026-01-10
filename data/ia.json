@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-09T18:49:33.905180+00:00",
+  "last_updated": "2026-01-10T02:24:36.417096+00:00",
   "items": [
     {
-      "titolo": "ChatGPT, il trucco delle citazioni che cambia la qualità delle risposte",
-      "descrizione": "ChatGPT può fornire informazioni sbagliate con tono autorevole. Perché succede e come migliorare le risposte chiedendo le fonti prima della risposta. The post ChatGPT, il trucco delle citazioni che cambia la qualità dell",
-      "link": "https://www.punto-informatico.it/chatgpt-trucco-citazioni-cambia-qualita-risposte/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-09T16:30:40+00:00",
+      "titolo": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
+      "descrizione": "To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.",
+      "link": "https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/",
+      "fonte": "WIRED",
+      "data": "2026-01-10T01:11:25+00:00",
       "modello": "chatgpt"
     },
     {
