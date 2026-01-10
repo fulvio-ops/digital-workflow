@@ -1,12 +1,82 @@
 {
-  "last_updated": "2026-01-10T13:00:47.853438+00:00",
+  "last_updated": "2026-01-10T18:46:20.535441+00:00",
   "items": [
+    {
+      "titolo": "Upgrade your gaming PC with an RTX 5060 for just $259.99 and instantly pocket $50 in savings",
+      "descrizione": "The Gigabyte GeForce RTX 5060 WindForce OC 8G is currently on sale at BestBuy, giving you a 15% discount off Nvidia's $299 MSRP.",
+      "link": "https://www.tomshardware.com/pc-components/upgrade-your-gaming-pc-with-an-rtx-5060-for-just-usd259-99-and-instantly-pocket-usd50-in-savings",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-10T17:27:01+00:00"
+    },
+    {
+      "titolo": "Doom conquers the kitchen through an electric cooking pot — classic shooter runs seamlessly after a full device firmware refresh",
+      "descrizione": "A YouTuber has managed to run Doom on a Krups Cook4Mec smart pressure cooker after dumping and reflashing the firmware on the appliance’s touchscreen control hardware.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/youtuber-makes-doom-run-on-a-smart-cooking-pot-after-a-full-firmware-refresh",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-10T16:51:38+00:00"
+    },
+    {
+      "titolo": "Nvidia’s Blackwell gaming GPUs go through blower-style transformation to fuel AI data centers — RTX 5080, RTX 5070 Ti, RTX 5060 Ti blower GPUs up for purchase in China",
+      "descrizione": "China's underground GPU operations have birthed a few more spectacles, new Nvidia RTX 50-series SKUs with blower-style coolers, aimed at data centers and server farms. Listed on Taobao, the RTX 5080, 5070 Ti, 5060 Ti & m",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gaming-gpus-go-through-blower-style-transformation-to-fuel-ai-data-centers-rtx-5080-rtx-5070-ti-rtx-5060-ti-blower-gpus-up-for-purchase-in-china",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-10T16:40:26+00:00"
+    },
+    {
+      "titolo": "HP reportedly eyes Chinese suppliers for DRAM as global shortage sparks shake-up — analyst says memory chips are commodities that can easily be replaced",
+      "descrizione": "A tech analyst claims that HP told the Bank of America that it's considering buying memory chips from China to help alleviate the ongoing shortage.",
+      "link": "https://www.tomshardware.com/pc-components/ram/hp-reportedly-eyes-chinese-suppliers-for-dram-as-global-shortage-sparks-shake-up-analyst-says-memory-chips-are-commodities-that-can-easily-be-replaced",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-10T14:59:08+00:00"
+    },
+    {
+      "titolo": "Scacchi cinesi e interfaccia cerebrale: la sfida storica di Han Binbin",
+      "descrizione": "Un atleta con paralisi cerebrale gioca a scacchi cinesi grazie a un BCI non invasivo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n643860/scacchi-cinesi-interfaccia-cervello-computer/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T13:55:00+00:00"
+    },
+    {
+      "titolo": "Cloudflare minaccia di interrompere i servizi in Italia",
+      "descrizione": "Il CEO di Cloudflare ha minacciato di interrompere tutti i servizi gratuiti offerti in Italia, tra cui il noto DNS resolver pubblico 1.1.1.1. The post Cloudflare minaccia di interrompere i servizi in Italia appeared firs",
+      "link": "https://www.punto-informatico.it/cloudflare-minaccia-interrompere-servizi-italia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-10T13:50:57+00:00"
+    },
+    {
+      "titolo": "Un data center che entra in valigia? ODINN porta l’AI ovunque",
+      "descrizione": "ODINN presenta OMNIA, supercomputer AI portatile pensato per dati sensibili",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n644018/supercomputer-ai-valigia-odinn/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T13:25:00+00:00"
+    },
+    {
+      "titolo": "Google Maps, ora è più difficile perdersi nelle impostazioni: cambia l'interfaccia",
+      "descrizione": "Google finalmente semplifica le cose.",
+      "link": "https://www.hdblog.it/google/articoli/n644168/google-maps-impostazioni-interfaccia-design-update/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T13:10:00+00:00"
+    },
+    {
+      "titolo": "Celle solari in perovskite, una mappa 3D mostra dove scorre davvero l’energia",
+      "descrizione": "Una tecnica 3D mostra come le cariche si muovono nelle celle solari in perovskite",
+      "link": "https://www.hdblog.it/green/articoli/n643867/imaging-3d-celle-solari-perovskite/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T12:55:00+00:00"
+    },
     {
       "titolo": "FIAT, il 2026 inizia con le \"offerte più forti dell'universo\" su Pandina, Grande Panda, 500 e 600",
       "descrizione": "Per il mese di gennio, FIAT propone una serie di offerte con finanziamento dedicate a Pandina Hybrid, 500 Hybrid, Grande Panda e 600 Hybrid",
       "link": "https://www.hdmotori.it/fiat-offerte-pandina-500-600-hybrid-grande-panda/",
       "fonte": "HDblog.it",
       "data": "2026-01-10T11:00:50+00:00"
+    },
+    {
+      "titolo": "Motorola Moto G86 al minimo storico su Amazon: nella fascia bassa non ha rivali",
+      "descrizione": "Il Motorola Moto G86 5G è in offerta su Amazon ed è acquistabile ora al prezzo minimo storico sullo store: si tratta di un vero affare nella fascia bassa.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n644163/motorola-moto-g86-5g-offerta-amazon-gennaio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-10T10:40:00+00:00"
     },
     {
       "titolo": "Accise sui carburanti: cosa sono, come funzionano e quanto incidono sui prezzi",
@@ -65,34 +135,6 @@
       "data": "2026-01-10T08:30:37+00:00"
     },
     {
-      "titolo": "Xpeng P7+ 2026, la nuova ammiraglia elettrica debutta a Bruxelles: presto anche in Italia",
-      "descrizione": "La nuova Xpeng P7+ 2026 arriverà in Italia ad aprile: ecco cosa c'è da sapere e i prezzi",
-      "link": "https://www.hdmotori.it/xpeng-p7plus-2026-informazioni-motori-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T07:30:24+00:00"
-    },
-    {
-      "titolo": "La nuova Leapmotor B05 si mostra a Bruxelles: novità sugli interni e autonomia di 460 km",
-      "descrizione": "Al Salone di Bruxelles, la Leapmotor B05 per il mercato europeo si svela un po' di più: nuovi dettagli su interni e motori",
-      "link": "https://www.hdmotori.it/leapmotor-b05-2026-interni-motori-autonomia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T07:00:51+00:00"
-    },
-    {
-      "titolo": "NVIDIA GeForce NOW, arriva l'app nativa Linux! Si parte da Ubuntu",
-      "descrizione": "Arriverà anche l'app per Fire TV.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n644147/nvidia-geforce-now-app-linux-nativa/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T06:55:00+00:00"
-    },
-    {
-      "titolo": "Nuova Nissan Leaf: versioni, allestimenti e prezzi per il mercato italiano",
-      "descrizione": "Due le motorizzazioni e tre gli allestimenti con cui la nuova Nissan Leaf sarà venduta in Italia: ecco i dettagli",
-      "link": "https://www.hdmotori.it/nuova-nissan-leaf-dimensioni-interni-motori-allestimenti-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T06:30:36+00:00"
-    },
-    {
       "titolo": "KitchenAid Promo Code: 50% Off This Month",
       "descrizione": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 50% off select countertop appliances.",
       "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
@@ -126,48 +168,6 @@
       "link": "https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/",
       "fonte": "WIRED",
       "data": "2026-01-10T00:23:08+00:00"
-    },
-    {
-      "titolo": "Jensen Huang discusses the economics of inference, power delivery, and more at CES 2026 press Q&A session — 'You sell a chip one time, but when you build software, you maintain it forever'",
-      "descrizione": "In a press Q&A at CES 2026, Nvidia CEO Jensen Huang addressed everything from Rubin’s design philosophy to inference economics, power constraints, open models, and more.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-ces-2026-q-and-a",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-09T17:26:44+00:00"
-    },
-    {
-      "titolo": "Nvidia hires first-ever CMO, snatches former Google exec for the tough job of helping sell more chips — Alison Wagonfield spent nearly 10 years at Google building its Cloud project",
-      "descrizione": "As the AI hardware market is about to change, Nvidia is hiring its first chief marketing officer.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-hires-first-ever-cmo-snatches-former-google-exec-for-the-tough-job-of-helping-sell-more-chips-alison-wagonfield-spent-nearly-10-years-at-google-building-its-cloud-project",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-09T17:18:44+00:00"
-    },
-    {
-      "titolo": "Intel showed up for consumers at the 'Consumer Electronics Show;' AMD didn’t",
-      "descrizione": "At this year's CES, AMD felt like a dominant force, too focused on AI potential to talk about (or to) consumers. Intel looked more like a laser-focused startup, confidently pitching its Panther Lake chips to gamers, lapt",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-showed-up-for-consumers-at-the-consumer-electronics-show-amd-didnt",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-09T16:53:21+00:00"
-    },
-    {
-      "titolo": "ChatGPT, il trucco delle citazioni che cambia la qualità delle risposte",
-      "descrizione": "ChatGPT può fornire informazioni sbagliate con tono autorevole. Perché succede e come migliorare le risposte chiedendo le fonti prima della risposta. The post ChatGPT, il trucco delle citazioni che cambia la qualità dell",
-      "link": "https://www.punto-informatico.it/chatgpt-trucco-citazioni-cambia-qualita-risposte/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-09T16:30:40+00:00"
-    },
-    {
-      "titolo": "ChatGPT scrive il discorso di matrimonio e il tribunale lo annulla",
-      "descrizione": "Coppia scopre dopo mesi che il matrimonio è stato annullato. Il celebrante aveva usato ChatGPT per il discorso senza formula legale obbligatoria. The post ChatGPT scrive il discorso di matrimonio e il tribunale lo annull",
-      "link": "https://www.punto-informatico.it/chatgpt-scrive-discorso-matrimonio-tribunale-lo-annulla/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-09T16:10:15+00:00"
-    },
-    {
-      "titolo": "Silicon Valley Billionaires Panic Over California’s Proposed Wealth Tax",
-      "descrizione": "Larry Page’s apparent Florida move highlights how seriously the ultra-rich are taking a one-time tax aimed at extreme wealth inequality.",
-      "link": "https://www.wired.com/story/backchannel-silicon-valley-billionaires-california-taxes/",
-      "fonte": "WIRED",
-      "data": "2026-01-09T16:00:00+00:00"
     }
   ]
 }
