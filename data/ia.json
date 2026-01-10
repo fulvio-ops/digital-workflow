@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10T02:24:36.417096+00:00",
+  "last_updated": "2026-01-10T06:47:29.809749+00:00",
   "items": [
     {
       "titolo": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
@@ -8,6 +8,14 @@
       "fonte": "WIRED",
       "data": "2026-01-10T01:11:25+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Windows 11: Microsoft aggiunge Copilot a Esplora File?",
+      "descrizione": "Un pulsante invisibile nelle build di Windows 11 nasconde l'ennesima integrazione di Copilot, stavolta in Esplora File, già lentissimo di suo. The post Windows 11: Microsoft aggiunge Copilot a Esplora File? appeared firs",
+      "link": "https://www.punto-informatico.it/windows-11-microsoft-aggiunge-copilot-esplora-file/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-10T06:12:29+00:00",
+      "modello": "copilot"
     },
     {
       "titolo": "Gmail, rivoluzione AI per trasformare la casella di posta in un assistente personale",
