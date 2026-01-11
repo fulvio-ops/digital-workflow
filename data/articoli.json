@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-01-11T13:02:03.892030+00:00",
+  "last_updated": "2026-01-11T18:45:47.191731+00:00",
   "items": [
+    {
+      "titolo": "Nel sottobosco umano nuove reti sociali trasformative",
+      "descrizione": "Questa è una storia (e un’intervista) doppia, di linguaggi e nature intraspecifiche. «Metamorfosi Verde» di Patrick Lacan con i disegni di Marion Besançon (tunué, Euro 34,90, trad.it. Stefano A. Crespi)...",
+      "link": "https://www.ilsole24ore.com/art/nel-sottobosco-umano-nuove-reti-sociali-trasformative-AIbfSJi",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-11T18:25:19+00:00"
+    },
+    {
+      "titolo": "Nuova promessa di Musk: algoritmo di X open source",
+      "descrizione": "Elon Musk ha promesso che verrà rilasciato tutto il codice sorgente dell'algoritmo dei suggerimenti di X entro sette giorni (aggiornamenti ogni mese). The post Nuova promessa di Musk: algoritmo di X open source appeared",
+      "link": "https://www.punto-informatico.it/nuova-promessa-musk-algoritmo-x-open-source/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-11T17:21:40+00:00"
+    },
+    {
+      "titolo": "Il Mar Mediterraneo è diventato la sentinella della crisi climatica",
+      "descrizione": "Zafferano, curcuma, rosso e giallo al mercato di Gabès, la città tunisina sul mare i cui abitanti stanno diventando migranti climatici verso l’Europa. L’innalzamento del livello dell’acqua (fin nelle isole...",
+      "link": "https://www.ilsole24ore.com/art/il-mar-mediterraneo-e-diventato-sentilla-crisi-climatica-AIITTVi",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-11T16:28:00+00:00"
+    },
+    {
+      "titolo": "Starlink potrà lanciare altri 7.500 satelliti Starlink",
+      "descrizione": "SpaceX potrà lanciare altri 7.500 satelliti Starlink di seconda generazione che si aggiungono ai 7.500 già approvati su un totale di quasi 30.000. The post Starlink potrà lanciare altri 7.500 satelliti Starlink appeared",
+      "link": "https://www.punto-informatico.it/starlink-lancio-altri-7500-satelliti-starlink/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-11T15:56:25+00:00"
+    },
+    {
+      "titolo": "FCC approves 7,500 additional Starlink Gen2 satellites — service will benefit from higher throughput and lower latency worldwide",
+      "descrizione": "The FCC has partially approved a significant expansion of SpaceX’s next-generation Starlink constellation, authorizing 7,500 additional LEO satellites under a partial grant.",
+      "link": "https://www.tomshardware.com/tech-industry/fcc-approves-7500-additional-starlink-gen2-satellites",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-11T15:29:12+00:00"
+    },
+    {
+      "titolo": "Instagram: online i dati di 17,5 milioni di utenti",
+      "descrizione": "Un cybercriminale ha pubblicato i dati di 17,5 milioni di utenti Instagram che sarebbero stati rubati nel 2024 con una API del social network. The post Instagram: online i dati di 17,5 milioni di utenti appeared first on",
+      "link": "https://www.punto-informatico.it/instagram-online-dati-175-milioni-utenti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-11T14:58:46+00:00"
+    },
+    {
+      "titolo": "Windows Media Player’s ‘find album information’ functionality has been removed — you’ll have to find other software for playing and ripping CDs with relevant track information",
+      "descrizione": "Microsoft has quietly removed ‘find album information’ and ‘update album info online’ tools from the Media Player apps supplied with Windows 11.",
+      "link": "https://www.tomshardware.com/software/windows/windows-media-players-find-album-information-functionality-has-been-removed-youll-have-to-find-other-software-for-playing-and-ripping-cds-with-relevant-track-information",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-11T13:45:00+00:00"
+    },
     {
       "titolo": "AMD leaves the door open to experimental FSR Redstone support on RDNA 3",
       "descrizione": "At CES 2026, AMD used an interview with PCWorld to restate its official position on FSR Redstone while softening the edges around it.",
@@ -58,7 +107,7 @@
       "data": "2026-01-11T08:55:00+00:00"
     },
     {
-      "titolo": "Maserati Grecale Cristallo Special Edition: lusso ed esclusivtà",
+      "titolo": "Maserati Grecale Cristallo Special Edition: lusso ed esclusività",
       "descrizione": "Prendendo ispirazione dal Monte Cristallo, vetta delle Dolomiti, Maserati presenta la Grecale Cristallo Special Edition",
       "link": "https://www.hdmotori.it/maserati-grecale-cristallo-edition-caratteristiche/",
       "fonte": "HDblog.it",
@@ -119,55 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/upgrade-your-gaming-pc-with-an-rtx-5060-for-just-usd259-99-and-instantly-pocket-usd50-in-savings",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-10T17:27:01+00:00"
-    },
-    {
-      "titolo": "Doom conquers the kitchen through an electric cooking pot — classic shooter runs seamlessly after a full device firmware refresh",
-      "descrizione": "A YouTuber has managed to run Doom on a Krups Cook4Mec smart pressure cooker after dumping and reflashing the firmware on the appliance’s touchscreen control hardware.",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/youtuber-makes-doom-run-on-a-smart-cooking-pot-after-a-full-firmware-refresh",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-10T16:51:38+00:00"
-    },
-    {
-      "titolo": "Nvidia’s Blackwell gaming GPUs go through blower-style transformation to fuel AI data centers — RTX 5080, RTX 5070 Ti, RTX 5060 Ti blower GPUs up for purchase in China",
-      "descrizione": "China's underground GPU operations have birthed a few more spectacles, new Nvidia RTX 50-series SKUs with blower-style coolers, aimed at data centers and server farms. Listed on Taobao, the RTX 5080, 5070 Ti, 5060 Ti & m",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gaming-gpus-go-through-blower-style-transformation-to-fuel-ai-data-centers-rtx-5080-rtx-5070-ti-rtx-5060-ti-blower-gpus-up-for-purchase-in-china",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-10T16:40:26+00:00"
-    },
-    {
-      "titolo": "HP reportedly eyes Chinese suppliers for DRAM as global shortage sparks shake-up — analyst says memory chips are commodities that can easily be replaced",
-      "descrizione": "A tech analyst claims that HP told the Bank of America that it's considering buying memory chips from China to help alleviate the ongoing shortage.",
-      "link": "https://www.tomshardware.com/pc-components/ram/hp-reportedly-eyes-chinese-suppliers-for-dram-as-global-shortage-sparks-shake-up-analyst-says-memory-chips-are-commodities-that-can-easily-be-replaced",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-10T14:59:08+00:00"
-    },
-    {
-      "titolo": "Scacchi cinesi e interfaccia cerebrale: la sfida storica di Han Binbin",
-      "descrizione": "Un atleta con paralisi cerebrale gioca a scacchi cinesi grazie a un BCI non invasivo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n643860/scacchi-cinesi-interfaccia-cervello-computer/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T13:55:00+00:00"
-    },
-    {
-      "titolo": "Cloudflare minaccia di interrompere i servizi in Italia",
-      "descrizione": "Il CEO di Cloudflare ha minacciato di interrompere tutti i servizi gratuiti offerti in Italia, tra cui il noto DNS resolver pubblico 1.1.1.1. The post Cloudflare minaccia di interrompere i servizi in Italia appeared firs",
-      "link": "https://www.punto-informatico.it/cloudflare-minaccia-interrompere-servizi-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-10T13:50:57+00:00"
-    },
-    {
-      "titolo": "Un data center che entra in valigia? ODINN porta l’AI ovunque",
-      "descrizione": "ODINN presenta OMNIA, supercomputer AI portatile pensato per dati sensibili",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644018/supercomputer-ai-valigia-odinn/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T13:25:00+00:00"
-    },
-    {
-      "titolo": "Google Maps, ora è più difficile perdersi nelle impostazioni: cambia l'interfaccia",
-      "descrizione": "Google finalmente semplifica le cose.",
-      "link": "https://www.hdblog.it/google/articoli/n644168/google-maps-impostazioni-interfaccia-design-update/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T13:10:00+00:00"
     }
   ]
 }
