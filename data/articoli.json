@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-01-11T06:49:13.098739+00:00",
+  "last_updated": "2026-01-11T13:02:03.892030+00:00",
   "items": [
+    {
+      "titolo": "AMD leaves the door open to experimental FSR Redstone support on RDNA 3",
+      "descrizione": "At CES 2026, AMD used an interview with PCWorld to restate its official position on FSR Redstone while softening the edges around it.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-leaves-the-door-open-to-experimenta-fsr-redstone-support-on-rdna3",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-11T12:58:53+00:00"
+    },
+    {
+      "titolo": "Il powerbank giusto per ogni esigenza: la famiglia CUKTECH che ho provato",
+      "descrizione": "In questo articolo esploriamo tre powerbank CUKTECH e analizziamo come funzionano nella vita quotidiana. Il 15 Air è la scelta più versatile grazie alla potenza elevata e al design sottile. Il CP12...",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n641205/cuktech-powerbank-giusto-prova-test/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T11:00:00+00:00"
+    },
+    {
+      "titolo": "Rete di sensori quantistici apre nuove strade nella caccia alla materia oscura",
+      "descrizione": "Una nuova tecnica quantistica promette di individuare la materia oscura più leggera",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n643895/sensori-quantistici-materia-oscura/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T10:55:00+00:00"
+    },
+    {
+      "titolo": "Saily eSIM: il primo passo per pianificare un viaggio senza stress a poco prezzo",
+      "descrizione": "Pianifica i viaggi del nuovo anno con l’eSIM Saily. Connessione pronta in oltre 200 Paesi, costi chiari e attivazione rapida prima della partenza. The post Saily eSIM: il primo passo per pianificare un viaggio senza stre",
+      "link": "https://www.punto-informatico.it/saily-esim-il-primo-passo-per-pianificare-un-viaggio-senza-stress-a-poco-prezzo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-11T10:39:38+00:00"
+    },
+    {
+      "titolo": "Lega Seria A risponde al CEO di Cloudflare",
+      "descrizione": "La Lega Serie A ha risposto al CEO di Cloudflare (Matthew Prince), evidenziando la falsità delle affermazioni sul funzionamento di Piracy Shield. The post Lega Seria A risponde al CEO di Cloudflare appeared first on Punt",
+      "link": "https://www.punto-informatico.it/lega-seria-a-risponde-ceo-cloudflare/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-11T10:04:34+00:00"
+    },
+    {
+      "titolo": "The Danger of Reducing America's Venezuela Invasion to a 60-Second Video",
+      "descrizione": "January 3 marked the return of US military intervention in Latin America. While the events unfolded between Caracas and Brooklyn, social networks had already fabricated their own reality.",
+      "link": "https://www.wired.com/story/the-danger-of-reducing-a-americas-venezuela-invasion-to-a-60-second-video/",
+      "fonte": "WIRED",
+      "data": "2026-01-11T10:00:00+00:00"
+    },
+    {
+      "titolo": "Stivali AI per il recupero muscolare: terapia pro senza cavi né cliniche",
+      "descrizione": "Stivali wireless con AI, compressione e calore per il recupero muscolare delle gambe",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n643866/stivali-recupero-muscolare-ai-urevo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T09:55:00+00:00"
+    },
+    {
+      "titolo": "Zhangzhou cresce ancora: operativo il secondo reattore del colosso nucleare",
+      "descrizione": "La Cina avvia il secondo reattore di Zhangzhou e rafforza il suo primato nel nucleare",
+      "link": "https://www.hdblog.it/green/articoli/n644042/cina-reattore-zhangzhou-nucleare/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T08:55:00+00:00"
+    },
+    {
+      "titolo": "Maserati Grecale Cristallo Special Edition: lusso ed esclusivtà",
+      "descrizione": "Prendendo ispirazione dal Monte Cristallo, vetta delle Dolomiti, Maserati presenta la Grecale Cristallo Special Edition",
+      "link": "https://www.hdmotori.it/maserati-grecale-cristallo-edition-caratteristiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T08:30:08+00:00"
+    },
+    {
+      "titolo": "CES 2026: dallo spazio alla palestra fino ai campi da calcio. Ecco i dati per gli atleti di oggi",
+      "descrizione": "Che il mondo di oggi giri attorno ai dati non è una novità, ma al CES vediamo fino a che punto si arriva anche nella vita di tutti i giorni,...",
+      "link": "https://www.ilsole24ore.com/art/ces-2026-spazio-palestra-fino-campi-calcio-ecco-dati-gli-atleti-oggi-AI8lPxm",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-11T08:19:26+00:00"
+    },
+    {
+      "titolo": "Dacia C-Neo, la nuova station wagon prende forma: ecco come potrebbe essere",
+      "descrizione": "Arriverà nel corso del 2026 e sarà molto importante per i piani di crescita di Dacia nel segmento C",
+      "link": "https://www.hdmotori.it/dacia-c-neo-render-come-sara-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T08:00:24+00:00"
+    },
+    {
+      "titolo": "In Africa la cremazione più antica mai trovata: ha 9.500 anni",
+      "descrizione": "In Malawi scoperta una pira funeraria di 9.500 anni, la più antica mai documentata.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n644014/cremazione-piu-antica-mondo-malawi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T07:55:00+00:00"
+    },
+    {
+      "titolo": "Nuova Hyundai Staria Electric: tanto spazio, comfort e 800 V per ricariche rapide",
+      "descrizione": "In Europa il monovolume elettrico sarà disponibile in Europa nella prima metà del 2026: non sappiamo ancora se arriverà pure in Italia",
+      "link": "https://www.hdmotori.it/hyundai-staria-elettrica-dimensioni-interni-motore-autonomia/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T07:30:00+00:00"
+    },
+    {
+      "titolo": "Nuova Toyota RAV4 vs Skoda Kodiaq, sfida tra SUV: confronto, versioni e prezzi",
+      "descrizione": "Entrambi i SUV offrono spazio e comfort: mettiamo quindi a confronto la nuova Toyota RAV4 con la Skoda Kodiaq",
+      "link": "https://www.hdmotori.it/nuova-toyota-rav4-vs-skoda-kodiaq-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T07:00:01+00:00"
+    },
+    {
+      "titolo": "Spins quantistici caotici producono segnali a microonde duraturi",
+      "descrizione": "Spin quantistici auto-organizzati generano microonde stabili senza energia esterna.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n644012/spins-quantistici-microonde-stabili/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-11T06:55:00+00:00"
+    },
     {
       "titolo": "Tantissimi antivirus 2026 in offerta su Amazon fino al 90% di sconto",
       "descrizione": "Tantissimi antivirus 2026 ti aspettano in offerta su Amazon in offerta speciale fino al 90% di sconto, disponibili al download immediato. The post Tantissimi antivirus 2026 in offerta su Amazon fino al 90% di sconto appe",
@@ -63,111 +168,6 @@
       "link": "https://www.hdblog.it/google/articoli/n644168/google-maps-impostazioni-interfaccia-design-update/",
       "fonte": "HDblog.it",
       "data": "2026-01-10T13:10:00+00:00"
-    },
-    {
-      "titolo": "Celle solari in perovskite, una mappa 3D mostra dove scorre davvero l’energia",
-      "descrizione": "Una tecnica 3D mostra come le cariche si muovono nelle celle solari in perovskite",
-      "link": "https://www.hdblog.it/green/articoli/n643867/imaging-3d-celle-solari-perovskite/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T12:55:00+00:00"
-    },
-    {
-      "titolo": "FIAT, il 2026 inizia con le \"offerte più forti dell'universo\" su Pandina, Grande Panda, 500 e 600",
-      "descrizione": "Per il mese di gennio, FIAT propone una serie di offerte con finanziamento dedicate a Pandina Hybrid, 500 Hybrid, Grande Panda e 600 Hybrid",
-      "link": "https://www.hdmotori.it/fiat-offerte-pandina-500-600-hybrid-grande-panda/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T11:00:50+00:00"
-    },
-    {
-      "titolo": "Motorola Moto G86 al minimo storico su Amazon: nella fascia bassa non ha rivali",
-      "descrizione": "Il Motorola Moto G86 5G è in offerta su Amazon ed è acquistabile ora al prezzo minimo storico sullo store: si tratta di un vero affare nella fascia bassa.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n644163/motorola-moto-g86-5g-offerta-amazon-gennaio-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T10:40:00+00:00"
-    },
-    {
-      "titolo": "Accise sui carburanti: cosa sono, come funzionano e quanto incidono sui prezzi",
-      "descrizione": "In Italia le accise sui carburanti concorrono in maniera pesante alla formazione del prezzo di benzina e diesel: ecco cosa c'è da sapere",
-      "link": "https://www.hdmotori.it/accise-carburanti-cosa-sono-prezzo-benzina-diesel/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T10:30:51+00:00"
-    },
-    {
-      "titolo": "La nuova Toyota Hilux debutta a Salone di Bruxelles: in Italia a metà del 2026",
-      "descrizione": "Il nuovo pickup giapponese fa il suo debutto europeo al Salone di Bruxelles 2026; in Italia arriverà a metà dell'anno",
-      "link": "https://www.hdmotori.it/nuova-toyota-hilux-2026-diesel-elettrico-caratteristiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T10:00:23+00:00"
-    },
-    {
-      "titolo": "La Russia modifica i droni Shahed e li trasforma in armi aria-aria",
-      "descrizione": "Un drone Shahed russo trovato con un MANPADS apre nuovi scenari militari in Ucraina.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644017/drone-shahed-manpads-russia-ucraina/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T09:40:00+00:00"
-    },
-    {
-      "titolo": "The Bluff: prime immagini e data di uscita del film dei fratelli Russo",
-      "descrizione": "Un’ex pirata torna a combattere per salvare la famiglia in un action d’epoca adrenalinico.",
-      "link": "https://www.hdblog.it/amazon/articoli/n644149/the-bluff-film-prime-video-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T09:20:00+00:00"
-    },
-    {
-      "titolo": "Nasa e SpaceX fissano rientro degli astronauti dalla Iss per problemi di salute",
-      "descrizione": "La missione SpaceX Crew-11 rientrerà mercoledì 14 gennaio alle 22 ora italiana a causa del malessere di un astronauta",
-      "link": "https://www.ilsole24ore.com/art/nasa-e-spacex-fissano-rientro-astronauti-iss-problemi-salute-AIQj6yn",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-10T09:00:38+00:00"
-    },
-    {
-      "titolo": "Nuova BMW iX3 vs Audi Q6 e-tron, confronto tra SUV elettrici premium: versioni e prezzi",
-      "descrizione": "Mettiamo a confronto due SUV elettrici premium, la nuova BMW iX3 presentata al Salone di Monaco e Audi Q6 e-tron",
-      "link": "https://www.hdmotori.it/nuova-bmw-ix3-vs-audi-q6-e-tron-confronto-versioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T09:00:29+00:00"
-    },
-    {
-      "titolo": "Ecco la finestra smart che si autoalimenta e taglia i consumi energetici",
-      "descrizione": "Una finestra smart solare senza cavi riduce i consumi energetici degli edifici.",
-      "link": "https://www.hdblog.it/domotica/articoli/n644019/finestra-smart-autoalimentata-riduce-consumi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-10T08:55:00+00:00"
-    },
-    {
-      "titolo": "DAZN: il piano Full è in offerta a 29,99 euro al mese per 6 mesi",
-      "descrizione": "L'offerta non prevede vincoli e consente di guardare tutto lo sport di DAZN, tra cui Serie A, Australian Open e Olimpiadi. The post DAZN: il piano Full è in offerta a 29,99 euro al mese per 6 mesi appeared first on Punto",
-      "link": "https://www.punto-informatico.it/dazn-il-piano-full-e-in-offerta-a-2999-euro-al-mese-per-6-mesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-10T08:30:37+00:00"
-    },
-    {
-      "titolo": "KitchenAid Promo Code: 50% Off This Month",
-      "descrizione": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 50% off select countertop appliances.",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "fonte": "WIRED",
-      "data": "2026-01-10T06:00:00+00:00"
-    },
-    {
-      "titolo": "La truffa Truman Show che usa l’AI per costruire una realtà finta",
-      "descrizione": "Una nuova truffa finanziaria usa l'AI per creare una realtà fittizia attorno alle vittime, simulando esperti, community e profitti inesistenti. The post La truffa Truman Show che usa l’AI per costruire una realtà finta a",
-      "link": "https://www.punto-informatico.it/truffa-truman-show-usa-ai-costruire-realta-finta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-10T05:50:42+00:00"
-    },
-    {
-      "titolo": "I migliori prodotti Xiaomi in offerta speciale su Amazon solo per oggi",
-      "descrizione": "Scopri i migliori prodotti Xiaomi in offerta speciale su Amazon solo per oggi! Troverai smartphone, smartwatch, robot e molto altro ancora. The post I migliori prodotti Xiaomi in offerta speciale su Amazon solo per oggi",
-      "link": "https://www.punto-informatico.it/i-migliori-prodotti-xiaomi-in-offerta-speciale-su-amazon-solo-per-oggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-10T05:30:38+00:00"
-    },
-    {
-      "titolo": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
-      "descrizione": "To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.",
-      "link": "https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/",
-      "fonte": "WIRED",
-      "data": "2026-01-10T01:11:25+00:00"
     }
   ]
 }
