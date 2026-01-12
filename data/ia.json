@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-01-12T13:10:24.465506+00:00",
+  "last_updated": "2026-01-12T18:50:31.324796+00:00",
   "items": [
     {
-      "titolo": "OpenAI chiede ai collaboratori esterni di caricare file di lavoro veri",
-      "descrizione": "C’è un modo per insegnare all’intelligenza artificiale a lavorare come un essere umano: mostrarle come lavorano gli esseri umani. Non con esempi inventati, ma roba vera. File Word pieni di errori di battitura, presentazi",
-      "link": "https://www.punto-informatico.it/openai-chiede-collaboratori-esterni-caricare-file-lavoro-veri/",
+      "titolo": "Usare Gemini per trasformare i buoni propositi in risultati concreti",
+      "descrizione": "9 prompt per usare Gemini, ChatGPT e altri chatbot per organizzare lavoro, finanze, abitudini e obiettivi nel nuovo anno. The post Usare Gemini per trasformare i buoni propositi in risultati concreti appeared first on Pu",
+      "link": "https://www.punto-informatico.it/usare-gemini-trasformare-buoni-propositi-risultati-concreti/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-12T10:37:00+00:00",
+      "data": "2026-01-12T16:30:41+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Windows 11: Copilot diventa opzionale, ma solo per alcuni utenti",
-      "descrizione": "Si comincia dai sistemi gestiti da amministratori",
-      "link": "https://www.hdblog.it/microsoft/articoli/n644273/windows-11-come-rimuovere-copilot-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-12T11:20:00+00:00",
+      "titolo": "Microsoft: Chi non ha un PC AI è già obsoleto… tante grazie",
+      "descrizione": "Microsoft dichiara che i PC Copilot+ dotati di AI sono essenziali per il futuro, ma tralascia un dettaglio, costano un sacco di soldi. The post Microsoft: Chi non ha un PC AI è già obsoleto… tante grazie appeared first o",
+      "link": "https://www.punto-informatico.it/microsoft-chi-non-ha-pc-ai-gia-obsoleto-tante-grazie/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-12T16:03:41+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Inserzioni personalizzate in Google AI Mode",
-      "descrizione": "Google mostrerà annunci personalizzati per lo shopping in AI Mode, utilizzando le informazioni scambiate dagli utenti con il chatbot. The post Inserzioni personalizzate in Google AI Mode appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/inserzioni-personalizzate-google-ai-mode/",
+      "titolo": "Usare Gemini per trasformare i buoni propositi in risultati concreti",
+      "descrizione": "9 prompt per usare Gemini, ChatGPT e altri chatbot per organizzare lavoro, finanze, abitudini e obiettivi nel nuovo anno. The post Usare Gemini per trasformare i buoni propositi in risultati concreti appeared first on Pu",
+      "link": "https://www.punto-informatico.it/usare-gemini-trasformare-buoni-propositi-risultati-concreti/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-12T10:08:48+00:00",
+      "data": "2026-01-12T16:30:41+00:00",
       "modello": "gemini"
     }
   ]
