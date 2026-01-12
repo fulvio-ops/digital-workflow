@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-01-12T06:55:55.010126+00:00",
+  "last_updated": "2026-01-12T13:10:24.465506+00:00",
   "items": [
     {
-      "titolo": "Instagram: online i dati di 17,5 milioni di utenti",
-      "descrizione": "Un cybercriminale ha pubblicato i dati di 17,5 milioni di utenti Instagram che sarebbero stati rubati nel 2024 con una API del social network. The post Instagram: online i dati di 17,5 milioni di utenti appeared first on",
-      "link": "https://www.punto-informatico.it/instagram-online-dati-175-milioni-utenti/",
+      "titolo": "OpenAI chiede ai collaboratori esterni di caricare file di lavoro veri",
+      "descrizione": "C’è un modo per insegnare all’intelligenza artificiale a lavorare come un essere umano: mostrarle come lavorano gli esseri umani. Non con esempi inventati, ma roba vera. File Word pieni di errori di battitura, presentazi",
+      "link": "https://www.punto-informatico.it/openai-chiede-collaboratori-esterni-caricare-file-lavoro-veri/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-11T14:58:46+00:00",
+      "data": "2026-01-12T10:37:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Stufi di Copilot? Questo tool elimina l’AI da Windows 11",
-      "descrizione": "Winslop è il tool gratuito che rimuove Copilot e tutte le integrazioni AI da Windows 11, restituendo il controllo agli utenti. The post Stufi di Copilot? Questo tool elimina l’AI da Windows 11 appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/stufi-copilot-questo-tool-elimina-ai-windows-11/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-10T18:04:04+00:00",
+      "titolo": "Windows 11: Copilot diventa opzionale, ma solo per alcuni utenti",
+      "descrizione": "Si comincia dai sistemi gestiti da amministratori",
+      "link": "https://www.hdblog.it/microsoft/articoli/n644273/windows-11-come-rimuovere-copilot-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-12T11:20:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "I've tested Gemini, ChatGPT, Copilot, and others - Lenovo might have all AI assistants beat",
-      "descrizione": "Meet Qira, a personal ambient intelligence system that works across your devices.",
-      "link": "https://www.zdnet.com/article/lenovo-motorola-qira-ai-assistant-wearable-ces-2026/",
-      "fonte": "Latest news",
-      "data": "2026-01-10T12:02:33+00:00",
+      "titolo": "Inserzioni personalizzate in Google AI Mode",
+      "descrizione": "Google mostrerà annunci personalizzati per lo shopping in AI Mode, utilizzando le informazioni scambiate dagli utenti con il chatbot. The post Inserzioni personalizzate in Google AI Mode appeared first on Punto Informati",
+      "link": "https://www.punto-informatico.it/inserzioni-personalizzate-google-ai-mode/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-12T10:08:48+00:00",
       "modello": "gemini"
     }
   ]
