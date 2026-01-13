@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-13T02:26:32.439869+00:00",
+  "last_updated": "2026-01-13T06:52:19.243292+00:00",
   "items": [
     {
-      "titolo": "Usare Gemini per trasformare i buoni propositi in risultati concreti",
-      "descrizione": "9 prompt per usare Gemini, ChatGPT e altri chatbot per organizzare lavoro, finanze, abitudini e obiettivi nel nuovo anno. The post Usare Gemini per trasformare i buoni propositi in risultati concreti appeared first on Pu",
-      "link": "https://www.punto-informatico.it/usare-gemini-trasformare-buoni-propositi-risultati-concreti/",
+      "titolo": "Anthropic lancia Claude per la Salute per medici e pazienti",
+      "descrizione": "Dopo ChatGPT Salute, Anthropic lancia Claude per la salute. Promette di liberare i medici dalle scartoffie, ma offrirà anche consulenze sanitarie. The post Anthropic lancia Claude per la Salute per medici e pazienti appe",
+      "link": "https://www.punto-informatico.it/anthropic-claude-salute-medici-pazienti/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-12T16:30:41+00:00",
+      "data": "2026-01-13T05:49:18+00:00",
       "modello": "chatgpt"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Cowork automates complex tasks for you now - at your own risk",
-      "descrizione": "Available first to Claude Max subscribers, the research preview empowers Anthropic's chatbot to handle complex tasks.",
-      "link": "https://www.zdnet.com/article/anthropic-cowork-for-claude-complex-actions-security-risks/",
-      "fonte": "Latest news",
-      "data": "2026-01-12T19:30:40+00:00",
+      "titolo": "Anthropic lancia Claude per la Salute per medici e pazienti",
+      "descrizione": "Dopo ChatGPT Salute, Anthropic lancia Claude per la salute. Promette di liberare i medici dalle scartoffie, ma offrirà anche consulenze sanitarie. The post Anthropic lancia Claude per la Salute per medici e pazienti appe",
+      "link": "https://www.punto-informatico.it/anthropic-claude-salute-medici-pazienti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-13T05:49:18+00:00",
       "modello": "claude"
     }
   ]
