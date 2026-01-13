@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-01-12T18:50:28.432331+00:00",
+  "last_updated": "2026-01-13T02:26:29.174024+00:00",
   "items": [
+    {
+      "titolo": "Minnesota Sues to Stop ICE ‘Invasion’",
+      "descrizione": "The state of Minnesota, along with the Twin Cities, have sued the US government and several officials to halt the flood of agents carrying out an Immigration and Customs Enforcement operation.",
+      "link": "https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/",
+      "fonte": "WIRED",
+      "data": "2026-01-12T22:42:45+00:00"
+    },
+    {
+      "titolo": "Meta sets up 'Meta Compute' organization for gigawatt-scale AI data centers — initiative is said to consumer hundreds of gigawatts over time",
+      "descrizione": "Meta establishes 'Meta Compute' organization to manage buildout of next-generation data centers and development of custom computing architectures that will power gigawatt-class data centers.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-sets-up-meta-compute-organization-for-gigawatt-scale-ai-data-centers-initiative-is-said-to-consumer-hundreds-of-gigawatts-over-time",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-12T22:30:47+00:00"
+    },
+    {
+      "titolo": "Offerta Saily eSIM: Internet ovunque nel mondo a prezzi stracciati",
+      "descrizione": "Viaggia senza pensieri con Saily: eSIM da 2,99 dollari in oltre 200 destinazioni con attivazione automatica e zero costi di roaming. The post Offerta Saily eSIM: Internet ovunque nel mondo a prezzi stracciati appeared fi",
+      "link": "https://www.punto-informatico.it/offerta-saily-esim-internet-ovunque-nel-mondo-a-prezzi-stracciati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-12T21:59:37+00:00"
+    },
+    {
+      "titolo": "Jensen Huang claims that 'god AI' is a myth — Nvidia chief says 'doomer narrative' is 'extremely hurtful'",
+      "descrizione": "Nvidia's Jensen Huang says negative narratives around AI are \"extremely hurtful,\" and that science fiction speculation isn't connected to reality.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-claims-that-god-ai-is-a-myth-nvidia-chief-says-doomer-narrative-is-extremely-hurtful",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-12T20:14:33+00:00"
+    },
+    {
+      "titolo": "Recensione Narwal V40: Tanta batteria, autosvuotamento e prezzo giusto!",
+      "descrizione": "La nostra prova del primo aspirapolvere senza fili di Narwal, brand noto per i suoi ottimi robot lavapavimenti.",
+      "link": "https://www.hdblog.it/home/recensioni/n640981/narwal-v40/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-12T18:38:00+00:00"
+    },
+    {
+      "titolo": "Apple, conferma ufficiale: sarà Gemini AI di Google a potenziare Siri",
+      "descrizione": "Apple userà Gemini di Google per rendere Siri più personalizzata e intelligente.",
+      "link": "https://www.hdblog.it/google/articoli/n644312/apple-siri-gemini-google-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-12T18:37:00+00:00"
+    },
+    {
+      "titolo": "Apple supera Samsung e diventa il primo produttore mondiale di smartphone",
+      "descrizione": "Apple ha chiuso il 2025 con spedizioni in crescita del 10%",
+      "link": "https://www.hdblog.it/smartphone/articoli/n644265/apple-supera-samsung-mercato-smartphone/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-12T18:36:00+00:00"
+    },
+    {
+      "titolo": "Il nuovo frigorifero Xiaomi da 636 litri costa meno di 260 euro",
+      "descrizione": "Nuovo frigorifero Xiaomi da 636 litri con igienizzazione, smart app e consumi ridotti",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n644236/xiaomi-mijia-636l-frigorifero-lancio/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-12T18:35:00+00:00"
+    },
     {
       "titolo": "Nvidia's elusive N1X SoC leaks out again — shipping manifest reveals Dell may have explored putting it on next-gen XPS laptops",
       "descrizione": "Even though the N1 SoCs have never actually been officially unveiled, we do know they exist, as confirmed by even Nvidia's own CEO. However, beyond powering the DGX Spark, we've never seen this silicon make it to market,",
@@ -21,6 +77,20 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n644248/missile-anti-drone-piu-piccolo-lanciatore-europeo/",
       "fonte": "HDblog.it",
       "data": "2026-01-12T17:15:00+00:00"
+    },
+    {
+      "titolo": "Nuova Peugeot 208, ispirata al concept Polygon: la prima su piattaforma STLA Small",
+      "descrizione": "La nuova Peugeot 208 introdurrà diverse novità tecniche e prenderà ispirazione dal concept Polygon",
+      "link": "https://www.hdmotori.it/peugeot-208-2027-novita-caratteristiche-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-12T17:13:00+00:00"
+    },
+    {
+      "titolo": "Nuova Opel Astra 2026, ecco come cambia con il restyling",
+      "descrizione": "Al Salone di Bruxelles debutta il restyling di Opel Astra che continuerà ad essere proposta anche nella versione Sports Tourer",
+      "link": "https://www.hdmotori.it/opel-astra-sports-tourer-anteprima-restyling-2026-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-12T17:12:00+00:00"
     },
     {
       "titolo": "Il primo robot umanoide chirurgo entra in sala operatoria",
@@ -72,13 +142,6 @@
       "data": "2026-01-12T15:47:00+00:00"
     },
     {
-      "titolo": "Cloudflare contro l'Italia dopo la multa AGCOM: minacce di stop ai servizi",
-      "descrizione": "Una reazione a dir poco avventata.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n644305/cloudflare-contro-italia-multa-agcom-minacce-stop/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-12T15:45:00+00:00"
-    },
-    {
       "titolo": "Nuki Smart Lock Go in offerta Amazon: serratura smart senza chiavi",
       "descrizione": "Nuki Smart Lock Go & Keypad è la serratura smart che rende ogni porta più intelligente: in offerta Amazon. The post Nuki Smart Lock Go in offerta Amazon: serratura smart senza chiavi appeared first on Punto Informatico .",
       "link": "https://www.punto-informatico.it/nuki-smart-lock-go-in-offerta-amazon-serratura-smart-senza-chiavi/",
@@ -93,27 +156,6 @@
       "data": "2026-01-12T15:42:08+00:00"
     },
     {
-      "titolo": "Occhiali AR come quelli normali: Lumus supera i 70 gradi di visione",
-      "descrizione": "Nuove waveguide AR Lumus: più campo visivo, più luce e design più sottile",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644204/lumus-waveguide-ar-ces-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-12T15:40:00+00:00"
-    },
-    {
-      "titolo": "Wing amplia la partnership con Walmart: obiettivo 150 nuovi negozi nel 2026",
-      "descrizione": "Obiettivo 270 Walmart entro fine 2027.",
-      "link": "https://www.hdblog.it/google/articoli/n644317/alphabet-wing-droni-walmart-partnership-espansione/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-12T15:35:00+00:00"
-    },
-    {
-      "titolo": "In Italia cresce il noleggio a lungo termine: bene le elettriche e diminuisce la durata dei contratti",
-      "descrizione": "Contratti in crescita del 16%, raddoppiano le ricaricabili e i SUV dominano il mercato",
-      "link": "https://www.hdmotori.it/analisi-unrae-mercato-noleggio-lungo-termine-italia-2025/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-12T15:30:56+00:00"
-    },
-    {
       "titolo": "Come Google Pixel Watch 3 fonde il classico alla tecnologia (sconto 48%)",
       "descrizione": "Google Pixel Watch 3 raggiunge un prezzo minimo su Amazon e rende il tuo polso tecnologico: funzioni avanzate, qualità elevata. The post Come Google Pixel Watch 3 fonde il classico alla tecnologia (sconto 48%) appeared f",
       "link": "https://www.punto-informatico.it/come-google-pixel-watch-3-fonde-il-classico-alla-tecnologia-sconto-48/",
@@ -121,53 +163,11 @@
       "data": "2026-01-12T15:13:47+00:00"
     },
     {
-      "titolo": "Apple, conferma ufficiale: sarà Gemini AI di Google a potenziare Siri",
-      "descrizione": "Apple userà Gemini di Google per rendere Siri più personalizzata e intelligente.",
-      "link": "https://www.hdblog.it/google/articoli/n644312/apple-siri-gemini-google-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-12T15:10:00+00:00"
-    },
-    {
       "titolo": "VLC ha il supporto nativo ai processori Arm",
       "descrizione": "Il sempreverde VLC ha introdotto una novità passata sottotraccia, il supporto nativo ai processori Arm, sempre più diffusi in ambito PC. The post VLC ha il supporto nativo ai processori Arm appeared first on Punto Inform",
       "link": "https://www.punto-informatico.it/vlc-supporto-nativo-processori-arm/",
       "fonte": "Punto Informatico",
       "data": "2026-01-12T15:08:44+00:00"
-    },
-    {
-      "titolo": "Immagini sessualizzate di Grok: indagine su X in UK",
-      "descrizione": "Ofcom ha avviato un'indagine nei confronti di X per aver consentito la pubblicazione di deepfake non consensuali, violando l'Online Safety Act. The post Immagini sessualizzate di Grok: indagine su X in UK appeared first",
-      "link": "https://www.punto-informatico.it/immagini-sessualizzate-grok-indagine-x-uk/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-12T14:25:09+00:00"
-    },
-    {
-      "titolo": "Deepfake della crisi in Venezuela: il futuro della disinformazione",
-      "descrizione": "Dopo l'arresto di Maduro, milioni di video sulla crisi venezuelana hanno invaso i social, ma molti erano deepfake generati dall'AI. The post Deepfake della crisi in Venezuela: il futuro della disinformazione appeared fir",
-      "link": "https://www.punto-informatico.it/deepfake-crisi-venezuela-futuro-disinformazione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-12T14:04:44+00:00"
-    },
-    {
-      "titolo": "Ban per Grok in due paesi (ne seguiranno altri)",
-      "descrizione": "Primi ban per Grok a causa dei deepfake non consensuali creati con l'intelligenza artificiale, con tutta probabilità ne seguiranno altri. The post Ban per Grok in due paesi (ne seguiranno altri) appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/ban-grok/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-12T13:55:04+00:00"
-    },
-    {
-      "titolo": "Con 9,98€ il Wi-Fi di casa SFONDA i MURI e arriva ovunque",
-      "descrizione": "Un prezzo super speciale per questo ripetitore di segnale Wi-Fi di Mercusys by TP-Link: solo su Amazon. The post Con 9,98€ il Wi-Fi di casa SFONDA i MURI e arriva ovunque appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/con-998e-il-wi-fi-di-casa-sfonda-i-muri-e-arriva-ovunque/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-12T13:36:45+00:00"
-    },
-    {
-      "titolo": "How to talk to your appliances - no Wi-Fi, hub, or smart home privacy risks required",
-      "descrizione": "Devices equipped with Emerson's SmartVoice don't require Wi-Fi or a hub; instead, they utilize on-device voice control. You can buy these appliances now.",
-      "link": "https://www.zdnet.com/article/emerson-smartvoice-appliances-smart-home-no-wi-fi-hub-ces-2026/",
-      "fonte": "Latest news",
-      "data": "2026-01-12T13:35:18+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T18:50:31.324796+00:00",
+  "last_updated": "2026-01-13T02:26:32.439869+00:00",
   "items": [
     {
       "titolo": "Usare Gemini per trasformare i buoni propositi in risultati concreti",
@@ -18,12 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Usare Gemini per trasformare i buoni propositi in risultati concreti",
-      "descrizione": "9 prompt per usare Gemini, ChatGPT e altri chatbot per organizzare lavoro, finanze, abitudini e obiettivi nel nuovo anno. The post Usare Gemini per trasformare i buoni propositi in risultati concreti appeared first on Pu",
-      "link": "https://www.punto-informatico.it/usare-gemini-trasformare-buoni-propositi-risultati-concreti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-12T16:30:41+00:00",
+      "titolo": "Can Google save Apple AI? Gemini to power a new, personalized Siri",
+      "descrizione": "A new deal between Apple and Google makes Gemini the cloud-based technology driving Apple Intelligence and Siri. Here's what that could look like.",
+      "link": "https://www.zdnet.com/article/gemini-apple-intelligence-siri-upgrade/",
+      "fonte": "Latest news",
+      "data": "2026-01-12T20:53:36+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Claude Cowork automates complex tasks for you now - at your own risk",
+      "descrizione": "Available first to Claude Max subscribers, the research preview empowers Anthropic's chatbot to handle complex tasks.",
+      "link": "https://www.zdnet.com/article/anthropic-cowork-for-claude-complex-actions-security-risks/",
+      "fonte": "Latest news",
+      "data": "2026-01-12T19:30:40+00:00",
+      "modello": "claude"
     }
   ]
 }
