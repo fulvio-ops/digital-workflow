@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-01-13T06:52:19.243292+00:00",
+  "last_updated": "2026-01-13T13:10:18.642371+00:00",
   "items": [
     {
-      "titolo": "Anthropic lancia Claude per la Salute per medici e pazienti",
-      "descrizione": "Dopo ChatGPT Salute, Anthropic lancia Claude per la salute. Promette di liberare i medici dalle scartoffie, ma offrirà anche consulenze sanitarie. The post Anthropic lancia Claude per la Salute per medici e pazienti appe",
-      "link": "https://www.punto-informatico.it/anthropic-claude-salute-medici-pazienti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-13T05:49:18+00:00",
+      "titolo": "7 new Windows laptops that delighted and surprised us at CES",
+      "descrizione": "This year is shaping up to be an exciting one for PCs: Dell is reviving the XPS, while MSI has just announced a new series of ultra-thin laptops.",
+      "link": "https://www.zdnet.com/article/best-laptops-ces-2026/",
+      "fonte": "Latest news",
+      "data": "2026-01-13T13:00:56+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Microsoft: Chi non ha un PC AI è già obsoleto… tante grazie",
-      "descrizione": "Microsoft dichiara che i PC Copilot+ dotati di AI sono essenziali per il futuro, ma tralascia un dettaglio, costano un sacco di soldi. The post Microsoft: Chi non ha un PC AI è già obsoleto… tante grazie appeared first o",
-      "link": "https://www.punto-informatico.it/microsoft-chi-non-ha-pc-ai-gia-obsoleto-tante-grazie/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-12T16:03:41+00:00",
+      "titolo": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app",
+      "descrizione": "Microsoft finally allows administrators to remove the Microsoft Copilot app from managed versions of Windows 11 Pro, Enterprise, and EDU. However, you need to have Microsoft 365 Copilot installed, among other conditions.",
+      "link": "https://www.tomshardware.com/software/windows/admins-finally-get-the-power-to-uninstall-microsoft-copilot-on-windows-11-pro-enterprise-and-edu-versions-devices-must-meet-specific-conditions-to-allow-the-removal-of-the-ai-app",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-10T16:03:55+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Can Google save Apple AI? Gemini to power a new, personalized Siri",
-      "descrizione": "A new deal between Apple and Google makes Gemini the cloud-based technology driving Apple Intelligence and Siri. Here's what that could look like.",
-      "link": "https://www.zdnet.com/article/gemini-apple-intelligence-siri-upgrade/",
-      "fonte": "Latest news",
-      "data": "2026-01-12T20:53:36+00:00",
+      "titolo": "Accordo Apple-Google: commento di Elon Musk",
+      "descrizione": "Secondo Elon Musk, l'accordo tra Google e Apple che prevede l'uso di Gemini per Siri è una concentrazione di potere per l'azienda di Mountain View. The post Accordo Apple-Google: commento di Elon Musk appeared first on P",
+      "link": "https://www.punto-informatico.it/accordo-apple-google-commento-elon-musk/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-13T08:27:57+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic lancia Claude per la Salute per medici e pazienti",
-      "descrizione": "Dopo ChatGPT Salute, Anthropic lancia Claude per la salute. Promette di liberare i medici dalle scartoffie, ma offrirà anche consulenze sanitarie. The post Anthropic lancia Claude per la Salute per medici e pazienti appe",
-      "link": "https://www.punto-informatico.it/anthropic-claude-salute-medici-pazienti/",
+      "titolo": "Anthropic lancia Cowork per programmare senza riga di comando",
+      "descrizione": "Cowork è il nuovo agente AI di Anthropic. gestisce file, automatizza attività e funziona tramite chat, senza riga di comando. The post Anthropic lancia Cowork per programmare senza riga di comando appeared first on Punto",
+      "link": "https://www.punto-informatico.it/anthropic-cowork-programmare-senza-riga-comando/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-13T05:49:18+00:00",
+      "data": "2026-01-13T07:51:29+00:00",
       "modello": "claude"
     }
   ]
