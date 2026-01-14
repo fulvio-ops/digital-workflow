@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-13T18:49:15.726380+00:00",
+  "last_updated": "2026-01-14T02:34:41.599976+00:00",
   "items": [
     {
-      "titolo": "ChatGPT è troppo gentile, come renderlo più diretto e onesto",
-      "descrizione": "Trasformare ChatGPT da yes-man accomodante a consulente di verità scomode personalizzando le impostazioni. Ecco come. The post ChatGPT è troppo gentile, come renderlo più diretto e onesto appeared first on Punto Informat",
-      "link": "https://www.punto-informatico.it/chatgpt-troppo-gentile-come-renderlo-piu-diretto-onesto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-13T16:30:35+00:00",
+      "titolo": "The Fight on Capitol Hill to Make It Easier to Fix Your Car",
+      "descrizione": "As vehicles grow more software-dependent, repairing them has become harder than ever. A bill in the US House called the Repair Act would ease those restrictions, but it comes with caveats.",
+      "link": "https://www.wired.com/story/repair-act-us-house-legislation-right-to-repair-your-car/",
+      "fonte": "WIRED",
+      "data": "2026-01-13T23:47:17+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,12 +18,20 @@
       "modello": "copilot"
     },
     {
-      "titolo": "I tried Gmail's new Gemini AI features, and now I want to unsubscribe",
-      "descrizione": "In my testing, Gemini in Gmail misses key details, delivers misleading summaries, and still cannot manage message flow the way I need.",
-      "link": "https://www.zdnet.com/article/gmail-gemini-ai-features-test/",
-      "fonte": "Latest news",
-      "data": "2026-01-13T15:26:30+00:00",
+      "titolo": "Gmail, rivoluzione AI per trasformare la casella di posta in un assistente personale",
+      "descrizione": "Google presenta le nuove funzionalità basate su Gemini che cambieranno il modo di gestire le email nel 2026",
+      "link": "https://www.ilsole24ore.com/art/gmail-rivoluzione-per-trasformare-casella-posta-un-assistente-personale-AITBmel",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-08T21:34:55+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Qwen boss says Chinese AI models have 'less than 20%' chance of leapfrogging Western counterparts — despite China's $1 billion AI IPO week, capital can't close the gap alone",
+      "descrizione": "China’s AI sector made a splash this month as a cluster of domestic AI firms raised more than $1 billion through IPOs in Hong Kong.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-1-billion-ai-ipo-week-highlights-the-limits-of-capital-without-compute",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-13T19:15:00+00:00",
+      "modello": "altri"
     }
   ]
 }
