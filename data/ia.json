@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-14T06:52:25.017334+00:00",
+  "last_updated": "2026-01-14T13:09:58.020917+00:00",
   "items": [
     {
-      "titolo": "Is ChatGPT Plus worth your $20? How it compares to Free and Pro plans",
-      "descrizione": "Let's break down ChatGPT's plans to see if a subscription is worth it - especially since the free tier has so much.",
-      "link": "https://www.zdnet.com/article/is-chatgpt-plus-worth-it-free-and-pro-plans-compared/",
-      "fonte": "Latest news",
-      "data": "2026-01-14T03:00:00+00:00",
+      "titolo": "How AI Companies Got Caught Up in US Military Efforts",
+      "descrizione": "Two years ago, companies like Meta and OpenAI were united against military use of their tools. Now all of that has changed.",
+      "link": "https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/",
+      "fonte": "WIRED",
+      "data": "2026-01-14T12:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gmail, rivoluzione AI per trasformare la casella di posta in un assistente personale",
-      "descrizione": "Google presenta le nuove funzionalità basate su Gemini che cambieranno il modo di gestire le email nel 2026",
-      "link": "https://www.ilsole24ore.com/art/gmail-rivoluzione-per-trasformare-casella-posta-un-assistente-personale-AITBmel",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-08T21:34:55+00:00",
+      "titolo": "Gemini per Siri: dettagli sull’accordo Apple-Google",
+      "descrizione": "Sono trapelati nuovi dettagli sull'accordo tra Apple e Google, insieme alle informazioni sui miglioramenti per Siri ottenuti con l'uso di Gemini. The post Gemini per Siri: dettagli sull’accordo Apple-Google appeared firs",
+      "link": "https://www.punto-informatico.it/gemini-siri-dettagli-accordo-apple-google/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-14T10:59:47+00:00",
       "modello": "gemini"
     },
     {
