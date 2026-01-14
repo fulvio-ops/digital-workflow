@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T13:09:58.020917+00:00",
+  "last_updated": "2026-01-14T18:52:08.404655+00:00",
   "items": [
     {
       "titolo": "How AI Companies Got Caught Up in US Military Efforts",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app",
-      "descrizione": "Microsoft finally allows administrators to remove the Microsoft Copilot app from managed versions of Windows 11 Pro, Enterprise, and EDU. However, you need to have Microsoft 365 Copilot installed, among other conditions.",
-      "link": "https://www.tomshardware.com/software/windows/admins-finally-get-the-power-to-uninstall-microsoft-copilot-on-windows-11-pro-enterprise-and-edu-versions-devices-must-meet-specific-conditions-to-allow-the-removal-of-the-ai-app",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-10T16:03:55+00:00",
+      "titolo": "Copilot ha lasciato i tifosi fuori dallo stadio",
+      "descrizione": "Informazioni errate restituite da Copilot hanno portato al ban dei tifosi ospiti: Aston Villa-Maccabi Tel Aviv senza la curva israeliana. The post Copilot ha lasciato i tifosi fuori dallo stadio appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/copilot-ha-lasciato-tifosi-fuori-dallo-stadio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-14T15:34:23+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini per Siri: dettagli sull’accordo Apple-Google",
-      "descrizione": "Sono trapelati nuovi dettagli sull'accordo tra Apple e Google, insieme alle informazioni sui miglioramenti per Siri ottenuti con l'uso di Gemini. The post Gemini per Siri: dettagli sull’accordo Apple-Google appeared firs",
-      "link": "https://www.punto-informatico.it/gemini-siri-dettagli-accordo-apple-google/",
+      "titolo": "Personal Intelligence: risposte proattive con Gemini",
+      "descrizione": "Personal Intelligence consente di ottenere risposte proattive usando le informazioni recuperate dalle app collegate (con il permesso dell'utente). The post Personal Intelligence: risposte proattive con Gemini appeared fi",
+      "link": "https://www.punto-informatico.it/personal-intelligence-risposte-proattive-gemini/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-14T10:59:47+00:00",
+      "data": "2026-01-14T17:13:26+00:00",
       "modello": "gemini"
     },
     {
