@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-01-14T02:34:37.858154+00:00",
+  "last_updated": "2026-01-14T06:52:22.274703+00:00",
   "items": [
+    {
+      "titolo": "Wikipedia compie un quarto di secolo. La sfida definitiva con l’Ai",
+      "descrizione": "In un quarto di secolo, l’enciclopedia online è diventata patrimonio dell’umanità digitale. Ma ora l’intelligenza artificiale minaccia il suo modello: traffico in calo e nuove sfide all’orizzonte",
+      "link": "https://www.ilsole24ore.com/art/oggi-wikipedia-compie-quarto-secolo-sfida-definitiva-l-ai-AIS2L2q",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-14T06:42:00+00:00"
+    },
+    {
+      "titolo": "Microsoft, cinque promesse per placare la rivolta anti-Data Center",
+      "descrizione": "Le proteste contro i data center AI costringono Microsoft a presentare nuovi impegni su energia, acqua, trasparenza e lavoro locale. The post Microsoft, cinque promesse per placare la rivolta anti-Data Center appeared fi",
+      "link": "https://www.punto-informatico.it/microsoft-cinque-promesse-placare-rivolta-contro-data-center/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-14T06:12:07+00:00"
+    },
+    {
+      "titolo": "Is ChatGPT Plus worth your $20? How it compares to Free and Pro plans",
+      "descrizione": "Let's break down ChatGPT's plans to see if a subscription is worth it - especially since the free tier has so much.",
+      "link": "https://www.zdnet.com/article/is-chatgpt-plus-worth-it-free-and-pro-plans-compared/",
+      "fonte": "Latest news",
+      "data": "2026-01-14T03:00:00+00:00"
+    },
     {
       "titolo": "Hostinger, promo di Capodanno agli sgoccioli: ultimi sconti fino all’80%",
       "descrizione": "Ultimi giorni per approfittare della promo Hostinger di Capodanno, con sconti fino all'80% sui piani hosting a partire da 2,49 euro al mese. The post Hostinger, promo di Capodanno agli sgoccioli: ultimi sconti fino all’8",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/data-center-ai-microsoft-paghera-costi-energetici/",
       "fonte": "Punto Informatico",
       "data": "2026-01-13T15:58:10+00:00"
-    },
-    {
-      "titolo": "Nuovo grafene 3D: promette ricariche ultra rapide per le batterie del futuro",
-      "descrizione": "Una startup giapponese presenta al CES 2026 un grafene 3D per batterie più rapide e durature",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644365/grafene-3d-batterie-ricarica-rapida/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-13T15:55:00+00:00"
-    },
-    {
-      "titolo": "JBL Tune 520 BT, gennaio 2026 fa VOLARE via il prezzo: offerta Amazon",
-      "descrizione": "Le cuffie On Ear Bluetooth JBL Tune 520 BT raggiungono un prezzo affare con l'offerta Amazon in corso: audio supremo. The post JBL Tune 520 BT, gennaio 2026 fa VOLARE via il prezzo: offerta Amazon appeared first on Punto",
-      "link": "https://www.punto-informatico.it/jbl-tune-520-bt-gennaio-2026-fa-volare-via-il-prezzo-offerta-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-13T15:34:28+00:00"
-    },
-    {
-      "titolo": "Akamai spiega come combatte la pirateria online",
-      "descrizione": "Il CEO di Akamai ha descritto alcune tecnologie usate per bloccare la pirateria online con un velato riferimento alle parole del CEO di Cloudflare, The post Akamai spiega come combatte la pirateria online appeared first",
-      "link": "https://www.punto-informatico.it/akamai-spiega-come-combatte-pirateria-online/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-13T14:54:17+00:00"
     }
   ]
 }
