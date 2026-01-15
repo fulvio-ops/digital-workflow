@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-01-15T13:08:37.929665+00:00",
+  "last_updated": "2026-01-15T18:56:02.511839+00:00",
   "items": [
     {
-      "titolo": "Microsoft, Meta e Amazon pagano Wikipedia per accedere alle API",
-      "descrizione": "Microsoft, Meta, Amazon, Perplexity e Mistral AI hanno aderito al programma premium che offre accesso a pagamento alle API di Wikipedia. The post Microsoft, Meta e Amazon pagano Wikipedia per accedere alle API appeared f",
-      "link": "https://www.punto-informatico.it/microsoft-meta-amazon-pagano-wikipedia-accedere-api/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-15T12:41:08+00:00",
+      "titolo": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
+      "descrizione": "Merge Labs has emerged from stealth with $252 million in funding from OpenAI and others. It aims to use ultrasound to read from and write to the brain.",
+      "link": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
+      "fonte": "WIRED",
+      "data": "2026-01-15T18:24:51+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "L'intelligence UK interviene per sbaglio e dà la colpa a Copilot: l'AI ha inventato dei reati",
-      "descrizione": "Copilot ha inventato un match in cui sarebbero avvenuti degli scontri tra tifosi",
-      "link": "https://www.hdblog.it/microsoft/articoli/n644741/copilot-inventa-match-intelligence-uk-sbaglia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T11:20:00+00:00",
+      "titolo": "Reprompt: furto di dati personali con Microsoft Copilot",
+      "descrizione": "Una vulnerabilità di Copilot poteva essere sfruttata per rubare i dati personali dell'utente (Microsoft ha corretto il problema di sicurezza). The post Reprompt: furto di dati personali con Microsoft Copilot appeared fir",
+      "link": "https://www.punto-informatico.it/reprompt-furto-dati-personali-microsoft-copilot/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-15T17:16:01+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Nasce Personal Intelligence: Google collega Gemini con foto e mail per creare un assistente davvero personale",
-      "descrizione": "",
-      "link": "https://www.infodata.ilsole24ore.com/2026/01/15/nasce-personal-intelligence-google-collega-gemini-e-foto-e-mail-per-creare-un-assistente-personale/",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-15T12:58:55+00:00",
+      "titolo": "Gemini can look through your emails and photos to 'help' you now - but should you let it?",
+      "descrizione": "With Personal Intelligence, Gemini can tap into your Gmail, Photos, and YouTube. In short, you're giving it more of your data.",
+      "link": "https://www.zdnet.com/article/google-gemini-personal-intelligence/",
+      "fonte": "Latest news",
+      "data": "2026-01-15T16:24:00+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
+      "descrizione": "Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.",
+      "link": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
+      "fonte": "WIRED",
+      "data": "2026-01-15T17:40:41+00:00",
+      "modello": "claude"
     },
     {
       "titolo": "L’intelligenza artificiale cresce ma crea sempre di più disuguaglianza",
