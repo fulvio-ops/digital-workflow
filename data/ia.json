@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-01-14T18:52:08.404655+00:00",
+  "last_updated": "2026-01-15T02:28:20.776647+00:00",
   "items": [
     {
-      "titolo": "How AI Companies Got Caught Up in US Military Efforts",
-      "descrizione": "Two years ago, companies like Meta and OpenAI were united against military use of their tools. Now all of that has changed.",
-      "link": "https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/",
+      "titolo": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
+      "descrizione": "The news is a blow for Thinking Machines Lab. Two narratives are already emerging about what happened.",
+      "link": "https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/",
       "fonte": "WIRED",
-      "data": "2026-01-14T12:00:00+00:00",
+      "data": "2026-01-15T00:40:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Copilot ha lasciato i tifosi fuori dallo stadio",
-      "descrizione": "Informazioni errate restituite da Copilot hanno portato al ban dei tifosi ospiti: Aston Villa-Maccabi Tel Aviv senza la curva israeliana. The post Copilot ha lasciato i tifosi fuori dallo stadio appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/copilot-ha-lasciato-tifosi-fuori-dallo-stadio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-14T15:34:23+00:00",
+      "titolo": "No Matter? No problem! Imagine one smart home app to control all your devices",
+      "descrizione": "Unveiled at CES, the new Copilot Star platform is designed to take smart device interoperability to the next level.",
+      "link": "https://www.zdnet.com/article/matter-copilot-star-single-app-smart-home-framework-copilot/",
+      "fonte": "Latest news",
+      "data": "2026-01-14T20:36:28+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Personal Intelligence: risposte proattive con Gemini",
-      "descrizione": "Personal Intelligence consente di ottenere risposte proattive usando le informazioni recuperate dalle app collegate (con il permesso dell'utente). The post Personal Intelligence: risposte proattive con Gemini appeared fi",
-      "link": "https://www.punto-informatico.it/personal-intelligence-risposte-proattive-gemini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-14T17:13:26+00:00",
+      "titolo": "Are AI health coach subscriptions a scam? My verdict after testing Fitbit's for a month",
+      "descrizione": "Is Fitbit Premium, and its Gemini smarts, enough to justify its price? Here's my buying advice.",
+      "link": "https://www.zdnet.com/article/fitbit-premium-ai-review/",
+      "fonte": "Latest news",
+      "data": "2026-01-15T01:06:00+00:00",
       "modello": "gemini"
     },
     {
