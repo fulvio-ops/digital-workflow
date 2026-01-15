@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-01-15T06:52:20.209785+00:00",
+  "last_updated": "2026-01-15T13:08:37.929665+00:00",
   "items": [
     {
-      "titolo": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
-      "descrizione": "The departures are a blow for Thinking Machines Lab. Two narratives are already emerging about why they happened.",
-      "link": "https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/",
-      "fonte": "WIRED",
-      "data": "2026-01-15T00:40:28+00:00",
+      "titolo": "Microsoft, Meta e Amazon pagano Wikipedia per accedere alle API",
+      "descrizione": "Microsoft, Meta, Amazon, Perplexity e Mistral AI hanno aderito al programma premium che offre accesso a pagamento alle API di Wikipedia. The post Microsoft, Meta e Amazon pagano Wikipedia per accedere alle API appeared f",
+      "link": "https://www.punto-informatico.it/microsoft-meta-amazon-pagano-wikipedia-accedere-api/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-15T12:41:08+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "No Matter? No problem! Imagine one smart home app to control all your devices",
-      "descrizione": "Unveiled at CES, the new Copilot Star platform is designed to take smart device interoperability to the next level.",
-      "link": "https://www.zdnet.com/article/matter-copilot-star-single-app-smart-home-framework-copilot/",
-      "fonte": "Latest news",
-      "data": "2026-01-14T20:36:28+00:00",
+      "titolo": "L'intelligence UK interviene per sbaglio e dà la colpa a Copilot: l'AI ha inventato dei reati",
+      "descrizione": "Copilot ha inventato un match in cui sarebbero avvenuti degli scontri tra tifosi",
+      "link": "https://www.hdblog.it/microsoft/articoli/n644741/copilot-inventa-match-intelligence-uk-sbaglia/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-15T11:20:00+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini arriva su Google Trends, addio ricerche manuali infinite",
-      "descrizione": "Gemini su Google Trends identifica e confronta automaticamente le tendenze di ricerca, suggerisce argomenti correlati e semplifica l'analisi. The post Gemini arriva su Google Trends, addio ricerche manuali infinite appea",
-      "link": "https://www.punto-informatico.it/gemini-google-trends-addio-ricerche-manuali-infinite/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-15T05:36:00+00:00",
+      "titolo": "Nasce Personal Intelligence: Google collega Gemini con foto e mail per creare un assistente davvero personale",
+      "descrizione": "",
+      "link": "https://www.infodata.ilsole24ore.com/2026/01/15/nasce-personal-intelligence-google-collega-gemini-e-foto-e-mail-per-creare-un-assistente-personale/",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-15T12:58:55+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Qwen boss says Chinese AI models have 'less than 20%' chance of leapfrogging Western counterparts — despite China's $1 billion AI IPO week, capital can't close the gap alone",
-      "descrizione": "China’s AI sector made a splash this month as a cluster of domestic AI firms raised more than $1 billion through IPOs in Hong Kong.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-1-billion-ai-ipo-week-highlights-the-limits-of-capital-without-compute",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-13T19:15:00+00:00",
+      "titolo": "L’intelligenza artificiale cresce ma crea sempre di più disuguaglianza",
+      "descrizione": "Il nuovo AI Diffusion Report rivela che un cittadino su sei nel mondo usa l’IA generativa, ma la distribuzione resta drammaticamente ineguale. Emirati Arabi al top con il 64%, mentre l’Africa scopre DeepSeek",
+      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-cresce-ma-crea-sempre-piu-disuguaglianza-AIXul3r",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-15T12:53:50+00:00",
       "modello": "altri"
     }
   ]
