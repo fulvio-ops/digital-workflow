@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-01-15T18:55:59.652337+00:00",
+  "last_updated": "2026-01-16T02:29:55.319480+00:00",
   "items": [
+    {
+      "titolo": "My 4-step routine to make any Android phone operate like new again (and reliably)",
+      "descrizione": "A few quick taps and swipes are all it takes to make your old phone feel brand new.",
+      "link": "https://www.zdnet.com/article/4-step-android-phone-refresh-routine/",
+      "fonte": "Latest news",
+      "data": "2026-01-16T02:00:58+00:00"
+    },
+    {
+      "titolo": "Trasforma la tua idea in realtà con Hostinger, grazie agli sconti fino all’80%",
+      "descrizione": "Con la promo di Capodanno Hostinger ottieni fino all'80% su tutti i piani per il primo anno: a partire da 2,49 euro al mese hai anche strumenti AI. The post Trasforma la tua idea in realtà con Hostinger, grazie agli scon",
+      "link": "https://www.punto-informatico.it/trasforma-la-tua-idea-in-realta-con-hostinger-grazie-agli-sconti-fino-all80/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-15T21:27:50+00:00"
+    },
+    {
+      "titolo": "Inside OpenAI’s Raid on Thinking Machines Lab",
+      "descrizione": "OpenAI is planning to bring over more researchers from Thinking Machines Lab after nabbing two cofounders, a source familiar with the situation says. Plus, the latest efforts to automate jobs with AI.",
+      "link": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+      "fonte": "WIRED",
+      "data": "2026-01-15T21:14:23+00:00"
+    },
+    {
+      "titolo": "Kena: 200 Giga in 5G su rete TIM a 5,99 euro al mese e SIM gratuita",
+      "descrizione": "Per i clienti che scelgono di portare il loro numero in Kena da Iliad, ho. Poste Mobile, Lyca Mobile, CoopVoce, Fastweb e altri MVNO. The post Kena: 200 Giga in 5G su rete TIM a 5,99 euro al mese e SIM gratuita appeared",
+      "link": "https://www.punto-informatico.it/kena-200-giga-in-5g-su-rete-tim-a-5-99-euro-al-mese-e-sim-gratuita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-15T21:01:24+00:00"
+    },
+    {
+      "titolo": "Analyzing Washington's new AI accelerator export rules — smaller manufacturers suffer while Nvidia and AMD will reap the rewards",
+      "descrizione": "U.S. introduces new export rules for AI and HPC accelerators developed in America that allow shipments of AMD's MI325X and Nvidia's H200 GPUs to Chinese entities, but only if their developers meet demand of American cust",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/analyzing-washingtons-new-ai-accelerator-export-rules-smaller-manufacturers-suffer-while-nvidia-and-amd-will-reap-the-rewards",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-15T20:33:10+00:00"
+    },
+    {
+      "titolo": "Recensione Honor Magic 8 Pro: molti cambiamenti ed una batteria esclusiva",
+      "descrizione": "Abbiamo messo le mani sull'ultimo top di gamma di casa Honor, uno smartphone che punta ad una super batteria, un design rinnovato, nuove fotocamere ed un software finalmente all'altezza.. ma il...",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n643188/honor-magic-8-pro-test-prova-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-15T18:43:00+00:00"
+    },
+    {
+      "titolo": "Come l'IA cambierà il lavoro (e lo sta già facendo)",
+      "descrizione": "L'Intelligenza Artificiale sconvolgerà il mondo del lavoro nel breve periodo, con conseguenze prevedibili e la necessità di lavorare su competenze e capacità.",
+      "link": "https://www.hdblog.it/business/articoli/n644761/lavoro-ia/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-15T18:42:00+00:00"
+    },
+    {
+      "titolo": "Sophie Turner è la nuova Lara Croft: eccola nella serie Tomb Raider su Prime Video",
+      "descrizione": "Vi piace?",
+      "link": "https://www.hdblog.it/amazon/articoli/n644769/sophie-turner-lara-croft-tomb-raider-prime-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-15T18:40:00+00:00"
+    },
     {
       "titolo": "Bollette più leggere e zero rincari con la promo di gennaio 2026 di Octopus",
       "descrizione": "Con l'offerta di Octopus è possibile accedere alla promo giusta per bloccare il prezzo e tagliare le bollette: ecco i dettagli completi. The post Bollette più leggere e zero rincari con la promo di gennaio 2026 di Octopu",
@@ -28,6 +84,20 @@
       "link": "https://www.tomshardware.com/pc-components/gpus/gamers-face-another-crushing-blow-as-nvidia-allegedly-slashes-gpu-supply-by-20-percent-leaker-claims-no-new-geforce-gaming-gpu-until-2027",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-15T17:34:26+00:00"
+    },
+    {
+      "titolo": "Quante auto elettriche circolano davvero in Unione Europea? Ecco cosa dice il rapporto di ACEA",
+      "descrizione": "Il dato è in crescita rispetto al 2023; Italia ben al di sotto della media UE ma abbiamo il primato del maggior numero di auto ogni 1.000 abitanti",
+      "link": "https://www.hdmotori.it/quante-auto-elettriche-circolano-europa-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-15T17:13:00+00:00"
+    },
+    {
+      "titolo": "Le FIAT costano troppo, in arrivo versioni più economiche: l'erede della Panda a meno di 15 mila euro",
+      "descrizione": "Il CEO di FIAT, Olivier François, parla della nuova strategia prodotto e dell'arrivo di nuovi modelli più competitivi sul fronte del prezzo",
+      "link": "https://www.hdmotori.it/fiat-troppo-care-erede-panda-15-mila-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-15T17:12:00+00:00"
     },
     {
       "titolo": "Banda ultralarga, l'Italia corre ma non ovunque: ecco la situazione",
@@ -72,13 +142,6 @@
       "data": "2026-01-15T16:23:28+00:00"
     },
     {
-      "titolo": "At 25, Wikipedia faces its biggest threat yet: AI",
-      "descrizione": "Wikipedia, a triumph of the open web, helped build the modern internet. Now, its future looks uncertain.",
-      "link": "https://www.zdnet.com/article/wikipedia-turns-25/",
-      "fonte": "Latest news",
-      "data": "2026-01-15T16:23:00+00:00"
-    },
-    {
       "titolo": "La Gestalt diventa immersiva, così gli avatar XR cambiano la psicoterapia",
       "descrizione": "Avatar XR guidati dai terapeuti portano la Gestalt in ambienti immersivi",
       "link": "https://www.hdblog.it/tecnologia/articoli/n644519/terapia-gestalt-avatar-xr/",
@@ -93,81 +156,18 @@
       "data": "2026-01-15T16:16:12+00:00"
     },
     {
+      "titolo": "Xiaomi Redmi Note 15 Pro+ 5G sbarca su Amazon: disponibile in pronta consegna",
+      "descrizione": "Xiaomi Redmi Note 15 Pro+ 5G è disponibile all'acquisto su Amazon con spedizioni rapide.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n644800/xiaomi-redmi-note-15-pro-plus-5g-su-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-15T16:16:00+00:00"
+    },
+    {
       "titolo": "Equipaggio Iss rientrato in anticipo: quali sono i rischi per la salute nello Spazio",
       "descrizione": "Oleg Platonov, Mike Fincke, Zena Cardman and Kimiya Yui sono tornati sani e salvi sulla Terra. I 4 astronauti della Crew 11 della Stazione Spaziale Internazionale, ISS, sono ammarati alle...",
       "link": "https://www.ilsole24ore.com/art/equipaggio-iss-rientrato-anticipo-quali-sono-rischi-la-salute-spazio-AIGCiCt",
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-01-15T16:10:00+00:00"
-    },
-    {
-      "titolo": "La ricetta della Coca-Cola svelata su YouTube?",
-      "descrizione": "Uno youtuber sostiene di aver replicato la ricetta segreta della Coca-Cola con la spettrometria di massa, il video è già diventato virale. The post La ricetta della Coca-Cola svelata su YouTube? appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/ricetta-coca-cola-youtube/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-15T16:03:12+00:00"
-    },
-    {
-      "titolo": "Cina, impresa ingegneristica: due talpe si agganciano con 2 mm di errore",
-      "descrizione": "In Cina due TBM si incontrano sottoterra con 2 mm di errore salvando un maxi tunnel.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644534/cina-tbm-salvataggio-tunnel-yangtze/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T15:55:00+00:00"
-    },
-    {
-      "titolo": "Australia, ban ai social per i minori: numeri record già nel primo mese",
-      "descrizione": "È davvero un successo?",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644782/australia-ban-social-minori-numeri-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T15:50:00+00:00"
-    },
-    {
-      "titolo": "La Cina sincronizza Terra e Luna: il tempo diventa una sfida spaziale",
-      "descrizione": "Un nuovo software allinea gli orologi di Terra e Luna",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644767/cina-terra-luna-tempo-sfida-spaziale/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T15:40:00+00:00"
-    },
-    {
-      "titolo": "Come l'IA cambierà il lavoro (e lo sta già facendo)",
-      "descrizione": "L'Intelligenza Artificiale sconvolgerà il mondo del lavoro nel breve periodo, con conseguenze prevedibili e la necessità di lavorare su competenze e capacità.",
-      "link": "https://www.hdblog.it/business/articoli/n644761/lavoro-ia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T15:15:00+00:00"
-    },
-    {
-      "titolo": "Brand phishing: la Top 10 dei marchi più imitati",
-      "descrizione": "Microsoft è ancora il brand più imitato nelle campagne di phishing: i criminali sfruttano loghi e brand noti per rubare credenziali e dati. The post Brand phishing: la Top 10 dei marchi più imitati appeared first on Punt",
-      "link": "https://www.punto-informatico.it/brand-phishing-top-10-marchi-piu-imitati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-15T15:13:07+00:00"
-    },
-    {
-      "titolo": "Amazon Leo sceglie l’Europa: primo lancio con Ariane 6",
-      "descrizione": "Amazon Leo avvia il primo lancio europeo con Ariane 6 e 32 satelliti nel 2026",
-      "link": "https://www.hdblog.it/amazon/articoli/n644774/amazon-leo-primo-lancio-ariane-6/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T15:05:00+00:00"
-    },
-    {
-      "titolo": "Harley-Davidson amplia la gamma con 13 nuovi modelli tra Touring, Trike e versioni celebrative",
-      "descrizione": "A essere coinvolte sono le serie Grand American Touring, CVO, Trike, Adventure Touring e Enthusiast Collection.",
-      "link": "https://www.hdmotori.it/harley-davidson-nuovi-modelli-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T15:00:06+00:00"
-    },
-    {
-      "titolo": "Batterie, la sfida italiana per l’accumulo: Ges lancia il sistema a idrogeno e manganese",
-      "descrizione": "Gli accumuli di lunga durata saranno essenziali per la transizione energetica verso le fonti rinnovabili, che sono intrinsecamente intermittenti e hanno bisogno di batterie per ammortizzare gli sbalzi e stabilizzare...",
-      "link": "https://www.ilsole24ore.com/art/batterie-sfida-italiana-l-accumulo-ges-lancia-sistema-idrogeno-e-manganese-AIYDT3s",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-15T14:58:03+00:00"
-    },
-    {
-      "titolo": "Nostalgia della vecchia MTV? Ecco il sito che la riporta in vita",
-      "descrizione": "Solo videoclip, niente algoritmi!",
-      "link": "https://www.hdblog.it/internet/articoli/n644772/mtv-rewind-nostalgia-videoclip-vj/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-15T14:55:00+00:00"
     }
   ]
 }

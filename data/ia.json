@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-15T18:56:02.511839+00:00",
+  "last_updated": "2026-01-16T02:29:58.146825+00:00",
   "items": [
     {
-      "titolo": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
-      "descrizione": "Merge Labs has emerged from stealth with $252 million in funding from OpenAI and others. It aims to use ultrasound to read from and write to the brain.",
-      "link": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
+      "titolo": "Inside OpenAI’s Raid on Thinking Machines Lab",
+      "descrizione": "OpenAI is planning to bring over more researchers from Thinking Machines Lab after nabbing two cofounders, a source familiar with the situation says. Plus, the latest efforts to automate jobs with AI.",
+      "link": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
       "fonte": "WIRED",
-      "data": "2026-01-15T18:24:51+00:00",
+      "data": "2026-01-15T21:14:23+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Gemini can look through your emails and photos to 'help' you now - but should you let it?",
-      "descrizione": "With Personal Intelligence, Gemini can tap into your Gmail, Photos, and YouTube. In short, you're giving it more of your data.",
-      "link": "https://www.zdnet.com/article/google-gemini-personal-intelligence/",
-      "fonte": "Latest news",
-      "data": "2026-01-15T16:24:00+00:00",
+      "titolo": "Nasce Personal Intelligence: Google collega Gemini con foto e mail per creare un assistente davvero personale",
+      "descrizione": "",
+      "link": "https://www.infodata.ilsole24ore.com/2026/01/15/nasce-personal-intelligence-google-collega-gemini-e-foto-e-mail-per-creare-un-assistente-personale/",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-15T12:58:55+00:00",
       "modello": "gemini"
     },
     {
