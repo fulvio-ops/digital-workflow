@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-01-16T06:51:38.189585+00:00",
+  "last_updated": "2026-01-16T13:07:21.404752+00:00",
   "items": [
     {
-      "titolo": "Inside OpenAI’s Raid on Thinking Machines Lab",
-      "descrizione": "OpenAI is planning to bring over more researchers from Thinking Machines Lab after nabbing two cofounders, a source familiar with the situation says. Plus, the latest efforts to automate jobs with AI.",
-      "link": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
-      "fonte": "WIRED",
-      "data": "2026-01-15T21:14:23+00:00",
-      "modello": "chatgpt"
-    },
-    {
-      "titolo": "Reprompt: furto di dati personali con Microsoft Copilot",
-      "descrizione": "Una vulnerabilità di Copilot poteva essere sfruttata per rubare i dati personali dell'utente (Microsoft ha corretto il problema di sicurezza). The post Reprompt: furto di dati personali con Microsoft Copilot appeared fir",
-      "link": "https://www.punto-informatico.it/reprompt-furto-dati-personali-microsoft-copilot/",
+      "titolo": "ChatGPT dietro il flop di Stranger Things 5? I fan accusano i Duffer",
+      "descrizione": "I fan di Stranger Things accusano i fratelli Duffer di aver usato ChatGPT per scrivere l'ultima stagione dopo aver visto un fermo immagine sospetto. The post ChatGPT dietro il flop di Stranger Things 5? I fan accusano i",
+      "link": "https://www.punto-informatico.it/chatgpt-dietro-flop-stranger-things-5-fan-accusano-duffer/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-15T17:16:01+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Nasce Personal Intelligence: Google collega Gemini con foto e mail per creare un assistente davvero personale",
-      "descrizione": "",
-      "link": "https://www.infodata.ilsole24ore.com/2026/01/15/nasce-personal-intelligence-google-collega-gemini-e-foto-e-mail-per-creare-un-assistente-personale/",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-15T12:58:55+00:00",
-      "modello": "gemini"
+      "data": "2026-01-16T13:02:30+00:00",
+      "modello": "chatgpt"
     },
     {
       "titolo": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
@@ -34,11 +18,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "L’intelligenza artificiale cresce ma crea sempre di più disuguaglianza",
-      "descrizione": "Il nuovo AI Diffusion Report rivela che un cittadino su sei nel mondo usa l’IA generativa, ma la distribuzione resta drammaticamente ineguale. Emirati Arabi al top con il 64%, mentre l’Africa scopre DeepSeek",
-      "link": "https://www.ilsole24ore.com/art/l-intelligenza-artificiale-cresce-ma-crea-sempre-piu-disuguaglianza-AIXul3r",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-15T12:53:50+00:00",
+      "titolo": "Qwen boss says Chinese AI models have 'less than 20%' chance of leapfrogging Western counterparts — despite China's $1 billion AI IPO week, capital can't close the gap alone",
+      "descrizione": "China’s AI sector made a splash this month as a cluster of domestic AI firms raised more than $1 billion through IPOs in Hong Kong.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-1-billion-ai-ipo-week-highlights-the-limits-of-capital-without-compute",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-13T19:15:00+00:00",
       "modello": "altri"
     }
   ]
