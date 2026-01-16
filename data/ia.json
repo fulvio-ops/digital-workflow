@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-01-16T13:07:21.404752+00:00",
+  "last_updated": "2026-01-16T18:50:12.939958+00:00",
   "items": [
     {
-      "titolo": "ChatGPT dietro il flop di Stranger Things 5? I fan accusano i Duffer",
-      "descrizione": "I fan di Stranger Things accusano i fratelli Duffer di aver usato ChatGPT per scrivere l'ultima stagione dopo aver visto un fermo immagine sospetto. The post ChatGPT dietro il flop di Stranger Things 5? I fan accusano i",
-      "link": "https://www.punto-informatico.it/chatgpt-dietro-flop-stranger-things-5-fan-accusano-duffer/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T13:02:30+00:00",
+      "titolo": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
+      "descrizione": "OpenAI says ads will not influence ChatGPT’s responses, and that it won’t sell user data to advertisers.",
+      "link": "https://www.wired.com/story/openai-testing-ads-us/",
+      "fonte": "WIRED",
+      "data": "2026-01-16T18:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
-      "descrizione": "Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.",
-      "link": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
-      "fonte": "WIRED",
-      "data": "2026-01-15T17:40:41+00:00",
+      "titolo": "10 funzioni nascoste di Gemini che nessuno usa",
+      "descrizione": "Gemini può fare molto più che rispondere a domande. Ecco 10 funzioni poco note e i prompt per usarlo come un vero assistente personale. The post 10 funzioni nascoste di Gemini che nessuno usa appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/10-funzioni-nascoste-gemini-nessuno-usa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-16T16:30:16+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "I let Anthropic's Claude Cowork loose on my files, and it was both brilliant and scary",
+      "descrizione": "Let's just say backups and restraint are nonnegotiable.",
+      "link": "https://www.zdnet.com/article/anthropic-claude-cowork-ai-file-management-test/",
+      "fonte": "Latest news",
+      "data": "2026-01-16T13:23:00+00:00",
       "modello": "claude"
     },
     {
