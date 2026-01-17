@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-01-16T18:50:08.970378+00:00",
+  "last_updated": "2026-01-17T02:22:44.473995+00:00",
   "items": [
+    {
+      "titolo": "The Campaign to Destroy Renee Good",
+      "descrizione": "After an ICE agent shot and killed the Minneapolis mother, conservative media launched an all-out attack on her reputation. Her identity as a queer woman was central to it.",
+      "link": "https://www.wired.com/story/the-campaign-to-destroy-renee-good/",
+      "fonte": "WIRED",
+      "data": "2026-01-16T22:37:01+00:00"
+    },
+    {
+      "titolo": "Sam Altman monetizza: arriva il piano “Go” da 8 euro. E ChatGPT scopre lo spot",
+      "descrizione": "Sam Altman monetizza: arriva il piano “Go” da 8 euro. E ChatGPT scopre lo spot",
+      "link": "https://www.ilsole24ore.com/art/sam-altman-monetizza-arriva-piano-go-8-euro-e-chatgpt-scopre-spot-AIR5cou",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-16T20:03:00+00:00"
+    },
+    {
+      "titolo": "Galaxy Watch 7 in offerta su Amazon: uno smartwatch di qualità con un prezzo ottimo",
+      "descrizione": "Il Samsung Galaxy Watch 7 è in offerta su Amazon e diventa lo smartwatch giusto da affiancare al proprio smartphone Android.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n644955/samsung-galaxy-watch-7-offerta-amazon-gen-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T19:10:00+00:00"
+    },
+    {
+      "titolo": "Per le tue prossime vacanze scegli Saily eSIM: navighi ovunque da 2,99$",
+      "descrizione": "Con le eSIM di Saily navighi in oltre 200 destinazioni del mondo a zero costi di roaming grazie ai piani a prezzi convenienti. The post Per le tue prossime vacanze scegli Saily eSIM: navighi ovunque da 2,99$ appeared fir",
+      "link": "https://www.punto-informatico.it/per-le-tue-prossime-vacanze-scegli-saily-esim-navighi-ovunque-da-299/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-16T19:02:37+00:00"
+    },
+    {
+      "titolo": "Ho provato Redmi Note 15 Pro+, resistenza e autonomia vincono su tutto!",
+      "descrizione": "Abbiamo provato il nuovo Redmi Note 15 Pro+ 5G, uno smartphone che punta tutto su solidità e autonomia, caratteristiche importanti nella fascia media del mercato",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n644785/ho-provato-redmi-note-15-pro-resistenza-e-autonomia-vincono-su-tutto/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T18:45:00+00:00"
+    },
+    {
+      "titolo": "Cambiare indirizzo Gmail diventa possibile: Google avvia il rollout",
+      "descrizione": "Google prepara la modifica dell’indirizzo Gmail senza creare un nuovo account",
+      "link": "https://www.hdblog.it/google/articoli/n644824/google-cambiare-indirizzo-gmail/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T18:44:00+00:00"
+    },
+    {
+      "titolo": "Google mette in guardia: i modelli AI cinesi hanno quasi raggiunto quelli occidentali",
+      "descrizione": "In termini di progresso tecnologico, la distanza è di pochi mesi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n644874/google-avvisa-sviluppo-ai-cina-corre/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T18:42:00+00:00"
+    },
+    {
+      "titolo": "Test riuscito per il primo dirigibile eolico da 3 MW",
+      "descrizione": "Il sistema S2000 vola a 2.000 metri e immette energia nella rete elettrica",
+      "link": "https://www.hdblog.it/green/articoli/n644812/dirigibile-eolico-cina-s2000/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T18:38:00+00:00"
+    },
+    {
+      "titolo": "PrimeBot svela il mini robot umanoide che entra in uno zaino",
+      "descrizione": "PrimeBot presenta due robot umanoidi pensati per l’uso quotidiano e l’apprendimento nel tempo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n644823/primebot-robot-umanoide-mini/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T17:55:00+00:00"
+    },
     {
       "titolo": "Do these cheap car de-icing gadgets actually work? My verdict after testing one in the winter cold",
       "descrizione": "Let's take an inside look at one of the latest viral gadgets on social media.",
@@ -37,6 +100,20 @@
       "data": "2026-01-16T17:15:00+00:00"
     },
     {
+      "titolo": "Toyota Yaris 2026, il nuovo Model Year arriva in Italia: tutte le versioni e i prezzi",
+      "descrizione": "Arriva in Italia il Model Year 2026 della Toyota Yaris: cambia la struttura degli allestimenti e migliora la dotazione",
+      "link": "https://www.hdmotori.it/toyota-yaris-2026-novita-motori-allestimenti-dotazioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T17:12:00+00:00"
+    },
+    {
+      "titolo": "Dietro le quinte dell’usato: come Tomasi Auto ripristina le vetture | Video",
+      "descrizione": "Nel mercato dell’auto usata la fiducia è fondamentale. Tomasi Auto risponde con diagnosi avanzate, tracciabilità digitale e ripristino completo",
+      "link": "https://www.hdmotori.it/tomasi-auto-auto-usate-ripristino/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-16T17:11:00+00:00"
+    },
+    {
       "titolo": "Governare l’AI agentica in azienda: è italiana la startup dell’intelligenza basata su principi",
       "descrizione": "Partiamo dalla notizia: Principled Intelligence ha chiuso a fine anno (annunciandolo ufficialmente solo qualche giorno fa) un round pre-seed da 1,85 milioni di euro. L’operazione è stata guidata dal Polo...",
       "link": "https://www.ilsole24ore.com/art/governare-l-ai-agentica-azienda-e-italiana-startup-dell-intelligenza-basata-principi-AIkSTls",
@@ -44,7 +121,7 @@
       "data": "2026-01-16T17:07:28+00:00"
     },
     {
-      "titolo": "X, AWS, and Cloudflare outage reports spiked Friday morning - what we know",
+      "titolo": "X outage reports spiked Friday morning - what we know",
       "descrizione": "The social media site was down today. What we know so far.",
       "link": "https://www.zdnet.com/article/x-cloudflare-aws-outage-friday/",
       "fonte": "Latest news",
@@ -91,83 +168,6 @@
       "link": "https://www.punto-informatico.it/openai-rende-disponibile-gpt-5-2-tramite-api/",
       "fonte": "Punto Informatico",
       "data": "2026-01-16T16:19:07+00:00"
-    },
-    {
-      "titolo": "Trust Bayo+ a 33€ è TOP su Amazon, mouse wireless ergonomico: BT+2.4GHz",
-      "descrizione": "Trust Bayo+ è il mouse wireless con doppia connettività e design verticale: 3 mesi di autonomia al PC. The post Trust Bayo+ a 33€ è TOP su Amazon, mouse wireless ergonomico: BT+2.4GHz appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/trust-bayo-a-33e-e-top-su-amazon-mouse-wireless-ergonomico-bt2-4ghz/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T15:58:36+00:00"
-    },
-    {
-      "titolo": "La Barbie autistica è realtà e racconta un’inclusione più concreta",
-      "descrizione": "La prima Barbie autistica debutta con cuffie antirumore e strumenti sensoriali",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644818/barbie-autistica-mattel/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T15:55:00+00:00"
-    },
-    {
-      "titolo": "X (Twitter) e Grok sono down: cosa sta succedendo?",
-      "descrizione": "Down per X e Grok: problemi in corso sia per il social network di Elon Musk (ex Twitter) sia per il servizio di intelligenza artificiale. The post X (Twitter) e Grok sono down: cosa sta succedendo? appeared first on Punt",
-      "link": "https://www.punto-informatico.it/x-twitter-grok-down-16012026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T15:48:28+00:00"
-    },
-    {
-      "titolo": "LEGO celebra The Legend of Zelda con il nuovo set La Battaglia Finale | PREZZO",
-      "descrizione": "Si torna ad Hyrule!",
-      "link": "https://www.hdblog.it/games/articoli/n644918/lego-the-legend-of-zelda-battaglia-finale-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T15:45:00+00:00"
-    },
-    {
-      "titolo": "OpenAi lancia ChatGPT Translate e sfida Google e gli altri: ecco come l’AI trasforma la traduzione",
-      "descrizione": "Chatbot, modelli LLM, browser, motore di ricerca e ora traduttore: pochi, probabilmente, hanno pensato in questi mesi a quello che poteva essere l’anello mancante nell’ecosistema di OpenAI. E se di...",
-      "link": "https://www.ilsole24ore.com/art/openai-lancia-chatgpt-translate-e-sfida-google-e-altri-ecco-come-l-ai-trasforma-traduzione-AIruEzt",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-16T15:43:00+00:00"
-    },
-    {
-      "titolo": "Carruthers: la missione NASA è pronta a osservare l’alone UV",
-      "descrizione": "Carruthers raggiunge L1 e inizia a osservare il tenue bagliore UV dell’atmosfera terrestre.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644676/nasa-carruthers-geocorona-orbita-l1/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T15:35:00+00:00"
-    },
-    {
-      "titolo": "Animal Crossing MANIA: il gioco per Switch 1 e 2 pronto all’aggiornamento",
-      "descrizione": "Animal Crossing si aggiorna e arriva sulla tua Nintendo Switch, anche la 2: ecco le versioni da acquistare subito. The post Animal Crossing MANIA: il gioco per Switch 1 e 2 pronto all’aggiornamento appeared first on Punt",
-      "link": "https://www.punto-informatico.it/animal-crossing-mania-il-gioco-per-switch-1-e-2-pronto-allaggiornamento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T15:29:21+00:00"
-    },
-    {
-      "titolo": "250 mila euro evasi su Onlyfans tra Irpef, IVA e tassa etica",
-      "descrizione": "La Guardia di Finanza di Lodi contesta 250 mila euro di introiti evasi a due donne attive su OnlyFans.",
-      "link": "https://www.hdblog.it/mercato/articoli/n644917/onlyfans-evasione-italia-lodi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T15:25:00+00:00"
-    },
-    {
-      "titolo": "Nvidia China market share to drastically decrease from 66% to 8%, analysts claim — export curbs and homegrown success to blame",
-      "descrizione": "A new report says Nvidia's presence is about to shrink drastically in China.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-china-market-share-to-drastically-decrease-from-66-percent-to-8-percent-analysts-claim-export-curbs-and-homegrown-success-to-blame",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-16T15:23:30+00:00"
-    },
-    {
-      "titolo": "Evento Sony il 21 gennaio: focus sull’audio e nuovi auricolari in vista",
-      "descrizione": "Sony annuncia un evento audio il 21 gennaio con nuovi auricolari LinkBuds",
-      "link": "https://www.hdblog.it/indossabili/articoli/n644915/sony-evento-audio-linkbuds-clip/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T15:20:00+00:00"
-    },
-    {
-      "titolo": "Così TikTok terrà gli under 13 lontani dal social",
-      "descrizione": "TikTok introdurrà in Europa una nuova verifica dell'età: automatismi, revisori umani e possibilità di ricorso per escludere gli under 13. The post Così TikTok terrà gli under 13 lontani dal social appeared first on Punto",
-      "link": "https://www.punto-informatico.it/tiktok-nuova-verifica-eta-europa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T15:15:54+00:00"
     }
   ]
 }

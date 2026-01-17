@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-16T18:50:12.939958+00:00",
+  "last_updated": "2026-01-17T02:22:47.609252+00:00",
   "items": [
     {
-      "titolo": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
-      "descrizione": "OpenAI says ads will not influence ChatGPT’s responses, and that it won’t sell user data to advertisers.",
-      "link": "https://www.wired.com/story/openai-testing-ads-us/",
-      "fonte": "WIRED",
-      "data": "2026-01-16T18:00:00+00:00",
+      "titolo": "ChatGPT's $8 subscription comes to the US: How Go compares to Plus and Pro",
+      "descrizione": "Here's how ChatGPT Go stacks up against OpenAI's other offerings.",
+      "link": "https://www.zdnet.com/article/chat-gpt-go/",
+      "fonte": "Latest news",
+      "data": "2026-01-16T21:26:50+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "I let Anthropic's Claude Cowork loose on my files, and it was both brilliant and scary",
-      "descrizione": "Let's just say backups and restraint are nonnegotiable.",
-      "link": "https://www.zdnet.com/article/anthropic-claude-cowork-ai-file-management-test/",
-      "fonte": "Latest news",
-      "data": "2026-01-16T13:23:00+00:00",
+      "titolo": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
+      "descrizione": "Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.",
+      "link": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
+      "fonte": "WIRED",
+      "data": "2026-01-15T17:40:41+00:00",
       "modello": "claude"
     },
     {
