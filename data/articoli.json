@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-01-17T02:22:44.473995+00:00",
+  "last_updated": "2026-01-17T06:47:50.782477+00:00",
   "items": [
+    {
+      "titolo": "Petlibro Discount Codes and Deals: Save Up to 50%",
+      "descrizione": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+      "link": "https://www.wired.com/story/petlibro-discount-code/",
+      "fonte": "WIRED",
+      "data": "2026-01-17T06:00:00+00:00"
+    },
+    {
+      "titolo": "ChatGPT Go, OpenAI lancia abbonamento economico (con ads)",
+      "descrizione": "OpenAI presenta ChatGPT Go, l'abbonamento economico a 8 dollari al mese, disponibile in tutto il mondo. Introdurrà presto la pubblicità negli USA. The post ChatGPT Go, OpenAI lancia abbonamento economico (con ads) appear",
+      "link": "https://www.punto-informatico.it/chatgpt-go-openai-abbonamento-economico-ads/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-17T05:35:01+00:00"
+    },
     {
       "titolo": "The Campaign to Destroy Renee Good",
       "descrizione": "After an ICE agent shot and killed the Minneapolis mother, conservative media launched an all-out attack on her reputation. Her identity as a queer woman was central to it.",
@@ -154,20 +168,6 @@
       "link": "https://www.punto-informatico.it/accordo-apple-google-facilitato-openai/",
       "fonte": "Punto Informatico",
       "data": "2026-01-16T16:47:26+00:00"
-    },
-    {
-      "titolo": "TikTok investe nei robot umanoidi: maxi round per la cinese X Square",
-      "descrizione": "ByteDance guida un maxi finanziamento in una startup cinese di robot umanoidi",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644672/tiktok-bytedance-robot-umanoidi-x-square/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T16:25:00+00:00"
-    },
-    {
-      "titolo": "OpenAI rende disponibile GPT-5.2-Codex tramite API",
-      "descrizione": "GPT-5.2-Codex, il modello AI per il coding autonomo di OpenAI, è Disponibile via API, supportato da Cursor, Windsurf, GitHub. The post OpenAI rende disponibile GPT-5.2-Codex tramite API appeared first on Punto Informatic",
-      "link": "https://www.punto-informatico.it/openai-rende-disponibile-gpt-5-2-tramite-api/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T16:19:07+00:00"
     }
   ]
 }
