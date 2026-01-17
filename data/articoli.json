@@ -1,6 +1,153 @@
 {
-  "last_updated": "2026-01-17T06:47:50.782477+00:00",
+  "last_updated": "2026-01-17T13:00:34.834743+00:00",
   "items": [
+    {
+      "titolo": "Chinese AI developers explore renting Nvidia’s Rubin GPU in the cloud — cost, complexity, and regulatory hurdles could limit deployments",
+      "descrizione": "Leading developers of AI models from China want Nvidia's Rubin and explore ways to rent the upcoming GPUs in the cloud.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-developers-explore-renting-nvidias-rubin-gpu-in-the-cloud-cost-complexity-and-regulatory-hurdles-could-limit-deployments",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-17T12:20:00+00:00"
+    },
+    {
+      "titolo": "Elon Musk vuole 134 miliardi da OpenAI e Microsoft",
+      "descrizione": "Gli avvocati di Elon Musk chiedono a OpenAI e Microsoft un risarcimento compreso tra 79 e 134 miliardi di dollari (il processo inizierà a fine aprile). The post Elon Musk vuole 134 miliardi da OpenAI e Microsoft appeared",
+      "link": "https://www.punto-informatico.it/elon-musk-vuole-134-miliardi-da-openai-microsoft/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-17T11:46:53+00:00"
+    },
+    {
+      "titolo": "L'OLED da gaming perfetto, o quasi: Recensione Samsung Odyssey G8",
+      "descrizione": "Abbiamo provato il monitor Samsung Odyssey G8 OLED da 32 pollici, con 240Hz di refresh rate. Zero compromessi - o quasi - sulla carta, ma come si comporta nell'uso quotidiano?",
+      "link": "https://www.hdblog.it/hardware/recensioni/n644469/loled-da-gaming-perfetto-o-quasi-recensione-samsung-odyssey-g8/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T11:00:00+00:00"
+    },
+    {
+      "titolo": "Gear News of the Week: Kia Shows off the EV2, and Fujifilm Debuts New Instax Cameras",
+      "descrizione": "Plus: Fender rebrands its PreSonus music production app, Ricoh unveils a monochrome camera, and Omega has a new Speedmaster.",
+      "link": "https://www.wired.com/story/gear-news-of-the-week-kia-shows-off-the-ev2-and-fujifilm-debuts-new-instax-cameras/",
+      "fonte": "WIRED",
+      "data": "2026-01-17T11:00:00+00:00"
+    },
+    {
+      "titolo": "Redmi Note 15 5G in offerta su Amazon: ottimo prezzo per la versione 12/512 GB",
+      "descrizione": "Lo Xiaomi Redmi Note 15 5G da 12/512 GB è in offerta su Amazon: si tratta di un'ottima scelta sotto i 300 euro.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n644976/xiaomi-redmi-note-15-5g-12-512-gb-offerta-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T10:20:00+00:00"
+    },
+    {
+      "titolo": "Nuova Volkswagen T-Roc arriva sulle strade italiane: Porte Aperte il 24 e 25 gennaio",
+      "descrizione": "Per il lancio commerciale del nuovo crossover Volkswagen nei Concessionari italiani, la casa automobilistica ha organizzato un Open Weekend",
+      "link": "https://www.hdmotori.it/volkswagen-t-roc-debutto-italia-prezzi-porte-aperte/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T10:00:17+00:00"
+    },
+    {
+      "titolo": "The 16 Best EVs Coming in 2026",
+      "descrizione": "We’re expecting fresh electrics from Rivian, Hyundai, Honda, BMW, and newcomer Slate, among others. Here are the EVs arriving this year that we’re most excited about.",
+      "link": "https://www.wired.com/story/the-16-best-evs-coming-in-2026/",
+      "fonte": "WIRED",
+      "data": "2026-01-17T10:00:00+00:00"
+    },
+    {
+      "titolo": "La Germania rilancia gli incentivi sulle auto elettriche: fino a 6.000 euro",
+      "descrizione": "La Germania ha deciso di mettere sul piatto 3 miliardi di euro per una nuova campagna di incentivi auto",
+      "link": "https://www.hdmotori.it/germania-incentivi-auto-elettriche-fino-6000-euro/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T09:30:47+00:00"
+    },
+    {
+      "titolo": "Pubblicità su ChatGPT, annunci per utenti gratis e ChatGPT Go",
+      "descrizione": "ChatGPT inizia a mostrare la pubblicità per gli utenti gratuiti e abbonati Go negli Stati Uniti, con annunci pertinenti in fondo alla chat. The post Pubblicità su ChatGPT, annunci per utenti gratis e ChatGPT Go appeared",
+      "link": "https://www.punto-informatico.it/pubblicita-chatgpt-annunci-utenti-gratis-chatgpt-go/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-17T09:16:13+00:00"
+    },
+    {
+      "titolo": "Leapmotor B10 REEV Hybrid, il SUV range extender arriva in Italia: ecco quanto costa",
+      "descrizione": "Il nuovo SUV con tecnologia range extender di Leapmotor si potrà ordinare in Italia a partire dal 27 gennaio",
+      "link": "https://www.hdmotori.it/leapmotor-b10-reev-hybrid-dimensioni-interni-allestimenti-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T09:00:06+00:00"
+    },
+    {
+      "titolo": "Quali sono le auto sportive più vendute in Italia nel 2025? La Porsche 911 batte tutti",
+      "descrizione": "La Porsche 911 è l’auto sportiva più venduta in Italia nel 2025 con 2.471 immatricolazioni",
+      "link": "https://www.hdmotori.it/auto-sportive-piu-vendute-italia-2025-modelli-classifica/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T08:30:18+00:00"
+    },
+    {
+      "titolo": "Google rivede i limiti di Gemini e separa le quote per Thinking e Pro",
+      "descrizione": "Rivedute al rialzo",
+      "link": "https://www.hdblog.it/google/articoli/n644904/google-limiti-gemini-3-quote-thinking-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T08:05:00+00:00"
+    },
+    {
+      "titolo": "Nuova KIA EV5, il SUV elettrico arriva in Italia: prezzi e versioni",
+      "descrizione": "KIA EV5 arriva ufficialmente in Italia. Il nuovo SUV elettrico si può adesso ordinare con prezzi da 44.750 euro",
+      "link": "https://www.hdmotori.it/kia-ev5-dimensioni-interni-dotazioni-allestimenti-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T08:00:03+00:00"
+    },
+    {
+      "titolo": "Scienziati cinesi ricreano l’impianto embrionale con un utero su chip",
+      "descrizione": "Un modello su chip riproduce l’impianto embrionale e apre nuove strade contro l’infertilità",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n644524/utero-su-chip-impianto-embrionale/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T07:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova Omoda 7 SHS-P vs Toyota RAV4, mettiamo a confronto i due SUV ibridi: quale preferite?",
+      "descrizione": "Mettiamo a confronto questi due SUV, Omoda 7 SHS-Pe Toyota RAV4, entrambi proposti unicamente con motorizzazioni ibride",
+      "link": "https://www.hdmotori.it/omoda-7-shs-p-vs-toyota-rav4-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T07:30:58+00:00"
+    },
+    {
+      "titolo": "ChatGPT, arriva il piano economico, primi test della pubblicità imminenti",
+      "descrizione": "L'abbonamento Go NON sarà privo di pubblicità, tra l'altro.",
+      "link": "https://www.hdblog.it/android/articoli/n644954/chatgpt-go-abbonamento-prezzi-quando-pubblicita/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T07:05:00+00:00"
+    },
+    {
+      "titolo": "NordVPN, nuova offerta: fino al 70% di sconto sui piani di 2 anni",
+      "descrizione": "Se durante le vacanze di fine anno si è avvertita la mancanza di una VPN, dopo l’impossibilità di vedere una partita o una serie tv dal proprio smartphone dentro la camera di hotel, la nuova offerta di NordVPN capita al",
+      "link": "https://www.punto-informatico.it/nordvpn-nuova-offerta-fino-al-70-di-sconto-sui-piani-di-2-anni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-17T07:01:04+00:00"
+    },
+    {
+      "titolo": "Nuova KIA EV2, interni e bagagliaio della piccola coreana elettrica",
+      "descrizione": "Disponibile nelle versioni a 4 o a 5 posti, la piccola elettrica coreana offre un abitacolo curato con una buona dotazione di tecnologia",
+      "link": "https://www.hdmotori.it/kia-ev2-interni-bagagliaio/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T07:00:13+00:00"
+    },
+    {
+      "titolo": "OnePlus 15R in offerta lancio su Amazon: un best buy con Snap 8 Gen 5 e batteria da 7.400 mAh",
+      "descrizione": "Il OnePlus 15R è in offerta lancio su Amazon: a questo prezzo lo smartphone con Snapdragon 8 Gen 5 e batteria da 7.400 mAh è un best buy.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n644964/oneplus-15r-offerta-amazon-gennaio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T06:55:00+00:00"
+    },
+    {
+      "titolo": "Novità EMC 2026, i nuovi modelli in arrivo",
+      "descrizione": "Per questo 2026, EMC punta ad incrementare ulteriormente le vendite in Italia e lo farà con una gamma che crescerà con l'arrivo di nuovi modelli",
+      "link": "https://www.hdmotori.it/novita-emc-2026-nuovi-modelli/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T06:30:36+00:00"
+    },
+    {
+      "titolo": "Ali che cambiano forma in volo: il nuovo metallo che imita la natura",
+      "descrizione": "Un metallo attivo consente ali capaci di adattarsi al volo in tempo reale",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n644512/metallo-ali-aerei-cambia-forma/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T06:25:00+00:00"
+    },
     {
       "titolo": "Petlibro Discount Codes and Deals: Save Up to 50%",
       "descrizione": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
@@ -21,153 +168,6 @@
       "link": "https://www.wired.com/story/the-campaign-to-destroy-renee-good/",
       "fonte": "WIRED",
       "data": "2026-01-16T22:37:01+00:00"
-    },
-    {
-      "titolo": "Sam Altman monetizza: arriva il piano “Go” da 8 euro. E ChatGPT scopre lo spot",
-      "descrizione": "Sam Altman monetizza: arriva il piano “Go” da 8 euro. E ChatGPT scopre lo spot",
-      "link": "https://www.ilsole24ore.com/art/sam-altman-monetizza-arriva-piano-go-8-euro-e-chatgpt-scopre-spot-AIR5cou",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-16T20:03:00+00:00"
-    },
-    {
-      "titolo": "Galaxy Watch 7 in offerta su Amazon: uno smartwatch di qualità con un prezzo ottimo",
-      "descrizione": "Il Samsung Galaxy Watch 7 è in offerta su Amazon e diventa lo smartwatch giusto da affiancare al proprio smartphone Android.",
-      "link": "https://www.hdblog.it/indossabili/offerte/n644955/samsung-galaxy-watch-7-offerta-amazon-gen-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T19:10:00+00:00"
-    },
-    {
-      "titolo": "Per le tue prossime vacanze scegli Saily eSIM: navighi ovunque da 2,99$",
-      "descrizione": "Con le eSIM di Saily navighi in oltre 200 destinazioni del mondo a zero costi di roaming grazie ai piani a prezzi convenienti. The post Per le tue prossime vacanze scegli Saily eSIM: navighi ovunque da 2,99$ appeared fir",
-      "link": "https://www.punto-informatico.it/per-le-tue-prossime-vacanze-scegli-saily-esim-navighi-ovunque-da-299/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T19:02:37+00:00"
-    },
-    {
-      "titolo": "Ho provato Redmi Note 15 Pro+, resistenza e autonomia vincono su tutto!",
-      "descrizione": "Abbiamo provato il nuovo Redmi Note 15 Pro+ 5G, uno smartphone che punta tutto su solidità e autonomia, caratteristiche importanti nella fascia media del mercato",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n644785/ho-provato-redmi-note-15-pro-resistenza-e-autonomia-vincono-su-tutto/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T18:45:00+00:00"
-    },
-    {
-      "titolo": "Cambiare indirizzo Gmail diventa possibile: Google avvia il rollout",
-      "descrizione": "Google prepara la modifica dell’indirizzo Gmail senza creare un nuovo account",
-      "link": "https://www.hdblog.it/google/articoli/n644824/google-cambiare-indirizzo-gmail/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T18:44:00+00:00"
-    },
-    {
-      "titolo": "Google mette in guardia: i modelli AI cinesi hanno quasi raggiunto quelli occidentali",
-      "descrizione": "In termini di progresso tecnologico, la distanza è di pochi mesi",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644874/google-avvisa-sviluppo-ai-cina-corre/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T18:42:00+00:00"
-    },
-    {
-      "titolo": "Test riuscito per il primo dirigibile eolico da 3 MW",
-      "descrizione": "Il sistema S2000 vola a 2.000 metri e immette energia nella rete elettrica",
-      "link": "https://www.hdblog.it/green/articoli/n644812/dirigibile-eolico-cina-s2000/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T18:38:00+00:00"
-    },
-    {
-      "titolo": "PrimeBot svela il mini robot umanoide che entra in uno zaino",
-      "descrizione": "PrimeBot presenta due robot umanoidi pensati per l’uso quotidiano e l’apprendimento nel tempo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644823/primebot-robot-umanoide-mini/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T17:55:00+00:00"
-    },
-    {
-      "titolo": "Do these cheap car de-icing gadgets actually work? My verdict after testing one in the winter cold",
-      "descrizione": "Let's take an inside look at one of the latest viral gadgets on social media.",
-      "link": "https://www.zdnet.com/article/car-deicing-gadget-scam-test/",
-      "fonte": "Latest news",
-      "data": "2026-01-16T17:53:00+00:00"
-    },
-    {
-      "titolo": "Vivo X300 Ultra, sarà top anche il sensore ausiliario multispettro | Rumor",
-      "descrizione": "Sarà una multispettro custom particolarmente efficace, in grado di migliorare foto e video in svariate condizioni e garantire maggior coerenza di risultati tra le varie fotocamere.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n644946/vivo-x300-ultra-fotocamera-ausiliaria-multispettro/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T17:45:00+00:00"
-    },
-    {
-      "titolo": "Huawei svela MatePad 11.5 S e nova 15 Pro",
-      "descrizione": "Huawei ha portato in Italia due nuovi dispositivi Android, ovvero il tablet MatePad 11.5 S e lo smartphone nova 14 Pro. The post Huawei svela MatePad 11.5 S e nova 15 Pro appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/huawei-svela-matepad-11-5-s-nova-15-pro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T17:43:39+00:00"
-    },
-    {
-      "titolo": "Chatbot AI: Meta li vuole fuori da WhatsApp, ma Italia e Brasile non ci stanno",
-      "descrizione": "Che succede?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n644916/chatbot-ai-meta-whatsapp-contro-italia-brasile/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T17:25:00+00:00"
-    },
-    {
-      "titolo": "La galassia gigante che si è spenta da sola 12 miliardi di anni fa",
-      "descrizione": "GS-10578 era enorme ma ha smesso presto di creare stelle per colpa del suo buco nero",
-      "link": "https://www.hdblog.it/curiosita/articoli/n644829/galassia-morta-universo-giovane-buco-nero/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T17:15:00+00:00"
-    },
-    {
-      "titolo": "Toyota Yaris 2026, il nuovo Model Year arriva in Italia: tutte le versioni e i prezzi",
-      "descrizione": "Arriva in Italia il Model Year 2026 della Toyota Yaris: cambia la struttura degli allestimenti e migliora la dotazione",
-      "link": "https://www.hdmotori.it/toyota-yaris-2026-novita-motori-allestimenti-dotazioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T17:12:00+00:00"
-    },
-    {
-      "titolo": "Dietro le quinte dell’usato: come Tomasi Auto ripristina le vetture | Video",
-      "descrizione": "Nel mercato dell’auto usata la fiducia è fondamentale. Tomasi Auto risponde con diagnosi avanzate, tracciabilità digitale e ripristino completo",
-      "link": "https://www.hdmotori.it/tomasi-auto-auto-usate-ripristino/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T17:11:00+00:00"
-    },
-    {
-      "titolo": "Governare l’AI agentica in azienda: è italiana la startup dell’intelligenza basata su principi",
-      "descrizione": "Partiamo dalla notizia: Principled Intelligence ha chiuso a fine anno (annunciandolo ufficialmente solo qualche giorno fa) un round pre-seed da 1,85 milioni di euro. L’operazione è stata guidata dal Polo...",
-      "link": "https://www.ilsole24ore.com/art/governare-l-ai-agentica-azienda-e-italiana-startup-dell-intelligenza-basata-principi-AIkSTls",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-16T17:07:28+00:00"
-    },
-    {
-      "titolo": "X outage reports spiked Friday morning - what we know",
-      "descrizione": "The social media site was down today. What we know so far.",
-      "link": "https://www.zdnet.com/article/x-cloudflare-aws-outage-friday/",
-      "fonte": "Latest news",
-      "data": "2026-01-16T17:06:00+00:00"
-    },
-    {
-      "titolo": "Opera One R3 in distribuzione: tante novità di interfaccia e AI",
-      "descrizione": "Le cosiddette \"Tab Islands\" diventano più personalizzabili, sia per nome sia per colore.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n644937/opera-one-r3-novita-browser-ai-interfaccia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T17:05:00+00:00"
-    },
-    {
-      "titolo": "Propulsione termica nucleare: uno studio accelera la rotta per Marte",
-      "descrizione": "Un motore nucleare potrebbe dimezzare i tempi di viaggio verso Marte",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644682/missione-marte-propulsione-nucleare/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T16:55:00+00:00"
-    },
-    {
-      "titolo": "Meloni e Takaichi: la comunicazione politica ai tempi dell'IA",
-      "descrizione": "Fa discutere il selfie di Giorgia Meloni e Takaichi Sanae tra chi apprezza una comunicazione fuori dagli schemi e chi vorrebbe una postura più istituzionale.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n644929/comunicazione-politica-selfie-anime/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-16T16:50:00+00:00"
-    },
-    {
-      "titolo": "Accordo Apple-Google facilitato da OpenAI?",
-      "descrizione": "In base alle fonti del Financial Times, OpenAI non ha voluto accettare l'offerta di Apple perché intende usare ChatGPT solo per i suoi dispositivi. The post Accordo Apple-Google facilitato da OpenAI? appeared first on Pu",
-      "link": "https://www.punto-informatico.it/accordo-apple-google-facilitato-openai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T16:47:26+00:00"
     }
   ]
 }

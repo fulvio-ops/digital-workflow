@@ -1,37 +1,29 @@
 {
-  "last_updated": "2026-01-17T06:47:55.061541+00:00",
+  "last_updated": "2026-01-17T13:00:38.357627+00:00",
   "items": [
     {
-      "titolo": "ChatGPT Go, OpenAI lancia abbonamento economico (con ads)",
-      "descrizione": "OpenAI presenta ChatGPT Go, l'abbonamento economico a 8 dollari al mese, disponibile in tutto il mondo. Introdurrà presto la pubblicità negli USA. The post ChatGPT Go, OpenAI lancia abbonamento economico (con ads) appear",
-      "link": "https://www.punto-informatico.it/chatgpt-go-openai-abbonamento-economico-ads/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-17T05:35:01+00:00",
+      "titolo": "OpenAI, Anthropic, and Google all have new AI healthcare tools - here's how they work",
+      "descrizione": "Concerns about data privacy and hallucination aren't slowing the healthcare industry's embrace of automation.",
+      "link": "https://www.zdnet.com/article/openai-anthropic-google-release-ai-healthcare-tools/",
+      "fonte": "Latest news",
+      "data": "2026-01-17T12:00:49+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "10 funzioni nascoste di Gemini che nessuno usa",
-      "descrizione": "Gemini può fare molto più che rispondere a domande. Ecco 10 funzioni poco note e i prompt per usarlo come un vero assistente personale. The post 10 funzioni nascoste di Gemini che nessuno usa appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/10-funzioni-nascoste-gemini-nessuno-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-16T16:30:16+00:00",
+      "titolo": "Google rivede i limiti di Gemini e separa le quote per Thinking e Pro",
+      "descrizione": "Rivedute al rialzo",
+      "link": "https://www.hdblog.it/google/articoli/n644904/google-limiti-gemini-3-quote-thinking-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-17T08:05:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
-      "descrizione": "Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.",
-      "link": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
-      "fonte": "WIRED",
-      "data": "2026-01-15T17:40:41+00:00",
+      "titolo": "OpenAI, Anthropic, and Google all have new AI healthcare tools - here's how they work",
+      "descrizione": "Concerns about data privacy and hallucination aren't slowing the healthcare industry's embrace of automation.",
+      "link": "https://www.zdnet.com/article/openai-anthropic-google-release-ai-healthcare-tools/",
+      "fonte": "Latest news",
+      "data": "2026-01-17T12:00:49+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "Qwen boss says Chinese AI models have 'less than 20%' chance of leapfrogging Western counterparts — despite China's $1 billion AI IPO week, capital can't close the gap alone",
-      "descrizione": "China’s AI sector made a splash this month as a cluster of domestic AI firms raised more than $1 billion through IPOs in Hong Kong.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-1-billion-ai-ipo-week-highlights-the-limits-of-capital-without-compute",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-13T19:15:00+00:00",
-      "modello": "altri"
     }
   ]
 }
