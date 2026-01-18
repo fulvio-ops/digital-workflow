@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-01-18T13:00:41.321305+00:00",
+  "last_updated": "2026-01-18T18:44:23.751433+00:00",
   "items": [
+    {
+      "titolo": "Quando l’Italia riesce a trasformare competenze avanzate in business tecnologico",
+      "descrizione": "Al CES di Las Vegas le start-up italiane presentano soluzioni avanzate in ambito sicurezza, robotica, energia e formazione, dimostrando la capacità di trasformare ricerca e competenze tecnologiche in applicazioni industr",
+      "link": "https://www.ilsole24ore.com/art/quando-l-italia-riesce-trasformare-competenze-avanzate-business-tecnologico-AIeDnFr",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-18T17:40:21+00:00"
+    },
+    {
+      "titolo": "Google Meet si rifà il look su Android: cosa cambia",
+      "descrizione": "Parola d'ordine? Material 3 Expressive, ovviamente.",
+      "link": "https://www.hdblog.it/google/articoli/n645016/google-meet-aggiornamento-interfaccia-ricerca-app/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-18T17:15:00+00:00"
+    },
+    {
+      "titolo": "Huawei annuncia uno smartwatch da 3.300 euro",
+      "descrizione": "Lo Huawei Watch Ultimate Royal Gold Edition è realizzato con metallo liquido a base di zirconio, oro a 18/24 carati, lega di titanio e vetro zaffiro. The post Huawei annuncia uno smartwatch da 3.300 euro appeared first o",
+      "link": "https://www.punto-informatico.it/huawei-annuncia-smartwatch-3300-euro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-18T17:12:25+00:00"
+    },
+    {
+      "titolo": "Elon Musk reveals roadmap with nine-month cadence for new AI processor releases, beating Nvidia and AMD's yearly cadence — Musk plans to have the highest-volume chips in the world",
+      "descrizione": "Elon Musk wants Tesla to iterate new AI accelerators faster than AMD and Nvidia. This can be done, but with caveats.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-reveals-roadmap-with-nine-month-cadence-for-new-ai-processor-releases-beating-nvidia-and-amds-yearly-cadence-musk-plans-to-have-the-highest-volume-chips-in-the-world",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-18T16:18:33+00:00"
+    },
+    {
+      "titolo": "Developer patches Wine to make Photoshop 2021 & 2025 run on Linux — Adobe Creative Cloud installers finally work thanks to HTML, JavaScript and XML fixes",
+      "descrizione": "Linux can now handle Adobe Creative Cloud-era installers thanks to a series of patches built by PhialsBasement, an open-source developer who has fixed longstanding HTML and JavaScript rendering issues, alongside XML pars",
+      "link": "https://www.tomshardware.com/software/linux/developer-patches-wine-to-make-photoshop-2021-and-2025-run-on-linux-adobe-creative-cloud-installers-finally-work-thanks-to-html-javascript-and-xml-fixes",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-18T15:21:09+00:00"
+    },
+    {
+      "titolo": "Facebook: furto dell’account con phishing e BitB",
+      "descrizione": "Diversi attacchi di phishing e Browser-in-the-browser (BitB) cercano di rubare le credenziali di login e prendere il controllo degli account Facebook. The post Facebook: furto dell’account con phishing e BitB appeared fi",
+      "link": "https://www.punto-informatico.it/facebook-furto-account-phishing-bitb/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-18T15:10:35+00:00"
+    },
+    {
+      "titolo": "Erroneously assembled 1974 Altair 8800 computer gets fixed and enjoys first run in 2026 — Intel 8080 powered machine ran its first program 52 years later",
+      "descrizione": "A computer historian has documented the moment a 1974 kit computer successfully ran its first ever program – in 2016. Altair 8800 kit needed a new PSU.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/erroneously-assembled-1974-altair-8800-computer-gets-fixed-and-enjoys-first-run-in-2026-intel-8080-powered-machine-ran-its-first-program-52-years-later",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-18T13:40:00+00:00"
+    },
     {
       "titolo": "Personal Comfort’s the Rejuvenate Review: Have It Your Way",
       "descrizione": "Memory foam layers, 45 firmness levels, and a library of specialty size options set this adjustable mattress apart.",
@@ -119,55 +168,6 @@
       "link": "https://www.punto-informatico.it/elon-musk-vuole-134-miliardi-da-openai-microsoft/",
       "fonte": "Punto Informatico",
       "data": "2026-01-17T11:46:53+00:00"
-    },
-    {
-      "titolo": "L'OLED da gaming perfetto, o quasi: Recensione Samsung Odyssey G8",
-      "descrizione": "Abbiamo provato il monitor Samsung Odyssey G8 OLED da 32 pollici, con 240Hz di refresh rate. Zero compromessi - o quasi - sulla carta, ma come si comporta nell'uso quotidiano?",
-      "link": "https://www.hdblog.it/hardware/recensioni/n644469/loled-da-gaming-perfetto-o-quasi-recensione-samsung-odyssey-g8/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-17T11:00:00+00:00"
-    },
-    {
-      "titolo": "Gear News of the Week: Kia Shows off the EV2, and Fujifilm Debuts New Instax Cameras",
-      "descrizione": "Plus: Fender rebrands its PreSonus music production app, Ricoh unveils a monochrome camera, and Omega has a new Speedmaster.",
-      "link": "https://www.wired.com/story/gear-news-of-the-week-kia-shows-off-the-ev2-and-fujifilm-debuts-new-instax-cameras/",
-      "fonte": "WIRED",
-      "data": "2026-01-17T11:00:00+00:00"
-    },
-    {
-      "titolo": "Redmi Note 15 5G in offerta su Amazon: ottimo prezzo per la versione 12/512 GB",
-      "descrizione": "Lo Xiaomi Redmi Note 15 5G da 12/512 GB è in offerta su Amazon: si tratta di un'ottima scelta sotto i 300 euro.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n644976/xiaomi-redmi-note-15-5g-12-512-gb-offerta-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-17T10:20:00+00:00"
-    },
-    {
-      "titolo": "Nuova Volkswagen T-Roc arriva sulle strade italiane: Porte Aperte il 24 e 25 gennaio",
-      "descrizione": "Per il lancio commerciale del nuovo crossover Volkswagen nei Concessionari italiani, la casa automobilistica ha organizzato un Open Weekend",
-      "link": "https://www.hdmotori.it/volkswagen-t-roc-debutto-italia-prezzi-porte-aperte/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-17T10:00:17+00:00"
-    },
-    {
-      "titolo": "The 16 Best EVs Coming in 2026",
-      "descrizione": "We’re expecting fresh electrics from Rivian, Hyundai, Honda, BMW, and newcomer Slate, among others. Here are the EVs arriving this year that we’re most excited about.",
-      "link": "https://www.wired.com/story/the-16-best-evs-coming-in-2026/",
-      "fonte": "WIRED",
-      "data": "2026-01-17T10:00:00+00:00"
-    },
-    {
-      "titolo": "La Germania rilancia gli incentivi sulle auto elettriche: fino a 6.000 euro",
-      "descrizione": "La Germania ha deciso di mettere sul piatto 3 miliardi di euro per una nuova campagna di incentivi auto",
-      "link": "https://www.hdmotori.it/germania-incentivi-auto-elettriche-fino-6000-euro/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-17T09:30:47+00:00"
-    },
-    {
-      "titolo": "Pubblicità su ChatGPT, annunci per utenti gratis e ChatGPT Go",
-      "descrizione": "ChatGPT inizia a mostrare la pubblicità per gli utenti gratuiti e abbonati Go negli Stati Uniti, con annunci pertinenti in fondo alla chat. The post Pubblicità su ChatGPT, annunci per utenti gratis e ChatGPT Go appeared",
-      "link": "https://www.punto-informatico.it/pubblicita-chatgpt-annunci-utenti-gratis-chatgpt-go/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-17T09:16:13+00:00"
     }
   ]
 }
