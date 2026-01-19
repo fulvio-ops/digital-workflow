@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-19T06:58:41.092060+00:00",
+  "last_updated": "2026-01-19T13:12:51.880952+00:00",
   "items": [
     {
-      "titolo": "Il cubo con un mini ecosistema che può aiutarci a capire come vivere nello spazio",
-      "descrizione": "Il risultato dei ricercatori dell'Istituto di BioRobotica della Scuola Superiore Sant'Anna di Pisa.",
-      "link": "https://www.hdblog.it/scienza/articoli/n644927/cubo-mini-ecosistema-vivere-spazio/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-18T09:35:00+00:00",
+      "titolo": "ChatGPT: essere maleducati migliora le risposte, lo studio",
+      "descrizione": "Uno studio dell'Università della Pennsylvania rivela un paradosso sconcertante, più si è scortesi con ChatGPT, più le sue risposte diventano accurate. The post ChatGPT: essere maleducati migliora le risposte, lo studio a",
+      "link": "https://www.punto-informatico.it/chatgpt-essere-maleducati-migliorarisposte-studio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T12:56:57+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Edge 144: si può rimuovere Copilot con un clic, finalmente",
-      "descrizione": "Con Edge 144 si può rimuovere Copilot sulla toolbar con un clic e l'autofill chiede il permesso prima di salvare indirizzi. The post Edge 144: si può rimuovere Copilot con un clic, finalmente appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/edge-144-rimuovere-copilot-clic-finalmente/",
+      "titolo": "All-in di Copilot: Real Talk per tutti e video AI",
+      "descrizione": "Microsoft avvia il rollout globale di Real Talk per Copilot con dialoghi più umani e stili dinamici; c'è anche la creazione di video AI. The post All-in di Copilot: Real Talk per tutti e video AI appeared first on Punto",
+      "link": "https://www.punto-informatico.it/copilot-real-talk-video-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-19T06:13:01+00:00",
+      "data": "2026-01-19T10:49:43+00:00",
       "modello": "copilot"
     },
     {
@@ -24,6 +24,14 @@
       "fonte": "Latest news",
       "data": "2026-01-17T12:00:49+00:00",
       "modello": "claude"
+    },
+    {
+      "titolo": "The Race to Build the DeepSeek of Europe Is On",
+      "descrizione": "As Europe’s longstanding alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.",
+      "link": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/",
+      "fonte": "WIRED",
+      "data": "2026-01-19T07:00:00+00:00",
+      "modello": "altri"
     }
   ]
 }
