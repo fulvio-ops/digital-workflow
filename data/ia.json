@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-01-19T13:12:51.880952+00:00",
+  "last_updated": "2026-01-19T18:49:50.693104+00:00",
   "items": [
     {
-      "titolo": "ChatGPT: essere maleducati migliora le risposte, lo studio",
-      "descrizione": "Uno studio dell'Università della Pennsylvania rivela un paradosso sconcertante, più si è scortesi con ChatGPT, più le sue risposte diventano accurate. The post ChatGPT: essere maleducati migliora le risposte, lo studio a",
-      "link": "https://www.punto-informatico.it/chatgpt-essere-maleducati-migliorarisposte-studio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T12:56:57+00:00",
+      "titolo": "OpenAI's Google Translate killer is here: How to use the new ChatGPT Translate",
+      "descrizione": "ChatGPT Translate isn't multimodal yet, but it does beat Google Translate in one big way. Here's how.",
+      "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate-alternative/",
+      "fonte": "Latest news",
+      "data": "2026-01-19T17:52:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "All-in di Copilot: Real Talk per tutti e video AI",
-      "descrizione": "Microsoft avvia il rollout globale di Real Talk per Copilot con dialoghi più umani e stili dinamici; c'è anche la creazione di video AI. The post All-in di Copilot: Real Talk per tutti e video AI appeared first on Punto",
-      "link": "https://www.punto-informatico.it/copilot-real-talk-video-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T10:49:43+00:00",
+      "titolo": "How a simple link allowed hackers to bypass Copilot's security guardrails - and what Microsoft did about it",
+      "descrizione": "Reprompt let attackers control Copilot and pull your data, even after you closed the chat.",
+      "link": "https://www.zdnet.com/article/copilot-steal-data-reprompt-vulnerability-microsoft/",
+      "fonte": "Latest news",
+      "data": "2026-01-19T02:00:34+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "OpenAI, Anthropic, and Google all have new AI healthcare tools - here's how they work",
-      "descrizione": "Concerns about data privacy and hallucination aren't slowing the healthcare industry's embrace of automation.",
-      "link": "https://www.zdnet.com/article/openai-anthropic-google-release-ai-healthcare-tools/",
-      "fonte": "Latest news",
-      "data": "2026-01-17T12:00:49+00:00",
-      "modello": "claude"
+      "titolo": "Chrome con le skill di Gemini: sempre più AI nel browser",
+      "descrizione": "Google sta preparando le skill di Gemini per Chrome: l'AI potrà agire come agente autonomo, eseguendo operazioni complesse nel browser. The post Chrome con le skill di Gemini: sempre più AI nel browser appeared first on",
+      "link": "https://www.punto-informatico.it/chrome-gemini-skill/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T13:52:43+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "The Race to Build the DeepSeek of Europe Is On",

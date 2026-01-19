@@ -1,6 +1,139 @@
 {
-  "last_updated": "2026-01-19T13:12:48.240169+00:00",
+  "last_updated": "2026-01-19T18:49:47.257069+00:00",
   "items": [
+    {
+      "titolo": "Svezia, canzone super popolare rimossa dalla classifica IFPI perché fatta con l'AI",
+      "descrizione": "Il brano è Jag Vet, Du Är Inte Min”, e l’artista è Jacub... che non esiste.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n645162/svezia-canzone-ai-rimossa-classifiche-ifpi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T17:45:00+00:00"
+    },
+    {
+      "titolo": "Monti video su Android? LumaFusion 2.5 fa un salto di qualità con l'ultimo update",
+      "descrizione": "Tante novità: scopriamole.",
+      "link": "https://www.hdblog.it/android/articoli/n645159/lumafusion-editor-video-modifica-android-app/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T17:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova guerra commerciale tra Stati Uniti e UE?",
+      "descrizione": "L'Unione europea potrebbe imporre dazi per 93 miliardi di dollari in risposta alle minaccia di Trump di introdurre dazi del 10% a 8 paesi europei. The post Nuova guerra commerciale tra Stati Uniti e UE? appeared first on",
+      "link": "https://www.punto-informatico.it/nuova-guerra-commerciale-stati-uniti-ue/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T17:34:21+00:00"
+    },
+    {
+      "titolo": "Marathon uscirà a marzo, è ufficiale: ecco le edizioni e i prezzi",
+      "descrizione": "Ci siamo!",
+      "link": "https://www.hdblog.it/games/articoli/n645151/marathon-data-uscita-edizioni-prezzi-svelati/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T17:15:00+00:00"
+    },
+    {
+      "titolo": "Google rinnova la ricerca vocale, ecco come apparirà",
+      "descrizione": "Vediamo le differenze.",
+      "link": "https://www.hdblog.it/google/articoli/n645156/google-rinnova-ricerca-vocale-immagini/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T17:10:00+00:00"
+    },
+    {
+      "titolo": "La Cina installa la prima turbina eolica offshore da 20 MW",
+      "descrizione": "Installata al largo del Fujian la prima turbina offshore da 20 MW, energia per 40 mila case",
+      "link": "https://www.hdblog.it/green/articoli/n645023/turbina-eolica-offshore-20-mw-cina/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T16:55:00+00:00"
+    },
+    {
+      "titolo": "Razer dice che l'AI nel gaming ci piace, ma ancora non lo sappiamo",
+      "descrizione": "Un'annosa questione.",
+      "link": "https://www.hdblog.it/razer/articoli/n645136/razer-ai-gaming-intervista/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T16:45:00+00:00"
+    },
+    {
+      "titolo": "Il drone costruito in garage vola a 657 km/h e fa la storia",
+      "descrizione": "Un drone fatto in casa tocca 657 km/h e conquista il record mondiale",
+      "link": "https://www.hdblog.it/droni/articoli/n645022/drone-artigianale-record-657-kmh/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T16:35:00+00:00"
+    },
+    {
+      "titolo": "Come usare ChatGPT Translate per la traduzione, pro e contro",
+      "descrizione": "OpenAI ha appena lanciato ChatGPT Translate, il rivale di Google Translate. Ecco come si usa e quali sono i pro e i contro. The post Come usare ChatGPT Translate per la traduzione, pro e contro appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/come-usare-chatgpt-translate-traduzione-pro-contro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T16:30:27+00:00"
+    },
+    {
+      "titolo": "Le migliori alternative a Dropbox 2026",
+      "descrizione": "Vediamo insieme quali sono le migliori alternative Dropbox per conservare i file personali nel cloud in tutta sicurezza. The post Le migliori alternative a Dropbox 2026 appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/migliori-alternative-dropbox/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T16:21:18+00:00"
+    },
+    {
+      "titolo": "NeN Dieci: il prezzo della luce bloccato per 10 anni, senza sorprese",
+      "descrizione": "NeN Dieci blocca il prezzo luce per 10 anni: rata fissa, energia 100% rinnovabile, zero penali e massima trasparenza per chi vuole stabilità e semplicità. The post NeN Dieci: il prezzo della luce bloccato per 10 anni, se",
+      "link": "https://www.punto-informatico.it/nen-dieci-il-prezzo-della-luce-bloccato-per-10-anni-senza-sorprese/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T16:18:58+00:00"
+    },
+    {
+      "titolo": "Accordo USA-Taiwan sui chip: investimenti e dazi ridotti",
+      "descrizione": "Gli Stati Uniti hanno sottoscritto un accordo con Taiwan che prevede un investimento da 250 miliardi di dollari per la costruzione di fabbriche. The post Accordo USA-Taiwan sui chip: investimenti e dazi ridotti appeared",
+      "link": "https://www.punto-informatico.it/accordo-usa-taiwan-chip-investimenti-dazi-ridotti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T16:08:26+00:00"
+    },
+    {
+      "titolo": "A Modena il primo centro europeo per il riciclo delle batterie",
+      "descrizione": "Questo impianto permette di recuperare il 99,6% delle materie prime critiche delle batterie",
+      "link": "https://www.hdmotori.it/primo-impianto-europeo-riciclo-totale-batterie-litio/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T16:00:37+00:00"
+    },
+    {
+      "titolo": "Un reattore nucleare per rendere abitabili le future basi lunari",
+      "descrizione": "Un reattore nucleare per garantire energia continua alle missioni lunari USA",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645033/reattore-nucleare-luna-nasa-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T15:55:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA sotto accusa: avrebbe attinto da una biblioteca ombra per addestrare l'AI",
+      "descrizione": "Si parla di milioni di libri piratati",
+      "link": "https://www.hdblog.it/nvidia/articoli/n645126/nvidia-accusa-biblioteca-ombra-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T15:45:00+00:00"
+    },
+    {
+      "titolo": "iPhone 18 costerà di più, Apple non sfugge alla crisi delle RAM",
+      "descrizione": "La carenza globale di RAM travolge anche Apple. Dopo Samsung e Xiaomi, anche Cupertino è costretta ad alzare i prezzi dell'iPhone 18. The post iPhone 18 costerà di più, Apple non sfugge alla crisi delle RAM appeared firs",
+      "link": "https://www.punto-informatico.it/iphone-18-costera-di-piu-apple-non-sfugge-crisi-ram/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T15:30:35+00:00"
+    },
+    {
+      "titolo": "Ferrari 12Cilindri Tailor Made: un capolavoro artigianale. Arte, sound e design in un’unica supercar",
+      "descrizione": "Questa Ferrari 12Cilindri del programma Tailor Made è ispirata all’eccellenza artigianale sudcoreana e all’innovazione d'avanguardia",
+      "link": "https://www.hdmotori.it/ferrari-12cilindri-tailor-made-caratteristiche-immagini/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T15:30:00+00:00"
+    },
+    {
+      "titolo": "How much RAM does your Linux PC actually need in 2026? An expert's sweet spot",
+      "descrizione": "Don't settle for the minimum - this is the RAM Linux needs to perform at its fullest potential.",
+      "link": "https://www.zdnet.com/article/how-much-ram-does-your-linux-pc-need-2026/",
+      "fonte": "Latest news",
+      "data": "2026-01-19T14:00:53+00:00"
+    },
+    {
+      "titolo": "LinkedIn è un paradiso per i cybercriminali",
+      "descrizione": "LinkedIn è un paradiso per i cybercriminali perché ci sono informazioni che possono essere sfruttate per rubare le credenziali o effettuare truffe. The post LinkedIn è un paradiso per i cybercriminali appeared first on P",
+      "link": "https://www.punto-informatico.it/linkedin-paradiso-cybercriminali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T13:41:49+00:00"
+    },
     {
       "titolo": "Siamo più affezionati alle canzoni tristi che a quelle allegre: uno studio lo conferma",
       "descrizione": "Recentemente, sulla rivista Scientific Reports , sono stati analizzati i testi di ben 20.186 brani: tutti quelli apparsi nelle classifiche settimanali della Billboard Hot 100 tra il 1973 e...",
@@ -30,144 +163,11 @@
       "data": "2026-01-19T12:10:29+00:00"
     },
     {
-      "titolo": "Games Workshop (Warhammer) dice no all'intelligenza artificiale... per ora",
-      "descrizione": "Un team di dirigenti senior continueranno a monitorare l'evoluzione della tecnologia.",
-      "link": "https://www.hdblog.it/games/articoli/n645101/games-workshop-warhammer-divieto-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T12:05:00+00:00"
-    },
-    {
       "titolo": "Compra occhiali Ray-Ban Meta, finisce nel deserto a cercare alieni",
       "descrizione": "Daniel compra gli occhiali Ray-Ban Meta per curiosità. Sei mesi dopo vaga nel deserto aspettando gli alieni, convinto di essere una figura messianica. The post Compra occhiali Ray-Ban Meta, finisce nel deserto a cercare",
       "link": "https://www.punto-informatico.it/compra-occhiali-ray-ban-meta-finisce-deserto-cercare-alieni/",
       "fonte": "Punto Informatico",
       "data": "2026-01-19T12:03:50+00:00"
-    },
-    {
-      "titolo": "Mitsubishi Pajero potrebbe tornare: nel 2026 la casa giapponese lancerà un nuovo SUV",
-      "descrizione": "Tanti indizi sembrano fare una prova.",
-      "link": "https://www.hdmotori.it/ritorno-mitsubishi-pajero/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T12:00:10+00:00"
-    },
-    {
-      "titolo": "Voglia di novità? Con il coupon eBay aggiorni casa tua risparmiando il 10%",
-      "descrizione": "Hai voglia di novità a casa tua? Aggiorna tutto grazie al Coupon eBay risparmiando il 10% acquistando a prezzi incredibilmente bassi. The post Voglia di novità? Con il coupon eBay aggiorni casa tua risparmiando il 10% ap",
-      "link": "https://www.punto-informatico.it/voglia-di-novita-con-il-coupon-ebay-aggiorni-casa-tua-risparmiando-il-10/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T11:56:16+00:00"
-    },
-    {
-      "titolo": "Integratori battono smartphone: ecco il 2025 degli acquisti online degli italiani",
-      "descrizione": "Il report 2025 di Trovaprezzi.it svela i nuovi trend dell’e-commerce in Italia: boom per salute e benessere, calano smartphone e tech per sostituzioni più lente.",
-      "link": "https://www.hdblog.it/mercato/articoli/n645098/eccomerce-italia-nel-2025-trend-andamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T11:45:00+00:00"
-    },
-    {
-      "titolo": "Le auto usate? Nel 2025 costano un po' di meno in Italia. Ancora più giù le elettriche",
-      "descrizione": "Secondo una recente analisi, nel 2025 il mercato europeo delle auto usate resta tendenzialmente stabile. In Italia crescono domanda e offerta",
-      "link": "https://www.hdmotori.it/auto-usate-prezzi-medi-italia-europa-modelli-elettriche/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T11:30:51+00:00"
-    },
-    {
-      "titolo": "AWS rafforza la filiera dei data center in Lombardia: 35 imprese riunite a Milano",
-      "descrizione": "L’incontro si inserisce nel piano di investimenti da 1,2 miliardi di euro già annunciato da AWS nel 2024",
-      "link": "https://www.hdblog.it/business/articoli/n645091/aws-rafforza-filiera-data-center-iitalia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T11:20:00+00:00"
-    },
-    {
-      "titolo": "Le videocassette stanno per tornare? Ecco RetroBox",
-      "descrizione": "L'effetto nostalgia colpisce anche uno dei formati che è invecchiato peggio.",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n645088/vhs-retrobox-tv-videocassette-registratore/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T11:15:00+00:00"
-    },
-    {
-      "titolo": "Iran: blackout Internet da 12 giorni, Starlink gratis",
-      "descrizione": "L'accesso ad Internet è bloccato da 12 giorni, ma i cittadini iraniani possono utilizzare la connettività satellitare gratuita offerta da Starlink. The post Iran: blackout Internet da 12 giorni, Starlink gratis appeared",
-      "link": "https://www.punto-informatico.it/iran-blackout-internet-12-giorni-starlink-gratis/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T10:51:05+00:00"
-    },
-    {
-      "titolo": "Viaggi all’estero? Con l’eSIM Airalo stop al roaming e niente SIM locale",
-      "descrizione": "Viaggi spesso all'estero e ti è capitato di spendere troppi soldi per il roaming o di perdere tempo per sostituire la SIM? Prova Airalo. The post Viaggi all’estero? Con l’eSIM Airalo stop al roaming e niente SIM locale a",
-      "link": "https://www.punto-informatico.it/viaggi-allestero-con-lesim-airalo-stop-al-roaming-e-niente-sim-locale/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T10:50:32+00:00"
-    },
-    {
-      "titolo": "All-in di Copilot: Real Talk per tutti e video AI",
-      "descrizione": "Microsoft avvia il rollout globale di Real Talk per Copilot con dialoghi più umani e stili dinamici; c'è anche la creazione di video AI. The post All-in di Copilot: Real Talk per tutti e video AI appeared first on Punto",
-      "link": "https://www.punto-informatico.it/copilot-real-talk-video-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T10:49:43+00:00"
-    },
-    {
-      "titolo": "Robot che imparano il tocco umano con pochissimi dati: la svolta dal Giappone",
-      "descrizione": "Un sistema adattivo aiuta i robot a copiare il tocco umano usando pochi dati",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645026/robotica-tattile-ricerca-giappone/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T10:45:00+00:00"
-    },
-    {
-      "titolo": "pCloud in offerta: cloud europeo sicuro con piani a vita in super sconto",
-      "descrizione": "Cerchi uno spazio cloud sicuro e senza limiti di tempo? Dovresti provare i piani a vita di pCloud: ora sono tutti scontati, a partire da 199€. The post pCloud in offerta: cloud europeo sicuro con piani a vita in super sc",
-      "link": "https://www.punto-informatico.it/pcloud-in-offerta-cloud-europeo-sicuro-con-piani-a-vita-in-super-sconto/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T10:32:27+00:00"
-    },
-    {
-      "titolo": "OpenAI Sonata: ChatGPT come Suno?",
-      "descrizione": "Individuati i sottodomini di ChatGPT dedicati a Sonata: il servizio potrebbe integrare strumenti per creare musica con l'aiuto dell'AI. The post OpenAI Sonata: ChatGPT come Suno? appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/chatgpt-sonata/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T09:45:37+00:00"
-    },
-    {
-      "titolo": "iPhone 18: possibili specifiche modelli Pro e Fold",
-      "descrizione": "Queste sono le possibili specifiche degli iPhone 18 Pro, iPhone 18 Pro Max e iPhone Fold che Apple dovrebbe annunciare entro settembre 2026. The post iPhone 18: possibili specifiche modelli Pro e Fold appeared first on P",
-      "link": "https://www.punto-informatico.it/iphone-18-possibili-specifiche-modelli-pro-fold/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T09:34:38+00:00"
-    },
-    {
-      "titolo": "Al Ces 2026 la Danimarca batte gli Usa con un mattoncino “intelligente”",
-      "descrizione": "Per una volta, grazie alla danese Lego l’Europa ha battuto l’America, ma solo per gioco. Ecco cosa abbiamo capito di Smart Brick",
-      "link": "https://www.ilsole24ore.com/art/al-ces-2026-danimarca-batte-usa-un-mattoncino-intelligente-AIaZAQp",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-19T07:07:00+00:00"
-    },
-    {
-      "titolo": "The Race to Build the DeepSeek of Europe Is On",
-      "descrizione": "As Europe’s longstanding alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.",
-      "link": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/",
-      "fonte": "WIRED",
-      "data": "2026-01-19T07:00:00+00:00"
-    },
-    {
-      "titolo": "Quando l’Italia riesce a trasformare competenze avanzate in business tecnologico",
-      "descrizione": "Al CES di Las Vegas le start-up italiane presentano soluzioni avanzate in ambito sicurezza, robotica, energia e formazione, dimostrando la capacità di trasformare ricerca e competenze tecnologiche in applicazioni industr",
-      "link": "https://www.ilsole24ore.com/art/quando-l-italia-riesce-trasformare-competenze-avanzate-business-tecnologico-AIeDnFr",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-18T17:40:21+00:00"
-    },
-    {
-      "titolo": "Elon Musk reveals roadmap with nine-month cadence for new AI processor releases, beating Nvidia and AMD's yearly cadence — Musk plans to have the highest-volume chips in the world",
-      "descrizione": "Elon Musk wants Tesla to iterate new AI accelerators faster than AMD and Nvidia. This can be done, but with caveats.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-reveals-roadmap-with-nine-month-cadence-for-new-ai-processor-releases-beating-nvidia-and-amds-yearly-cadence-musk-plans-to-have-the-highest-volume-chips-in-the-world",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-18T16:18:33+00:00"
-    },
-    {
-      "titolo": "Developer patches Wine to make Photoshop 2021 & 2025 run on Linux — Adobe Creative Cloud installers finally work thanks to HTML, JavaScript and XML fixes",
-      "descrizione": "Linux can now handle Adobe Creative Cloud-era installers thanks to a series of patches built by PhialsBasement, an open-source developer who has fixed longstanding HTML and JavaScript rendering issues, alongside XML pars",
-      "link": "https://www.tomshardware.com/software/linux/developer-patches-wine-to-make-photoshop-2021-and-2025-run-on-linux-adobe-creative-cloud-installers-finally-work-thanks-to-html-javascript-and-xml-fixes",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-18T15:21:09+00:00"
     }
   ]
 }
