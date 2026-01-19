@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T02:36:12.190698+00:00",
+  "last_updated": "2026-01-19T06:58:41.092060+00:00",
   "items": [
     {
       "titolo": "Il cubo con un mini ecosistema che può aiutarci a capire come vivere nello spazio",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "How a simple link allowed hackers to bypass Copilot's security guardrails - and what Microsoft did about it",
-      "descrizione": "Reprompt let attackers control Copilot and pull your data, even after you closed the chat.",
-      "link": "https://www.zdnet.com/article/copilot-steal-data-reprompt-vulnerability-microsoft/",
-      "fonte": "Latest news",
-      "data": "2026-01-19T02:00:34+00:00",
+      "titolo": "Edge 144: si può rimuovere Copilot con un clic, finalmente",
+      "descrizione": "Con Edge 144 si può rimuovere Copilot sulla toolbar con un clic e l'autofill chiede il permesso prima di salvare indirizzi. The post Edge 144: si può rimuovere Copilot con un clic, finalmente appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/edge-144-rimuovere-copilot-clic-finalmente/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T06:13:01+00:00",
       "modello": "copilot"
     },
     {
