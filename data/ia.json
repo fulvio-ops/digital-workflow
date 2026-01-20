@@ -1,25 +1,33 @@
 {
-  "last_updated": "2026-01-20T13:14:01.772849+00:00",
+  "last_updated": "2026-01-20T19:13:59.661236+00:00",
   "items": [
     {
-      "titolo": "Piumini e cappotti non si asciugano mai? La soluzione di Electrolux",
-      "descrizione": "Con modalità dedicate a piumini, outdoor e sportivi, l’asciugatrice Electrolux PerfectCare 900 garantisce risultati perfetti anche con capi difficili",
-      "link": "https://www.hdblog.it/home/articoli/n645262/electrolux-asciugare-piumini-cappotti/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T11:35:00+00:00",
+      "titolo": "10 funzioni nascoste ChatGPT che non stai usando",
+      "descrizione": "ChatGPT è diventato una vera cassetta degli attrezzi per il lavoro quotidiano. Ecco 10 funzioni poco usate, ma potenti che migliorano la produttività. The post 10 funzioni nascoste ChatGPT che non stai usando appeared fi",
+      "link": "https://www.punto-informatico.it/10-funzioni-nascoste-non-stai-usando/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-20T16:30:35+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini Labs, nel codice nuove funzioni sperimentali per Live e Thinking Mode",
-      "descrizione": "Google si sta preparando ad ampliare significativamente le funzionalità sperimentali di Gemini",
-      "link": "https://www.hdblog.it/smartphone/articoli/n645255/gemini-google-nuove-funzioni-sperimentali/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T10:50:00+00:00",
+      "titolo": "Ricerca vocale Google Android cambia look, nuovo design",
+      "descrizione": "La ricerca vocale di Google su Android ha una nuova interfaccia, arco multicolore dinamico ispirato a Gemini, pulsante Cerca una canzone più visibile. The post Ricerca vocale Google Android cambia look, nuovo design appe",
+      "link": "https://www.punto-informatico.it/ricerca-vocale-google-android-cambia-look-nuovo-design/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-20T18:38:27+00:00",
       "modello": "gemini"
     },
     {
+      "titolo": "I used Claude Code to vibe code a Mac app in 8 hours, and it was more work than magic",
+      "descrizione": "The illusion vanished fast once I treated Claude Code like a remote junior developer.",
+      "link": "https://www.zdnet.com/article/i-used-claude-code-to-vibe-code-mac-app/",
+      "fonte": "Latest news",
+      "data": "2026-01-20T14:33:56+00:00",
+      "modello": "claude"
+    },
+    {
       "titolo": "The Race to Build the DeepSeek of Europe Is On",
-      "descrizione": "As Europe’s longstanding alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.",
+      "descrizione": "As Europe’s long-standing alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.",
       "link": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/",
       "fonte": "WIRED",
       "data": "2026-01-19T07:00:00+00:00",
