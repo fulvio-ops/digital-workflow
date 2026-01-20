@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-01-19T18:49:50.693104+00:00",
+  "last_updated": "2026-01-20T02:30:36.536707+00:00",
   "items": [
     {
-      "titolo": "OpenAI's Google Translate killer is here: How to use the new ChatGPT Translate",
-      "descrizione": "ChatGPT Translate isn't multimodal yet, but it does beat Google Translate in one big way. Here's how.",
-      "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate-alternative/",
+      "titolo": "ChatGPT's cheapest subscription comes to the US: I compared Go to Plus and Pro",
+      "descrizione": "At $8 per month, here's how ChatGPT Go stacks up against OpenAI's other offerings.",
+      "link": "https://www.zdnet.com/article/chat-gpt-go/",
       "fonte": "Latest news",
-      "data": "2026-01-19T17:52:00+00:00",
+      "data": "2026-01-20T01:31:29+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "How a simple link allowed hackers to bypass Copilot's security guardrails - and what Microsoft did about it",
-      "descrizione": "Reprompt let attackers control Copilot and pull your data, even after you closed the chat.",
-      "link": "https://www.zdnet.com/article/copilot-steal-data-reprompt-vulnerability-microsoft/",
-      "fonte": "Latest news",
-      "data": "2026-01-19T02:00:34+00:00",
-      "modello": "copilot"
     },
     {
       "titolo": "Chrome con le skill di Gemini: sempre più AI nel browser",

@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-01-19T18:49:47.257069+00:00",
+  "last_updated": "2026-01-20T02:30:33.429557+00:00",
   "items": [
+    {
+      "titolo": "After setting up Windows 11, these 9 steps are non-negotiable for me",
+      "descrizione": "Microsoft's default settings for Windows 11 are filled with tiny annoyances, including unnecessary taskbar icons and unwanted apps. Here's how to declutter your PC and maximize its security.",
+      "link": "https://www.zdnet.com/article/essential-next-steps-setting-up-windows-11/",
+      "fonte": "Latest news",
+      "data": "2026-01-20T02:00:35+00:00"
+    },
+    {
+      "titolo": "Pensi già alle vacanze? Con Saily eSIM hai Internet ovunque a prezzi bassissimi",
+      "descrizione": "Non partire senza Saily, il servizio eSIM di NordVPN con piani convenienti per oltre 200 destinazioni, a partire da 2,99 dollari. The post Pensi già alle vacanze? Con Saily eSIM hai Internet ovunque a prezzi bassissimi a",
+      "link": "https://www.punto-informatico.it/pensi-gia-alle-vacanze-con-saily-esim-hai-internet-ovunque-a-prezzi-bassissimi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-19T21:18:20+00:00"
+    },
+    {
+      "titolo": "La nave elettrica più grande al mondo è in acqua: ospiterà oltre 2mila passeggeri",
+      "descrizione": "Hull 096 è la più grande nave elettrica mai costruita: lunga 130 metri, alimentata solo da batterie, ha iniziato i test in Tasmania in vista del debutto con la compagnia Buquebus",
+      "link": "https://www.hdblog.it/green/articoli/n645103/nave-elettrica-buquebus-passeggeri-test/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T18:43:00+00:00"
+    },
+    {
+      "titolo": "AMD Ryzen 9800X3D, ci risiamo? Sempre più chip KO anche con schede ASUS",
+      "descrizione": "Uno scenario analogo a quello osservato negli scorsi mesi con ASRock? O c'è sotto dell'altro?",
+      "link": "https://www.hdblog.it/hardware/articoli/n645118/amd-ryzen-9800x3d-guasti-schede-madri-asus/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T18:42:00+00:00"
+    },
+    {
+      "titolo": "Iliad, cambio offerta per i già clienti: sono di nuovo disponibili Giga 200 e Giga 250",
+      "descrizione": "L'upgrade è disponibile per i già clienti che provengono da un'offerta con meno Giga",
+      "link": "https://www.hdblog.it/smartphone/articoli/n645049/iliad-cambio-offerta-clienti-giga-200-250/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T18:40:00+00:00"
+    },
+    {
+      "titolo": "Ecco Honor Magic8 Pro Air: spesso come un S25 Edge ma batteria più di S25 Ultra",
+      "descrizione": "Decisamente promettente, per la categoria degli ultrasottili, con molti meno compromessi tecnici rispetto al Samsung e all'iPhone.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n645170/honor-magic-8-pro-air-specifiche-prezzi-immagini/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T18:35:00+00:00"
+    },
+    {
+      "titolo": "Xiaomi 15T in offerta sotto i 400€ diventa un'ottima scelta nella fascia media",
+      "descrizione": "Lo Xiaomi 15T è in offerta ed è ora uno dei best buy della fascia media, con un prezzo inferiore ai 400 euro.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n645169/xiaomi-15t-offerta-jan26/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T18:30:00+00:00"
+    },
+    {
+      "titolo": "Lenti stampate in 3D portano la microscopia avanzata nei piccoli laboratori",
+      "descrizione": "Lenti stampate in 3D permettono immagini cellulari dettagliate spendendo pochissimo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645027/stampante-3d-microscopia-basso-costo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T18:20:00+00:00"
+    },
+    {
+      "titolo": "Netflix come Boris: serve lo \"spiegone\" ogni tanto perché non stiamo attenti",
+      "descrizione": "Lo streaming e lo smartphone hanno cambiato radicalmente la nostra capacità di seguire un film. E quindi quelli che scrivono i film si devono adattare.",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n645167/netflix-matt-damon-attenzione-film-smartphone/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T18:05:00+00:00"
+    },
+    {
+      "titolo": "Blink Mini: due videocamere di sicurezza a prezzo stracciato con lo sconto del 44%",
+      "descrizione": "Su Amazon, grazie allo sconto del 44%, costa solo 24,99€ il bundle con due videocamere di sicurezza Blink Mini.",
+      "link": "https://www.hdblog.it/amazon/offerte/n645166/blink-mini-sconto-amazon-bundle-due-videocamere/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T17:58:00+00:00"
+    },
     {
       "titolo": "Svezia, canzone super popolare rimossa dalla classifica IFPI perché fatta con l'AI",
       "descrizione": "Il brano è Jag Vet, Du Är Inte Min”, e l’artista è Jacub... che non esiste.",
@@ -30,6 +100,13 @@
       "data": "2026-01-19T17:15:00+00:00"
     },
     {
+      "titolo": "Xiaomi SU7, ancora un nuovo record: percorsi 4.264 km in 24 ore. Battuta la Xpeng P7",
+      "descrizione": "Si tratta di un nuovo record per i veicoli prodotti in serie; battuto il precedente primato di 3.961 km stabilito della Xpeng P7",
+      "link": "https://www.hdmotori.it/xiaomi-su7-record-resistenza-4264-km-24-ore/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-19T17:12:00+00:00"
+    },
+    {
       "titolo": "Google rinnova la ricerca vocale, ecco come apparirà",
       "descrizione": "Vediamo le differenze.",
       "link": "https://www.hdblog.it/google/articoli/n645156/google-rinnova-ricerca-vocale-immagini/",
@@ -49,13 +126,6 @@
       "link": "https://www.hdblog.it/razer/articoli/n645136/razer-ai-gaming-intervista/",
       "fonte": "HDblog.it",
       "data": "2026-01-19T16:45:00+00:00"
-    },
-    {
-      "titolo": "Il drone costruito in garage vola a 657 km/h e fa la storia",
-      "descrizione": "Un drone fatto in casa tocca 657 km/h e conquista il record mondiale",
-      "link": "https://www.hdblog.it/droni/articoli/n645022/drone-artigianale-record-657-kmh/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T16:35:00+00:00"
     },
     {
       "titolo": "Come usare ChatGPT Translate per la traduzione, pro e contro",
@@ -86,27 +156,6 @@
       "data": "2026-01-19T16:08:26+00:00"
     },
     {
-      "titolo": "A Modena il primo centro europeo per il riciclo delle batterie",
-      "descrizione": "Questo impianto permette di recuperare il 99,6% delle materie prime critiche delle batterie",
-      "link": "https://www.hdmotori.it/primo-impianto-europeo-riciclo-totale-batterie-litio/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T16:00:37+00:00"
-    },
-    {
-      "titolo": "Un reattore nucleare per rendere abitabili le future basi lunari",
-      "descrizione": "Un reattore nucleare per garantire energia continua alle missioni lunari USA",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645033/reattore-nucleare-luna-nasa-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T15:55:00+00:00"
-    },
-    {
-      "titolo": "NVIDIA sotto accusa: avrebbe attinto da una biblioteca ombra per addestrare l'AI",
-      "descrizione": "Si parla di milioni di libri piratati",
-      "link": "https://www.hdblog.it/nvidia/articoli/n645126/nvidia-accusa-biblioteca-ombra-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T15:45:00+00:00"
-    },
-    {
       "titolo": "iPhone 18 costerà di più, Apple non sfugge alla crisi delle RAM",
       "descrizione": "La carenza globale di RAM travolge anche Apple. Dopo Samsung e Xiaomi, anche Cupertino è costretta ad alzare i prezzi dell'iPhone 18. The post iPhone 18 costerà di più, Apple non sfugge alla crisi delle RAM appeared firs",
       "link": "https://www.punto-informatico.it/iphone-18-costera-di-piu-apple-non-sfugge-crisi-ram/",
@@ -114,60 +163,11 @@
       "data": "2026-01-19T15:30:35+00:00"
     },
     {
-      "titolo": "Ferrari 12Cilindri Tailor Made: un capolavoro artigianale. Arte, sound e design in un’unica supercar",
-      "descrizione": "Questa Ferrari 12Cilindri del programma Tailor Made è ispirata all’eccellenza artigianale sudcoreana e all’innovazione d'avanguardia",
-      "link": "https://www.hdmotori.it/ferrari-12cilindri-tailor-made-caratteristiche-immagini/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-19T15:30:00+00:00"
-    },
-    {
       "titolo": "How much RAM does your Linux PC actually need in 2026? An expert's sweet spot",
       "descrizione": "Don't settle for the minimum - this is the RAM Linux needs to perform at its fullest potential.",
       "link": "https://www.zdnet.com/article/how-much-ram-does-your-linux-pc-need-2026/",
       "fonte": "Latest news",
       "data": "2026-01-19T14:00:53+00:00"
-    },
-    {
-      "titolo": "LinkedIn è un paradiso per i cybercriminali",
-      "descrizione": "LinkedIn è un paradiso per i cybercriminali perché ci sono informazioni che possono essere sfruttate per rubare le credenziali o effettuare truffe. The post LinkedIn è un paradiso per i cybercriminali appeared first on P",
-      "link": "https://www.punto-informatico.it/linkedin-paradiso-cybercriminali/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T13:41:49+00:00"
-    },
-    {
-      "titolo": "Siamo più affezionati alle canzoni tristi che a quelle allegre: uno studio lo conferma",
-      "descrizione": "Recentemente, sulla rivista Scientific Reports , sono stati analizzati i testi di ben 20.186 brani: tutti quelli apparsi nelle classifiche settimanali della Billboard Hot 100 tra il 1973 e...",
-      "link": "https://www.ilsole24ore.com/art/siamo-piu-affezionati-canzoni-tristi-che-quelle-allegre-studio-conferma-AIeVafp",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-19T13:08:19+00:00"
-    },
-    {
-      "titolo": "ChatGPT: essere maleducati migliora le risposte, lo studio",
-      "descrizione": "Uno studio dell'Università della Pennsylvania rivela un paradosso sconcertante, più si è scortesi con ChatGPT, più le sue risposte diventano accurate. The post ChatGPT: essere maleducati migliora le risposte, lo studio a",
-      "link": "https://www.punto-informatico.it/chatgpt-essere-maleducati-migliorarisposte-studio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T12:56:57+00:00"
-    },
-    {
-      "titolo": "Le migliori offerte eBay per risparmiare senza rinunciare alla qualità",
-      "descrizione": "Scopri le migliori offerte su eBay per risparmiare senza rinunciare alla migliore qualità disponibile! Puoi anche pagare a rate tasso zero. The post Le migliori offerte eBay per risparmiare senza rinunciare alla qualità",
-      "link": "https://www.punto-informatico.it/le-migliori-offerte-ebay-per-risparmiare-senza-rinunciare-alla-qualita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T12:16:53+00:00"
-    },
-    {
-      "titolo": "Australia: ban per quasi 5 milioni di under 16",
-      "descrizione": "Le piattaforme che devono rispettare la legge australiana hanno bloccato l'accesso a circa 4,7 milioni di account di utenti con età inferiore a 16 anni. The post Australia: ban per quasi 5 milioni di under 16 appeared fi",
-      "link": "https://www.punto-informatico.it/australia-ban-quasi-5-milioni-under-16/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T12:10:29+00:00"
-    },
-    {
-      "titolo": "Compra occhiali Ray-Ban Meta, finisce nel deserto a cercare alieni",
-      "descrizione": "Daniel compra gli occhiali Ray-Ban Meta per curiosità. Sei mesi dopo vaga nel deserto aspettando gli alieni, convinto di essere una figura messianica. The post Compra occhiali Ray-Ban Meta, finisce nel deserto a cercare",
-      "link": "https://www.punto-informatico.it/compra-occhiali-ray-ban-meta-finisce-deserto-cercare-alieni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-19T12:03:50+00:00"
     }
   ]
 }
