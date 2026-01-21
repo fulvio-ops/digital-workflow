@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-01-21T13:13:00.066321+00:00",
+  "last_updated": "2026-01-21T19:01:20.236305+00:00",
   "items": [
     {
-      "titolo": "Windows 11: bug in aumento con l’update KB5074109",
-      "descrizione": "Arrivano nuove segnalazioni di bug introdotti con l'aggiornamento KB5074109 di Windows 11 25H2/24H2 che Microsoft ha rilasciato il 13 gennaio. The post Windows 11: bug in aumento con l’update KB5074109 appeared first on",
-      "link": "https://www.punto-informatico.it/windows-11-bug-update-kb5074109/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-21T13:10:56+00:00"
+      "titolo": "Debian vs. Arch vs. Fedora: Which Linux distro base is right for you",
+      "descrizione": "If you're just now coming over to Linux, you might have noticed there are a lot of distributions to choose from. One of your first choices will be what base you want to use. Here's a bit of help.",
+      "link": "https://www.zdnet.com/article/debian-vs-arch-vs-fedora-based-linux-distros/",
+      "fonte": "Latest news",
+      "data": "2026-01-21T18:22:58+00:00"
     },
     {
-      "titolo": "Samsung non aumenterà il prezzo del Galaxy A57, ecco come…",
-      "descrizione": "Per contenere i costi del Galaxy A57, nonostante la carenza di RAM, Samsung rinuncia ai propri schermi e sceglie pannelli OLED di CSOT. The post Samsung non aumenterà il prezzo del Galaxy A57, ecco come… appeared first o",
-      "link": "https://www.punto-informatico.it/samsung-non-aumentera-prezzo-galaxy-a57-ecco-come/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-21T13:08:30+00:00"
+      "titolo": "Prince of Persia: Sands of Time Remake cancellato: c'è la conferma di Ubisoft",
+      "descrizione": "Assieme ad altri sei titoli: ristrutturazione profonda in casa Ubisoft.",
+      "link": "https://www.hdblog.it/games/articoli/n645484/prince-of-persia-sands-of-time-remake-cancellato/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:55:00+00:00"
     },
     {
-      "titolo": "Nvidia reportedly boosts Vera Rubin performance to ward hyperscalers off AMD Instinct AI accelerators — increased boost clocks and memory bandwidth pushes power demand by 500 watts to 2300 watts",
-      "descrizione": "Nvidia has reportedly increased the TDP of premium Rubin processors by 500W to 2.30 kW in a bid to boost clocks, memory bandwidth, and performance per Rubin GPU and per rack.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-boosts-vera-rubin-performance-to-ward-hyperscalers-off-amd-instinct-ai-accelerators-increased-boost-clocks-and-memory-bandwidth-pushes-power-demand-by-500-watts-to-2300-watts",
+      "titolo": "Google colora la Ricerca con nuove opzioni di personalizzazione",
+      "descrizione": "Non solo bianco o nero.",
+      "link": "https://www.hdblog.it/google/articoli/n645482/google-ricerca-color-your-search-colorata-test/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:50:00+00:00"
+    },
+    {
+      "titolo": "Addio Threads senza pubblicità: Meta lancia gli annunci",
+      "descrizione": "Threads introduce le inserzioni pubblicitarie a tutti gli utenti nel mondo a partire dalla prossima settimana. Il roll out sarà graduale. The post Addio Threads senza pubblicità: Meta lancia gli annunci appeared first on",
+      "link": "https://www.punto-informatico.it/addio-threads-senza-pubblicita-meta-lancia-annunci/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T17:43:18+00:00"
+    },
+    {
+      "titolo": "If these Samsung settings are off, you're not using your phone to its full potential",
+      "descrizione": "Samsung phones have plenty of smart features - here are a few you shouldn't miss.",
+      "link": "https://www.zdnet.com/article/change-samsung-phone-settings-improve-performance/",
+      "fonte": "Latest news",
+      "data": "2026-01-21T17:37:00+00:00"
+    },
+    {
+      "titolo": "Nuova Volvo EX60 si presenta: tecnologia AI di Google e fino a 810 km di autonomia",
+      "descrizione": "Debutta il nuovo SUV di Volvo che offre tanta tecnologia, spazio e una lunga autonomia",
+      "link": "https://www.hdmotori.it/nuova-volvo-ex60-2026-dimensioni-interni-motore-autonomia-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:30:15+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare compatta, Israele brucia le tappe: plasma acceso in 60 giorni",
+      "descrizione": "La startup israeliana nT-Tao ha acceso il primo plasma del nuovo prototipo C3",
+      "link": "https://www.hdblog.it/green/articoli/n645353/fusione-nucleare-israele-nt-tao/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:20:00+00:00"
+    },
+    {
+      "titolo": "YouTube vi permetterà di creare un video AI con la vostra faccia",
+      "descrizione": "Arriva la possibilità di realizzare YouTube Shorts utilizzando una versione artificiale di sé stessi,",
+      "link": "https://www.hdblog.it/google/articoli/n645445/youtube-short-video-ai-funzione/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:10:00+00:00"
+    },
+    {
+      "titolo": "Elettroni imprevedibili rivelano un nuovo stato della materia",
+      "descrizione": "A temperature estreme nasce uno stato quantistico con un effetto Hall senza campo magnetico.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n645178/nuovo-stato-materia-quantistica/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T16:55:00+00:00"
+    },
+    {
+      "titolo": "Apple Music: streaming musicale ad altissima qualità da provare gratis",
+      "descrizione": "Apple Music è la piattaforma di streaming musicale (e non solo) per chi vuole ascoltare con un audio superiore. Si può provare gratis. The post Apple Music: streaming musicale ad altissima qualità da provare gratis appea",
+      "link": "https://www.punto-informatico.it/apple-music-streaming-musicale-ad-altissima-qualita-da-provare-gratis/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T16:46:19+00:00"
+    },
+    {
+      "titolo": "Panasonic insegna ai robot a smontare gli elettrodomestici per l'economia circolare",
+      "descrizione": "Se solo il design si pensasse attorno allo smontaggio, di sicuro l’ambiente ne beneficerebbe.",
+      "link": "https://www.hdblog.it/panasonic/articoli/n645454/panasonic-robot-smontare-elettrodomestici/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T16:40:00+00:00"
+    },
+    {
+      "titolo": "Come usare Gemini davvero su Android: 4 funzioni sottovalutate",
+      "descrizione": "Su Android Gemini non è solo un'app, è integrato nel sistema. Ecco 4 funzioni poco usate che cambiano l’esperienza. The post Come usare Gemini davvero su Android: 4 funzioni sottovalutate appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/come-usare-gemini-davvero-android-4-funzioni-sottovalutate/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T16:30:25+00:00"
+    },
+    {
+      "titolo": "Skoda Kushaq: il SUV compatto per l'India si rinnova nel look",
+      "descrizione": "Design rivisto, cambio automatico a otto rapporti e infotainment con Google Gemini.",
+      "link": "https://www.hdmotori.it/skoda-kushaq-aggiornamento-india/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T16:30:19+00:00"
+    },
+    {
+      "titolo": "Windows 11, arriva il supporto ai WebP come immagine di sfondo",
+      "descrizione": "E tanti cari saluti alla conversione manuale, di cui facciamo più che volentieri a meno.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n645478/windows-11-build-insider-supporto-webp-sfondo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T16:25:00+00:00"
+    },
+    {
+      "titolo": "Ecco NexPhone, smartphone che oltre ad Android esegue Linux e Windows 11",
+      "descrizione": "Il device vuole essere un vero \"tuttofare\", in grado di sostituire sia lo smartphone sia il PC.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n645471/nexphone-smartphone-android-linux-windows-11/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T16:05:00+00:00"
+    },
+    {
+      "titolo": "Porsche, negli USA abilita il Plug & Charge per le ricariche presso i Supercharger Tesla",
+      "descrizione": "Porsche ha annunciato la compatibilità con i Supercharger Tesla per la ricarica dei veicoli elettrici: ecco la situazione",
+      "link": "https://www.hdmotori.it/porsche-plug-charge-supercharger-tesla-macan-taycan/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T16:00:06+00:00"
+    },
+    {
+      "titolo": "Quantum computing firm dangles $22,500 Bitcoin prize — all you have to do is uncover a private key hidden inside a quantum-optimized problem",
+      "descrizione": "The Quantum Advantage Challenge offers a 0.25 BTC wallet prize to anyone who can answer a specialized problem that can be solved in under two hours on today’s quantum hardware.",
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/quantum-computing-firm-dangles-usd22-500-bitcoin-prize-all-you-have-to-do-is-uncover-a-private-key-hidden-inside-a-quantum-optimized-problem",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-21T12:36:26+00:00"
+      "data": "2026-01-21T16:00:00+00:00"
     },
     {
-      "titolo": "Microsoft said my Windows 10 PC was no longer eligible for updates - so I used this secure alternative instead",
-      "descrizione": "0patch provides crucial security updates for Windows 10 and fills the support gap left by Microsoft. Here's how it's fared after months of use.",
-      "link": "https://www.zdnet.com/article/windows-10-pc-0patch-review/",
-      "fonte": "Latest news",
-      "data": "2026-01-21T12:33:00+00:00"
-    },
-    {
-      "titolo": "How to clear your Android phone cache (and why you shouldn't wait to do it)",
-      "descrizione": "This swift adjustment can immediately improve speed and responsiveness on almost any model - no matter the brand.",
-      "link": "https://www.zdnet.com/article/how-to-clear-android-phone-cache-2026/",
-      "fonte": "Latest news",
-      "data": "2026-01-21T12:30:00+00:00"
-    },
-    {
-      "titolo": "Audi Revolut F1 Team: svelata a Berlino la nuova livrea R26",
-      "descrizione": "Tra visione, tecnologia e ambizione globale, Audi e Revolut accendono una nuova era in Formula 1 con un progetto pensato per vincere nel lungo periodo.",
-      "link": "https://www.hdmotori.it/audi-revolut-f1-livrea-r26-presentazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T12:00:20+00:00"
-    },
-    {
-      "titolo": "I tested 5 products that promised to fix my slow Wi-Fi - here's my verdict if you need an upgrade",
-      "descrizione": "Reliable Wi-Fi is a must in 2026. If your connection's failing you, these five products won't.",
-      "link": "https://www.zdnet.com/article/slow-wifi-best-products-improve-internet-speed/",
-      "fonte": "Latest news",
-      "data": "2026-01-21T11:57:00+00:00"
-    },
-    {
-      "titolo": "Gli AirTag sono alleati sempre più preziosi contro lo smarrimento dei bagagli",
-      "descrizione": "Un compagno ormai indispensabile per chi viaggia di frequente?",
-      "link": "https://www.hdblog.it/apple/articoli/n645423/apple-airtag-bagagli-smarriti-rischi-aeroporto/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:55:00+00:00"
-    },
-    {
-      "titolo": "WindTre, offerta GO 200 XS 5G Digital ancora attiva: cosa prevede",
-      "descrizione": "GO 200 XS 5G Digital di WindTre include 200 GB di dati, chiamate illimitate e roaming UE senza costi aggiuntivi. Attivazione e spedizione SIM gratuite per i clienti provenienti da operatori...",
-      "link": "https://www.hdblog.it/h3g/articoli/n645421/windtre-offerta-go-200-xs-5g-digital/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:45:00+00:00"
-    },
-    {
-      "titolo": "Le prime terme di Pompei raccontano una storia poco igienica",
-      "descrizione": "Le analisi rivelano acqua stagnante e contaminata nelle prime terme di Pompei",
-      "link": "https://www.hdblog.it/curiosita/articoli/n645191/prime-terme-di-pompei-storia-poco-igienica/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:40:00+00:00"
-    },
-    {
-      "titolo": "Nadella cambia idea: l'AI deve dimostrarsi utile se vuole il favore del pubblico",
-      "descrizione": "Solo poche settimane fa, aveva invitato a non focalizzarsi troppo sul tema degli AI slop",
-      "link": "https://www.hdblog.it/microsoft/articoli/n645412/nadella-intelligenza-artificiale-utile/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:35:00+00:00"
-    },
-    {
-      "titolo": "Nuova FIAT Fastback, si avvicina al debutto: ecco le ultime foto spia",
-      "descrizione": "FIAT prepara un’importante novità per il 2026. La Fastback affiancherà la Grande Panda con uno stile da SUV coupé",
-      "link": "https://www.hdmotori.it/nuova-fiat-fastback-2026-foto-spia-sviluppo-cosa-sappiamo/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:30:02+00:00"
-    },
-    {
-      "titolo": "Star Search è la scommessa di Netflix per incrementare l'attenzione dei suoi utenti",
-      "descrizione": "Soprattutto grazie al \"televoto\", che si potrà fare direttamente dall'app ufficiale e i cui esiti saranno dichiarati entro la fine dell'episodio trasmesso in diretta.",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n645418/netflix-star-search-televoto-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:15:00+00:00"
-    },
-    {
-      "titolo": "Android Auto 16.0, aggiornato il player multimediale: arriva un nuovo layout",
-      "descrizione": "Nuova disposizione dei controlli e integrazione del tema Material You nelle app compatibili",
-      "link": "https://www.hdblog.it/google/articoli/n645411/android-auto-nuova-ui-player/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:10:00+00:00"
-    },
-    {
-      "titolo": "Lancia, al via l'avventura nel Mondiale Rally: si parte con il Rallye Monte-Carlo",
-      "descrizione": "La gara, dal 22 al 25 gennaio, si articolerà su 17 prove speciali per 339,15 km cronometrati",
-      "link": "https://www.hdmotori.it/lancia-debutto-rallye-monte-carlo-wrc2/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T11:00:01+00:00"
-    },
-    {
-      "titolo": "Crisi memorie, gli SSD economici saranno una chimera per un po'",
-      "descrizione": "Kioxia dice di aver già venduto tutta la capacità produttiva del 2026, e che prevede che il 2027 non andrà tanto diversamente.",
-      "link": "https://www.hdblog.it/hardware/articoli/n645415/crisi-memorie-ssd-economici-kioxia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T10:55:00+00:00"
-    },
-    {
-      "titolo": "ho. Mobile, 5G gratis per i clienti più fedeli",
-      "descrizione": "L’operatore ho. Mobile ha avviato l’attivazione gratuita del 5G per i clienti “storici”: ecco come funziona e a chi spetta la navigazione ultraveloce.",
-      "link": "https://www.hdblog.it/virtuali/articoli/n645414/ho-mobile-5g-gratis/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T10:50:00+00:00"
-    },
-    {
-      "titolo": "Qualità tedesca a prezzo cinese: il Termometro Digitale Corpo Beurer a soli 3€ su Amazon",
-      "descrizione": "Qualità tedesca a prezzo cinese grazie al Termometro Digitale per Corpo Beurer in offerta speciale su Amazon a soli 3€ preso d'assalto. The post Qualità tedesca a prezzo cinese: il Termometro Digitale Corpo Beurer a soli",
-      "link": "https://www.punto-informatico.it/qualita-tedesca-prezzo-cinese-termometro-digitale-corpo-beurer-soli-3-euro-amazon/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-21T10:47:17+00:00"
-    },
-    {
-      "titolo": "This new Linux distro is a multimedia powerhouse right out of the box",
-      "descrizione": "Elegance is a relatively new Linux distribution that aims to be your solution for office, multimedia, and gaming.",
-      "link": "https://www.zdnet.com/article/get-elegant-with-this-fork-of-the-manjaro-linux-distribution/",
-      "fonte": "Latest news",
-      "data": "2026-01-21T10:46:12+00:00"
-    },
-    {
-      "titolo": "Nvidia accused of trying to cut a deal with Anna’s Archive for high‑speed access to the massive pirated book haul — allegedly chased stolen data to fuel its LLMs",
-      "descrizione": "Nvidia has been accused of offering to pay for ‘high-speed access’ to Anna’s Archive, a notorious ‘shadow library’ portal, bursting with copyright-infringing materials.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-21T10:42:41+00:00"
-    },
-    {
-      "titolo": "Palantir: l'IA rende inutile l'immigrazione",
-      "descrizione": "Il CEO di Palantir, Alex Karp, ha allontanato i timori sull'IA: ci sarà lavoro per tutti e, aggiunge, non serviranno altri immigrati.",
-      "link": "https://www.hdblog.it/business/articoli/n645392/palantir-ia-immigrazione/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T10:35:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT: restrizioni per minori di 18 anni e privacy",
-      "descrizione": "Per eliminare le restrizioni applicate all'account è necessario verificare l'età, ma ci sono dubbi sull'efficacia del sistema e sul rispetto della privacy. The post ChatGPT: restrizioni per minori di 18 anni e privacy ap",
-      "link": "https://www.punto-informatico.it/chatgpt-restrizioni-minori-18-anni-privacy/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-21T10:31:41+00:00"
-    },
-    {
-      "titolo": "Zeekr 8X, in arrivo un nuovo SUV Plug-in: batteria da 70 kWh e autonomia in elettrico fino a 328 km",
-      "descrizione": "Sta per debuttare in Cina un nuovo SUV Plug-in di oltre 5,1 metri e fino a 6 posti con maxi batteria e lunga autonomia in elettrico",
-      "link": "https://www.hdmotori.it/zeekr-8x-dimensioni-design-motore-plug-in-autonomia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T10:30:48+00:00"
-    },
-    {
-      "titolo": "Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial",
-      "descrizione": "The trial starts soon in New Mexico’s case against Meta—and the company is pulling out all the stops to protect its reputation.",
-      "link": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+      "titolo": "MAGA’s ‘Manifest Destiny’ Coalition Has Arrived",
+      "descrizione": "Warring factions of right-wing influencers and MAGA pundits can finally agree on something: American imperialism.",
+      "link": "https://www.wired.com/story/maga-manifest-destiny-coalition/",
       "fonte": "WIRED",
-      "data": "2026-01-21T10:30:00+00:00"
+      "data": "2026-01-21T16:00:00+00:00"
+    },
+    {
+      "titolo": "Una miniera d’oro diventa un enorme frigorifero per ascoltare l’universo",
+      "descrizione": "Una miniera americana ospiterà un esperimento unico per studiare i neutrini",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645346/dune-neutrini-miniera-sotterranea/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T15:55:00+00:00"
+    },
+    {
+      "titolo": "Jensen Huang says Nvidia has dethroned Apple as TSMC’s largest customer — rumor suggests that the chip fab is increasing its prices for Cupertino",
+      "descrizione": "Nvidia CEO Jensen Huang confirmed in a podcast that his company has overtaken Apple as TSMC's biggest customer, once again becoming its top client after more than 20 years.",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/jensen-huang-says-nvidia-has-dethroned-apple-as-tsmcs-largest-customer-rumor-suggests-that-the-chip-fab-is-increasing-its-prices-for-cupertino",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-21T15:54:53+00:00"
+    },
+    {
+      "titolo": "Stuck in AI pilot mode? IBM has a solution to help you scale - without ripping everything up",
+      "descrizione": "IBM Enterprise Advantage aims to tie together your fragmented initiatives with a Services-as-Software layer.",
+      "link": "https://www.zdnet.com/article/ibm-enterprise-advantage-tie-fragmented-initiatives-with-sas/",
+      "fonte": "Latest news",
+      "data": "2026-01-21T15:45:00+00:00"
+    },
+    {
+      "titolo": "They said I could bring this TSA-approved multitool on a plane - here's how that went",
+      "descrizione": "I found myself missing a multitool while traveling, so I was immediately intrigued by the promise of a government-approved one.",
+      "link": "https://www.zdnet.com/article/nextool-mini-multitool-review/",
+      "fonte": "Latest news",
+      "data": "2026-01-21T15:44:00+00:00"
+    },
+    {
+      "titolo": "Prezzo fisso fino a 10 anni: con l’offerta di NeN si risparmia su luce e gas",
+      "descrizione": "Con le offerte luce e gas di NeN è possibile bloccare il prezzo di luce e gas fino a 10 anni con una protezione contro i rincari e bollette contenute. The post Prezzo fisso fino a 10 anni: con l’offerta di NeN si risparm",
+      "link": "https://www.punto-informatico.it/prezzo-fisso-fino-a-10-anni-con-lofferta-di-nen-si-risparmia-su-luce-e-gas/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T15:43:29+00:00"
+    },
+    {
+      "titolo": "Il nuovo motore cinese ATP120A supera il test estremo al gelo",
+      "descrizione": "Il motore ATP120A supera l’accensione a -30 gradi e punta all’autonomia cinese",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645192/motore-turboelica-cina-atp120a-test-gelo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T15:35:00+00:00"
     }
   ]
 }

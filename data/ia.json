@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-01-21T13:13:03.515268+00:00",
+  "last_updated": "2026-01-21T19:01:25.003490+00:00",
   "items": [
     {
-      "titolo": "OpenAI commits to 'paying our own way' so that Stargate AI data centers don't increase energy bills — will fund grid upgrades and even flexible loads to reduce stress on energy supply",
-      "descrizione": "OpenAI says it will ensure Stargate does not increase electricity prices in communities where it is building its data centers.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-commits-to-paying-our-own-way-so-that-stargate-ai-data-centers-dont-increase-energy-bills-will-fund-grid-upgrades-and-even-flexible-loads-to-reduce-stress-on-energy-supply",
+      "titolo": "Intel axes 12th Gen Alder Lake and 4th Gen Xeon Sapphire Rapids — final orders for Intel's first hybrid CPUs end in just a few months",
+      "descrizione": "Intel's 12th Generation Alder Lake and 4th Generation Xeon Sapphire Rapids Scalable processors have reached end-of-life (EOL) status.",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-axes-12th-gen-alder-lake-and-4th-gen-xeon-sapphire-rapids-final-orders-for-intels-first-hybrid-cpus-end-in-just-a-few-months",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-21T11:39:36+00:00",
+      "data": "2026-01-21T17:05:34+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Calendar, Gemini può creare eventi da più calendari",
-      "descrizione": "Gemini su Google Calendar ora supporta i calendari secondari come faceva Google Assistant, ma solo all’interno dello stesso account. The post Google Calendar, Gemini può creare eventi da più calendari appeared first on P",
-      "link": "https://www.punto-informatico.it/google-calendar-gemini-puo-creare-eventi-da-piu-calendari/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-21T12:12:26+00:00",
+      "titolo": "NotebookLM arriva sull'app di Gemini: ecco come appare",
+      "descrizione": "Comodo, no?",
+      "link": "https://www.hdblog.it/google/articoli/n645473/notebooklm-arriva-app-google-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:05:00+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Anthropic critica la vendita di GPU NVIDIA in Cina",
+      "descrizione": "Secondo Dario Amodei (CEO di Anthropic) esportare le GPU H200 di NVIDIA in Cina è come vendere armi nucleari alla Corea del Nord. The post Anthropic critica la vendita di GPU NVIDIA in Cina appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/anthropic-critica-vendita-gpu-nvidia-cina/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T15:18:17+00:00",
+      "modello": "claude"
     },
     {
       "titolo": "The Race to Build the DeepSeek of Europe Is On",
