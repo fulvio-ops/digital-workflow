@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-20T19:13:59.661236+00:00",
+  "last_updated": "2026-01-21T02:32:21.082082+00:00",
   "items": [
     {
-      "titolo": "10 funzioni nascoste ChatGPT che non stai usando",
-      "descrizione": "ChatGPT è diventato una vera cassetta degli attrezzi per il lavoro quotidiano. Ecco 10 funzioni poco usate, ma potenti che migliorano la produttività. The post 10 funzioni nascoste ChatGPT che non stai usando appeared fi",
-      "link": "https://www.punto-informatico.it/10-funzioni-nascoste-non-stai-usando/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-20T16:30:35+00:00",
+      "titolo": "OpenAI, ChatGPT sta morendo? Gli analisti: \"Fallimento entro il 2027\"",
+      "descrizione": "Che sta succedendo?",
+      "link": "https://www.hdblog.it/mercato/articoli/n645273/openai-chatgpt-analisti-fallimento-2027/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T18:42:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,14 +16,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-01-20T18:38:27+00:00",
       "modello": "gemini"
-    },
-    {
-      "titolo": "I used Claude Code to vibe code a Mac app in 8 hours, and it was more work than magic",
-      "descrizione": "The illusion vanished fast once I treated Claude Code like a remote junior developer.",
-      "link": "https://www.zdnet.com/article/i-used-claude-code-to-vibe-code-mac-app/",
-      "fonte": "Latest news",
-      "data": "2026-01-20T14:33:56+00:00",
-      "modello": "claude"
     },
     {
       "titolo": "The Race to Build the DeepSeek of Europe Is On",

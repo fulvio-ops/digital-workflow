@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-01-20T19:13:56.273401+00:00",
+  "last_updated": "2026-01-21T02:32:16.867207+00:00",
   "items": [
     {
-      "titolo": "I highly recommend this LG OLED TV - especially at 50% off",
-      "descrizione": "Want to upgrade your home theater with an OLED TV without spending a fortune? Best Buy is selling the 77-inch LG B5 OLED for half off right now.",
-      "link": "https://www.zdnet.com/article/lg-b5-oled-tv-best-buy-deal/",
-      "fonte": "Latest news",
-      "data": "2026-01-20T19:00:55+00:00"
+      "titolo": "Batterie Smartphone: la verità su Silicio-Carbonio, normative e doppie celle",
+      "descrizione": "Sempre più spesso si parla di batterie fra nuove tecnologie come silicio-carbonio ma anche di limiti dovuti da regolamentazioni. Cosa c'è di vero? Scopriamolo assieme in questo articolo.",
+      "link": "https://www.hdblog.it/smartphone/speciali/n644688/batterie-smartphone-silicio-carbonio-regole/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T18:44:00+00:00"
+    },
+    {
+      "titolo": "Tassa di 2 Euro sui piccoli pacchi: chi paga, quanto e come",
+      "descrizione": "Dal 1 gennaio è previsto il contributo da 2 euro sui piccoli pacchi provenienti da Paesi extra-UE, ma i pagamenti iniziano da metà marzo.",
+      "link": "https://www.hdblog.it/business/articoli/n645300/tassa-di-2-euro-sui-piccoli-pacchi-chi-paga-quanto-e-come/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T18:43:00+00:00"
+    },
+    {
+      "titolo": "Come sta cambiando l'Italia: boom di Reddit e il sorpasso storico di Amazon",
+      "descrizione": "Un'Italia profondamente diversa.",
+      "link": "https://www.hdblog.it/mercato/articoli/n645252/italia-digitale-boom-fibra-dominio-amazon-reddit/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T18:41:00+00:00"
+    },
+    {
+      "titolo": "I dazi per i consumatori USA cominciano a farsi sentire anche su Amazon",
+      "descrizione": "Amazon stessa e i rivenditori avevano fatto scorte in anticipo, ma ormai stanno esaurendo.",
+      "link": "https://www.hdblog.it/amazon/articoli/n645319/dazi-usa-costi-consumatori-usa-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T18:40:00+00:00"
     },
     {
       "titolo": "Ricerca vocale Google Android cambia look, nuovo design",
@@ -14,6 +35,13 @@
       "link": "https://www.punto-informatico.it/ricerca-vocale-google-android-cambia-look-nuovo-design/",
       "fonte": "Punto Informatico",
       "data": "2026-01-20T18:38:27+00:00"
+    },
+    {
+      "titolo": "ASUS ROG, arriva in Italia il primo router AI: prezzi da capogiro",
+      "descrizione": "4 GB di RAM, 32 GB di storage interno, CPU quad-core, NPU integrata... Questo è un mini-server, altro che un router!",
+      "link": "https://www.hdblog.it/hardware/articoli/n645323/asus-rog-router-ai-italia-prezzi-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T18:15:00+00:00"
     },
     {
       "titolo": "Samsung svela Bixby AI con Perplexity! Ma poi cancella l'annuncio",
@@ -30,13 +58,6 @@
       "data": "2026-01-20T17:30:00+00:00"
     },
     {
-      "titolo": "I dazi per i consumatori USA cominciano a farsi sentire anche su Amazon",
-      "descrizione": "Amazon stessa e i rivenditori avevano fatto scorte in anticipo, ma ormai stanno esaurendo.",
-      "link": "https://www.hdblog.it/amazon/articoli/n645319/dazi-usa-costi-consumatori-usa-amazon/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T17:20:00+00:00"
-    },
-    {
       "titolo": "Samsung svela e poi nasconde il nuovo Bixby",
       "descrizione": "Samsung ha svelato due funzionalità del nuovo Bixby incluso nella beta di One UI 8.5, ma poco dopo ha rimosso il comunicato stampa dal sito ufficiale. The post Samsung svela e poi nasconde il nuovo Bixby appeared first o",
       "link": "https://www.punto-informatico.it/samsung-svela-nasconde-nuovo-bixby/",
@@ -49,6 +70,20 @@
       "link": "https://www.punto-informatico.it/netflix-cambia-offerta-warner-bros-contanti-invece-azioni/",
       "fonte": "Punto Informatico",
       "data": "2026-01-20T17:14:17+00:00"
+    },
+    {
+      "titolo": "Dacia Sandero regina d'Europa nel 2025: E' ancora l'auto più venduta",
+      "descrizione": "Dacia Sandero si conferma l’auto più venduta in Europa anche nel 2025 con oltre 243 mila immatricolazioni",
+      "link": "https://www.hdmotori.it/dacia-sandero-regina-deuropa-nel-2025-e-ancora-lauto-piu-venduta/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T17:13:00+00:00"
+    },
+    {
+      "titolo": "BYD continua a stuzzicare Stellantis: sulla sicurezza non rallentiamo mai",
+      "descrizione": "La campagna marketing di BYD in Italia continua ad essere effervescente e adesso arriva una nuova stoccata a Stellantis",
+      "link": "https://www.hdmotori.it/byd-continua-stuzzicare-stellantis-sulla-sicurezza-non-rallentiamo-mai/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-20T17:12:00+00:00"
     },
     {
       "titolo": "Internxt: cloud sicuro e privacy totale con sconti fino all’87%",
@@ -86,13 +121,6 @@
       "data": "2026-01-20T16:30:05+00:00"
     },
     {
-      "titolo": "Tassa di 2 Euro sui piccoli pacchi: chi paga, quanto e come",
-      "descrizione": "Dal 1 gennaio è previsto il contributo da 2 euro sui piccoli pacchi provenienti da Paesi extra-UE, ma i pagamenti iniziano da metà marzo.",
-      "link": "https://www.hdblog.it/business/articoli/n645300/tassa-di-2-euro-sui-piccoli-pacchi-chi-paga-quanto-e-come/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T16:25:00+00:00"
-    },
-    {
       "titolo": "Droni con spray al peperoncino, in Giappone li usano per irrorare gli orsi",
       "descrizione": "Povere bestie!",
       "link": "https://www.hdblog.it/droni/articoli/n645286/droni-spray-peperoncino-giappone-orsi/",
@@ -128,39 +156,11 @@
       "data": "2026-01-20T15:51:00+00:00"
     },
     {
-      "titolo": "Un nuovo materiale migliora l’affidabilità delle batterie termiche",
-      "descrizione": "Un rivestimento innovativo rende i catodi più stabili nelle batterie termiche",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645176/batterie-termiche-catodi-stabili-cina/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T15:40:00+00:00"
-    },
-    {
-      "titolo": "Adobe Premiere e After Effect: l'editing video sarà potenziato dall'IA",
-      "descrizione": "Adobe annuncia ulteriori integrazioni con l'IA dei propri software, cercando di arginare i timori che ne stanno minando anche la valutazione in Borsa.",
-      "link": "https://www.hdblog.it/business/articoli/n645281/adobe-premiere-after-effect-ia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T15:35:00+00:00"
-    },
-    {
       "titolo": "Chrome su iPhone permette di trasferire i dati da Safari facilmente",
       "descrizione": "Google corteggia gli utenti di Safari con nuova funzione di Chrome per iPhone, l migrazione completa dei dati in un solo colpo. The post Chrome su iPhone permette di trasferire i dati da Safari facilmente appeared first",
       "link": "https://www.punto-informatico.it/chrome-iphone-permette-trasferire-dati-safari-facilmente/",
       "fonte": "Punto Informatico",
       "data": "2026-01-20T15:33:01+00:00"
-    },
-    {
-      "titolo": "Leasys, primo operatore di noleggio a lungo termine in Italia",
-      "descrizione": "Il noleggio supera il 30% e Leasys è prima per quota di mercato.",
-      "link": "https://www.hdmotori.it/leasys-primo-operatore-italia-noleggio-lungo-termine/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T15:30:29+00:00"
-    },
-    {
-      "titolo": "Il settore spaziale commerciale cinese sta crescendo tantissimo",
-      "descrizione": "Sarebbe vicina ad un punto di svolta.",
-      "link": "https://www.hdblog.it/mercato/articoli/n645287/settore-spaziale-commerciale-cinese-stato/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T15:25:00+00:00"
     },
     {
       "titolo": "Your Bluetooth earbuds are at risk of being hijacked - here's how to prevent it ASAP",
