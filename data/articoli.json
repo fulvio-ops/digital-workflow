@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-01-21T02:32:16.867207+00:00",
+  "last_updated": "2026-01-21T06:56:18.017650+00:00",
   "items": [
+    {
+      "titolo": "Netflix lancia il voto in tempo reale come i reality show",
+      "descrizione": "Netflix introduce il voto in tempo reale. Gli utenti potranno influenzare i contenuti dal vivo direttamente dal telecomando o dall'app. The post Netflix lancia il voto in tempo reale come i reality show appeared first on",
+      "link": "https://www.punto-informatico.it/netflix-lancia-voto-tempo-reale-come-reality-show/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T06:17:21+00:00"
+    },
+    {
+      "titolo": "Motorola Moto G67 e Moto G77 avvistati in Grecia: specifiche e immagini",
+      "descrizione": "I due device saranno probabilmente super economici.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n645325/motorola-moto-g67-moto-g77-specifiche-immagini/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T05:35:00+00:00"
+    },
+    {
+      "titolo": "I didn't expect a gaming laptop to replace my work PC - then I tried this Lenovo",
+      "descrizione": "Lenovo's LOQ 15AHP10 is a reliable gaming laptop that offers high performance at an accessible price.",
+      "link": "https://www.zdnet.com/article/lenovo-loq-15-laptop-review/",
+      "fonte": "Latest news",
+      "data": "2026-01-21T02:56:00+00:00"
+    },
+    {
+      "titolo": "I'm a hardcore Mac Mini user - and I can't live without these 5 accessories under $100",
+      "descrizione": "These Mac Mini accessories have proven to be reliable over time, and I recommend them to anyone with a Mac Mini.",
+      "link": "https://www.zdnet.com/article/mac-mini-best-accessories-under-100/",
+      "fonte": "Latest news",
+      "data": "2026-01-21T02:50:00+00:00"
+    },
     {
       "titolo": "Batterie Smartphone: la verità su Silicio-Carbonio, normative e doppie celle",
       "descrizione": "Sempre più spesso si parla di batterie fra nuove tecnologie come silicio-carbonio ma anche di limiti dovuti da regolamentazioni. Cosa c'è di vero? Scopriamolo assieme in questo articolo.",
@@ -140,34 +168,6 @@
       "link": "https://www.punto-informatico.it/amazon-prezzi-aumento-dazi/",
       "fonte": "Punto Informatico",
       "data": "2026-01-20T16:00:35+00:00"
-    },
-    {
-      "titolo": "Cani robot contro le fiamme: così l’AI cambia i soccorsi più pericolosi",
-      "descrizione": "Robot quadrupedi con AI affrontano incendi e disastri riducendo i rischi umani",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645181/cani-robot-antincendio-ai-soccorsi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-20T15:55:00+00:00"
-    },
-    {
-      "titolo": "Don't want to update your iPhone to iOS 26? These 4 reasons changed my mind immediately",
-      "descrizione": "Many iPhone owners may be resisting iOS 26. But this latest version includes important security updates that will keep your phone protected.",
-      "link": "https://www.zdnet.com/article/ios26-upgrade-four-security-reasons/",
-      "fonte": "Latest news",
-      "data": "2026-01-20T15:51:00+00:00"
-    },
-    {
-      "titolo": "Chrome su iPhone permette di trasferire i dati da Safari facilmente",
-      "descrizione": "Google corteggia gli utenti di Safari con nuova funzione di Chrome per iPhone, l migrazione completa dei dati in un solo colpo. The post Chrome su iPhone permette di trasferire i dati da Safari facilmente appeared first",
-      "link": "https://www.punto-informatico.it/chrome-iphone-permette-trasferire-dati-safari-facilmente/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-20T15:33:01+00:00"
-    },
-    {
-      "titolo": "Your Bluetooth earbuds are at risk of being hijacked - here's how to prevent it ASAP",
-      "descrizione": "Google Fast Pair makes pairing easy, but a flawed implementation has created a potential security risk.",
-      "link": "https://www.zdnet.com/article/whisperpair-google-fast-pair-bluetooth-earbuds-attack/",
-      "fonte": "Latest news",
-      "data": "2026-01-20T15:17:00+00:00"
     }
   ]
 }
