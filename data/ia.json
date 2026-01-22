@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-01-22T06:54:17.430120+00:00",
+  "last_updated": "2026-01-22T13:14:04.556090+00:00",
   "items": [
     {
-      "titolo": "iOS 27 may be the death of Siri as we know it, but we'll be happy with what it becomes",
-      "descrizione": "A Siri AI chatbot can transform how you interact with your iPhone. Here's to hoping Apple can make it even better than OpenAI and Google.",
-      "link": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
-      "fonte": "Latest news",
-      "data": "2026-01-22T02:33:00+00:00",
+      "titolo": "Anna’s Archive: dominio chiuso su richiesta di Spotify",
+      "descrizione": "Spotify ha ottenuto la sospensione di un dominio di Anna's Archive per la violazione del copyright attraverso lo scraping di 86 milioni di tracce audio. The post Anna’s Archive: dominio chiuso su richiesta di Spotify app",
+      "link": "https://www.punto-informatico.it/annas-archive-dominio-chiuso-su-richiesta-di-spotify/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-22T09:09:54+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "NotebookLM arriva sull'app di Gemini: ecco come appare",
-      "descrizione": "Comodo, no?",
-      "link": "https://www.hdblog.it/google/articoli/n645473/notebooklm-arriva-app-google-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T17:05:00+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Anthropic critica la vendita di GPU NVIDIA in Cina",
-      "descrizione": "Secondo Dario Amodei (CEO di Anthropic) esportare le GPU H200 di NVIDIA in Cina è come vendere armi nucleari alla Corea del Nord. The post Anthropic critica la vendita di GPU NVIDIA in Cina appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/anthropic-critica-vendita-gpu-nvidia-cina/",
+      "titolo": "Claude ha una coscienza? Il dubbio della nuova Costituzione",
+      "descrizione": "Nella nuova Costituzione di Claude, Anthropic ammette che la questione della coscienza va presa sul serio. Una riflessione inaspettata. The post Claude ha una coscienza? Il dubbio della nuova Costituzione appeared first",
+      "link": "https://www.punto-informatico.it/claude-ha-coscienza-dubbio-nuova-costituzione/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-21T15:18:17+00:00",
+      "data": "2026-01-22T12:27:49+00:00",
       "modello": "claude"
     }
   ]
