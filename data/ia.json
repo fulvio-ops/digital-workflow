@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-22T02:34:51.451820+00:00",
+  "last_updated": "2026-01-22T06:54:17.430120+00:00",
   "items": [
     {
-      "titolo": "OpenAI just unveiled its Google Translate competitor, and ChatGPT already wins in a big way",
-      "descrizione": "ChatGPT Translate isn't multimodal yet, but it still beats Google Translate by a wide margin. Here's how.",
-      "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate/",
+      "titolo": "iOS 27 may be the death of Siri as we know it, but we'll be happy with what it becomes",
+      "descrizione": "A Siri AI chatbot can transform how you interact with your iPhone. Here's to hoping Apple can make it even better than OpenAI and Google.",
+      "link": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
       "fonte": "Latest news",
-      "data": "2026-01-22T02:27:00+00:00",
+      "data": "2026-01-22T02:33:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -24,14 +24,6 @@
       "fonte": "Punto Informatico",
       "data": "2026-01-21T15:18:17+00:00",
       "modello": "claude"
-    },
-    {
-      "titolo": "The Race to Build the DeepSeek of Europe Is On",
-      "descrizione": "As Europe’s long-standing alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.",
-      "link": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/",
-      "fonte": "WIRED",
-      "data": "2026-01-19T07:00:00+00:00",
-      "modello": "altri"
     }
   ]
 }
