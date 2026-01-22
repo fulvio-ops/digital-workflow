@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-01-21T19:01:20.236305+00:00",
+  "last_updated": "2026-01-22T02:34:48.092278+00:00",
   "items": [
+    {
+      "titolo": "Sennheiser just unveiled the first pair of TV headphones with Auracast support, and it's a big deal",
+      "descrizione": "The Sennheiser RS 275 TV Headphones feature high-end audio, hours of comfort, and endless connectivity via Auracast.",
+      "link": "https://www.zdnet.com/article/sennheiser-rs-275-tv-headphones-auracast/",
+      "fonte": "Latest news",
+      "data": "2026-01-22T01:41:00+00:00"
+    },
+    {
+      "titolo": "Best Buy will sell you Sony's flagship OLED TV for $1,100 off right now - and I can vouch for it",
+      "descrizione": "The Bravia 8 II is Sony's flagship OLED TV and is worth every penny of its retail price, but it's even better when you can snag one at Best Buy for this much off.",
+      "link": "https://www.zdnet.com/article/sony-bravia-8-ii-best-buy-deal/",
+      "fonte": "Latest news",
+      "data": "2026-01-22T01:28:00+00:00"
+    },
+    {
+      "titolo": "Amazon Music Unlimited: 30 giorni gratis per ascoltare milioni di brani e audiolibri",
+      "descrizione": "Amazon Music Unlimited offre una prova di 30 giorni gratis con 100 milioni di brani, audio HD e spaziale, più un audiolibro al mese. The post Amazon Music Unlimited: 30 giorni gratis per ascoltare milioni di brani e audi",
+      "link": "https://www.punto-informatico.it/amazon-music-unlimited-30-giorni-gratis-per-ascoltare-milioni-di-brani-e-audiolibri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T22:05:02+00:00"
+    },
+    {
+      "titolo": "Energia: 6 italiani su 10 cascano nelle offerte del falso risparmio",
+      "descrizione": "Occhio alle offerte \"Illudi e Deludi\".",
+      "link": "https://www.hdblog.it/home/articoli/n645422/energia-6-italiani-su-10-offerte-finte/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T18:41:00+00:00"
+    },
+    {
+      "titolo": "Dopo il sondaggio di Musk, Ryanair lancia l’offerta “Big Idiot”",
+      "descrizione": "Dopo il plebiscito social, Musk tace ma Ryanair risponde: ironia, regole UE e una campagna pubblicitaria che trasforma la provocazione in marketing virale.",
+      "link": "https://www.hdblog.it/mercato/articoli/n645378/ryanair-elon-musk-voli-idioti/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T18:40:00+00:00"
+    },
     {
       "titolo": "Debian vs. Arch vs. Fedora: Which Linux distro base is right for you",
       "descrizione": "If you're just now coming over to Linux, you might have noticed there are a lot of distributions to choose from. One of your first choices will be what base you want to use. Here's a bit of help.",
@@ -30,13 +65,6 @@
       "data": "2026-01-21T17:43:18+00:00"
     },
     {
-      "titolo": "If these Samsung settings are off, you're not using your phone to its full potential",
-      "descrizione": "Samsung phones have plenty of smart features - here are a few you shouldn't miss.",
-      "link": "https://www.zdnet.com/article/change-samsung-phone-settings-improve-performance/",
-      "fonte": "Latest news",
-      "data": "2026-01-21T17:37:00+00:00"
-    },
-    {
       "titolo": "Nuova Volvo EX60 si presenta: tecnologia AI di Google e fino a 810 km di autonomia",
       "descrizione": "Debutta il nuovo SUV di Volvo che offre tanta tecnologia, spazio e una lunga autonomia",
       "link": "https://www.hdmotori.it/nuova-volvo-ex60-2026-dimensioni-interni-motore-autonomia-prezzi/",
@@ -49,6 +77,20 @@
       "link": "https://www.hdblog.it/green/articoli/n645353/fusione-nucleare-israele-nt-tao/",
       "fonte": "HDblog.it",
       "data": "2026-01-21T17:20:00+00:00"
+    },
+    {
+      "titolo": "Nuova Mercedes Classe S, più di un semplice restyling: ibrida e pronta per la guida autonoma",
+      "descrizione": "Il 29 gennaio debutterà il restyling della Mercedes Classe S che alzerà l'asticella del lusso e della tecnologia",
+      "link": "https://www.hdmotori.it/nuova-mercedes-classe-s-restyling-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:13:00+00:00"
+    },
+    {
+      "titolo": "Bologna Città 30 bocciata dal Tar: la sentenza ribalta tutto. Ecco cosa sta succedendo",
+      "descrizione": "Il Tar ha dato ragione al ricorso di due tassisti, annullando il provvedimento con cui il Comune di Bologna aveva creato Città 30",
+      "link": "https://www.hdmotori.it/bologna-citta-30-decisione-tar-annulla-tutto/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-21T17:12:00+00:00"
     },
     {
       "titolo": "YouTube vi permetterà di creare un video AI con la vostra faccia",
@@ -93,27 +135,6 @@
       "data": "2026-01-21T16:30:19+00:00"
     },
     {
-      "titolo": "Windows 11, arriva il supporto ai WebP come immagine di sfondo",
-      "descrizione": "E tanti cari saluti alla conversione manuale, di cui facciamo più che volentieri a meno.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n645478/windows-11-build-insider-supporto-webp-sfondo/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T16:25:00+00:00"
-    },
-    {
-      "titolo": "Ecco NexPhone, smartphone che oltre ad Android esegue Linux e Windows 11",
-      "descrizione": "Il device vuole essere un vero \"tuttofare\", in grado di sostituire sia lo smartphone sia il PC.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n645471/nexphone-smartphone-android-linux-windows-11/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T16:05:00+00:00"
-    },
-    {
-      "titolo": "Porsche, negli USA abilita il Plug & Charge per le ricariche presso i Supercharger Tesla",
-      "descrizione": "Porsche ha annunciato la compatibilità con i Supercharger Tesla per la ricarica dei veicoli elettrici: ecco la situazione",
-      "link": "https://www.hdmotori.it/porsche-plug-charge-supercharger-tesla-macan-taycan/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T16:00:06+00:00"
-    },
-    {
       "titolo": "Quantum computing firm dangles $22,500 Bitcoin prize — all you have to do is uncover a private key hidden inside a quantum-optimized problem",
       "descrizione": "The Quantum Advantage Challenge offers a 0.25 BTC wallet prize to anyone who can answer a specialized problem that can be solved in under two hours on today’s quantum hardware.",
       "link": "https://www.tomshardware.com/tech-industry/quantum-computing/quantum-computing-firm-dangles-usd22-500-bitcoin-prize-all-you-have-to-do-is-uncover-a-private-key-hidden-inside-a-quantum-optimized-problem",
@@ -128,32 +149,11 @@
       "data": "2026-01-21T16:00:00+00:00"
     },
     {
-      "titolo": "Una miniera d’oro diventa un enorme frigorifero per ascoltare l’universo",
-      "descrizione": "Una miniera americana ospiterà un esperimento unico per studiare i neutrini",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645346/dune-neutrini-miniera-sotterranea/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T15:55:00+00:00"
-    },
-    {
       "titolo": "Jensen Huang says Nvidia has dethroned Apple as TSMC’s largest customer — rumor suggests that the chip fab is increasing its prices for Cupertino",
       "descrizione": "Nvidia CEO Jensen Huang confirmed in a podcast that his company has overtaken Apple as TSMC's biggest customer, once again becoming its top client after more than 20 years.",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/jensen-huang-says-nvidia-has-dethroned-apple-as-tsmcs-largest-customer-rumor-suggests-that-the-chip-fab-is-increasing-its-prices-for-cupertino",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-21T15:54:53+00:00"
-    },
-    {
-      "titolo": "Stuck in AI pilot mode? IBM has a solution to help you scale - without ripping everything up",
-      "descrizione": "IBM Enterprise Advantage aims to tie together your fragmented initiatives with a Services-as-Software layer.",
-      "link": "https://www.zdnet.com/article/ibm-enterprise-advantage-tie-fragmented-initiatives-with-sas/",
-      "fonte": "Latest news",
-      "data": "2026-01-21T15:45:00+00:00"
-    },
-    {
-      "titolo": "They said I could bring this TSA-approved multitool on a plane - here's how that went",
-      "descrizione": "I found myself missing a multitool while traveling, so I was immediately intrigued by the promise of a government-approved one.",
-      "link": "https://www.zdnet.com/article/nextool-mini-multitool-review/",
-      "fonte": "Latest news",
-      "data": "2026-01-21T15:44:00+00:00"
     },
     {
       "titolo": "Prezzo fisso fino a 10 anni: con l’offerta di NeN si risparmia su luce e gas",
@@ -163,11 +163,11 @@
       "data": "2026-01-21T15:43:29+00:00"
     },
     {
-      "titolo": "Il nuovo motore cinese ATP120A supera il test estremo al gelo",
-      "descrizione": "Il motore ATP120A supera l’accensione a -30 gradi e punta all’autonomia cinese",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645192/motore-turboelica-cina-atp120a-test-gelo/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-21T15:35:00+00:00"
+      "titolo": "OpenAI pagherà per l’energia dei suoi data center AI",
+      "descrizione": "OpenAI promette di ridurre il consumo di acqua e pagare i potenziamenti alle infrastrutture energetiche per i suoi data center AI. The post OpenAI pagherà per l’energia dei suoi data center AI appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/openai-paghera-energia-data-center-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-21T15:23:23+00:00"
     }
   ]
 }
