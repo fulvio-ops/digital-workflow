@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-01-23T13:10:51.066851+00:00",
+  "last_updated": "2026-01-23T18:52:50.657512+00:00",
   "items": [
     {
-      "titolo": "This might be the best way to get medical advice from ChatGPT - and it's free to use",
-      "descrizione": "ChatGPT Health is OpenAI's latest 'dedicated experience' that draws on your medical records to answer all your health questions. Here's how it works.",
-      "link": "https://www.zdnet.com/article/openai-chatgpt-health-mode-waitlist/",
-      "fonte": "Latest news",
-      "data": "2026-01-23T12:41:00+00:00",
+      "titolo": "Alibaba plans IPO for chip-arm T-Head to help bankroll ambitious AI infrastructure investments — company to go up against Cambricon and Huawei to capture domestic accelerator market",
+      "descrizione": "A new report claims that Alibaba's chip manufacturing business, T-head, is preparing to IPO. It's likely that Alibaba is pinning its hopes on T-head to raise capital for the company's domestic AI accelerator solutions, a",
+      "link": "https://www.tomshardware.com/tech-industry/alibaba-plans-ipo-for-chip-arm-t-head-to-help-bankroll-ambitious-ai-infrastructure-investments-company-to-go-up-against-cambricon-and-huawei-to-capture-domestic-accelerator-market",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-23T15:50:49+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Google Pixel Watch 3, il prezzo continua a scendere: lo sconto è del 53%",
-      "descrizione": "Amazon sconta del 53% il Google Pixel Watch 3 da 45mm, smartwatch con Gemini e sensori per il monitoraggio di sport e salute (anche ECG).",
-      "link": "https://www.hdblog.it/google/offerte/n645742/google-pixel-watch-3-prezzo-continua-a-scendere/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-23T11:07:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "How Claude Code Is Reshaping Software—and Anthropic",
