@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-01-23T06:53:47.396663+00:00",
+  "last_updated": "2026-01-23T13:10:51.066851+00:00",
   "items": [
     {
-      "titolo": "How Claude Code Is Reshaping Software—and Anthropic",
-      "descrizione": "WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
-      "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
-      "fonte": "WIRED",
-      "data": "2026-01-22T19:00:00+00:00",
+      "titolo": "This might be the best way to get medical advice from ChatGPT - and it's free to use",
+      "descrizione": "ChatGPT Health is OpenAI's latest 'dedicated experience' that draws on your medical records to answer all your health questions. Here's how it works.",
+      "link": "https://www.zdnet.com/article/openai-chatgpt-health-mode-waitlist/",
+      "fonte": "Latest news",
+      "data": "2026-01-23T12:41:00+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Google Pixel Watch 3, il prezzo continua a scendere: lo sconto è del 53%",
+      "descrizione": "Amazon sconta del 53% il Google Pixel Watch 3 da 45mm, smartwatch con Gemini e sensori per il monitoraggio di sport e salute (anche ECG).",
+      "link": "https://www.hdblog.it/google/offerte/n645742/google-pixel-watch-3-prezzo-continua-a-scendere/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-23T11:07:00+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "How Claude Code Is Reshaping Software—and Anthropic",
