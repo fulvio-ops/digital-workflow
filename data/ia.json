@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-22T18:53:22.515477+00:00",
+  "last_updated": "2026-01-23T02:30:36.849429+00:00",
   "items": [
     {
-      "titolo": "Viaggia connesso in tutto il mondo con le eSim di Saily",
-      "descrizione": "Saily è una eSIM globale dei creatori di NordVPN: piani dati convenienti, attivazione rapida, copertura in oltre 200 Paesi e funzioni di sicurezza pensate per chi viaggia. The post Viaggia connesso in tutto il mondo con",
-      "link": "https://www.punto-informatico.it/viaggia-connesso-in-tutto-il-mondo-con-le-esim-di-saily/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-22T18:00:27+00:00",
+      "titolo": "How Claude Code Is Reshaping Software—and Anthropic",
+      "descrizione": "WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
+      "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
+      "fonte": "WIRED",
+      "data": "2026-01-22T19:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Anthropic to Claude: Make good choices!",
-      "descrizione": "The document is intended to broadly guide Claude's behavior through even the most ethically challenging situations, while also specifying some hard rules. (Please don't wipe out all of humanity, for one.)",
-      "link": "https://www.zdnet.com/article/anthropic-new-constitution-claude/",
-      "fonte": "Latest news",
-      "data": "2026-01-22T18:30:18+00:00",
+      "titolo": "How Claude Code Is Reshaping Software—and Anthropic",
+      "descrizione": "WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
+      "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
+      "fonte": "WIRED",
+      "data": "2026-01-22T19:00:00+00:00",
       "modello": "claude"
     }
   ]

@@ -1,12 +1,68 @@
 {
-  "last_updated": "2026-01-22T18:53:19.422560+00:00",
+  "last_updated": "2026-01-23T02:30:32.887362+00:00",
   "items": [
+    {
+      "titolo": "Best Buy is selling last year's Sony OLED TV for $1,100 off - and it's an easy recommend for me",
+      "descrizione": "The Bravia 8 II is Sony's flagship OLED TV and is worth every penny of its retail price, but it's even better when you can snag one for this much off.",
+      "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal/",
+      "fonte": "Latest news",
+      "data": "2026-01-22T22:37:00+00:00"
+    },
+    {
+      "titolo": "Airalo è l’eSIM per chi viaggia il mondo: Internet in oltre 200 destinazioni da 4€",
+      "descrizione": "Parti verso qualsiasi destinazione senza doverti preoccupare di Internet: con l'eSIM Airalo navighi ovunque a prezzi bassi. The post Airalo è l’eSIM per chi viaggia il mondo: Internet in oltre 200 destinazioni da 4€ appe",
+      "link": "https://www.punto-informatico.it/airalo-e-lesim-per-chi-viaggia-il-mondo-internet-in-oltre-200-destinazioni-da-4e/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-22T22:22:36+00:00"
+    },
+    {
+      "titolo": "AI-Powered Disinformation Swarms Are Coming for Democracy",
+      "descrizione": "Advances in artificial intelligence are creating a perfect storm for those seeking to spread disinformation at unprecedented speed and scale. And it’s virtually impossible to detect.",
+      "link": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
+      "fonte": "WIRED",
+      "data": "2026-01-22T19:00:00+00:00"
+    },
+    {
+      "titolo": "Recensione Oppo Reno 15 Pro, per me è un grande sì (al giusto prezzo)",
+      "descrizione": "Abbiamo provato il nuovo Oppo Reno 15 Pro, ed è stata una piacevole sorpresa, scoprite perchè in questa recensione",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n645493/oppo-reno-15-pro-compatto-specifiche-prezzo-sconto/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-22T18:39:00+00:00"
+    },
+    {
+      "titolo": "Chiamate da +45: chi ti cerca dalla Danimarca e perché dovresti preoccuparti",
+      "descrizione": "Dal phishing ai falsi lavori: cosa si nasconde dietro le chiamate spam con prefisso +45.",
+      "link": "https://www.hdblog.it/mobile/articoli/n645589/prefisso-45-chiamate-truffa-danimarca/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-22T18:38:00+00:00"
+    },
+    {
+      "titolo": "Due F-15 alla NASA per aiutare l’aereo supersonico che non fa rumore",
+      "descrizione": "Due caccia F-15 ex militari diventano strumenti chiave per il supersonico NASA",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645540/nasa-f15-supersonico-silenzioso/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-22T18:35:00+00:00"
+    },
     {
       "titolo": "Viaggia connesso in tutto il mondo con le eSim di Saily",
       "descrizione": "Saily è una eSIM globale dei creatori di NordVPN: piani dati convenienti, attivazione rapida, copertura in oltre 200 Paesi e funzioni di sicurezza pensate per chi viaggia. The post Viaggia connesso in tutto il mondo con",
       "link": "https://www.punto-informatico.it/viaggia-connesso-in-tutto-il-mondo-con-le-esim-di-saily/",
       "fonte": "Punto Informatico",
       "data": "2026-01-22T18:00:27+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare: nuovi fondi per lo stellarator più ambizioso",
+      "descrizione": "Nuovi finanziamenti per Infinity One, lo stellarator che punta alla fusione stabile",
+      "link": "https://www.hdblog.it/green/articoli/n645497/fusione-nucleare-infinity-one-stellarator/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-22T17:55:00+00:00"
+    },
+    {
+      "titolo": "Nuova Dacia C-Neo 2026: debutto vicino e sfida al segmento C",
+      "descrizione": "Dacia prepara la C-Neo, modello chiave per crescere nel segmento C. Look da station wagon, interni razionali e motorizzazioni endotermiche ed ibride",
+      "link": "https://www.hdmotori.it/dacia-c-neo-2026-novita-caratteristiche-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-22T17:11:00+00:00"
     },
     {
       "titolo": "Nintendo lancia un altro gadget assurdo: ecco il fiore parlante",
@@ -107,67 +163,11 @@
       "data": "2026-01-22T15:47:53+00:00"
     },
     {
-      "titolo": "Italiani, ormai tutti comunicano con WhatsApp o Telegram",
-      "descrizione": "Il digitale è ovunque.",
-      "link": "https://www.hdblog.it/curiosita/articoli/n645620/italiani-abitudini-whatsapp-telegram/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-22T15:40:00+00:00"
-    },
-    {
-      "titolo": "Il motore che può far volare i missili ipersonici ancora più lontano",
-      "descrizione": "Un nuovo motore ipersonico promette più autonomia e meno booster",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645339/nuovo-motore-ipersonico-detonazione-rotante/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-22T15:35:00+00:00"
-    },
-    {
-      "titolo": "Stellantis sarà presente a Rétromobile 2026 per i 50 anni del Salone",
-      "descrizione": "Sei marchi in mostra a Parigi per celebrare i cinquant’anni del salone con icone storiche, concept visionari e progetti speciali.",
-      "link": "https://www.hdmotori.it/stellantis-salone-retromobile-parigi-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-22T15:30:31+00:00"
-    },
-    {
-      "titolo": "New Glenn decolla di nuovo: sorpresa sul prossimo lancio Blue Origin",
-      "descrizione": "Terzo lancio di New Glenn a febbraio con un satellite commerciale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645623/blue-origin-new-glenn-terzo-lancio/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-22T15:10:00+00:00"
-    },
-    {
       "titolo": "Data breach Under Armour: 72 milioni di account violati",
       "descrizione": "Un attacco ransomware ha esposto 72,7 milioni di account Under Armour: rubati dati personali e cronologia acquisti, rischio phishing. The post Data breach Under Armour: 72 milioni di account violati appeared first on Pun",
       "link": "https://www.punto-informatico.it/data-breach-under-armour/",
       "fonte": "Punto Informatico",
       "data": "2026-01-22T15:06:49+00:00"
-    },
-    {
-      "titolo": "Molekule lancia l'umidificatore Mo Glow: l'aria sana fa bene alla salute",
-      "descrizione": "Caratteristiche e prezzo",
-      "link": "https://www.hdblog.it/home/articoli/n645597/molekule-mo-glow-umidificatore-smart/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-22T15:05:00+00:00"
-    },
-    {
-      "titolo": "Robot umanoidi nelle fabbriche Hyundai, scoppia la rivolta",
-      "descrizione": "Hyundai annuncia che userà il robot umanoide Atlas di Boston Dynamics nelle fabbriche dal 2028. I sindacati coreani insorgono. The post Robot umanoidi nelle fabbriche Hyundai, scoppia la rivolta appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/robot-umanoidi-fabbriche-hyundai-scoppia-rivolta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-22T15:04:32+00:00"
-    },
-    {
-      "titolo": "I skimped out and bought a $20 multimeter - it's now one of my best toolkit investments",
-      "descrizione": "The Neoteck 3-in-1 pen multimeter is a great choice for DIYers and amateur tinkerers, especially at its price.",
-      "link": "https://www.zdnet.com/article/neoteck-3-in-1-pen-type-multimeter-review/",
-      "fonte": "Latest news",
-      "data": "2026-01-22T14:51:00+00:00"
-    },
-    {
-      "titolo": "Ubisoft's share price plummets following internal restructure announcement, pivot to heavier use of AI — Developer falls below $1 billion EUR market cap amidst game cancellations and layoffs",
-      "descrizione": "Ubisoft just announced a massive internal restructuring that involves gutting the company of a few studios and cancelling six games, including a Prince of Persia remake. The news caused Ubisoft's stock price to fall to a",
-      "link": "https://www.tomshardware.com/video-games/ubisofts-share-price-plummets-following-internal-restructure-announcement-pivot-to-heavier-use-of-ai-developer-falls-below-usd1-billion-eur-market-cap-amidst-game-cancellations-and-layoffs",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-22T14:12:58+00:00"
     }
   ]
 }
