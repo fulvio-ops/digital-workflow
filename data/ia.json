@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24T02:25:36.731086+00:00",
+  "last_updated": "2026-01-24T06:48:55.376026+00:00",
   "items": [
     {
       "titolo": "‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort",
@@ -8,6 +8,14 @@
       "fonte": "WIRED",
       "data": "2026-01-23T22:26:01+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Gemini diventerà più umano: Google recluta esperti di AI emotiva",
+      "descrizione": "Google recluta figure chiave di Hume AI per dare a Gemini la capacità di rilevare e interpretare emozioni umane in tempo reale. The post Gemini diventerà più umano: Google recluta esperti di AI emotiva appeared first on",
+      "link": "https://www.punto-informatico.it/gemini-diventera-piu-umano-google-recluta-esperti-ai-emotiva/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-24T06:08:40+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "How Claude Code Is Reshaping Software—and Anthropic",
