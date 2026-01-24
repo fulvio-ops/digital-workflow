@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-01-24T06:48:55.376026+00:00",
+  "last_updated": "2026-01-24T13:02:13.811883+00:00",
   "items": [
     {
-      "titolo": "‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort",
-      "descrizione": "On this episode of Uncanny Valley, our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/",
-      "fonte": "WIRED",
-      "data": "2026-01-23T22:26:01+00:00",
+      "titolo": "Google, OpenAI, and Anthropic are competing to see whose AI can play Pokémon the best — Twitch streams of beloved RPG game test the models' true might",
+      "descrizione": "Twitch streams of different AI models playing old Pokémon games have garnered hundreds of thousands of comments as the audience watches robots try to emulate human thinking. Unlike Pong or its derivatives, a game like Po",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-openai-and-anthropic-are-competing-to-see-whose-ai-can-play-pokemon-the-best-twitch-streams-of-beloved-rpg-game-test-the-models-true-might",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-24T11:40:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini diventerà più umano: Google recluta esperti di AI emotiva",
-      "descrizione": "Google recluta figure chiave di Hume AI per dare a Gemini la capacità di rilevare e interpretare emozioni umane in tempo reale. The post Gemini diventerà più umano: Google recluta esperti di AI emotiva appeared first on",
-      "link": "https://www.punto-informatico.it/gemini-diventera-piu-umano-google-recluta-esperti-ai-emotiva/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-24T06:08:40+00:00",
+      "titolo": "I used 20 Gemini prompts to find the cheapest flight possible - here's what happened",
+      "descrizione": "I tried viral Gemini prompts to find the safest, cheapest way to fly my family to Florida later this year. Gemini gave me surprisingly specific guidance.",
+      "link": "https://www.zdnet.com/article/how-to-use-google-gemini-to-find-cheap-flights/",
+      "fonte": "Latest news",
+      "data": "2026-01-24T11:00:48+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "How Claude Code Is Reshaping Software—and Anthropic",
-      "descrizione": "WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
-      "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
-      "fonte": "WIRED",
-      "data": "2026-01-22T19:00:00+00:00",
+      "titolo": "Google, OpenAI, and Anthropic are competing to see whose AI can play Pokémon the best — Twitch streams of beloved RPG game test the models' true might",
+      "descrizione": "Twitch streams of different AI models playing old Pokémon games have garnered hundreds of thousands of comments as the audience watches robots try to emulate human thinking. Unlike Pong or its derivatives, a game like Po",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-openai-and-anthropic-are-competing-to-see-whose-ai-can-play-pokemon-the-best-twitch-streams-of-beloved-rpg-game-test-the-models-true-might",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-24T11:40:00+00:00",
       "modello": "claude"
     }
   ]
