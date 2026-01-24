@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-01-24T13:02:07.937758+00:00",
+  "last_updated": "2026-01-24T18:47:05.530092+00:00",
   "items": [
+    {
+      "titolo": "Acer annuncia due nuovi Chromebook per studenti",
+      "descrizione": "Chromebook 311 e Chromebook Spin 311 sono i nuovi notebook economici di Acer con ChromeOS con caratteristiche adatte agli studenti. The post Acer annuncia due nuovi Chromebook per studenti appeared first on Punto Informa",
+      "link": "https://www.punto-informatico.it/acer-annuncia-due-nuovi-chromebook-studenti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-24T18:23:59+00:00"
+    },
+    {
+      "titolo": "REDMAGIC 11 Air in Italia il 29 gennaio",
+      "descrizione": "Il REDMAGIC 11 Air con schermo OLED da 6,85 pollici, processore Snapdragon 8 Elite e 12/16 GB di RAM arriverà in Italia il 29 gennaio. The post REDMAGIC 11 Air in Italia il 29 gennaio appeared first on Punto Informatico",
+      "link": "https://www.punto-informatico.it/redmagic-11-air-italia-29-gennaio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-24T16:38:19+00:00"
+    },
+    {
+      "titolo": "Gemini entra nello studio: simulazioni SAT gratis e risultati subito",
+      "descrizione": "Gemini offre test SAT gratuiti con valutazione automatica e spiegazioni dettagliate.",
+      "link": "https://www.hdblog.it/google/articoli/n645853/gemini-simulazioni-sat-gratis/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-24T16:15:00+00:00"
+    },
+    {
+      "titolo": "MacBook Pro 14 in offerta su Amazon: questa versione è ora un best buy (anche in 5 rate)",
+      "descrizione": "Il MacBook Pro da 14 pollici è in offerta su Amazon ed è acquistabile con un prezzo ottimo, scegliendo la versione con chip M4 Pro, 24 GB di memoria unificata e 512 GB di SSD.",
+      "link": "https://www.hdblog.it/portatili/offerte/n645877/macbook-pro-14-offerta-amazon-m4-pro-24-512-gb-2/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-24T16:10:00+00:00"
+    },
+    {
+      "titolo": "Shopper walks out with a $4.99 Radeon RX 5700 XT GPU from Goodwill — thrift stores are the hidden goldmines amid the AI-driven GPU crisis",
+      "descrizione": "Launched initially as a strong 1080p and 1440p gaming card, the Radeon RX 5700 XT was revived with basic maintenance after being picked up for just $4.99.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/shopper-walks-out-with-a-usd4-99-radeon-rx-5700-xt-gpu-from-goodwill-thrift-stores-are-the-hidden-goldmines-amid-the-ai-driven-gpu-crisis",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-24T16:07:19+00:00"
+    },
+    {
+      "titolo": "Microsoft ha dato le chiavi di BitLocker all’FBI",
+      "descrizione": "Microsoft ha consegnato all'FBI le chiavi di ripristino di BitLocker per tre notebook che gli utenti avevano conservato (e lasciato) sul cloud. The post Microsoft ha dato le chiavi di BitLocker all’FBI appeared first on",
+      "link": "https://www.punto-informatico.it/microsoft-chiavi-bitlocker-fbi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-24T15:55:37+00:00"
+    },
+    {
+      "titolo": "Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board — the company blames 'system error' for cancellations",
+      "descrizione": "Zotac is said to have hiked prices on multiple Nvidia RTX GPUs, with one user claiming that the company canceled their order before the MSRP increase.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-24T15:10:48+00:00"
+    },
+    {
+      "titolo": "Agcom interviene su due episodi di bagarinaggio riguardanti le Olimpiadi",
+      "descrizione": "Scovati grazie alle indagini della GdF, Fondazione Milano-Cortina e SIAE",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n645790/agcom-episodi-bagarinaggio-olimpiadi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-24T14:05:00+00:00"
+    },
     {
       "titolo": "New AI data center buildout being done in secret location to avoid backlash from local residents — ex-crypto mining company doesn’t want publicity for its latest project",
       "descrizione": "Applied Digital is apparently keeping the location of its new 430 MW secret at the moment to give the town where it's building it time to adjust for \"national media attention.\"",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-ai-data-center-buildout-being-done-in-secret-location-to-avoid-backlash-from-local-residents-ex-crypto-mining-company-doesnt-want-publicity-for-its-latest-project",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-24T13:00:00+00:00"
+    },
+    {
+      "titolo": "Negli USA nasce la fabbrica dei magneti senza terre rare",
+      "descrizione": "Negli USA parte un impianto che produrrà magneti senza terre rare usando ferro e azoto",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645668/fabbrica-magneti-senza-terre-rare-usa/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-24T12:55:00+00:00"
+    },
+    {
+      "titolo": "Nuovo maxi leak: esposti 149 milioni di account tra Gmail, Facebook e non solo",
+      "descrizione": "Database fantasma da 96 GB lasciato incustodito: a rischio milioni di password",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n645850/maxi-leak-dati-gamail-facebook-cosa-fare/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-24T12:25:00+00:00"
+    },
+    {
+      "titolo": "Perché Microsoft aggiorna Windows solo di martedì? il motivo è pratico",
+      "descrizione": "Perché Microsoft rilascia gli aggiornamenti di Windows sempre di martedì",
+      "link": "https://www.hdblog.it/microsoft/articoli/n645847/perche-microsoft-aggiorna-windows-martedi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-24T12:05:00+00:00"
     },
     {
       "titolo": "Why I recommend this Samsung QLED model over pricier OLED TVs - especially at $1,000 off",
@@ -91,83 +168,6 @@
       "link": "https://www.hdblog.it/smartphone/articoli/n645830/motorola-edge-70-fusion-geekbench-specifiche-leak/",
       "fonte": "HDblog.it",
       "data": "2026-01-24T09:35:00+00:00"
-    },
-    {
-      "titolo": "Incentivi quadricicli elettrici 2026 in arrivo: ci saranno alcune novità",
-      "descrizione": "Anche per il 2026 sono in arrivo gli incentivi per i quadricicli elettrici; le regole rispetto allo scorso anno potrebbero cambiare",
-      "link": "https://www.hdmotori.it/incentivi-quadricicli-elettrici-2026-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T09:30:57+00:00"
-    },
-    {
-      "titolo": "Guerra degli smart glasses: causa miliardaria contro Meta",
-      "descrizione": "Solos accusa Meta di aver violato brevetti sugli smart glasses Ray-Ban.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n645846/causa-solos-meta-smart-glasses/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T09:15:00+00:00"
-    },
-    {
-      "titolo": "NordVPN non è solo una VPN: i piani di 2 anni sono ora in sconto del 70%",
-      "descrizione": "Grazie all'aggiunta dello strumento anti-malware avanzato Threat Protection Pro disponibile a partire dal piano Plus. The post NordVPN non è solo una VPN: i piani di 2 anni sono ora in sconto del 70% appeared first on Pu",
-      "link": "https://www.punto-informatico.it/nordvpn-non-e-solo-una-vpn-i-piani-di-2-anni-sono-ora-in-sconto-del-70/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-24T09:06:55+00:00"
-    },
-    {
-      "titolo": "Il prompt unicorno che funziona con qualsiasi chatbot AI",
-      "descrizione": "Il prompt universale costringe ChatGPT, Gemini e Claude a fare domande, chiarire il contesto e fornire piani d'azione concreti. Ecco come. The post Il prompt unicorno che funziona con qualsiasi chatbot AI appeared first",
-      "link": "https://www.punto-informatico.it/prompt-unicorno-funziona-qualsiasi-chatbot-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-24T09:05:08+00:00"
-    },
-    {
-      "titolo": "Porsche Panamera 2027, novità in arrivo: prime foto spia del restyling",
-      "descrizione": "Porsche lavora al restyling della Panamera; le foto spia mostrano che arriveranno una serie di modifiche estetiche sia all'anteriore e sia al posteriore",
-      "link": "https://www.hdmotori.it/porsche-panamera-2027-restyling-foto-spia-anticipazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T09:00:21+00:00"
-    },
-    {
-      "titolo": "Opel Astra 2026: l'abbiamo vista dal vivo, in cosa è cambiata? | Video",
-      "descrizione": "Abbiamo assistito all'anteprima italiana della nuova Opel Astra che si rinnova nel look e porta diverse novità: ecco le principali",
-      "link": "https://www.hdmotori.it/prove/opel-astra-2026-anteprima-design-interni-motori/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T08:30:44+00:00"
-    },
-    {
-      "titolo": "Sam Altman atteso in India: tra summit AI e incontri riservati",
-      "descrizione": "Vertice AI a Nuova Delhi e incontri OpenAI: l’India diventa centrale.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645836/sam-altman-india-ai-summit/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T08:25:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi, HyperOS 3.1 porta il supporto nativo agli AirPods",
-      "descrizione": "Per la prima volta un'esperienza completa anche su Android.",
-      "link": "https://www.hdblog.it/apple/articoli/n645823/xiaomi-hyperos-3-1-airpods-supporto-nativo-apple/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T08:15:00+00:00"
-    },
-    {
-      "titolo": "Classe energetica più alta e risparmi, cosa è cambiato in 5 anni di incentivi",
-      "descrizione": "L'arma contro la povertà energetica.",
-      "link": "https://www.hdblog.it/home/articoli/n645803/classe-energetica-risparmi-incentivi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T07:55:00+00:00"
-    },
-    {
-      "titolo": "TopResume Free Review, Discounts & Packages for 2026",
-      "descrizione": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
-      "link": "https://www.wired.com/story/topresume-discount-code/",
-      "fonte": "WIRED",
-      "data": "2026-01-24T06:20:00+00:00"
-    },
-    {
-      "titolo": "Paramount Plus Coupon Codes and Deals: 50% Off",
-      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "fonte": "WIRED",
-      "data": "2026-01-24T06:10:00+00:00"
     }
   ]
 }
