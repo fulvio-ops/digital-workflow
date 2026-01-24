@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-01-23T18:52:46.959298+00:00",
+  "last_updated": "2026-01-24T02:25:32.716270+00:00",
   "items": [
+    {
+      "titolo": "Why last year's LG C5 OLED is my top TV recommendation right now - especially at 50% off",
+      "descrizione": "The LG C5 OLED offers stunning picture quality and a sleek, minimalist design for a truly immersive experience - and it's heavily discounted going into the Super Bowl.",
+      "link": "https://www.zdnet.com/article/lg-c5-oled-review/",
+      "fonte": "Latest news",
+      "data": "2026-01-24T02:00:49+00:00"
+    },
+    {
+      "titolo": "US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo",
+      "descrizione": "The ruling in federal court in Minnesota lands as Immigration and Customs Enforcement faces scrutiny over an internal memo claiming judge-signed warrants aren’t needed to enter homes without consent.",
+      "link": "https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/",
+      "fonte": "WIRED",
+      "data": "2026-01-23T22:24:07+00:00"
+    },
+    {
+      "titolo": "Forget your weather app: 15 reliable meteorologists and other sources for accurate ice storm updates",
+      "descrizione": "Weather apps can be handy, but they're often very wrong. Here's why and how to get the best forecasts now.",
+      "link": "https://www.zdnet.com/article/weather-app-vs-real-meteorologist/",
+      "fonte": "Latest news",
+      "data": "2026-01-23T22:02:55+00:00"
+    },
+    {
+      "titolo": "TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes",
+      "descrizione": "According to its new privacy policy, TikTok now collects more data on its users, including their precise location, after majority ownership officially switched to a group based in the US.",
+      "link": "https://www.wired.com/story/tiktok-new-privacy-policy/",
+      "fonte": "WIRED",
+      "data": "2026-01-23T21:26:28+00:00"
+    },
+    {
+      "titolo": "GPU price tracking 2026: Lowest price on every graphics card from Nvidia, AMD, and Intel today — here are the best deals during the AI-driven pricing crisis",
+      "descrizione": "Check the best prices on Nvidia RTX and AMD Radeon graphics cards.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-23T20:13:26+00:00"
+    },
+    {
+      "titolo": "IKEA rivoluziona la bolletta con la tariffa dinamica: l'elettricità al prezzo di mercato",
+      "descrizione": "Svea Strom debutta in Germania.",
+      "link": "https://www.hdblog.it/home/articoli/n645674/ikea-svea-strom-tariffa-elettrica-risparmio-come/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-23T18:47:00+00:00"
+    },
+    {
+      "titolo": "ISEE 2026: cosa cambia, a cosa serve e come ottenerlo",
+      "descrizione": "Cambiano le soglie in favore delle famiglie più numerose.",
+      "link": "https://www.hdblog.it/mercato/articoli/n645696/isee-nuovo-cosa-cambia-dsu-scadenze/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-23T18:45:00+00:00"
+    },
+    {
+      "titolo": "Marshall Heddon ufficiale: streamer/hub audio compatto con supporto ad Auracast",
+      "descrizione": "Prezzo relativamente contenuto e tante opzioni di connessione.",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n645824/marshall-heddon-hub-audio-streamer-auracast/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-23T18:20:00+00:00"
+    },
     {
       "titolo": "Clair Obscur Expedition 33, è record di GOTY: superato Elden Ring",
       "descrizione": "E la stagione delle premiazioni non è ancora finita.",
@@ -21,6 +77,20 @@
       "link": "https://www.hdblog.it/dji/articoli/n645819/dji-ingresso-csa-matter-iot-romo-robot/",
       "fonte": "HDblog.it",
       "data": "2026-01-23T17:25:00+00:00"
+    },
+    {
+      "titolo": "Ferrari SF-26 fa il suo debutto: il Cavallino Rampante lancia la nuova sfida alla Formula 1",
+      "descrizione": "La prossima settimana inizieranno i test sul circuito di Barcellona in vista dell'inizio della stagione 2026 di F1 l'8 marzo",
+      "link": "https://www.hdmotori.it/ferrari-sf-26-debutto-cavallino-rampante-sfida-formula-1/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-23T17:13:00+00:00"
+    },
+    {
+      "titolo": "Nuova Alfa Romeo Stelvio: \"dobbiamo cambiare tutto\". Ecco perché slitta al 2028",
+      "descrizione": "Alfa Romeo rivede completamente il progetto della Stelvio: le parole del CEO spiegano cosa sta cambiando",
+      "link": "https://www.hdmotori.it/nuova-alfa-romeo-stelvio-ritardi-modifiche-progetto/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-23T17:12:00+00:00"
     },
     {
       "titolo": "Google Discover, avanti tutta con i titoli degli articoli riscritti dall'AI",
@@ -86,13 +156,6 @@
       "data": "2026-01-23T16:00:47+00:00"
     },
     {
-      "titolo": "Batterie allo stato solido, un passo avanti sulla densità dei materiali",
-      "descrizione": "Nuovo processo produttivo migliora densità e sicurezza delle batterie allo stato solido",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645506/batterie-stato-solido-densita-record/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-23T15:55:00+00:00"
-    },
-    {
       "titolo": "Nvidia reportedly cuts program designed to keep gaming GPUs near MSRP pricing — end of OPP pricing-support scheme does not bode well for gamers",
       "descrizione": "The OPP program allegedly allowed Nvidia's board partners to sell GPUs at MSRP.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-cuts-program-designed-to-keep-gaming-gpus-near-msrp-pricing-end-of-opp-pricing-support-scheme-does-not-bode-well-for-gamers",
@@ -100,74 +163,11 @@
       "data": "2026-01-23T15:49:18+00:00"
     },
     {
-      "titolo": "ASUS indaga sui Ryzen 7 9800X3D bruciati sulle sue schede madri serie 800",
-      "descrizione": "Partecipa anche AMD, naturalmente.",
-      "link": "https://www.hdblog.it/hardware/articoli/n645804/amd-ryzen-7-9800x3d-bruciati-asus-indagini/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-23T15:45:00+00:00"
-    },
-    {
-      "titolo": "Un buco nero supermassiccio si risveglia dopo 100 milioni di anni",
-      "descrizione": "Osservati nuovi getti radio da un buco nero dormiente in una galassia lontana.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645708/buco-nero-supermassiccio-risveglio-getti-radio/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-23T15:40:00+00:00"
-    },
-    {
-      "titolo": "Il primo Nintendo Direct del 2026 è ufficiale ed è dedicato al film Super Mario Galaxy",
-      "descrizione": "Ecco data e ora.",
-      "link": "https://www.hdblog.it/nintendo/articoli/n645800/nintendo-direct-super-mario-galaxy-film-data-ora-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-23T15:35:00+00:00"
-    },
-    {
       "titolo": "The $20 magnetic USB-C accessory I can't live without - and why you need one too",
       "descrizione": "I've been using this USB-C connect for over six years and now own several versions. Here's why it's still essential to me.",
       "link": "https://www.zdnet.com/article/usbc-magnetic-breakaway-connector-review/",
       "fonte": "Latest news",
       "data": "2026-01-23T15:34:00+00:00"
-    },
-    {
-      "titolo": "Porsche 911 GT3 RS, nuove foto spia del restyling della sportiva",
-      "descrizione": "Il prototipo impegnato nei test invernali mostra una carrozzeria con meno camuffature.",
-      "link": "https://www.hdmotori.it/porsche-911-gt3-rs-foto-spia-restyling/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-23T15:30:47+00:00"
-    },
-    {
-      "titolo": "NVIDIA ha usato i libri pirata di Anna’s Archive?",
-      "descrizione": "NVIDIA avrebbe utilizzato le copie pirate dei libri pubblicati da Anna's Archive per addestrare i suoi modelli di intelligenza artificiale. The post NVIDIA ha usato i libri pirata di Anna’s Archive? appeared first on Pun",
-      "link": "https://www.punto-informatico.it/nvidia-libri-pirata-annas-archive/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-23T15:29:50+00:00"
-    },
-    {
-      "titolo": "Lenovo ha confermato le CPU NVIDIA N1 e N1X",
-      "descrizione": "Sul sito di Lenovo compaiono riferimenti a laptop con processori NVIDIA N1 e N1X: l'annuncio ufficiale sembra ormai piuttosto vicino. The post Lenovo ha confermato le CPU NVIDIA N1 e N1X appeared first on Punto Informati",
-      "link": "https://www.punto-informatico.it/lenovo-cpu-nvidia-n1-n1x/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-23T15:03:58+00:00"
-    },
-    {
-      "titolo": "Sky Wifi: la fibra di Sky è in offerta a 22,90 euro al mese per 12 mesi",
-      "descrizione": "Con costo di attivazione gratuito invece di 49 euro più la possibilità di risparmiare ancora aggiungendo i contenuti TV. The post Sky Wifi: la fibra di Sky è in offerta a 22,90 euro al mese per 12 mesi appeared first on",
-      "link": "https://www.punto-informatico.it/sky-wifi-la-fibra-di-sky-e-in-offerta-a-22-90-euro-al-mese-per-12-mesi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-23T14:25:41+00:00"
-    },
-    {
-      "titolo": "PEC europea IONOS in sconto a 1€/anno con attivazione immediata",
-      "descrizione": "Uno dei servizi di PEC migliori e più conveniente è quello di IONOS, che in questo momento è proposto in sconto del 90% a 1€ per il primo anno. The post PEC europea IONOS in sconto a 1€/anno con attivazione immediata app",
-      "link": "https://www.punto-informatico.it/pec-europea-ionos-in-sconto-a-1e-anno-con-attivazione-immediata/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-23T14:10:25+00:00"
-    },
-    {
-      "titolo": "Proscenic P11 Ultra+ spazzia via sporco e prezzo su Amazon a soli 89€",
-      "descrizione": "Proscenic P11 Ultra+ è l'aspirapolvere senza fili con motore da 500 W e autonomia da 50 minuti da comprare su Amazon. The post Proscenic P11 Ultra+ spazzia via sporco e prezzo su Amazon a soli 89€ appeared first on Punto",
-      "link": "https://www.punto-informatico.it/proscenic-p11-ultra-spazzia-via-sporco-e-prezzo-su-amazon-a-soli-89e/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-23T14:09:58+00:00"
     }
   ]
 }
