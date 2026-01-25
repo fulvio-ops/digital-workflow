@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-01-25T06:50:08.224322+00:00",
+  "last_updated": "2026-01-25T13:04:15.001330+00:00",
   "items": [
+    {
+      "titolo": "Open-source Intel 486 mobo built from scratch in under 6 months for i486 chips — M8SBC-486's goal was to achieve Linux and Doom compatibility, but it achieves far more than that",
+      "descrizione": "An enthusiast has showcased an open-source Intel 486 motherboard that they claim was 'made from scratch' in under six months.",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/the-m8sbc-486-is-an-open-source-intel-486-mobo-built-from-scratch-in-under-6-months-the-original-idea-was-to-achieve-linux-and-doom-compatibility-but-it-achieves-far-more-than-that",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-25T12:40:00+00:00"
+    },
+    {
+      "titolo": "Phonak Audeo Infinio Ultra Sphere Review: Premium Hearing Aids",
+      "descrizione": "This new prescription hearing aid has a special chip designed to improve hearing in noisy conditions.",
+      "link": "https://www.wired.com/review/phonak-audeo-infinio-ultra-sphere/",
+      "fonte": "WIRED",
+      "data": "2026-01-25T12:00:00+00:00"
+    },
+    {
+      "titolo": "Enthusiast strips GPU cooler to run sub-zero water through its heatpipes, drops temps to 13C — Modded, liquid-cooled RTX 2060 maintains 13C in gaming & unlocks higher boost clocks",
+      "descrizione": "A GPU running ice-cold water through its heatpipes without being a part of a massive liquid-nitrogen-fueled overclocking session is not something you see every day. That's exactly what TrashBench did by cutting up an RTX",
+      "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-strips-gpu-cooler-to-run-sub-zero-water-through-its-heatpipes-modded-liquid-cooled-rtx-2060-maintains-13-in-gaming-and-unlocks-higher-boost-clocks",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-25T11:40:00+00:00"
+    },
+    {
+      "titolo": "Un fossile di 2 milioni di anni riscrive la storia dell'Homo habilis",
+      "descrizione": "In Kenya riemerso lo scheletro più completo di Homo habilis",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645879/homo-habilis-fossile-kenya/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-25T11:05:00+00:00"
+    },
+    {
+      "titolo": "The 10 Best Essential Oil Diffusers We’ve Tried in 2026 (and 2 to Avoid)",
+      "descrizione": "Keep things smelling fresh with these handy home gadgets. After researching and testing over a dozen devices, the Urpower Aroma is our favorite for most people.",
+      "link": "https://www.wired.com/gallery/best-essential-oil-diffusers/",
+      "fonte": "WIRED",
+      "data": "2026-01-25T10:31:00+00:00"
+    },
+    {
+      "titolo": "Papa Leone XIV: attenzione a chatbot e clickbait",
+      "descrizione": "Papa Leone XIV ha evidenziato i rischi derivanti dall'uso dell'intelligenza artificiale, in particolare dei chatbot che possono manipolare il pensiero. The post Papa Leone XIV: attenzione a chatbot e clickbait appeared f",
+      "link": "https://www.punto-informatico.it/papa-leone-xiv-attenzione-chatbot-clickbait/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-25T10:22:05+00:00"
+    },
+    {
+      "titolo": "Traduzioni in tempo reale: l’intelligenza artficiale ha impararato le lingue",
+      "descrizione": "Dalle cuffiette che sussurrano frasi tradotte in un orecchio ai grandi modelli linguistici che riscrivono intere conversazioni in un’altra lingua, la traduzione automatica è uscita dai dizionari ed è entrata nella vita q",
+      "link": "https://www.ilsole24ore.com/art/traduzioni-tempo-reale-l-intelligenza-artficiale-ha-impararato-lingue-AIbeMZy",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-25T09:52:39+00:00"
+    },
+    {
+      "titolo": "Carburanti su misura e CO2 tracciata: la sfida green parte da Mannheim",
+      "descrizione": "A Mannheim un impianto pilota miscela carburanti e certifica la CO₂ risparmiata",
+      "link": "https://www.hdblog.it/green/articoli/n645670/impianto-mannheim-carburanti-co2/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-25T09:05:00+00:00"
+    },
+    {
+      "titolo": "Mercedes prepara la Classe C elettrica: sfida diretta alla nuova BMW i3",
+      "descrizione": "La futura Mercedes Classe C elettrica nascerà sulla piattaforma MB.EA con architettura a 800 V",
+      "link": "https://www.hdmotori.it/nuova-mercedes-classe-c-elettrica-2026-foto-spia-test-invernali/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-25T08:00:39+00:00"
+    },
+    {
+      "titolo": "Oppo Find N6, le certificazioni parlano chiaro: il debutto globale è vicino",
+      "descrizione": "E arrivano conferme su alcune specifiche: ecco cosa sappiamo.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n645882/oppo-find-n6-pieghevole-globale-europa-lancio/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-25T07:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova Volvo EX60, interni e bagagliaio del SUV elettrico",
+      "descrizione": "L'abitacolo della nuova Volvo EX60 offre spazio, comfort e l'accesso alle ultime tecnologie, compreso Gemini AI di Google",
+      "link": "https://www.hdmotori.it/nuova-volvo-ex60-interni-bagagliaio/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-25T07:30:00+00:00"
+    },
+    {
+      "titolo": "Hyundai Santa Fe vs Renault Espace, sfida tra SUV a 7 posti per famiglie: confronto e prezzi",
+      "descrizione": "Mettiamo a confronto due SUV per famiglie numerose in grado di ospitare a bordo fino a 7 passeggeri",
+      "link": "https://www.hdmotori.it/hyundai-santa-fe-vs-renault-espace-confronto-versioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-25T07:00:05+00:00"
+    },
+    {
+      "titolo": "Novità Genesis 2026, i nuovi modelli in arrivo",
+      "descrizione": "Nel 2026 Genesis sbarcherà in Italia con i primi modelli; ecco cosa sta arrivando sul nostro mercato",
+      "link": "https://www.hdmotori.it/novita-genesis-2026-nuovi-modelli/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-25T06:30:28+00:00"
+    },
     {
       "titolo": "ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations",
       "descrizione": "A new federal filing from ICE demonstrates how commercial tools are increasingly being considered by the government for law enforcement and surveillance.",
@@ -77,97 +168,6 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n645668/fabbrica-magneti-senza-terre-rare-usa/",
       "fonte": "HDblog.it",
       "data": "2026-01-24T12:55:00+00:00"
-    },
-    {
-      "titolo": "Nuovo maxi leak: esposti 149 milioni di account tra Gmail, Facebook e non solo",
-      "descrizione": "Database fantasma da 96 GB lasciato incustodito: a rischio milioni di password",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n645850/maxi-leak-dati-gamail-facebook-cosa-fare/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T12:25:00+00:00"
-    },
-    {
-      "titolo": "Perché Microsoft aggiorna Windows solo di martedì? il motivo è pratico",
-      "descrizione": "Perché Microsoft rilascia gli aggiornamenti di Windows sempre di martedì",
-      "link": "https://www.hdblog.it/microsoft/articoli/n645847/perche-microsoft-aggiorna-windows-martedi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T12:05:00+00:00"
-    },
-    {
-      "titolo": "Why I recommend this Samsung QLED model over pricier OLED TVs - especially at $1,000 off",
-      "descrizione": "Samsung's QN90F offers fantastic streaming and gaming performance, and with the brand offering up to $6,000 off, it's the perfect time to upgrade your home theater.",
-      "link": "https://www.zdnet.com/article/samsung-qn90f-tv-2025-review/",
-      "fonte": "Latest news",
-      "data": "2026-01-24T12:00:50+00:00"
-    },
-    {
-      "titolo": "Jensen laments buying Mercedes for his parents with Nvidia stock that would be worth $1.33 billion today — founder cashed out some stock after 1999 IPO to buy his parents a $135,000 S-Class",
-      "descrizione": "Nvidia CEO Jensen Huang laments selling some of his stock in the company to buy a Mercedes Benz S-Class for his parents in 1999. They are said to still have the vehicle in their possession, although they also regret the",
-      "link": "https://www.tomshardware.com/tech-industry/jensen-laments-buying-mercedes-for-his-parents-with-nvidia-stock-that-would-be-worth-usd1-33-billion-today-founder-cashed-out-some-stock-after-1999-ipo-to-buy-his-parents-a-usd135-000-s-class",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-24T12:00:00+00:00"
-    },
-    {
-      "titolo": "The 52 Best Shows on Netflix, WIRED's Picks (January 2026)",
-      "descrizione": "Agatha Christie’s Seven Dials, Stranger Things, and His & Hers are just a few of the shows you need to watch on Netflix this month.",
-      "link": "https://www.wired.com/story/netflix-best-shows-this-week/",
-      "fonte": "WIRED",
-      "data": "2026-01-24T12:00:00+00:00"
-    },
-    {
-      "titolo": "La Cina costruisce la prima centrale nucleare ibrida per l’industria chimica",
-      "descrizione": "A Jiangsu parte Xuwei, la prima centrale nucleare pensata per produrre vapore industriale",
-      "link": "https://www.hdblog.it/green/articoli/n645701/cina-centrale-nucleare-ibrida-industria/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T11:40:00+00:00"
-    },
-    {
-      "titolo": "DOGE May Have Misused Social Security Data, DOJ Admits",
-      "descrizione": "Plus: The FAA blocks drones over DHS operations, Microsoft admits it hands over Bitlocker encryption keys to the cops, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/",
-      "fonte": "WIRED",
-      "data": "2026-01-24T11:30:00+00:00"
-    },
-    {
-      "titolo": "Atari ST enthusiast announces the MiniST with FPGA, MiSTeryNano core, and black TKL case — priced at around $400 each, but the initial run is a mere five units",
-      "descrizione": "An Atari computer enthusiast is planning to produce a new TKL-sized FPGA-powered remake dubbed the MiniST.",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/atari-st-enthusiast-announces-the-minist-with-fpga-misterynano-core-and-black-tkl-case-priced-at-around-usd400-each-but-the-initial-run-is-a-mere-five-units",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-24T11:20:00+00:00"
-    },
-    {
-      "titolo": "Ho provato il primo robot a rullo di Roborock: Recensione Qrevo Curv 2 Flow",
-      "descrizione": "Roborock ha lanciato il suo primo robot aspirapolvere e lavapavimenti con rullo motorizzato. Scopriamo insieme pregi e difetti del nuovo Roborock Qrevo Curv 2 Flow nella recensione completa.",
-      "link": "https://www.hdblog.it/home/recensioni/n644810/recensione-roborock-qrevo-curv-2-flow-il-primo-robot-con-mocio-a-rullo-di-roborock/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T11:01:00+00:00"
-    },
-    {
-      "titolo": "Oppo Find X10, è già tempo di rumor: grande passo in avanti per la fotocamera?",
-      "descrizione": "Potrebbe assottigliarsi la distanza tra modello base e Pro.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n645828/oppo-find-x10-fotocamera-200-mp-rumor/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T10:35:00+00:00"
-    },
-    {
-      "titolo": "Nuova BMW M3 elettrica, 4 motori elettrici e il sound di un V10",
-      "descrizione": "BMW lavora alla M3 elettrica: utilizzerà il sound di alcuni suoi modelli iconici per creare quello artificiale della nuova sportiva",
-      "link": "https://www.hdmotori.it/nuova-bmw-m3-elettrica-4-motori-elettrici-sound-artificiale-v10/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T10:30:54+00:00"
-    },
-    {
-      "titolo": "Pluto TV: tutte le novità di febbraio 2026",
-      "descrizione": "Film romantici, azione e serate speciali passione su Pluto TV a febbraio",
-      "link": "https://www.hdblog.it/curiosita/articoli/n645711/pluto-tv-febbraio-film-amore-azione/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T10:15:00+00:00"
-    },
-    {
-      "titolo": "Tesla Model Y si aggiorna in Europa: ecco cosa cambia nel SUV elettrico",
-      "descrizione": "Con questo piccolo aggiornamento, tutti i modelli del SUV elettrico dispongono del nuovo schermo dell'infotainment da 16 pollici",
-      "link": "https://www.hdmotori.it/tesla-model-y-2026-aggiornamento-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T10:00:00+00:00"
     }
   ]
 }
