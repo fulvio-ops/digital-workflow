@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-01-25T13:04:15.001330+00:00",
+  "last_updated": "2026-01-25T18:47:09.786272+00:00",
   "items": [
+    {
+      "titolo": "Google risolve caos su Gmail: spam ovunque e filtri in tilt",
+      "descrizione": "Google risolve i problemi di Gmail dopo giornata caotica, i filtri spam non funzionavano, e le email finivano nelle cartelle sbagliate. The post Google risolve caos su Gmail: spam ovunque e filtri in tilt appeared first",
+      "link": "https://www.punto-informatico.it/google-risolve-caos-gmail-spam-ovunque-filtri-tilt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-25T16:57:17+00:00"
+    },
+    {
+      "titolo": "Perché Microsoft rilascia gli update Windows sempre di martedì?",
+      "descrizione": "Dal 2003 Microsoft rilascia gli aggiornamenti di Windows sempre il secondo martedì del mese. Ecco spiegato il motivo. The post Perché Microsoft rilascia gli update Windows sempre di martedì? appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/perche-microsoft-rilascia-update-windows-sempre-martedi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-25T16:29:08+00:00"
+    },
+    {
+      "titolo": "American factory worker Robert Williams became the first human to be killed by a robot on this day in 1979 — man crushed by a robot’s mechanical arm at the Ford plant in Flat Rock",
+      "descrizione": "Today marks the anniversary of what is widely regarded to be the first death of a human caused by a robot.",
+      "link": "https://www.tomshardware.com/maker-stem/robot-kits/american-factory-worker-robert-williams-became-the-first-human-to-be-killed-by-a-robot-on-this-day-in-1979-man-crushed-by-a-robots-mechanical-arm-at-the-ford-plant-in-flat-rock",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-25T16:22:11+00:00"
+    },
+    {
+      "titolo": "Apple Siri: nuovi dettagli sulla doppia versione",
+      "descrizione": "Emergono nuove informazioni sulle due versioni di Siri, una integrata in iOS 26.4 e una con interfaccia da chatbot in iOS 27, entrambe basate su Gemini. The post Apple Siri: nuovi dettagli sulla doppia versione appeared",
+      "link": "https://www.punto-informatico.it/apple-siri-nuovi-dettagli-doppia-versione/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-25T16:19:58+00:00"
+    },
+    {
+      "titolo": "Suspicious DJI clones appear on the market after the FCC banned foreign-made drones — Xtra and Skyrover drones look awfully familiar",
+      "descrizione": "These two companies are selling action cameras and drones that have the same look, performance, and specifications as DJI's products, but they do not acknowledge any relationship with the Chinese drone maker.",
+      "link": "https://www.tomshardware.com/tech-industry/suspicious-dji-clones-appear-on-the-market-after-the-fcc-banned-foreign-made-drones-xtra-and-skyrover-drones-look-awfully-familiar",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-25T16:02:54+00:00"
+    },
+    {
+      "titolo": "ChatGPT: risposte con citazioni a Grokipedia",
+      "descrizione": "In molte risposte su determinati argomenti, ChatGPT cita Grokipedia, nonostante sia considerata una fonte di informazioni poco attendibili o false. The post ChatGPT: risposte con citazioni a Grokipedia appeared first on",
+      "link": "https://www.punto-informatico.it/chatgpt-risposte-citazioni-grokipedia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-25T15:18:10+00:00"
+    },
+    {
+      "titolo": "Breakthrough wireless transceiver transmits data 24 times faster than 5G connections, reaching blazing 15 gigabytes per second — Researchers demo invention that uses silicon chip to directly send and receive analog signa",
+      "descrizione": "A research team from the University of California, Irvine developed a new wireless transceiver that skipped DACs and used three sub-transmitters to send analog signs from digital data.",
+      "link": "https://www.tomshardware.com/networking/researchers-build-a-wireless-transceiver-that-can-transmit-data-at-15-gigabytes-per-second-24-times-faster-than-5g-connections-invention-uses-silicon-chip-that-sends-and-receives-analog-signals-from-digital-data-directly",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-25T14:55:21+00:00"
+    },
+    {
+      "titolo": "La salvezza dell’umano è l’integrazione con la Natura",
+      "descrizione": "David Abram è un filosofo e saggista statunitense, noto soprattutto per il suo lavoro nel campo dell’ecofilosofia e dell’ecopsicologia, una delle figure più importanti nel movimento del nuovo animismo e...",
+      "link": "https://www.ilsole24ore.com/art/la-salvezza-dell-umano-e-l-integrazione-la-natura-AIAPRsq",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-25T14:50:15+00:00"
+    },
+    {
+      "titolo": "OnePlus 15R, meno spettacolo più sostanza. La nostra prova",
+      "descrizione": "Autonomia da record, ricarica rapidissima, prestazioni sempre fluide e un display che accompagna senza affaticare. Il OnePlus 15R rinuncia all’effetto wow della fotocamera per puntare tutto sulla concretezza.",
+      "link": "https://www.ilsole24ore.com/art/oneplus-15r-meno-spettacolo-piu-sostanza-nostra-prova-AIOlkLx",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-25T14:48:46+00:00"
+    },
+    {
+      "titolo": "ChatGPT found to be sourcing data from AI-generated content — popular LLM uses content from Grokipedia as source for more obscure queries",
+      "descrizione": "ChatGPT has been found to be citing Grok in some of its answers, returning recursive results that risks spreading hallucinated or incorrect information.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-found-to-be-sourcing-data-from-ai-generated-content-popular-llm-uses-content-from-grokipedia-as-source-for-more-obscure-queries",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-25T13:30:49+00:00"
+    },
     {
       "titolo": "Open-source Intel 486 mobo built from scratch in under 6 months for i486 chips — M8SBC-486's goal was to achieve Linux and Doom compatibility, but it achieves far more than that",
       "descrizione": "An enthusiast has showcased an open-source Intel 486 motherboard that they claim was 'made from scratch' in under six months.",
@@ -98,76 +168,6 @@
       "link": "https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/",
       "fonte": "WIRED",
       "data": "2026-01-24T22:14:57+00:00"
-    },
-    {
-      "titolo": "Acer annuncia due nuovi Chromebook per studenti",
-      "descrizione": "Chromebook 311 e Chromebook Spin 311 sono i nuovi notebook economici di Acer con ChromeOS con caratteristiche adatte agli studenti. The post Acer annuncia due nuovi Chromebook per studenti appeared first on Punto Informa",
-      "link": "https://www.punto-informatico.it/acer-annuncia-due-nuovi-chromebook-studenti/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-24T18:23:59+00:00"
-    },
-    {
-      "titolo": "REDMAGIC 11 Air in Italia il 29 gennaio",
-      "descrizione": "Il REDMAGIC 11 Air con schermo OLED da 6,85 pollici, processore Snapdragon 8 Elite e 12/16 GB di RAM arriverà in Italia il 29 gennaio. The post REDMAGIC 11 Air in Italia il 29 gennaio appeared first on Punto Informatico",
-      "link": "https://www.punto-informatico.it/redmagic-11-air-italia-29-gennaio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-24T16:38:19+00:00"
-    },
-    {
-      "titolo": "Gemini entra nello studio: simulazioni SAT gratis e risultati subito",
-      "descrizione": "Gemini offre test SAT gratuiti con valutazione automatica e spiegazioni dettagliate.",
-      "link": "https://www.hdblog.it/google/articoli/n645853/gemini-simulazioni-sat-gratis/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T16:15:00+00:00"
-    },
-    {
-      "titolo": "MacBook Pro 14 in offerta su Amazon: questa versione è ora un best buy (anche in 5 rate)",
-      "descrizione": "Il MacBook Pro da 14 pollici è in offerta su Amazon ed è acquistabile con un prezzo ottimo, scegliendo la versione con chip M4 Pro, 24 GB di memoria unificata e 512 GB di SSD.",
-      "link": "https://www.hdblog.it/portatili/offerte/n645877/macbook-pro-14-offerta-amazon-m4-pro-24-512-gb-2/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T16:10:00+00:00"
-    },
-    {
-      "titolo": "Shopper walks out with a $4.99 Radeon RX 5700 XT GPU from Goodwill — thrift stores are the hidden goldmines amid the AI-driven GPU crisis",
-      "descrizione": "Launched initially as a strong 1080p and 1440p gaming card, the Radeon RX 5700 XT was revived with basic maintenance after being picked up for just $4.99.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/shopper-walks-out-with-a-usd4-99-radeon-rx-5700-xt-gpu-from-goodwill-thrift-stores-are-the-hidden-goldmines-amid-the-ai-driven-gpu-crisis",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-24T16:07:19+00:00"
-    },
-    {
-      "titolo": "Microsoft ha dato le chiavi di BitLocker all’FBI",
-      "descrizione": "Microsoft ha consegnato all'FBI le chiavi di ripristino di BitLocker per tre notebook che gli utenti avevano conservato (e lasciato) sul cloud. The post Microsoft ha dato le chiavi di BitLocker all’FBI appeared first on",
-      "link": "https://www.punto-informatico.it/microsoft-chiavi-bitlocker-fbi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-24T15:55:37+00:00"
-    },
-    {
-      "titolo": "Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board — the company blames 'system error' for cancellations",
-      "descrizione": "Zotac is said to have hiked prices on multiple Nvidia RTX GPUs, with one user claiming that the company canceled their order before the MSRP increase.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-24T15:10:48+00:00"
-    },
-    {
-      "titolo": "Agcom interviene su due episodi di bagarinaggio riguardanti le Olimpiadi",
-      "descrizione": "Scovati grazie alle indagini della GdF, Fondazione Milano-Cortina e SIAE",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n645790/agcom-episodi-bagarinaggio-olimpiadi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T14:05:00+00:00"
-    },
-    {
-      "titolo": "New AI data center buildout being done in secret location to avoid backlash from local residents — ex-crypto mining company doesn’t want publicity for its latest project",
-      "descrizione": "Applied Digital is apparently keeping the location of its new 430 MW secret at the moment to give the town where it's building it time to adjust for \"national media attention.\"",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-ai-data-center-buildout-being-done-in-secret-location-to-avoid-backlash-from-local-residents-ex-crypto-mining-company-doesnt-want-publicity-for-its-latest-project",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-24T13:00:00+00:00"
-    },
-    {
-      "titolo": "Negli USA nasce la fabbrica dei magneti senza terre rare",
-      "descrizione": "Negli USA parte un impianto che produrrà magneti senza terre rare usando ferro e azoto",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645668/fabbrica-magneti-senza-terre-rare-usa/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-24T12:55:00+00:00"
     }
   ]
 }
