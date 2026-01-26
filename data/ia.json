@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-01-26T06:56:41.214785+00:00",
+  "last_updated": "2026-01-26T13:12:26.835862+00:00",
   "items": [
     {
-      "titolo": "ChatGPT: risposte con citazioni a Grokipedia",
-      "descrizione": "In molte risposte su determinati argomenti, ChatGPT cita Grokipedia, nonostante sia considerata una fonte di informazioni poco attendibili o false. The post ChatGPT: risposte con citazioni a Grokipedia appeared first on",
-      "link": "https://www.punto-informatico.it/chatgpt-risposte-citazioni-grokipedia/",
+      "titolo": "ChatGPT cancella due anni di lavoro in un solo istante",
+      "descrizione": "ChatGPT ha cancellato due anni di lavoro accademico di un professore universitario che usava il chatbot come archivio principale. The post ChatGPT cancella due anni di lavoro in un solo istante appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/chatgpt-cancella-due-anni-lavoro-solo-istante/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-25T15:18:10+00:00",
+      "data": "2026-01-26T12:23:33+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "Apple Siri: nuovi dettagli sulla doppia versione",
-      "descrizione": "Emergono nuove informazioni sulle due versioni di Siri, una integrata in iOS 26.4 e una con interfaccia da chatbot in iOS 27, entrambe basate su Gemini. The post Apple Siri: nuovi dettagli sulla doppia versione appeared",
-      "link": "https://www.punto-informatico.it/apple-siri-nuovi-dettagli-doppia-versione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-25T16:19:58+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "Google, OpenAI, and Anthropic are competing to see whose AI can play Pokémon the best — Twitch streams of beloved RPG game test the models' true might",
