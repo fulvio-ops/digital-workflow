@@ -1,20 +1,28 @@
 {
-  "last_updated": "2026-01-26T13:12:26.835862+00:00",
+  "last_updated": "2026-01-26T18:55:19.311992+00:00",
   "items": [
     {
-      "titolo": "ChatGPT cancella due anni di lavoro in un solo istante",
-      "descrizione": "ChatGPT ha cancellato due anni di lavoro accademico di un professore universitario che usava il chatbot come archivio principale. The post ChatGPT cancella due anni di lavoro in un solo istante appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/chatgpt-cancella-due-anni-lavoro-solo-istante/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-26T12:23:33+00:00",
+      "titolo": "Pubblicità su ChatGPT, OpenAI pensa a tariffe triplicate rispetto a Meta",
+      "descrizione": "OpenAI valuta inserzioni su ChatGPT a prezzi elevati ma con meno dati per gli inserzionisti",
+      "link": "https://www.hdblog.it/mercato/articoli/n646066/chatgpt-pubblicita-prezzi-openai/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-26T17:10:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google, OpenAI, and Anthropic are competing to see whose AI can play Pokémon the best — Twitch streams of beloved RPG game test the models' true might",
-      "descrizione": "Twitch streams of different AI models playing old Pokémon games have garnered hundreds of thousands of comments as the audience watches robots try to emulate human thinking. Unlike Pong or its derivatives, a game like Po",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-openai-and-anthropic-are-competing-to-see-whose-ai-can-play-pokemon-the-best-twitch-streams-of-beloved-rpg-game-test-the-models-true-might",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-24T11:40:00+00:00",
+      "titolo": "I used these viral Gemini prompts to find the cheapest flight possible - here are the results",
+      "descrizione": "I tried 20 popular Gemini prompts to find the safest, cheapest way to fly my family to Florida later this year. Gemini gave me surprisingly specific guidance.",
+      "link": "https://www.zdnet.com/article/how-to-use-google-gemini-to-find-cheapest-flights/",
+      "fonte": "Latest news",
+      "data": "2026-01-26T15:27:00+00:00",
+      "modello": "gemini"
+    },
+    {
+      "titolo": "You can use Slack, Asana, and Figma directly inside Claude now - here's how",
+      "descrizione": "Anthropic is trying to make Claude the primary UI of our working lives.",
+      "link": "https://www.zdnet.com/article/claude-work-apps-slack-asana-figma-how-they-work/",
+      "fonte": "Latest news",
+      "data": "2026-01-26T18:00:41+00:00",
       "modello": "claude"
     }
   ]
