@@ -1,173 +1,173 @@
 {
-  "last_updated": "2026-01-27T06:55:15.203966+00:00",
+  "last_updated": "2026-01-27T13:14:38.089691+00:00",
   "items": [
     {
-      "titolo": "Claude apre le app come Canva, Slack e Asana dentro la chat",
-      "descrizione": "Claude non è più solo un chatbot. Con MCP Apps integra Slack, Canva, Asana, Hex, Amplitude e Figma come app interattive dentro la chat. The post Claude apre le app come Canva, Slack e Asana dentro la chat appeared first",
-      "link": "https://www.punto-informatico.it/claude-apre-app-canva-slack-asana-dentro-chat/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-27T06:07:49+00:00"
-    },
-    {
-      "titolo": "Microsoft lancia Maia 200: il chip AI che sfida Amazon e Google",
-      "descrizione": "Maia 200 di Microsfot è un chip AI con processo 3nm e oltre 100 miliardi di transistor, è più veloce del Trainium di Amazon e delle TPU di Google. The post Microsoft lancia Maia 200: il chip AI che sfida Amazon e Google",
-      "link": "https://www.punto-informatico.it/microsoft-maia-200-chip-ai-sfida-amazon-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-27T05:53:52+00:00"
-    },
-    {
-      "titolo": "Google patteggia una class action per violazione della privacy dell'Assistente",
-      "descrizione": "68 milioni di dollari di \"risarcimento\", 1/3 dei quali andrà agli avvocati che hanno portato avanti la denuncia.",
-      "link": "https://www.hdblog.it/google/articoli/n646082/google-assistant-class-action-patteggia/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T05:35:00+00:00"
-    },
-    {
-      "titolo": "Digitare con Gboard sta per diventare più semplice e veloce",
-      "descrizione": "Apostrofi più rapidi e novità per l'interfaccia.",
-      "link": "https://www.hdblog.it/google/articoli/n646084/gboard-apostrofo-digitazione-semplice-beta/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T05:15:00+00:00"
-    },
-    {
-      "titolo": "What is MoCA 2.5? The low-cost networking option that's a hidden gem in your home",
-      "descrizione": "MoCA 2.5 is a great alternative to Wi-Fi networks that use old coaxial cables to enable high-speed internet.",
-      "link": "https://www.zdnet.com/article/what-is-moca-2-5/",
-      "fonte": "Latest news",
-      "data": "2026-01-27T01:25:00+00:00"
-    },
-    {
-      "titolo": "Nvidia pumps another $2 billion into CoreWeave and announces standalone availability of Vera CPU — chipmaker increases stake in its customer to 9%",
-      "descrizione": "Nvidia is spending another $2 billion investing in CoreWeave, one of its AI customers, due to \"confidence in their growth and confidence in CoreWeave’s management,\" according to CEO Jensen Huang.",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-pumps-another-usd2-billion-into-coreweave-and-announces-standalone-availability-of-vera-cpu-chipmaker-increases-stake-in-its-customer-to-9-percent",
+      "titolo": "SSD price tracking 2026: Lowest price on every M.2 SSD from Samsung, Western Digital, Crucial, and more — here are the best deals during the AI-driven pricing crisis",
+      "descrizione": "Updated twice daily, this list shows the lowest US prices on major SSD models.",
+      "link": "https://www.tomshardware.com/pc-components/ssds/ssd-price-tracking-2026-lowest-price-on-every-m-2-ssd-from-samsung-western-digital-crucial-and-more-here-are-the-best-deals-during-the-ai-driven-pricing-crisis",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-26T23:14:17+00:00"
+      "data": "2026-01-27T13:06:22+00:00"
     },
     {
-      "titolo": "Nasce Maia 200 il microchip di Microsoft per l’Ai che vuole sfidare Google e Aws",
-      "descrizione": "Il colosso di Redmond ha annunciato un nuovo acceleratore pensato per velocizzare l’inferenza nei datacenter",
-      "link": "https://www.ilsole24ore.com/art/nasce-maia-200-microchip-microsoft-l-ai-che-vuole-sfidare-google-e-aws-AIbVDd4",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-26T21:32:00+00:00"
+      "titolo": "Punto di non ritorno: avremo le leggi scritte dall’AI",
+      "descrizione": "L'amministrazione Trump vuol delegare all'AI la stesura delle leggi, iniziando dal Dipartimento dei Trasporti: cosa potrebbe andare storto? The post Punto di non ritorno: avremo le leggi scritte dall’AI appeared first on",
+      "link": "https://www.punto-informatico.it/leggi-scritte-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-27T13:02:15+00:00"
     },
     {
-      "titolo": "I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared",
-      "descrizione": "Let's take an inside look at one of the latest viral gadgets on social media - and whether or not it's legit.",
-      "link": "https://www.zdnet.com/article/car-deicing-gadget-scam-review/",
-      "fonte": "Latest news",
-      "data": "2026-01-26T20:21:00+00:00"
-    },
-    {
-      "titolo": "Microsoft introduces newest in-house AI chip — Maia 200 is faster than other bespoke Nvidia competitors, built on TSMC 3nm with 216GB of HBM3e",
-      "descrizione": "30% more performance per dollar than Maia 100, and faster than Amazon or Google.",
-      "link": "https://www.tomshardware.com/pc-components/cpus/microsoft-introduces-newest-in-house-ai-chip-maia-200-is-faster-than-other-bespoke-nvidia-competitors-built-on-tsmc-3nm-with-216gb-of-hbm3e",
+      "titolo": "Newegg stock price falls 17.7% after Chinese owner is detained by anti-corruption authorities — company insists it’s operating normally and ‘in accordance with the laws’",
+      "descrizione": "Various law firms are calling out to Newegg investors for a potential class action lawsuit as the company's stock price fell by 17.7% after the chairperson of its majority stockholder was detained on suspicion of corrupt",
+      "link": "https://www.tomshardware.com/tech-industry/newegg-stock-price-falls-17-7-percent-after-chinese-owner-is-detained-by-anti-corruption-authorities-company-insists-its-operating-normally-and-in-accordance-with-the-laws",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-26T18:42:29+00:00"
+      "data": "2026-01-27T12:47:16+00:00"
     },
     {
-      "titolo": "Ho provato le Huawei FreeClip 2, comfort spaziale e buona qualità audio",
-      "descrizione": "Abbiamo provato le nuove FreeClip 2 di HUAWEI, cuffie wireless con un design particolare e alcune peculiarità interessanti.",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n645588/huawei-freeclip2/",
+      "titolo": "Vivo X200T ufficiale: quasi flasghip con fotocamere valide a buon prezzo",
+      "descrizione": "Un flagship economico che usa il \"trucco\" del chip top di precedente generazione per contenere i prezzi.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646180/vivo-x200t-specifiche-prezzo-chip/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T18:15:00+00:00"
+      "data": "2026-01-27T12:05:00+00:00"
     },
     {
-      "titolo": "Mala tempora currunt, ma uno smartphone ci sarà",
-      "descrizione": "Gli smartphone sono presenti in tutti gli snodi della storia attuale: da Minneapolis a Teheran, sono diventati presidio di verità contro la narrazione filtrata del potere.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n645964/smartphone-storia/",
+      "titolo": "The best email encryption software of 2026: Expert tested",
+      "descrizione": "The best email encryption software can prevent hackers from scraping your emails for company contracts, financial records, and workplace credentials.",
+      "link": "https://www.zdnet.com/article/best-email-encryption-software/",
+      "fonte": "Latest news",
+      "data": "2026-01-27T12:00:49+00:00"
+    },
+    {
+      "titolo": "McLaren MCL40, a Barcellona con una livrea speciale per i primi test",
+      "descrizione": "La livrea provvisoria anticipa alcune scelte tecniche prima del debutto ufficiale previsto per il 9 febbraio.",
+      "link": "https://www.hdmotori.it/mclaren-mcl40-barcellona-formula-1/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T18:14:00+00:00"
+      "data": "2026-01-27T12:00:31+00:00"
     },
     {
-      "titolo": "WhatsApp, denuncia shock: la crittografia end-to-end è una bugia?",
-      "descrizione": "L'accusa (e la difesa di Meta)",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646016/whatsapp-denuncia-crittografia-end-to-end/",
+      "titolo": "Linux su Mac con Apple Silicon avanza: Asahi con KDE gira su M3",
+      "descrizione": "L'esperienza è ancora molto limitata, ma è già un miracolo calcolando quanto Apple detesti e lavori attivamente per bloccare iniziative del genere.",
+      "link": "https://www.hdblog.it/apple/articoli/n646176/linux-mac-apple-silicon-m3-asahi-progressi-avvio/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T18:12:00+00:00"
+      "data": "2026-01-27T11:55:00+00:00"
     },
     {
-      "titolo": "Google ridisegna il launcher web delle app in stile Material 3 Expressive",
-      "descrizione": "Così è tutto più chiaro: ecco cosa cambia.",
-      "link": "https://www.hdblog.it/google/articoli/n646078/google-redesing-launcher-app-web-ui-interfaccia/",
+      "titolo": "Google TV si aggiorna: cosa cambia",
+      "descrizione": "Nessuna rivoluzione ma qualche aggiustamento.",
+      "link": "https://www.hdblog.it/tv/articoli/n646167/google-tv-aggiornamento-2026-youtube-impostazioni/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T17:45:00+00:00"
+      "data": "2026-01-27T11:45:00+00:00"
     },
     {
-      "titolo": "Blizzard prepara grandi cose per il 2026, ecco le date da segnare",
-      "descrizione": "Tutte le novità per WoW, Overwatch, Hearthstone e Diablo.",
-      "link": "https://www.hdblog.it/games/articoli/n646051/blizzard-2026-wow-overwatch-diablo-hearthstone/",
+      "titolo": "Cosa ne pensano le grandi piattaforme social degli adolescenti?",
+      "descrizione": "Un grosso procedimento legale negli USA getta luce sulle strategie di Meta, Google e così via nel gestire il rapporto con una fascia di pubblico critica per tante ragioni diverse.",
+      "link": "https://www.hdblog.it/android/articoli/n646168/social-adolescenti-documenti-strategie/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T17:25:00+00:00"
+      "data": "2026-01-27T11:40:00+00:00"
     },
     {
-      "titolo": "Apple brucia le tappe: chip M6 già prossimo al debutto?",
-      "descrizione": "Appena tre mesi fa è uscito il primo chip con M5, ma del resto tra M3 e M4 sono passati appena cinque mesi.",
-      "link": "https://www.hdblog.it/hardware/articoli/n646076/apple-silicon-m6-debutto-vicino-bloomberg/",
+      "titolo": "Negli USA nasce HybridLeg, il robot bipede che impara anche cadendo",
+      "descrizione": "HybridLeg è il robot bipede che può cadere, rialzarsi e imparare a camminare nel mondo reale",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n646088/robot-bipede-hybridleg-ai-cadute/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T17:15:00+00:00"
+      "data": "2026-01-27T11:35:00+00:00"
     },
     {
-      "titolo": "Nuova Smart #2, l'erede della ForTwo sta arrivando: un concept già al Salone di Pechino",
-      "descrizione": "Il modello di produzione farà poi il suo debutto ufficiale entro la fine del 2026: presto scopriremo maggiori dettagli sulla Smart #2",
-      "link": "https://www.hdmotori.it/nuova-smart-2-concept-prototipo-debutto-salone-pechino-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-26T17:12:00+00:00"
-    },
-    {
-      "titolo": "Madinat al Zahira potrebbe non essere più un mito: nuove tracce in Andalusia",
-      "descrizione": "Nuovi rilievi vicino Córdoba indicano la possibile posizione di Madinat al Zāhira",
-      "link": "https://www.hdblog.it/curiosita/articoli/n645973/madinat-al-zahira-scoperta-cordoba/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-26T16:55:00+00:00"
-    },
-    {
-      "titolo": "DynoWiper: attacco contro la rete elettrica della Polonia",
-      "descrizione": "ESET ha scoperto che l'attacco contro la rete elettrica della Polonia è stato effettuato con il malware DynoWiper dal gruppo russo Sandworm. The post DynoWiper: attacco contro la rete elettrica della Polonia appeared fir",
-      "link": "https://www.punto-informatico.it/dynowiper-attacco-contro-rete-elettrica-polonia/",
+      "titolo": "Smart TV HD 32″ a 149€! ERRORE di PREZZO su Amazon?",
+      "descrizione": "Errore di prezzo o follia pura di Amazon? Scopri la Smart TV HD 32\" ora in offerta a soli 149€ per un intrattenimento illimitato e pazzesco. The post Smart TV HD 32″ a 149€! ERRORE di PREZZO su Amazon? appeared first on",
+      "link": "https://www.punto-informatico.it/smart-tv-hd-32-pollici-149-euro-errore-prezzo-amazon/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-26T16:52:51+00:00"
+      "data": "2026-01-27T11:29:17+00:00"
     },
     {
-      "titolo": "Sony Crystal LED S, i nuovi display dvLED per uffici e centri commerciali",
-      "descrizione": "Per uffici, centri commerciali e università.",
-      "link": "https://www.hdblog.it/tv/articoli/n646057/sony-crystal-led-s-display-dvled/",
+      "titolo": "Amazon porta Cortilia a Roma e in tante altre città: ecco dove",
+      "descrizione": "Lombardia, Piemonte, Emilia-Romagna e Lazio.",
+      "link": "https://www.hdblog.it/mercato/articoli/n646158/cortilia-amazon-nuove-citta-spesa-dove/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T16:50:00+00:00"
+      "data": "2026-01-27T11:25:00+00:00"
     },
     {
-      "titolo": "Retrocomputing estremo: ecco la motherboard 486 \"fatta in casa\"",
-      "descrizione": "E prima che ve lo chiediate, certo che ci gira Doom.",
-      "link": "https://www.hdblog.it/hardware/articoli/n646064/progetto-custom-scheda-madre-486-retro-gaming/",
+      "titolo": "Belkin spegne alcuni dispositivi smart Wemo: cosa succede il 31 gennaio",
+      "descrizione": "Belkin ha annunciato la fine del supporto per la linea Wemo. I prodotti in questione smetteranno di funzionare, salvo eccezioni con HomeKit.",
+      "link": "https://www.hdblog.it/domotica/articoli/n646166/belkin-wemo-fine-supporto/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T16:45:00+00:00"
+      "data": "2026-01-27T11:20:00+00:00"
     },
     {
-      "titolo": "ChatGPT, conversazioni sparite? Come ritrovarle all’istante",
-      "descrizione": "Guida pratica per organizzare le conversazioni di ChatGPT, usare parole chiave e smettere di riscrivere sempre gli stessi prompt. The post ChatGPT, conversazioni sparite? Come ritrovarle all’istante appeared first on Pun",
-      "link": "https://www.punto-informatico.it/chatgpt-conversazioni-sparite-come-ritrovarle-istante/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-26T16:30:59+00:00"
+      "titolo": "YouTuber citano Snap in giudizio: ha usato video non autorizzati per allenare l'AI",
+      "descrizione": "L'AI di Snapchat a processo: usati dataset accademici per fini commerciali?",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n646165/snapchat-accusa-ai-diritto-autore-youtube/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T11:15:00+00:00"
     },
     {
-      "titolo": "Airalo: connettività globale senza roaming",
-      "descrizione": "Airalo offre eSIM digitali con tariffe trasparenti in oltre 200 destinazioni, eliminando il roaming e garantendo connettività globale semplice, flessibile e conveniente per ogni viaggiatore. The post Airalo: connettività",
-      "link": "https://www.punto-informatico.it/airalo-connettivita-globale-senza-roaming/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-26T15:53:49+00:00"
+      "titolo": "Portogallo, via libera alla prima centrale a onde da 1 MW al mondo",
+      "descrizione": "Ok al progetto da 1 MW a Porto che sfrutta le onde per produrre energia pulita",
+      "link": "https://www.hdblog.it/green/articoli/n646087/centrale-onde-porto-1-mw/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T11:10:00+00:00"
     },
     {
-      "titolo": "Mega leak, anche le password di 900.000 account Apple",
-      "descrizione": "Un database senza protezioni espone 149 milioni di credenziali raccolte tramite malware infostealer, incluse quelle degli account Apple. The post Mega leak, anche le password di 900.000 account Apple appeared first on Pu",
-      "link": "https://www.punto-informatico.it/mega-leak-password-account-apple/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-26T15:52:35+00:00"
+      "titolo": "Questa Nissan Ariya si ricarica con il Sole: fino a 23 km al giorno grazie ai pannelli integrati",
+      "descrizione": "Nissan presenta un concept di Ariya con pannelli solari integrati nella carrozzeria. In condizioni ideali può generare fino a 23 km di autonomia al giorno",
+      "link": "https://www.hdmotori.it/nissan-ariya-auto-salare-autonomia-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T11:00:50+00:00"
     },
     {
-      "titolo": "Report e Garante Privacy: annullata la multa sul caso Sangiuliano",
-      "descrizione": "Tribunale annulla la multa del Garante Privacy alla Rai: interesse pubblico per la diffusione dell'audio di Sangiuliano da parte di Report. The post Report e Garante Privacy: annullata la multa sul caso Sangiuliano appea",
-      "link": "https://www.punto-informatico.it/report-garante-privacy-annullata-multa-caso-sangiuliano/",
+      "titolo": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
+      "descrizione": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
+      "link": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
+      "fonte": "WIRED",
+      "data": "2026-01-27T11:00:00+00:00"
+    },
+    {
+      "titolo": "Revealed: Leaked Chats Expose the Daily Life of a Scam Compound’s Enslaved Workforce",
+      "descrizione": "A whistleblower trapped inside a “pig butchering” scam compound gave WIRED a vast trove of its internal materials—including 4,200 pages of messages that lay out its operations in unprecedented detail.",
+      "link": "https://www.wired.com/story/the-red-bull-leaks/",
+      "fonte": "WIRED",
+      "data": "2026-01-27T11:00:00+00:00"
+    },
+    {
+      "titolo": "Addio TikTok: utenti USA su UpScrolled e Skylight",
+      "descrizione": "In seguito al cambio di proprietà di TikTok negli Stati Uniti, molti utenti hanno scelto UpScrolled e Skylight come social network alternativi. The post Addio TikTok: utenti USA su UpScrolled e Skylight appeared first on",
+      "link": "https://www.punto-informatico.it/addio-tiktok-utenti-usa-upscrolled-skylight/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-26T15:24:36+00:00"
+      "data": "2026-01-27T10:59:37+00:00"
+    },
+    {
+      "titolo": "Ella McCay Perfettamente Imperfetta debutta su Disney+ il 5 febbraio",
+      "descrizione": "La commedia di James L. Brooks con Emma Mackey e Jamie Lee Curtis arriva su Disney+ il 5 febbraio.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n645984/commedia-james-brooks-disney/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T10:55:00+00:00"
+    },
+    {
+      "titolo": "Amazon, nuova ondata di licenziamenti: tagliati altri 14.000 posti di lavoro",
+      "descrizione": "Amazon sarebbe pronta ad avviare una consistente tornata di licenziamenti",
+      "link": "https://www.hdblog.it/amazon/articoli/n646171/amazon-nuovi-licenziamenti-14000-tagli/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T10:50:00+00:00"
+    },
+    {
+      "titolo": "Xbox Cloud, arriva la nuova UI: sembra la dashboard delle console | Preview",
+      "descrizione": "L'ecosistema gaming di Redmond è sempre più omogeneo e hardware-agnostico.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n646159/xbox-cloud-nuova-interfaccia-dashboard-console/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T10:45:00+00:00"
+    },
+    {
+      "titolo": "Microsoft lancia strumento AI per indagare sulle violazioni di dati",
+      "descrizione": "Microsoft Purview Data Investigations è ora disponibile per tutti. Lo strumento sfrutta l'AI per indagare sulle violazioni di dati. The post Microsoft lancia strumento AI per indagare sulle violazioni di dati appeared fi",
+      "link": "https://www.punto-informatico.it/microsoft-strumento-ai-indagare-violazioni-dati/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-27T10:38:56+00:00"
+    },
+    {
+      "titolo": "Ubisoft non se la passa bene: proposti 200 licenziamenti volontari per la sede di Parigi",
+      "descrizione": "Dopo la ristrutturazione dei team, ora tocca al personale della sede di Parigi",
+      "link": "https://www.hdblog.it/games/articoli/n646146/ubisoft-licenziamenti-parigi-volontari/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T10:35:00+00:00"
     }
   ]
 }

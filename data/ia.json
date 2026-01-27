@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-27T06:55:18.678254+00:00",
+  "last_updated": "2026-01-27T13:14:41.723521+00:00",
   "items": [
     {
-      "titolo": "Digitare con Gboard sta per diventare più semplice e veloce",
-      "descrizione": "Apostrofi più rapidi e novità per l'interfaccia.",
-      "link": "https://www.hdblog.it/google/articoli/n646084/gboard-apostrofo-digitazione-semplice-beta/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T05:15:00+00:00",
+      "titolo": "This Humanoid Is Ready to Bring You a Toothbrush",
+      "descrizione": "Fauna, a new startup, is betting that humanoid robots will find success as hospitality workers, research assistants, and entertainers.",
+      "link": "https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/",
+      "fonte": "WIRED",
+      "data": "2026-01-27T13:00:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Claude apre le app come Canva, Slack e Asana dentro la chat",
-      "descrizione": "Claude non è più solo un chatbot. Con MCP Apps integra Slack, Canva, Asana, Hex, Amplitude e Figma come app interattive dentro la chat. The post Claude apre le app come Canva, Slack e Asana dentro la chat appeared first",
-      "link": "https://www.punto-informatico.it/claude-apre-app-canva-slack-asana-dentro-chat/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-27T06:07:49+00:00",
+      "titolo": "Dario Amodei di Anthropic avverte: l’intelligenza artificiale avanzata potrebbe sfuggire al controllo umano",
+      "descrizione": "Nel suo saggio di 38 pagine, il ceo di Anthropic descrive l’arrivo di intelligenze artificiali capaci di superare gli esseri umani come un rito di passaggio per l’umanità",
+      "link": "https://www.ilsole24ore.com/art/in-lettera-dario-amodei-antrophic-avverte-l-ai-puo-diventare-stato-AIG3Wx4",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-27T08:58:00+00:00",
       "modello": "claude"
     }
   ]
