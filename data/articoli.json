@@ -1,12 +1,61 @@
 {
-  "last_updated": "2026-01-26T18:55:16.196920+00:00",
+  "last_updated": "2026-01-27T02:36:44.212694+00:00",
   "items": [
+    {
+      "titolo": "What is MoCA 2.5? The low-cost networking option that's a hidden gem in your home",
+      "descrizione": "MoCA 2.5 is a great alternative to Wi-Fi networks that use old coaxial cables to enable high-speed internet.",
+      "link": "https://www.zdnet.com/article/what-is-moca-2-5/",
+      "fonte": "Latest news",
+      "data": "2026-01-27T01:25:00+00:00"
+    },
+    {
+      "titolo": "Nvidia pumps another $2 billion into CoreWeave and announces standalone availability of Vera CPU — chipmaker increases stake in its customer to 9%",
+      "descrizione": "Nvidia is spending another $2 billion investing in CoreWeave, one of its AI customers, due to \"confidence in their growth and confidence in CoreWeave’s management,\" according to CEO Jensen Huang.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-pumps-another-usd2-billion-into-coreweave-and-announces-standalone-availability-of-vera-cpu-chipmaker-increases-stake-in-its-customer-to-9-percent",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-26T23:14:17+00:00"
+    },
+    {
+      "titolo": "Nasce Maia 200 il microchip di Microsoft per l’Ai che vuole sfidare Google e Aws",
+      "descrizione": "Il colosso di Redmond ha annunciato un nuovo acceleratore pensato per velocizzare l’inferenza nei datacenter",
+      "link": "https://www.ilsole24ore.com/art/nasce-maia-200-microchip-microsoft-l-ai-che-vuole-sfidare-google-e-aws-AIbVDd4",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-26T21:32:00+00:00"
+    },
+    {
+      "titolo": "I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared",
+      "descrizione": "Let's take an inside look at one of the latest viral gadgets on social media - and whether or not it's legit.",
+      "link": "https://www.zdnet.com/article/car-deicing-gadget-scam-review/",
+      "fonte": "Latest news",
+      "data": "2026-01-26T20:21:00+00:00"
+    },
     {
       "titolo": "Microsoft introduces newest in-house AI chip — Maia 200 is faster than other bespoke Nvidia competitors, built on TSMC 3nm with 216GB of HBM3e",
       "descrizione": "30% more performance per dollar than Maia 100, and faster than Amazon or Google.",
       "link": "https://www.tomshardware.com/pc-components/cpus/microsoft-introduces-newest-in-house-ai-chip-maia-200-is-faster-than-other-bespoke-nvidia-competitors-built-on-tsmc-3nm-with-216gb-of-hbm3e",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-26T18:42:29+00:00"
+    },
+    {
+      "titolo": "Ho provato le Huawei FreeClip 2, comfort spaziale e buona qualità audio",
+      "descrizione": "Abbiamo provato le nuove FreeClip 2 di HUAWEI, cuffie wireless con un design particolare e alcune peculiarità interessanti.",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n645588/huawei-freeclip2/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-26T18:15:00+00:00"
+    },
+    {
+      "titolo": "Mala tempora currunt, ma uno smartphone ci sarà",
+      "descrizione": "Gli smartphone sono presenti in tutti gli snodi della storia attuale: da Minneapolis a Teheran, sono diventati presidio di verità contro la narrazione filtrata del potere.",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n645964/smartphone-storia/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-26T18:14:00+00:00"
+    },
+    {
+      "titolo": "WhatsApp, denuncia shock: la crittografia end-to-end è una bugia?",
+      "descrizione": "L'accusa (e la difesa di Meta)",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646016/whatsapp-denuncia-crittografia-end-to-end/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-26T18:12:00+00:00"
     },
     {
       "titolo": "Google ridisegna il launcher web delle app in stile Material 3 Expressive",
@@ -23,18 +72,18 @@
       "data": "2026-01-26T17:25:00+00:00"
     },
     {
-      "titolo": "Best Buy is selling last year's Sony OLED TV for $1,100 off - and it's a model I highly recommend",
-      "descrizione": "The Bravia 8 II is Sony's flagship OLED TV and is worth every penny of its retail price, but it's even better when you can snag one for this much off.",
-      "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal/",
-      "fonte": "Latest news",
-      "data": "2026-01-26T17:17:00+00:00"
-    },
-    {
       "titolo": "Apple brucia le tappe: chip M6 già prossimo al debutto?",
       "descrizione": "Appena tre mesi fa è uscito il primo chip con M5, ma del resto tra M3 e M4 sono passati appena cinque mesi.",
       "link": "https://www.hdblog.it/hardware/articoli/n646076/apple-silicon-m6-debutto-vicino-bloomberg/",
       "fonte": "HDblog.it",
       "data": "2026-01-26T17:15:00+00:00"
+    },
+    {
+      "titolo": "Nuova Smart #2, l'erede della ForTwo sta arrivando: un concept già al Salone di Pechino",
+      "descrizione": "Il modello di produzione farà poi il suo debutto ufficiale entro la fine del 2026: presto scopriremo maggiori dettagli sulla Smart #2",
+      "link": "https://www.hdmotori.it/nuova-smart-2-concept-prototipo-debutto-salone-pechino-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-26T17:12:00+00:00"
     },
     {
       "titolo": "Madinat al Zahira potrebbe non essere più un mito: nuove tracce in Andalusia",
@@ -79,20 +128,6 @@
       "data": "2026-01-26T16:30:59+00:00"
     },
     {
-      "titolo": "Nvidia sfida le previsioni meteo: l’AI che vede le tempeste in anticipo",
-      "descrizione": "I nuovi modelli AI di Nvidia promettono previsioni meteo più rapide e accurate",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646054/nvidia-ai-previsioni-meteo/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-26T16:10:00+00:00"
-    },
-    {
-      "titolo": "Pagani porta a Rétromobile Zonda, Utopia e Huayra",
-      "descrizione": "Quattro hypercar per raccontare l’evoluzione estetica e tecnica del marchio.",
-      "link": "https://www.hdmotori.it/pagani-zonda-hp-barchetta-huayra-roadster-utopia-roadster-e-huayra-r-retromobile-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-26T16:00:58+00:00"
-    },
-    {
       "titolo": "Airalo: connettività globale senza roaming",
       "descrizione": "Airalo offre eSIM digitali con tariffe trasparenti in oltre 200 destinazioni, eliminando il roaming e garantendo connettività globale semplice, flessibile e conveniente per ogni viaggiatore. The post Airalo: connettività",
       "link": "https://www.punto-informatico.it/airalo-connettivita-globale-senza-roaming/",
@@ -105,20 +140,6 @@
       "link": "https://www.punto-informatico.it/mega-leak-password-account-apple/",
       "fonte": "Punto Informatico",
       "data": "2026-01-26T15:52:35+00:00"
-    },
-    {
-      "titolo": "Nebulosa Anello: scoperta una barra di ferro grande come un pianeta",
-      "descrizione": "Nebulosa Anello, emerge una strana barra di ferro mai vista prima",
-      "link": "https://www.hdblog.it/curiosita/articoli/n645928/nebulosa-anello-barra-ferro/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-26T15:45:00+00:00"
-    },
-    {
-      "titolo": "Your TV's USB port has hidden superpowers: 4 benefits you're not taking advantage of",
-      "descrizione": "That old but reliable USB port can do more than just broadcast local content. Here's a roundup of my top use cases.",
-      "link": "https://www.zdnet.com/article/your-tv-usb-port-hidden-superpowers/",
-      "fonte": "Latest news",
-      "data": "2026-01-26T15:38:00+00:00"
     },
     {
       "titolo": "Report e Garante Privacy: annullata la multa sul caso Sangiuliano",
@@ -147,27 +168,6 @@
       "link": "https://www.punto-informatico.it/nuovo-airtag/",
       "fonte": "Punto Informatico",
       "data": "2026-01-26T14:28:51+00:00"
-    },
-    {
-      "titolo": "Chrome, quattro estensioni da disinstallare subito",
-      "descrizione": "Symantec segnala quattro estensioni Chrome potenzialmente pericolose, da eliminare: accesso ai dati, tracciamento nascosto e vulnerabilità. The post Chrome, quattro estensioni da disinstallare subito appeared first on Pu",
-      "link": "https://www.punto-informatico.it/chrome-quattro-estensioni-disinstallare-subito/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-26T14:14:11+00:00"
-    },
-    {
-      "titolo": "Xi Jinping calls AI ‘epoch-making’ as China’s focus tightens on domestic tech — likens change to Industrial Revolution or the dawn of the internet",
-      "descrizione": "Chinese leader Xi Jinping has emphasized the importance of advancing AI in his first formal meeting of 2026 with ministers.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/xi-jinping-calls-ai-epoch-making",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-26T13:45:07+00:00"
-    },
-    {
-      "titolo": "ECM sui PC dei magistrati: ANM chiama in causa il ministro Nordio",
-      "descrizione": "Dopo l'inchiesta di Report su Microsoft ECM, l'ANM esprime forte preoccupazione chiedendo a Nordio interventi urgenti e trasparenza. The post ECM sui PC dei magistrati: ANM chiama in causa il ministro Nordio appeared fir",
-      "link": "https://www.punto-informatico.it/ecm-pc-magistrati-anm-ministro-nordio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-26T13:41:34+00:00"
     }
   ]
 }

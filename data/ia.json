@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26T18:55:19.311992+00:00",
+  "last_updated": "2026-01-27T02:36:49.068610+00:00",
   "items": [
     {
       "titolo": "Pubblicità su ChatGPT, OpenAI pensa a tariffe triplicate rispetto a Meta",
@@ -8,14 +8,6 @@
       "fonte": "HDblog.it",
       "data": "2026-01-26T17:10:00+00:00",
       "modello": "chatgpt"
-    },
-    {
-      "titolo": "I used these viral Gemini prompts to find the cheapest flight possible - here are the results",
-      "descrizione": "I tried 20 popular Gemini prompts to find the safest, cheapest way to fly my family to Florida later this year. Gemini gave me surprisingly specific guidance.",
-      "link": "https://www.zdnet.com/article/how-to-use-google-gemini-to-find-cheapest-flights/",
-      "fonte": "Latest news",
-      "data": "2026-01-26T15:27:00+00:00",
-      "modello": "gemini"
     },
     {
       "titolo": "You can use Slack, Asana, and Figma directly inside Claude now - here's how",
