@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-27T02:36:49.068610+00:00",
+  "last_updated": "2026-01-27T06:55:18.678254+00:00",
   "items": [
     {
-      "titolo": "Pubblicità su ChatGPT, OpenAI pensa a tariffe triplicate rispetto a Meta",
-      "descrizione": "OpenAI valuta inserzioni su ChatGPT a prezzi elevati ma con meno dati per gli inserzionisti",
-      "link": "https://www.hdblog.it/mercato/articoli/n646066/chatgpt-pubblicita-prezzi-openai/",
+      "titolo": "Digitare con Gboard sta per diventare più semplice e veloce",
+      "descrizione": "Apostrofi più rapidi e novità per l'interfaccia.",
+      "link": "https://www.hdblog.it/google/articoli/n646084/gboard-apostrofo-digitazione-semplice-beta/",
       "fonte": "HDblog.it",
-      "data": "2026-01-26T17:10:00+00:00",
+      "data": "2026-01-27T05:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "You can use Slack, Asana, and Figma directly inside Claude now - here's how",
-      "descrizione": "Anthropic is trying to make Claude the primary UI of our working lives.",
-      "link": "https://www.zdnet.com/article/claude-work-apps-slack-asana-figma-how-they-work/",
-      "fonte": "Latest news",
-      "data": "2026-01-26T18:00:41+00:00",
+      "titolo": "Claude apre le app come Canva, Slack e Asana dentro la chat",
+      "descrizione": "Claude non è più solo un chatbot. Con MCP Apps integra Slack, Canva, Asana, Hex, Amplitude e Figma come app interattive dentro la chat. The post Claude apre le app come Canva, Slack e Asana dentro la chat appeared first",
+      "link": "https://www.punto-informatico.it/claude-apre-app-canva-slack-asana-dentro-chat/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-27T06:07:49+00:00",
       "modello": "claude"
     }
   ]
