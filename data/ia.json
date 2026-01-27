@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-01-27T13:14:41.723521+00:00",
+  "last_updated": "2026-01-27T18:58:45.763222+00:00",
   "items": [
     {
-      "titolo": "This Humanoid Is Ready to Bring You a Toothbrush",
-      "descrizione": "Fauna, a new startup, is betting that humanoid robots will find success as hospitality workers, research assistants, and entertainers.",
-      "link": "https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/",
-      "fonte": "WIRED",
-      "data": "2026-01-27T13:00:00+00:00",
+      "titolo": "Ecco Prism, il modello targato OpenAi per accelerare la ricerca scientifica",
+      "descrizione": "L’obiettivo, per dirla con Kevin Weil, vicepresident for Science di Open AI, è di «ottenere nel 2030 le scoperte scientifiche che altrimenti riusciremmo ad avere solo nel 2050». Slogan a...",
+      "link": "https://www.ilsole24ore.com/art/ecco-prism-modello-targato-openai-accelerare-ricerca-scientifica-AI41N64",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-27T18:10:12+00:00",
       "modello": "chatgpt"
+    },
+    {
+      "titolo": "Google cambia ancora la Ricerca: Gemini 3 diventa il nuovo motore dell’AI",
+      "descrizione": "Due novità: al “cerco e clicco” si aggiunge “chiedo e parlo”. Con Gemini 3 meno link, più dialogo?",
+      "link": "https://www.ilsole24ore.com/art/google-cambia-ancora-ricerca-gemini-3-diventa-nuovo-motore-dell-ai-AI7sNc5",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-27T17:06:10+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Dario Amodei di Anthropic avverte: l’intelligenza artificiale avanzata potrebbe sfuggire al controllo umano",
