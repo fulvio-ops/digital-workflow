@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-27T18:58:45.763222+00:00",
+  "last_updated": "2026-01-28T02:33:31.183196+00:00",
   "items": [
     {
-      "titolo": "Ecco Prism, il modello targato OpenAi per accelerare la ricerca scientifica",
-      "descrizione": "L’obiettivo, per dirla con Kevin Weil, vicepresident for Science di Open AI, è di «ottenere nel 2030 le scoperte scientifiche che altrimenti riusciremmo ad avere solo nel 2050». Slogan a...",
-      "link": "https://www.ilsole24ore.com/art/ecco-prism-modello-targato-openai-accelerare-ricerca-scientifica-AI41N64",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-27T18:10:12+00:00",
+      "titolo": "San Raffaele: uno smartwatch può prevedere un arresto cardiaco",
+      "descrizione": "Analizzare i video per capire gli arresti cardiaci e analizzare i dati degli smartwatch per anticiparne l'arrivo: una ricerca di grande impatto per la salute pubblica.",
+      "link": "https://www.hdblog.it/home/articoli/n646114/arresto-cardiaco-smartwatch-ricerca/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-27T18:20:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Dario Amodei di Anthropic avverte: l’intelligenza artificiale avanzata potrebbe sfuggire al controllo umano",
-      "descrizione": "Nel suo saggio di 38 pagine, il ceo di Anthropic descrive l’arrivo di intelligenze artificiali capaci di superare gli esseri umani come un rito di passaggio per l’umanità",
-      "link": "https://www.ilsole24ore.com/art/in-lettera-dario-amodei-antrophic-avverte-l-ai-puo-diventare-stato-AIG3Wx4",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-27T08:58:00+00:00",
+      "titolo": "Move over, Claude: Moonshot's new AI model lets you vibe-code from a single video upload",
+      "descrizione": "While it's not yet clear how practically useful the capability will be for individuals and businesses, the model's \"coding with vision\" capability makes vibe coding even vibier.",
+      "link": "https://www.zdnet.com/article/moonshot-kimi-k2-5-model/",
+      "fonte": "Latest news",
+      "data": "2026-01-27T22:14:00+00:00",
       "modello": "claude"
     }
   ]
