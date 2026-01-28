@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-01-28T06:55:33.501528+00:00",
+  "last_updated": "2026-01-28T13:14:43.680651+00:00",
   "items": [
     {
-      "titolo": "OpenAI lancia Prism, un nuovo strumento per la ricerca scientifica",
-      "descrizione": "Prism di OpenAI per la ricerca scientifica combina elaborazione testi, LaTeX, ricerca di articoli, e generazione di diagrammi da schizzi. The post OpenAI lancia Prism, un nuovo strumento per la ricerca scientifica appear",
-      "link": "https://www.punto-informatico.it/openai-prism-nuovo-strumento-ricerca-scientifica/",
+      "titolo": "Chiusi tutti i negozi Amazon Go e Amazon Fresh",
+      "descrizione": "Amazon chiude tutti i negozi Go e Fresh negli USA: 72 store abbassano le saracinesche, il gruppo punta su Whole Foods e consegne rapide. The post Chiusi tutti i negozi Amazon Go e Amazon Fresh appeared first on Punto Inf",
+      "link": "https://www.punto-informatico.it/chiusi-tutti-negozi-amazon-go-fresh/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-28T06:03:17+00:00",
+      "data": "2026-01-28T08:19:10+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google trasforma la Ricerca in chat: dalle AI Overview a AI Mode",
-      "descrizione": "Google permette di passare dalle AI Overview direttamente alla chat con AI Mode, mantenendo il contesto. Gemini 3 alimenta le risposte. The post Google trasforma la Ricerca in chat: dalle AI Overview a AI Mode appeared f",
-      "link": "https://www.punto-informatico.it/google-trasforma-ricerca-chat-ai-overview-ai-mode/",
+      "titolo": "Gemini 3 Flash: nuova capacità di ragionamento visivo",
+      "descrizione": "Agentic Vision è la nuova capacità del modello Gemini 3 Flash che permette di comprendere il contenuto delle immagini e generare codice per le modifiche. The post Gemini 3 Flash: nuova capacità di ragionamento visivo app",
+      "link": "https://www.punto-informatico.it/gemini-3-flash-nuova-capacita-ragionamento-visivo/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-28T05:43:07+00:00",
+      "data": "2026-01-28T10:58:19+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Move over, Claude: Moonshot's new AI model lets you vibe-code from a single video upload",
-      "descrizione": "While it's not yet clear how practically useful the capability will be for individuals and businesses, the model's \"coding with vision\" capability makes vibe coding even vibier.",
-      "link": "https://www.zdnet.com/article/moonshot-kimi-k2-5-model/",
-      "fonte": "Latest news",
-      "data": "2026-01-27T22:14:00+00:00",
+      "titolo": "Yahoo lancia Scout, il motore di ricerca AI con Claude e Bing",
+      "descrizione": "Yahoo lancia Scout, motore di risposte basato su AI, che combina Claude e Bing. È integrato in Yahoo Mail, Finance, News, Shopping. The post Yahoo lancia Scout, il motore di ricerca AI con Claude e Bing appeared first on",
+      "link": "https://www.punto-informatico.it/yahoo-lancia-scout-motore-ricerca-ai-claude-bing/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-28T11:57:16+00:00",
       "modello": "claude"
     }
   ]
