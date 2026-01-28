@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-01-28T02:33:27.288180+00:00",
+  "last_updated": "2026-01-28T06:55:30.458320+00:00",
   "items": [
+    {
+      "titolo": "Meishi è l’app italiana che sfida i big: contatti P2P, E2EE e open",
+      "descrizione": "Gestione dei contatti decentralizzata con Meishi, l'applicazione 100% italiana che sfida le Big Tech: lista d'attesa per l'accesso ai test. The post Meishi è l’app italiana che sfida i big: contatti P2P, E2EE e open appe",
+      "link": "https://www.punto-informatico.it/meishi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-28T06:30:08+00:00"
+    },
+    {
+      "titolo": "OpenAI lancia Prism, un nuovo strumento per la ricerca scientifica",
+      "descrizione": "Prism di OpenAI per la ricerca scientifica combina elaborazione testi, LaTeX, ricerca di articoli, e generazione di diagrammi da schizzi. The post OpenAI lancia Prism, un nuovo strumento per la ricerca scientifica appear",
+      "link": "https://www.punto-informatico.it/openai-prism-nuovo-strumento-ricerca-scientifica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-28T06:03:17+00:00"
+    },
+    {
+      "titolo": "Paramount Plus Coupon Codes and Deals: 50% Off",
+      "descrizione": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fonte": "WIRED",
+      "data": "2026-01-28T06:00:00+00:00"
+    },
+    {
+      "titolo": "Galaxy S26 Ultra e il suo schermo speciale: Samsung conferma il Privacy Display",
+      "descrizione": "Di cosa sarà capace? Samsung ce ne dà un'anteprima con tanto di video.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646252/samsung-galaxy-s26-ultra-privacy-display-schermo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-28T05:55:00+00:00"
+    },
+    {
+      "titolo": "Is ChatGPT Plus still worth your $20? I compared it to the Free, Go, and Pro plans - here's my advice",
+      "descrizione": "Let's look at all of ChatGPT's plans to see if a subscription is worth it - especially since the free tier has so much.",
+      "link": "https://www.zdnet.com/article/is-chatgpt-plus-worth-it-free-go-pro-plans-compared/",
+      "fonte": "Latest news",
+      "data": "2026-01-28T03:00:00+00:00"
+    },
     {
       "titolo": "This low-cost networking option can seriously improve your internet - here's how to find it",
       "descrizione": "MoCA 2.5 is a great alternative to Wi-Fi networks that use old coaxial cables to enable high-speed internet.",
@@ -133,41 +168,6 @@
       "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
       "fonte": "WIRED",
       "data": "2026-01-27T17:00:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy A37, trapelano i primi (presunti) render ufficiali",
-      "descrizione": "Pochissime sorprese, bisogna dire.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646229/samsung-galaxy-a37-render-stampa-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T16:45:00+00:00"
-    },
-    {
-      "titolo": "Amazon, maxi-multa per i resi non rimborsati: vince la class action",
-      "descrizione": "L'accordo vale più di 1 miliardo di dollari.",
-      "link": "https://www.hdblog.it/amazon/articoli/n646213/amazon-maxi-multa-resi-non-rimborsati/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T16:35:00+00:00"
-    },
-    {
-      "titolo": "Mercedes-AMG, in Svezia i test sul secondo modello della serie Mythos",
-      "descrizione": "Qualche dettaglio emerge dalle foto del prototipo camuffato.",
-      "link": "https://www.hdmotori.it/mercedes-amg-test-invernali-nuovo-modello-mythos/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T16:30:28+00:00"
-    },
-    {
-      "titolo": "Yahoo Scout debutta nella ricerca AI e punta su link e contenuti affidabili",
-      "descrizione": "Yahoo Scout è il nuovo motore AI che unisce risposte chiare e link al web",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646221/yahoo-scout-ricerca-ai/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T16:25:00+00:00"
-    },
-    {
-      "titolo": "Pubblicità su ChatGPT, OpenAI chiede agli inserzionisti cifre folli",
-      "descrizione": "OpenAI lancia la pubblicità su ChatGPT a prezzi altissimi: 60 dollari per 1000 visualizzazioni contro i 20 di Meta e senza targeting avanzato. The post Pubblicità su ChatGPT, OpenAI chiede agli inserzionisti cifre folli",
-      "link": "https://www.punto-informatico.it/pubblicita-chatgpt-openai-chiede-inserzionisti-cifre-folli/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-27T16:08:45+00:00"
     }
   ]
 }

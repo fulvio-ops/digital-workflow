@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-01-28T02:33:31.183196+00:00",
+  "last_updated": "2026-01-28T06:55:33.501528+00:00",
   "items": [
     {
-      "titolo": "San Raffaele: uno smartwatch può prevedere un arresto cardiaco",
-      "descrizione": "Analizzare i video per capire gli arresti cardiaci e analizzare i dati degli smartwatch per anticiparne l'arrivo: una ricerca di grande impatto per la salute pubblica.",
-      "link": "https://www.hdblog.it/home/articoli/n646114/arresto-cardiaco-smartwatch-ricerca/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-27T18:20:00+00:00",
+      "titolo": "OpenAI lancia Prism, un nuovo strumento per la ricerca scientifica",
+      "descrizione": "Prism di OpenAI per la ricerca scientifica combina elaborazione testi, LaTeX, ricerca di articoli, e generazione di diagrammi da schizzi. The post OpenAI lancia Prism, un nuovo strumento per la ricerca scientifica appear",
+      "link": "https://www.punto-informatico.it/openai-prism-nuovo-strumento-ricerca-scientifica/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-28T06:03:17+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google cambia ancora la Ricerca: Gemini 3 diventa il nuovo motore dell’AI",
-      "descrizione": "Due novità: al “cerco e clicco” si aggiunge “chiedo e parlo”. Con Gemini 3 meno link, più dialogo?",
-      "link": "https://www.ilsole24ore.com/art/google-cambia-ancora-ricerca-gemini-3-diventa-nuovo-motore-dell-ai-AI7sNc5",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-27T17:06:10+00:00",
+      "titolo": "Google trasforma la Ricerca in chat: dalle AI Overview a AI Mode",
+      "descrizione": "Google permette di passare dalle AI Overview direttamente alla chat con AI Mode, mantenendo il contesto. Gemini 3 alimenta le risposte. The post Google trasforma la Ricerca in chat: dalle AI Overview a AI Mode appeared f",
+      "link": "https://www.punto-informatico.it/google-trasforma-ricerca-chat-ai-overview-ai-mode/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-28T05:43:07+00:00",
       "modello": "gemini"
     },
     {
