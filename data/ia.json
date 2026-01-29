@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-29T07:08:26.545305+00:00",
+  "last_updated": "2026-01-29T13:33:24.568147+00:00",
   "items": [
     {
-      "titolo": "Tre CEO condannano la violenza dell’ICE, ma lodano Trump",
-      "descrizione": "I CEO di Anthropic, Apple e OpenAI condannano le violenze dell'ICE a Minneapolis, ma apprezzato il lavoro svolto da Donald Trump. The post Tre CEO condannano la violenza dell’ICE, ma lodano Trump appeared first on Punto",
-      "link": "https://www.punto-informatico.it/tre-ceo-condannano-violenza-ice-lodano-trump/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-28T18:15:07+00:00",
+      "titolo": "«Il teatro delle macchine pensanti»: l’Ai tra falsi miti, timori e speranze",
+      "descrizione": "Dal novembre 2022, momento del lancio di ChatGPT che ha fatto conoscere l’Ai generativa al grande pubblico, sembrano passati molto più di tre anni. L’intelligenza artificiale non è più solo...",
+      "link": "https://www.ilsole24ore.com/art/il-teatro-macchine-pensanti-l-ai-falsi-miti-timori-e-speranze-AIm71b6",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-28T16:57:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -16,14 +16,6 @@
       "fonte": "Il Sole 24 ORE - Tecnologia",
       "data": "2026-01-27T17:06:10+00:00",
       "modello": "gemini"
-    },
-    {
-      "titolo": "Tre CEO condannano la violenza dell’ICE, ma lodano Trump",
-      "descrizione": "I CEO di Anthropic, Apple e OpenAI condannano le violenze dell'ICE a Minneapolis, ma apprezzato il lavoro svolto da Donald Trump. The post Tre CEO condannano la violenza dell’ICE, ma lodano Trump appeared first on Punto",
-      "link": "https://www.punto-informatico.it/tre-ceo-condannano-violenza-ice-lodano-trump/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-28T18:15:07+00:00",
-      "modello": "claude"
     }
   ]
 }
