@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-01-28T18:54:35.268803+00:00",
+  "last_updated": "2026-01-29T03:06:12.522756+00:00",
   "items": [
+    {
+      "titolo": "These wireless headphones transported me to audio nirvana, and are my new all-time favorite",
+      "descrizione": "For those who long for sonic clarity in a brilliant design, the Dali IO-8 are an audiophile's dream.",
+      "link": "https://www.zdnet.com/article/dali-io-8-headphones-review/",
+      "fonte": "Latest news",
+      "data": "2026-01-29T02:52:00+00:00"
+    },
+    {
+      "titolo": "Can't upgrade to Windows 11? I found the best Linux distro to replace your Windows 10 PC",
+      "descrizione": "SDesk is a lightweight Linux distro with a familiar layout, ideal for Windows 11 users making the switch.",
+      "link": "https://www.zdnet.com/article/cant-upgrade-windows-11-best-linux-distro-sdesk/",
+      "fonte": "Latest news",
+      "data": "2026-01-29T02:43:00+00:00"
+    },
+    {
+      "titolo": "Mitsubishi ASX: per il suo ritorno mantiene la faccia e cambia anima | Video",
+      "descrizione": "Abbiamo avuto modo di mettere le mani sulla nuova Mitsubishi ASX con il rinnovato full-hybrid grazie al ritorno in Italia del brand con Bassadone Automotive Group",
+      "link": "https://www.hdmotori.it/prove/mitsubishi-asx-primo-contatto-prova-full-hybrid-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-28T19:30:01+00:00"
+    },
+    {
+      "titolo": "Google Pixel 9A dopo quasi un anno è il miglior smartphone di fascia media?",
+      "descrizione": "Abbiamo deciso di provare di nuovo il Google Pixel 9A ora che costa molto meno e si è aggiornato molto. Dopo circa un anno rischia di essere il miglior medio gamma da acquistare.",
+      "link": "https://www.hdblog.it/smartphone/speciali/n645271/google-pixel-9a-dopo-quasi-un-anno-e-il-miglior-smartphone-di-fascia-media/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-28T18:43:00+00:00"
+    },
+    {
+      "titolo": "Operazione \"Switch off\", smantellata rete pirata: 31 indagati, piattaforme sequestrate",
+      "descrizione": "Smantellata una vasta infrastruttura informatica utilizzata per alimentare servizi IPTV illegali",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n646370/smantellata-rete-iptv-pirata-31-indagati/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-28T18:41:00+00:00"
+    },
+    {
+      "titolo": "Galaxy S26 Ultra e il suo schermo speciale: Samsung conferma il Privacy Display",
+      "descrizione": "Di cosa sarà capace? Samsung ce ne dà un'anteprima con tanto di video.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646252/samsung-galaxy-s26-ultra-privacy-display-schermo/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-28T18:40:00+00:00"
+    },
+    {
+      "titolo": "Addio motore e banchina: la turbina che dà energia alle barche a vela",
+      "descrizione": "Una turbina compatta sul palo maestro produce energia mentre la barca naviga",
+      "link": "https://www.hdblog.it/green/articoli/n646109/urbina-eolica-barche-a-vela-grain-blanc/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-28T18:35:00+00:00"
+    },
     {
       "titolo": "Promo Iliad 5G: 250GB e prezzo bloccato, l’affare da cogliere al volo",
       "descrizione": "La nuova offerta Iliad 5G è quella che ti da tutto quello che ti serve con le migliori velocità di connessione. The post Promo Iliad 5G: 250GB e prezzo bloccato, l’affare da cogliere al volo appeared first on Punto Infor",
@@ -14,6 +63,13 @@
       "link": "https://www.zdnet.com/article/redmagic-air-11-android-review/",
       "fonte": "Latest news",
       "data": "2026-01-28T18:30:00+00:00"
+    },
+    {
+      "titolo": "Snapchat annuncia lo spin-off della divisione dedicata agli occhiali smart",
+      "descrizione": "Nasce Specs Inc., controllata al 100% da Snap stessa (per ora).",
+      "link": "https://www.hdblog.it/indossabili/articoli/n646401/snap-snapchat-spectacles-spin-off-specs/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-28T18:10:00+00:00"
     },
     {
       "titolo": "ARC Raiders, un hotel in Italia riceve recensioni 5 stelle grazie al gioco",
@@ -44,13 +100,6 @@
       "data": "2026-01-28T16:53:43+00:00"
     },
     {
-      "titolo": "Come sta cambiando la videosorveglianza domestica con la sicurezza predittiva",
-      "descrizione": "Ne parla Reolink.",
-      "link": "https://www.hdblog.it/domotica/articoli/n646376/ideosorveglianza-domestica-sicurezza-predittiva/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-28T16:10:00+00:00"
-    },
-    {
       "titolo": "Sprout è il robot morbido che potresti volere in casa",
       "descrizione": "Fauna Robotics ha svelato Sprout, un robot umanoide morbido, sicuro ed espressivo progettato per vivere fianco a fianco con le persone. The post Sprout è il robot morbido che potresti volere in casa appeared first on Pun",
       "link": "https://www.punto-informatico.it/sprout-robot-morbido/",
@@ -65,39 +114,11 @@
       "data": "2026-01-28T15:53:09+00:00"
     },
     {
-      "titolo": "Quantum computing: la startup Alice and Bob taglia gli errori di 10.000 volte",
-      "descrizione": "Un nuovo metodo riduce gli errori nel quantum computing fino a 10.000 volte",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646366/quantum-computing-elevator-code-alice-bob/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-28T15:40:00+00:00"
-    },
-    {
       "titolo": "Windows 11 consente di proseguire le attività dal telefono al PC",
       "descrizione": "Windows 11 consente di riprendere le app Android iniziate sul telefono, come Office o Spotify, sul PC senza interruzioni. The post Windows 11 consente di proseguire le attività dal telefono al PC appeared first on Punto",
       "link": "https://www.punto-informatico.it/windows-11-consente-proseguire-attivita-telefono-pc/",
       "fonte": "Punto Informatico",
       "data": "2026-01-28T15:26:40+00:00"
-    },
-    {
-      "titolo": "Cina, ci siamo: arriva l'approvazione per i chip NVIDIA H200",
-      "descrizione": "Ne avrebbe proprio bisogno.",
-      "link": "https://www.hdblog.it/nvidia/articoli/n646345/cina-chip-nvidia-h200/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-28T15:20:00+00:00"
-    },
-    {
-      "titolo": "Annunciato Reigns The Witcher, lo spin-off narrativo della saga",
-      "descrizione": "Un nuovo spin-off di The Witcher tra ironia, scelte morali e carte",
-      "link": "https://www.hdblog.it/games/articoli/n646367/reigns-the-witcher-spin-off/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-28T15:10:00+00:00"
-    },
-    {
-      "titolo": "OnePlus 15R è già in offerta e il prezzo ora è quello giusto",
-      "descrizione": "Il OnePlus 15R è già in offerta e diventa oggi un vero e proprio best buy della fascia media con uno sconto di oltre 150 euro rispetto al listino.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n646378/oneplus-15r-offerta-jan26/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-28T15:05:00+00:00"
     },
     {
       "titolo": "Amazon licenzia altre 16.000 persone, pesa l’AI",
@@ -147,27 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/apple-and-nvidia-considering-intel-for-2028-chip-production-report-claims-non-core-products-may-be-outsourced-driven-by-tariffs-and-geopolitical-concerns",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-28T13:54:07+00:00"
-    },
-    {
-      "titolo": "SK hynix invests $10 billion in creating a U.S.-based 'AI solutions' company — company to restructure California-based Solidigm enterprise SSD brand to bolster American investments",
-      "descrizione": "Memory maker SK hynix has announced plans to invest $10 billion into a new AI solutions company, with the huge fund set to benefit the AI industry at large. The move follows similar investments made by other companies, s",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-invests-usd10-billion-in-creating-a-u-s-based-ai-solutions-company-company-to-restructure-california-based-solidigm-enterprise-ssd-brand-to-bolster-american-investments",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-28T13:34:05+00:00"
-    },
-    {
-      "titolo": "De-escalation sì, ma al fianco di Trump: parla Tim Cook",
-      "descrizione": "L'invito di Tim Cook alla de-escalation con un messaggio che riflette il delicato equilibrio tra Big Tech, politica e opinione pubblica. The post De-escalation sì, ma al fianco di Trump: parla Tim Cook appeared first on",
-      "link": "https://www.punto-informatico.it/de-escalation-tim-cook/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-28T13:09:26+00:00"
-    },
-    {
-      "titolo": "Sony Bravia 5 Review: An Excellent Mid-Tier TV for Cinephiles",
-      "descrizione": "This mid-tier Sony comes with its highest-end processor, and that's a big deal for home theater nerds.",
-      "link": "https://www.wired.com/review/sony-bravia-5/",
-      "fonte": "WIRED",
-      "data": "2026-01-28T13:04:00+00:00"
     }
   ]
 }
