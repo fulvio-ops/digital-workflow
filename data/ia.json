@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T03:07:27.905635+00:00",
+  "last_updated": "2026-01-30T07:09:00.463702+00:00",
   "items": [
     {
       "titolo": "L’AI è in un’eterna fase beta: Sam Altman su GPT 5.2",
@@ -10,11 +10,11 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google cambia ancora la Ricerca: Gemini 3 diventa il nuovo motore dell’AI",
-      "descrizione": "Due novità: al “cerco e clicco” si aggiunge “chiedo e parlo”. Con Gemini 3 meno link, più dialogo?",
-      "link": "https://www.ilsole24ore.com/art/google-cambia-ancora-ricerca-gemini-3-diventa-nuovo-motore-dell-ai-AI7sNc5",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-27T17:06:10+00:00",
+      "titolo": "Su Google Maps arriva Gemini per la navigazione a piedi e in bici",
+      "descrizione": "Google Maps integra Gemini su iOS e Android per supportare la navigazione a piedi e in bicicletta con assistenza vocale a mani libere. The post Su Google Maps arriva Gemini per la navigazione a piedi e in bici appeared f",
+      "link": "https://www.punto-informatico.it/google-maps-gemini-navigazione-a-piedi-bici/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-30T06:10:01+00:00",
       "modello": "gemini"
     }
   ]

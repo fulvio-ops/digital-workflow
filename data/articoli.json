@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-01-30T03:07:21.197363+00:00",
+  "last_updated": "2026-01-30T07:08:56.369662+00:00",
   "items": [
+    {
+      "titolo": "Perché in rete tutti parlano di Clawdbot, ribattezzato Moltbot?",
+      "descrizione": "Secondo alcuni è l’assistente che molti utenti desideravano, ma che nessuna grande azienda avrebbe potuto progettare e lanciare",
+      "link": "https://www.ilsole24ore.com/art/perche-rete-tutti-parlano-clawdbot-ribattezzato-moltbot-AIVdu17",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-30T06:59:00+00:00"
+    },
+    {
+      "titolo": "Google Chrome, occhio alla RAM: potrà avviarsi in automatico all'accensione del PC",
+      "descrizione": "La nuova funzione è comparsa su Chrome Canary: perché potrebbe essere un problema.",
+      "link": "https://www.hdblog.it/google/articoli/n646582/google-chrome-avvio-automatico-windows-cosumo-ram/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-30T06:05:00+00:00"
+    },
+    {
+      "titolo": "Apple, il miglior trimestre di sempre: 143,8 miliardi di ricavi, iPhone cresce del 23%",
+      "descrizione": "Il contributo principale arriva ancora una volta da iPhone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646573/apple-miglior-trimestre-di-sempre/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-30T05:50:00+00:00"
+    },
+    {
+      "titolo": "Musk vuole fondere SpaceX con Tesla o xAI entro giugno",
+      "descrizione": "SpaceX potrebbe fondersi con Tesla o xAI prima dell'offerta pubblica iniziale prevista per giugno per consolidare ulteriormente l'impero aziendale. The post Musk vuole fondere SpaceX con Tesla o xAI entro giugno appeared",
+      "link": "https://www.punto-informatico.it/musk-vuole-fondere-spacex-tesla-xai-entro-giugno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-30T05:46:47+00:00"
+    },
     {
       "titolo": "I replaced my work laptop with a dual-screen Asus, and it revitalized my workflow in the best way",
       "descrizione": "Asus' 2026 Zenbook Duo gets more refined, merging notable design updates with Intel's Panther Lake CPU.",
@@ -140,34 +168,6 @@
       "link": "https://www.hdblog.it/nintendo/articoli/n646521/tomodachi-life-una-vita-da-sogno-direct/",
       "fonte": "HDblog.it",
       "data": "2026-01-29T16:45:00+00:00"
-    },
-    {
-      "titolo": "Google Pixel Buds 2a, non vi piacciono i colori? In arrivo due nuove tonalità",
-      "descrizione": "Uno sgargiante e uno più tenue.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n646541/google-pixel-buds-2a-nuovi-colori-rosso-prezzo-10a/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-29T16:35:00+00:00"
-    },
-    {
-      "titolo": "Stellantis: il piano strategico sarà presentato il 21 maggio",
-      "descrizione": "In occasione dell’Investor Day il Gruppo mostrerà l’atteso programma strategico.",
-      "link": "https://www.hdmotori.it/stellantis-presentazione-piano-strategico-investor-day/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-29T16:30:30+00:00"
-    },
-    {
-      "titolo": "8 modi di usare l’AI per risparmiare tempo nella vita di tutti i giorni",
-      "descrizione": "Come l'AI viene usata nel quotidiano per risparmiare tempo, con esempi concreti, prompt pratici e attività che funzionano davvero. The post 8 modi di usare l’AI per risparmiare tempo nella vita di tutti i giorni appeared",
-      "link": "https://www.punto-informatico.it/8-modi-di-usare-lai-per-risparmiare-tempo-vita-tutti-giorni/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-29T16:30:06+00:00"
-    },
-    {
-      "titolo": "Nvidia’s Campaign to Sell AI Chips to China Finally Pays Off",
-      "descrizione": "Beijing reportedly approved the sale of hundreds of thousands of Nvidia H200 chips to Chinese AI companies—the culmination of a dramatic shift in US tech policy.",
-      "link": "https://www.wired.com/story/made-in-china-china-nvidia-h200-beijing-approval/",
-      "fonte": "WIRED",
-      "data": "2026-01-29T16:10:53+00:00"
     }
   ]
 }
