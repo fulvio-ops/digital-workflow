@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-01-30T13:30:58.471135+00:00",
+  "last_updated": "2026-01-30T19:03:04.105450+00:00",
   "items": [
     {
-      "titolo": "Windows 11 con barra in alto stile macOS? Con PowerToys potrebbe diventare realtà",
-      "descrizione": "Microsoft ha realizzato i primi mockup e ora cerca di capire se agli utenti potrebbe effettivamente interessare.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n646659/windows-11-powertoys-barra-superiore-macos/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-30T12:15:00+00:00",
+      "titolo": "OpenAI is retiring GPT-4o - again: What it means for you, and why some users are upset",
+      "descrizione": "Free ChatGPT users shouldn't notice much of a change, but some devoted 4o users are already clearly disgruntled.",
+      "link": "https://www.zdnet.com/article/openai-retiring-gpt-4o/",
+      "fonte": "Latest news",
+      "data": "2026-01-30T18:24:47+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Nadella: “Copilot usatissimo”, gli investitori non ci credono",
-      "descrizione": "Satya Nadella assicura che Copilot è usatissimo dopo che il titolo Microsoft perde valore nonostante gli utili record da 81,3 miliardi di dollari. The post Nadella: “Copilot usatissimo”, gli investitori non ci credono ap",
-      "link": "https://www.punto-informatico.it/nadella-copilot-usatissimo-investitori-non-ci-credono/",
+      "titolo": "Avremo un Windows 11 più pulito: via Copilot e AI",
+      "descrizione": "Microsoft cambia strategia: Copilot e l'AI restano in Windows 11, ma saranno meno invasivi dopo le critiche e i feedback degli utenti. The post Avremo un Windows 11 più pulito: via Copilot e AI appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/windows-11-pulito-copilot-ai/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-30T12:51:46+00:00",
+      "data": "2026-01-30T14:37:42+00:00",
       "modello": "copilot"
     },
     {
-      "titolo": "Google cambia ancora la Ricerca: Gemini 3 diventa il nuovo motore dell’AI",
-      "descrizione": "Due novità: al “cerco e clicco” si aggiunge “chiedo e parlo”. Con Gemini 3 meno link, più dialogo?",
-      "link": "https://www.ilsole24ore.com/art/google-cambia-ancora-ricerca-gemini-3-diventa-nuovo-motore-dell-ai-AI7sNc5",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-01-27T17:06:10+00:00",
+      "titolo": "Apple racconta la nuova Siri con Gemini e chiarisce il ruolo di Google",
+      "descrizione": "Apple spiega il ruolo di Gemini nella nuova Siri e come verrà gestita la privacy",
+      "link": "https://www.hdblog.it/google/articoli/n646690/nuova-siri-gemini-apple-come-funziona/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-30T15:40:00+00:00",
       "modello": "gemini"
     },
     {
