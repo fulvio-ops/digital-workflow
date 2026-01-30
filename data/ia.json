@@ -1,21 +1,45 @@
 {
-  "last_updated": "2026-01-30T07:09:00.463702+00:00",
+  "last_updated": "2026-01-30T13:30:58.471135+00:00",
   "items": [
     {
-      "titolo": "L’AI è in un’eterna fase beta: Sam Altman su GPT 5.2",
-      "descrizione": "Sam Altman riconosce i limiti e i punti deboli del nuovo modello: OpenAI ha privilegiato aspetti tecnici, sacrificando qualità e scrittura. The post L’AI è in un’eterna fase beta: Sam Altman su GPT 5.2 appeared first on",
-      "link": "https://www.punto-informatico.it/ai-eterna-fase-beta-sam-altman-gpt-5-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-29T13:49:03+00:00",
+      "titolo": "Windows 11 con barra in alto stile macOS? Con PowerToys potrebbe diventare realtà",
+      "descrizione": "Microsoft ha realizzato i primi mockup e ora cerca di capire se agli utenti potrebbe effettivamente interessare.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n646659/windows-11-powertoys-barra-superiore-macos/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-30T12:15:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Su Google Maps arriva Gemini per la navigazione a piedi e in bici",
-      "descrizione": "Google Maps integra Gemini su iOS e Android per supportare la navigazione a piedi e in bicicletta con assistenza vocale a mani libere. The post Su Google Maps arriva Gemini per la navigazione a piedi e in bici appeared f",
-      "link": "https://www.punto-informatico.it/google-maps-gemini-navigazione-a-piedi-bici/",
+      "titolo": "Nadella: “Copilot usatissimo”, gli investitori non ci credono",
+      "descrizione": "Satya Nadella assicura che Copilot è usatissimo dopo che il titolo Microsoft perde valore nonostante gli utili record da 81,3 miliardi di dollari. The post Nadella: “Copilot usatissimo”, gli investitori non ci credono ap",
+      "link": "https://www.punto-informatico.it/nadella-copilot-usatissimo-investitori-non-ci-credono/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-30T06:10:01+00:00",
+      "data": "2026-01-30T12:51:46+00:00",
+      "modello": "copilot"
+    },
+    {
+      "titolo": "Google cambia ancora la Ricerca: Gemini 3 diventa il nuovo motore dell’AI",
+      "descrizione": "Due novità: al “cerco e clicco” si aggiunge “chiedo e parlo”. Con Gemini 3 meno link, più dialogo?",
+      "link": "https://www.ilsole24ore.com/art/google-cambia-ancora-ricerca-gemini-3-diventa-nuovo-motore-dell-ai-AI7sNc5",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-01-27T17:06:10+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Anthropic: pirateria musicale da 3 miliardi di dollari",
+      "descrizione": "Universal Music Group (UMG), Concord e ABKCO hanno presentato una seconda denuncia contro Anthropic per violazione dei diritti d'autore. The post Anthropic: pirateria musicale da 3 miliardi di dollari appeared first on P",
+      "link": "https://www.punto-informatico.it/anthropic-pirateria-musicale-3-miliardi-dollari/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-30T12:06:17+00:00",
+      "modello": "claude"
+    },
+    {
+      "titolo": "Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the in",
+      "descrizione": "Nvidia has strongly pushed back against a report that says it provided technical assistance to DeepSeek",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-chinese-military-dependence-on-american-tech-would-be-nonsensical-following-us-govt-agencys-claims-it-assisted-deepseek-with-training-ai-models-says-admins-critics-are-unintentionally-promoting-the-interests-of-foreign-competitors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-30T12:08:05+00:00",
+      "modello": "altri"
     }
   ]
 }
