@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-31T06:59:40.093030+00:00",
+  "last_updated": "2026-01-31T13:10:58.198903+00:00",
   "items": [
     {
-      "titolo": "OpenAI is retiring GPT-4o - again: What it means for you, and why some users are upset",
-      "descrizione": "Free ChatGPT users shouldn't notice much of a change, but some devoted 4o users are already clearly disgruntled.",
-      "link": "https://www.zdnet.com/article/openai-retiring-gpt-4o/",
+      "titolo": "How to learn ChatGPT in an hour - for free",
+      "descrizione": "Want to learn ChatGPT fast? Here are the top videos and guides I recommend - and they're all free.",
+      "link": "https://www.zdnet.com/article/how-to-learn-chatgpt-fast-free/",
       "fonte": "Latest news",
-      "data": "2026-01-30T18:24:47+00:00",
+      "data": "2026-01-31T11:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "copilot"
     },
     {
-      "titolo": "Apple racconta la nuova Siri con Gemini e chiarisce il ruolo di Google",
-      "descrizione": "Apple spiega il ruolo di Gemini nella nuova Siri e come verrà gestita la privacy",
-      "link": "https://www.hdblog.it/google/articoli/n646690/nuova-siri-gemini-apple-come-funziona/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-30T15:40:00+00:00",
+      "titolo": "Come usare NotebookLM efficacemente insieme ad altri tool",
+      "descrizione": "NotebookLM è potentissimo per la ricerca e la sintesi, ma dà il meglio se affiancato ad altri strumenti, come Gemini, Notion e Perplexity. The post Come usare NotebookLM efficacemente insieme ad altri tool appeared first",
+      "link": "https://www.punto-informatico.it/come-usare-notebooklm-efficacemente-insieme-altri-tool/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-31T08:00:23+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic: pirateria musicale da 3 miliardi di dollari",
-      "descrizione": "Universal Music Group (UMG), Concord e ABKCO hanno presentato una seconda denuncia contro Anthropic per violazione dei diritti d'autore. The post Anthropic: pirateria musicale da 3 miliardi di dollari appeared first on P",
-      "link": "https://www.punto-informatico.it/anthropic-pirateria-musicale-3-miliardi-dollari/",
+      "titolo": "Perseverance: percorso di 456 metri tracciato da Claude",
+      "descrizione": "All'inizio di dicembre 2025, Perseverance ha percorso 456 metri su Marte seguendo il percorso generato da Claude Code, agente AI di Anthropic. The post Perseverance: percorso di 456 metri tracciato da Claude appeared fir",
+      "link": "https://www.punto-informatico.it/perseverance-percorso-456-metri-tracciato-claude/",
       "fonte": "Punto Informatico",
-      "data": "2026-01-30T12:06:17+00:00",
+      "data": "2026-01-31T12:10:31+00:00",
       "modello": "claude"
     },
     {
