@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-01-31T13:10:53.935696+00:00",
+  "last_updated": "2026-01-31T18:50:43.922594+00:00",
   "items": [
+    {
+      "titolo": "External disc drive now a mere $9.99 on Woot — Access any CD or DVD with a modern USB-C interface at 55% off",
+      "descrizione": "If you're looking for a cheap but straightforward solution to access your old media locked behind an outdated storage medium, or just want to respect tradition and hold onto DVD/CDs, this external disc drive is the perfe",
+      "link": "https://www.tomshardware.com/pc-components/external-disc-drive-now-a-mere-usd9-99-on-woot-access-any-cd-or-dvd-with-a-modern-usb-c-interface-at-55-percent-off",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-31T18:22:40+00:00"
+    },
+    {
+      "titolo": "Wisconsin towns reportedly signed secret NDAs for billion-dollar data center deals — Microsoft and Meta hide behind confidential agreements",
+      "descrizione": "At least four Wisconsin municipalities are understood to have signed underhanded nondisclosure agreements concerning new data centers while negotiating their development.",
+      "link": "https://www.tomshardware.com/tech-industry/wisconsin-towns-signed-underhanded-ndas-while-negotiating-billion-dollar-data-centers",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-31T17:03:24+00:00"
+    },
+    {
+      "titolo": "Amazon investirà 50 miliardi di dollari in OpenAI?",
+      "descrizione": "Secondo le fonti del WSJ, Amazon dovrebbe investire fino a 50 miliardi di dollari in OpenAI, ma al momento non ci sono dettagli sull'accordo. The post Amazon investirà 50 miliardi di dollari in OpenAI? appeared first on",
+      "link": "https://www.punto-informatico.it/amazon-investira-50-milioni-dollari-openai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-31T16:33:18+00:00"
+    },
+    {
+      "titolo": "Fitbit, la migrazione obbligatoria verso l'account Google ha una nuova scadenza",
+      "descrizione": "Quando e cosa cambia davvero per gli utenti Fitbit.",
+      "link": "https://www.hdblog.it/google/articoli/n646750/fitbit-google-migrazione-account-scadenza-quando/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-31T16:15:00+00:00"
+    },
+    {
+      "titolo": "Nvidia's plan to invest $100 billion in OpenAI appears unlikely — Jensen reportedly criticizing OpenAI's business decisions in private discussions",
+      "descrizione": "Nvidia and OpenAI are still in talks about the $100-billion MOU the two parties signed in September 2025, and it seems that deal will be modified for a much \"smaller\" sum of tens of billions of dollars.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-plan-to-invest-usd100-billion-in-openai-appears-unlikely-jensen-reportedly-criticizing-openais-business-decisions-in-private-discussions",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-31T15:22:42+00:00"
+    },
+    {
+      "titolo": "L'iPhone pieghevole sarà quello con la batteria più grande di sempre",
+      "descrizione": "Un rumor ci anticipa la possibile capienza.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646747/iphone-pieghevole-batteria-grande-sempre-5500-mah/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-31T15:00:00+00:00"
+    },
+    {
+      "titolo": "Gli smartphone sono già più cari: prezzo medio sopra i 400 dollari per la prima volta",
+      "descrizione": "Nel 2026 i prezzi aumenteranno: ma la verità è che il processo è già iniziato.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646746/smartphione-prezz-crescita-piu-cari-2026-2025/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-31T14:45:00+00:00"
+    },
+    {
+      "titolo": "pCloud sconta i piani a vita: cloud sicuro a partire da 199 euro",
+      "descrizione": "Con pCloud puoi ottenere un spazio cloud sicuro per sempre, senza abbonamenti, ora con sconti sui piani lifetime fino a 700€ in meno. The post pCloud sconta i piani a vita: cloud sicuro a partire da 199 euro appeared fir",
+      "link": "https://www.punto-informatico.it/pcloud-sconta-i-piani-a-vita-cloud-sicuro-a-partire-da-199-euro/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-31T14:23:14+00:00"
+    },
+    {
+      "titolo": "Maingear brings back the 90s nostalgia with old-school pre-built PCs with RTX 5090 and Ryzen 9 9950X3D — limited edition Retro98 PCs are available now",
+      "descrizione": "Maingear is offering a high-end retro gaming PC based on the Silverstone FLOP02 \"beige box\" case, with a limited run of 38 units.",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/maingear-brings-back-the-90s-nostalgia-with-old-school-pre-built-pcs-with-rtx-5090-and-ryzen-9-9950x3d-limited-edition-retro98-pcs-are-available-now",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-31T14:10:13+00:00"
+    },
     {
       "titolo": "Best Buy is selling last year's Sony flagship OLED for $1,100 off - and I highly recommend the TV",
       "descrizione": "Sony's Bravia 8 II is worth every penny of its retail price, but it's even better when you can snag one for this much off.",
@@ -14,6 +77,13 @@
       "link": "https://www.zdnet.com/article/best-reseller-web-hosting-services/",
       "fonte": "Latest news",
       "data": "2026-01-31T13:00:48+00:00"
+    },
+    {
+      "titolo": "Con One UI 8.5 Samsung cambia come si modificano le foto, almeno per la sfocatura",
+      "descrizione": "E non per forza in meglio: vediamo le novità in arrivo",
+      "link": "https://www.hdblog.it/samsung/articoli/n646713/one-ui-8-5-sfocatura-foto-ritratto-blur-samsung/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-31T12:35:00+00:00"
     },
     {
       "titolo": "Perseverance: percorso di 456 metri tracciato da Claude",
@@ -86,13 +156,6 @@
       "data": "2026-01-31T08:30:02+00:00"
     },
     {
-      "titolo": "Apple, il primo assegno della sua storia battuto all'asta per 2,4 milioni di dollari",
-      "descrizione": "Il lotto più importante e costoso della \"Steve Jobs & the Computer Revolution: The Apple 50th Anniversary Auction\"",
-      "link": "https://www.hdblog.it/apple/articoli/n646731/apple-primo-assegno-dstoria-milioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T08:25:00+00:00"
-    },
-    {
       "titolo": "Come usare NotebookLM efficacemente insieme ad altri tool",
       "descrizione": "NotebookLM è potentissimo per la ricerca e la sintesi, ma dà il meglio se affiancato ad altri strumenti, come Gemini, Notion e Perplexity. The post Come usare NotebookLM efficacemente insieme ad altri tool appeared first",
       "link": "https://www.punto-informatico.it/come-usare-notebooklm-efficacemente-insieme-altri-tool/",
@@ -100,74 +163,11 @@
       "data": "2026-01-31T08:00:23+00:00"
     },
     {
-      "titolo": "Inverno e auto elettriche, maxi test sull'autonomia reale in Norvegia: Lucid Air batte tutti",
-      "descrizione": "Batterie, freddo e autonomia: il Winter Test mostra come si comportano oggi le auto elettriche in inverno",
-      "link": "https://www.hdmotori.it/test-vernale-2026-auto-elettriche-autonomia-risultati/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T08:00:12+00:00"
-    },
-    {
-      "titolo": "Sony LinkBuds Clip: buona la prima...o quasi",
-      "descrizione": "Abbiamo provato a fondo le nuove LinkBuds Clip di Sony, le prime del brand ad adottare un design \"ad orecchino\".",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n646372/sony-linkbuds-clip-buona-la-primao-quasi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T08:00:00+00:00"
-    },
-    {
-      "titolo": "Gaia racconta la Toscana con OPPO Reno15, ecco le foto",
-      "descrizione": "Un'artista italiano accompagna il lancio italiano. Ovvio, no?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646696/oppo-campagna-marketing-gaia-gozzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T07:45:00+00:00"
-    },
-    {
-      "titolo": "Xpeng P7+, interni e bagagliaio della nuova ammiraglia elettrica",
-      "descrizione": "La nuova Xpeng P7+ sarà disponibile in Italia tra pochi mesi e offrirà spazio, comfort e tanta tecnologia",
-      "link": "https://www.hdmotori.it/xpeng-p7-interni-bagagliaio/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T07:30:38+00:00"
-    },
-    {
-      "titolo": "Nuova FIAT Qubo L vs Renault Kangoo, sfida tra multispazio: confronto e prezzi",
-      "descrizione": "FIAT Qubo L arriverà tra pochi mesi sul mercato italiano; mettiamola a confronto con la Renault Kangoo",
-      "link": "https://www.hdmotori.it/nuova-fiat-qubo-l-vs-renault-kangoo-confronto-versioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T07:00:32+00:00"
-    },
-    {
       "titolo": "20% Off LG Promo Code & Coupons | February 2026",
       "descrizione": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
       "link": "https://www.wired.com/story/lg-promo-code/",
       "fonte": "WIRED",
       "data": "2026-01-31T06:10:00+00:00"
-    },
-    {
-      "titolo": "Amazon Haul ha tantissime genialate a meno di 20€ oggi",
-      "descrizione": "Amazon Haul ha tantissime genialate in offerte a meno di 20 euro solo per oggi: approfitta subito di queste incredibili promozioni. The post Amazon Haul ha tantissime genialate a meno di 20€ oggi appeared first on Punto",
-      "link": "https://www.punto-informatico.it/amazon-haul-ha-tantissime-genialate-a-meno-di-20e-oggi/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-31T06:00:35+00:00"
-    },
-    {
-      "titolo": "Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing",
-      "descrizione": "Donald Trump has appeared to undermine Second Amendment rights in statements about Alex Pretti’s killing. Many in the firearms community are going along with it.",
-      "link": "https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/",
-      "fonte": "WIRED",
-      "data": "2026-01-30T22:49:24+00:00"
-    },
-    {
-      "titolo": "Trading criptovalute: i piani di abbonamento della piattaforma Coinbase",
-      "descrizione": "Una panoramica sui piani Basic, Preferito e Premium dell'abbonamento Coinbase One rivolto agli utenti comuni. The post Trading criptovalute: i piani di abbonamento della piattaforma Coinbase appeared first on Punto Infor",
-      "link": "https://www.punto-informatico.it/fintech/criptovalute/trading-criptovalute-i-piani-di-abbonamento-della-piattaforma-coinbase/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-30T20:30:23+00:00"
-    },
-    {
-      "titolo": "REDMAGIC 11 Air disponibile in Italia a 499 euro",
-      "descrizione": "Il nuovo REDMAGIC 11 Air con schermo OLED da 6,85 pollici, processore Snapdragon 8 Elite e 12/16 GB di RAM può essere acquistato a partire da 499 euro. The post REDMAGIC 11 Air disponibile in Italia a 499 euro appeared f",
-      "link": "https://www.punto-informatico.it/redmagic-11-air-disponibile-italia-499-euro/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-30T18:19:26+00:00"
     }
   ]
 }

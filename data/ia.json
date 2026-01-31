@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-01-31T13:10:58.198903+00:00",
+  "last_updated": "2026-01-31T18:50:47.865166+00:00",
   "items": [
     {
-      "titolo": "How to learn ChatGPT in an hour - for free",
-      "descrizione": "Want to learn ChatGPT fast? Here are the top videos and guides I recommend - and they're all free.",
-      "link": "https://www.zdnet.com/article/how-to-learn-chatgpt-fast-free/",
-      "fonte": "Latest news",
-      "data": "2026-01-31T11:00:00+00:00",
+      "titolo": "Amazon investirà 50 miliardi di dollari in OpenAI?",
+      "descrizione": "Secondo le fonti del WSJ, Amazon dovrebbe investire fino a 50 miliardi di dollari in OpenAI, ma al momento non ci sono dettagli sull'accordo. The post Amazon investirà 50 miliardi di dollari in OpenAI? appeared first on",
+      "link": "https://www.punto-informatico.it/amazon-investira-50-milioni-dollari-openai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-31T16:33:18+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Avremo un Windows 11 più pulito: via Copilot e AI",
-      "descrizione": "Microsoft cambia strategia: Copilot e l'AI restano in Windows 11, ma saranno meno invasivi dopo le critiche e i feedback degli utenti. The post Avremo un Windows 11 più pulito: via Copilot e AI appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/windows-11-pulito-copilot-ai/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-30T14:37:42+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Come usare NotebookLM efficacemente insieme ad altri tool",
-      "descrizione": "NotebookLM è potentissimo per la ricerca e la sintesi, ma dà il meglio se affiancato ad altri strumenti, come Gemini, Notion e Perplexity. The post Come usare NotebookLM efficacemente insieme ad altri tool appeared first",
-      "link": "https://www.punto-informatico.it/come-usare-notebooklm-efficacemente-insieme-altri-tool/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-31T08:00:23+00:00",
+      "titolo": "Gaming market melts down after Google reveals new AI game design tool — Project Genie crashes stocks for Roblox, Nintendo, CD Projekt Red, and more",
+      "descrizione": "Google's Project Genie can generate games using the company's Genie 3 model, which is trained on prompts from Gemini. It's an experimental tool that doesn't even create fully playable games, but it was still enough to sh",
+      "link": "https://www.tomshardware.com/video-games/gaming-market-melts-down-after-google-reveals-new-ai-game-design-tool-project-genie-crashes-stocks-for-roblox-nintendo-cd-projekt-red-and-more",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-31T15:46:07+00:00",
       "modello": "gemini"
     },
     {
