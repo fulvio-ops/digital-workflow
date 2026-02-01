@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-02-01T13:12:56.924917+00:00",
+  "last_updated": "2026-02-01T18:55:06.053832+00:00",
   "items": [
+    {
+      "titolo": "Moltbook: bug consente il controllo degli agenti AI",
+      "descrizione": "Un'errata configurazione del database consentiva di prendere il controllo degli agenti AI iscritti al social network Moltbook. The post Moltbook: bug consente il controllo degli agenti AI appeared first on Punto Informat",
+      "link": "https://www.punto-informatico.it/moltbook-bug-consente-controllo-agenti-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-01T17:34:03+00:00"
+    },
+    {
+      "titolo": "Former Google engineer convicted of stealing GPU and TPU trade secrets for 'Chinese interests' — tried to raise funding for his own start-up",
+      "descrizione": "A federal jury in San Francisco has convicted a former Google engineer of stealing confidential AI infrastructure data and transferring it to benefit Chinese interests.",
+      "link": "https://www.tomshardware.com/tech-industry/former-google-engineer-convicted-of-stealing-gpu-and-tpu-trade-secrets",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-01T16:21:52+00:00"
+    },
+    {
+      "titolo": "Chinese researchers discover new salty cooling solution that can drop temperatures by more than 50 degrees Celsius in seconds — depressurizing saturated fluid triggers massive amounts of heat transfer",
+      "descrizione": "Chinese researchers developed a salt solution that absorbs large amounts of heat when depressurized, making it a potential substitute to traditional, power intensive cooling solutions used in data centers.",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/chinese-researchers-discover-new-salty-cooling-solution-that-can-drop-temperatures-by-more-than-50-degrees-celsius-in-seconds-depressurizing-saturated-fluid-triggers-massive-amounts-of-heat-transfer",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-01T16:16:05+00:00"
+    },
+    {
+      "titolo": "Quattro esperti AI lasciano Apple dopo accordo con Google",
+      "descrizione": "Altri quattro ricercatori AI hanno lasciato Apple, in quanto contrari all'accordo con Google (che fornirà i modelli Gemini per Siri e funzionalità AI). The post Quattro esperti AI lasciano Apple dopo accordo con Google a",
+      "link": "https://www.punto-informatico.it/quattro-esperti-ai-lasciano-apple-dopo-accordo-google/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-01T16:12:16+00:00"
+    },
+    {
+      "titolo": "Amazon: CSAM nei dati di addestramento, fonte ignota",
+      "descrizione": "Amazon ha segnalato migliaia di contenuti pedopornografici (trovati nei dati di addestramento dei modelli), ma non ha fornito dettagli sull'origine. The post Amazon: CSAM nei dati di addestramento, fonte ignota appeared",
+      "link": "https://www.punto-informatico.it/amazon-csam-dati-addestramento-fonte-ignota/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-01T15:00:50+00:00"
+    },
+    {
+      "titolo": "Researcher builds bizarre 128-byte USB drive the size of a dinner plate using ancient pre-semiconductor magnetic core memory technology — data disappears once it is read, requiring special handling",
+      "descrizione": "A computing enthusiast has assembled one of the most bizarre low-capacity USB drives we have ever seen.",
+      "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/researcher-builds-bizarre-128-byte-usb-drive-the-size-of-a-dinner-plate-using-ancient-pre-semiconductor-magnetic-core-memory-technology-data-disappears-once-it-is-read-requiring-special-handling",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-01T14:27:00+00:00"
+    },
+    {
+      "titolo": "Sony e TCL, il telecomando passa di mano. Cosa accadrà ora?",
+      "descrizione": "Prima il dominio dei produttori di televisori coreani Samsung e Lg, poi la concorrenza dei cinesi hanno prodotto quella che per l’elettronica di consumo giapponese è la fine di un’era....",
+      "link": "https://www.ilsole24ore.com/art/sony-e-tcl-telecomando-passa-mano-cosa-accadra-ora-AIrba83",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-01T14:25:37+00:00"
+    },
+    {
+      "titolo": "This 30-second tweak means I never have to listen to flat audio on headphones and speakers again",
+      "descrizione": "There are many factors that go into producing high-quality sound through speakers and headphones. One way to improve that sound is via EQ.",
+      "link": "https://www.zdnet.com/article/what-is-eq-and-why-it-improves-headphone-speaker-sound/",
+      "fonte": "Latest news",
+      "data": "2026-02-01T14:00:43+00:00"
+    },
+    {
+      "titolo": "Febbraio inizia col botto: iPhone Air scontato di 340€ su Amazon, nuovo minimo storico",
+      "descrizione": "Amazon sconta di 340€ iPhone Air, portando lo smartphone Apple con design ultra-sottile e chip A19 Pro al nuovo minimo storico Amazon.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n646779/iphone-air-256gb-sconto-340e-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-01T13:28:00+00:00"
+    },
+    {
+      "titolo": "Starlink uses emergency fix to block Russian drones using its devices to bomb Ukraine — company looking for permanent solutions to stop unauthorized use of its service",
+      "descrizione": "The Ukrainian government has successfully blocked unauthorized Starlink terminals from operating within its borders, stopping Russian drones from using the internet service to strike targets deep within the country.",
+      "link": "https://www.tomshardware.com/tech-industry/starlink-uses-emergency-fix-to-block-russian-drones-using-its-devices-to-bomb-ukraine-company-looking-for-permanent-solutions-to-stop-unauthorized-use-of-its-service",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-01T13:27:33+00:00"
+    },
     {
       "titolo": "Intel ties AMD for most reliable CPUs in 2025 system builder report — Nvidia's Founders Edition GPUs dominate with the lowest failure rates",
       "descrizione": "Puget System just released its annual reliability report for 2025, noting which computer components suffered the least number of failures in testing and deployment.",
@@ -98,76 +168,6 @@
       "link": "https://www.hdblog.it/tecnologia/articoli/n646666/laboratorio-spaziale-cancro-europa/",
       "fonte": "HDblog.it",
       "data": "2026-02-01T08:55:00+00:00"
-    },
-    {
-      "titolo": "OnePlus 16, un leak anticipa tante specifiche: chip top e batteria enorme",
-      "descrizione": "Un identikit decisamente interessante.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646761/oneplus-16-specifiche-batteria-fotocamera-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T08:35:00+00:00"
-    },
-    {
-      "titolo": "Bentayga X Concept: il SUV Bentley pensato per il fuoristrada",
-      "descrizione": "Bentley spinge il Bentayga oltre l’asfalto con un concept estremo: più alto, più largo e pensato per il fuoristrada, senza rinunciare al lusso.",
-      "link": "https://www.hdmotori.it/bentley-bentayga-x-concept-off-road/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T08:30:01+00:00"
-    },
-    {
-      "titolo": "OnlyFans valuta la cessione della maggioranza a Architect Capital",
-      "descrizione": "OnlyFans tratta la vendita del 60% a Architect Capital per 5,5 miliardi di dollari.",
-      "link": "https://www.hdblog.it/mercato/articoli/n646762/onlyfans-vendita-architect-capital/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T08:15:00+00:00"
-    },
-    {
-      "titolo": "Dalle sneaker ai reggiseni: il corpo diventa una piattaforma tecnologica",
-      "descrizione": "Scarpe che promettono più concentrazione in gara, leggings “vivi” che usano batteri per ringiovanire la pelle, intimo con microperle che stimola il sistema linfatico. Benvenuti nell’era dei bio-wearabl",
-      "link": "https://www.ilsole24ore.com/art/dalle-sneaker-reggiseni-corpo-diventa-piattaforma-tecnologica-AIWzfC1",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-01T08:10:00+00:00"
-    },
-    {
-      "titolo": "Huawei FreeClip 2, la tecnologia a forma di orecchino suona anche bene",
-      "descrizione": "Non tappano i canali uditivi, pesano meno di una moneta e riconoscono da sole l’orecchio destro o sinistro. Ecco la nostra prova",
-      "link": "https://www.ilsole24ore.com/art/huawei-freeclip-2-tecnologia-forma-orecchino-suona-anche-bene-AI4H6m3",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-01T08:09:52+00:00"
-    },
-    {
-      "titolo": "M3 elettrica sì, ma BMW non rinuncia al 6 cilindri per la sua sportiva",
-      "descrizione": "BMW continua a sviluppare la M3 endotermica: il nuovo modello adotterà il design Neue Klasse",
-      "link": "https://www.hdmotori.it/bmw-m3-2027-benzina-foto-spia-anticipazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T08:00:03+00:00"
-    },
-    {
-      "titolo": "Freddo e vento in Florida rinviano il test di Artemis II",
-      "descrizione": "Il maltempo in Florida rinvia i test e sposta il lancio di Artemis II almeno all’8 febbraio",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646764/freddo-e-vento-in-florida-rinviano-il-test-di-artemis-ii/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T07:55:00+00:00"
-    },
-    {
-      "titolo": "Samsung Galaxy A56 in offerta flash: super prezzo per il mid-range (solo per oggi)",
-      "descrizione": "Il Samsung Galaxy A56 è in offerta e con un nuovo codice sconto diventa sempre di più un best buy per la fascia media.",
-      "link": "https://www.hdblog.it/smartphone/offerte/n646770/samsung-galaxy-a56-offerta-jan26/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T07:50:00+00:00"
-    },
-    {
-      "titolo": "Mercato auto Italia 2025: chi cresce di più e chi perde terreno",
-      "descrizione": "Nel 2025 il mercato auto italiano vede aumentare il peso dei costruttori cinesi, passati all’8,6% di quota",
-      "link": "https://www.hdmotori.it/mercato-auto-italia-2025-classifiche-modelli-top-flop/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T07:30:00+00:00"
-    },
-    {
-      "titolo": "Nuova Dacia Sandero vs FIAT Grande Panda, piccole a confronto: versioni e prezzi",
-      "descrizione": "Dacia Sandero si è rinnovata da poco e punta a continuare ad essere una best seller; sul mercato dovrà vedersela con la FIAT Grande Panda: confrontiamole",
-      "link": "https://www.hdmotori.it/nuova-dacia-sandero-vs-fiat-grande-panda-confronto-versioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T07:00:50+00:00"
     }
   ]
 }
