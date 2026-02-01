@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-01-31T18:50:43.922594+00:00",
+  "last_updated": "2026-02-01T03:29:41.687126+00:00",
   "items": [
+    {
+      "titolo": "Gli smartphone sono già più cari: prezzo medio sopra i 400 dollari per la prima volta",
+      "descrizione": "Nel 2026 i prezzi aumenteranno: ma la verità è che il processo è già iniziato.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646746/smartphione-prezz-crescita-piu-cari-2026-2025/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-31T18:30:00+00:00"
+    },
     {
       "titolo": "External disc drive now a mere $9.99 on Woot — Access any CD or DVD with a modern USB-C interface at 55% off",
       "descrizione": "If you're looking for a cheap but straightforward solution to access your old media locked behind an outdated storage medium, or just want to respect tradition and hold onto DVD/CDs, this external disc drive is the perfe",
       "link": "https://www.tomshardware.com/pc-components/external-disc-drive-now-a-mere-usd9-99-on-woot-access-any-cd-or-dvd-with-a-modern-usb-c-interface-at-55-percent-off",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-31T18:22:40+00:00"
+    },
+    {
+      "titolo": "L'iPhone pieghevole sarà quello con la batteria più grande di sempre",
+      "descrizione": "Un rumor ci anticipa la possibile capienza.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n646747/iphone-pieghevole-batteria-grande-sempre-5500-mah/",
+      "fonte": "HDblog.it",
+      "data": "2026-01-31T18:10:00+00:00"
     },
     {
       "titolo": "Wisconsin towns reportedly signed secret NDAs for billion-dollar data center deals — Microsoft and Meta hide behind confidential agreements",
@@ -35,20 +49,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-plan-to-invest-usd100-billion-in-openai-appears-unlikely-jensen-reportedly-criticizing-openais-business-decisions-in-private-discussions",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-01-31T15:22:42+00:00"
-    },
-    {
-      "titolo": "L'iPhone pieghevole sarà quello con la batteria più grande di sempre",
-      "descrizione": "Un rumor ci anticipa la possibile capienza.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646747/iphone-pieghevole-batteria-grande-sempre-5500-mah/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T15:00:00+00:00"
-    },
-    {
-      "titolo": "Gli smartphone sono già più cari: prezzo medio sopra i 400 dollari per la prima volta",
-      "descrizione": "Nel 2026 i prezzi aumenteranno: ma la verità è che il processo è già iniziato.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646746/smartphione-prezz-crescita-piu-cari-2026-2025/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T14:45:00+00:00"
     },
     {
       "titolo": "pCloud sconta i piani a vita: cloud sicuro a partire da 199 euro",
@@ -149,13 +149,6 @@
       "data": "2026-01-31T08:35:00+00:00"
     },
     {
-      "titolo": "Kia EV5, il nuovo SUV elettrico da oltre 500 km di autonomia | Video",
-      "descrizione": "Abbimo provato il nuovo SUV elettrico di KIA, ecco come va",
-      "link": "https://www.hdmotori.it/prove/kia-ev5-interni-motore-autonomia-prova-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T08:30:02+00:00"
-    },
-    {
       "titolo": "Come usare NotebookLM efficacemente insieme ad altri tool",
       "descrizione": "NotebookLM è potentissimo per la ricerca e la sintesi, ma dà il meglio se affiancato ad altri strumenti, come Gemini, Notion e Perplexity. The post Come usare NotebookLM efficacemente insieme ad altri tool appeared first",
       "link": "https://www.punto-informatico.it/come-usare-notebooklm-efficacemente-insieme-altri-tool/",
@@ -168,6 +161,13 @@
       "link": "https://www.wired.com/story/lg-promo-code/",
       "fonte": "WIRED",
       "data": "2026-01-31T06:10:00+00:00"
+    },
+    {
+      "titolo": "Amazon Haul ha tantissime genialate a meno di 20€ oggi",
+      "descrizione": "Amazon Haul ha tantissime genialate in offerte a meno di 20 euro solo per oggi: approfitta subito di queste incredibili promozioni. The post Amazon Haul ha tantissime genialate a meno di 20€ oggi appeared first on Punto",
+      "link": "https://www.punto-informatico.it/amazon-haul-ha-tantissime-genialate-a-meno-di-20e-oggi/",
+      "fonte": "Punto Informatico",
+      "data": "2026-01-31T06:00:35+00:00"
     }
   ]
 }
