@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-01T07:07:23.531077+00:00",
+  "last_updated": "2026-02-01T13:13:00.133956+00:00",
   "items": [
     {
-      "titolo": "L'iPhone pieghevole sarà quello con la batteria più grande di sempre",
-      "descrizione": "Un rumor ci anticipa la possibile capienza.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646747/iphone-pieghevole-batteria-grande-sempre-5500-mah/",
-      "fonte": "HDblog.it",
-      "data": "2026-01-31T18:10:00+00:00",
+      "titolo": "Open source IDE-ATAPI drive emulator launches for vintage computers — drop-in 3.5-inch bay solution can save oodles of optical and HDD images to a microSD",
+      "descrizione": "PicoIDE is touted as 'an open source IDE/ATAPI drive emulator for vintage computers.'",
+      "link": "https://www.tomshardware.com/pc-components/microsd-cards/open-source-ide-atapi-drive-emulator-launches-for-vintage-computers-drop-in-3-5-inch-bay-solution-can-save-oodles-of-optical-and-hdd-images-to-a-microsd",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-01T13:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,19 +18,19 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Perseverance: percorso di 456 metri tracciato da Claude",
-      "descrizione": "All'inizio di dicembre 2025, Perseverance ha percorso 456 metri su Marte seguendo il percorso generato da Claude Code, agente AI di Anthropic. The post Perseverance: percorso di 456 metri tracciato da Claude appeared fir",
-      "link": "https://www.punto-informatico.it/perseverance-percorso-456-metri-tracciato-claude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-01-31T12:10:31+00:00",
+      "titolo": "La NASA usa Claude per tracciare il percorso di Perseverance su Marte",
+      "descrizione": "Claude ha aiutato la NASA a pianificare un percorso del rover Perseverance su Marte",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n646763/nasa-claude-perseverance-marzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-01T12:05:00+00:00",
       "modello": "claude"
     },
     {
-      "titolo": "Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the in",
-      "descrizione": "Nvidia has strongly pushed back against a report that says it provided technical assistance to DeepSeek",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-chinese-military-dependence-on-american-tech-would-be-nonsensical-following-us-govt-agencys-claims-it-assisted-deepseek-with-training-ai-models-says-admins-critics-are-unintentionally-promoting-the-interests-of-foreign-competitors",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-30T12:08:05+00:00",
+      "titolo": "I tested local AI on my M1 Mac, expecting magic - and got a reality check instead",
+      "descrizione": "My not-so-quick experiment with Ollama taught me a hard lesson.",
+      "link": "https://www.zdnet.com/article/i-tried-local-ai-on-m1-mac-brutal-experience/",
+      "fonte": "Latest news",
+      "data": "2026-02-01T12:30:41+00:00",
       "modello": "altri"
     }
   ]
