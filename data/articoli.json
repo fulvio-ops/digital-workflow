@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-02-02T03:20:30.697311+00:00",
+  "last_updated": "2026-02-02T07:18:36.179965+00:00",
   "items": [
+    {
+      "titolo": "8 gadget imperdibili che ti cambieranno la vita",
+      "descrizione": "Scopri 8 gadget imperdibili che ti cambieranno letteralmente la vita una volta provati: li trovi in offerta speciale solo su Amazon. The post 8 gadget imperdibili che ti cambieranno la vita appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/8-gadget-imperdibili-per-il-tuo-smartphone/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T07:00:12+00:00"
+    },
+    {
+      "titolo": "Windows 11: questo update risolve il blocco Explorer.exe all’avvio",
+      "descrizione": "Microsoft rilascia KB5074105 per Windows 11. Risolve blocco critico Explorer.exe all'avvio con con certe app configurate per avvio automatico. The post Windows 11: questo update risolve il blocco Explorer.exe all’avvio a",
+      "link": "https://www.punto-informatico.it/windows-11-update-risolve-blocco-explorer-exe-avvio/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T06:42:28+00:00"
+    },
+    {
+      "titolo": "Google Contatti cambia look: così è più chiaro e moderno",
+      "descrizione": "Vediamo cosa cambia con l'ultimo aggiornamento.",
+      "link": "https://www.hdblog.it/google/articoli/n646797/google-contatti-aggiornamento-interfaccia-design/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T06:15:00+00:00"
+    },
+    {
+      "titolo": "Smart App Control: si può riattivare senza reinstallare Windows 11",
+      "descrizione": "Smart App Control impedisce l'esecuzione di software non affidabili. Ora si può riattivare senza reinstallare il sistema operativo. The post Smart App Control: si può riattivare senza reinstallare Windows 11 appeared fir",
+      "link": "https://www.punto-informatico.it/smart-app-control-si-puo-riattivare-senza-reinstallare-windows-11/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T06:04:48+00:00"
+    },
+    {
+      "titolo": "Panda Dome Essential imperdibile in offerta a soli 16€ l’anno",
+      "descrizione": "Sicurezza e privacy con Panda Dome Essential in offerta a soli 16€ l'anno è decisamente imperdibile: non perdere questa occasione. The post Panda Dome Essential imperdibile in offerta a soli 16€ l’anno appeared first on",
+      "link": "https://www.punto-informatico.it/panda-dome-essential-offerta-soli-16-euro-anno/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T05:30:34+00:00"
+    },
     {
       "titolo": "Moltbook: bug consente il controllo degli agenti AI",
       "descrizione": "Un'errata configurazione del database consentiva di prendere il controllo degli agenti AI iscritti al social network Moltbook. The post Moltbook: bug consente il controllo degli agenti AI appeared first on Punto Informat",
@@ -133,41 +168,6 @@
       "link": "https://www.punto-informatico.it/nordvpn-offerta-ultimi-giorni-sconto-70-per-cento/",
       "fonte": "Punto Informatico",
       "data": "2026-02-01T10:15:31+00:00"
-    },
-    {
-      "titolo": "Instagram pensa a un modo per uscire dalla lista Amici più intimi",
-      "descrizione": "Instagram lavora a una funzione per lasciare gli Amici più intimi altrui",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646724/instagram-amici-piu-intimi-uscire/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T10:05:00+00:00"
-    },
-    {
-      "titolo": "Nvidia nega problemi con OpenAI, ma i 100 miliardi di dollari? No",
-      "descrizione": "Il ceo di Nvidia smentisce le voci sull'insoddisfazione verso OpenAI, conferma il massiccio investimento, ma chiarisce, non 100 miliardi di dollari. The post Nvidia nega problemi con OpenAI, ma i 100 miliardi di dollari?",
-      "link": "https://www.punto-informatico.it/nvidia-nega-problemi-openai-100-milardi-dollari-no/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-01T09:35:40+00:00"
-    },
-    {
-      "titolo": "Apple cambia il modo in cui si acquistano i Mac sul suo store: più personalizzazione",
-      "descrizione": "Il Mac ora si ordina \"à la carte\": cosa cambia.",
-      "link": "https://www.hdblog.it/apple/articoli/n646760/apple-cambia-acquisto-mac-configurazione-store/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T09:35:00+00:00"
-    },
-    {
-      "titolo": "L’Europa porta la ricerca sul cancro nello spazio con un laboratorio orbitale",
-      "descrizione": "Un laboratorio in orbita bassa per studiare il cancro senza gli effetti della gravità",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646666/laboratorio-spaziale-cancro-europa/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T08:55:00+00:00"
-    },
-    {
-      "titolo": "OnePlus 16, un leak anticipa tante specifiche: chip top e batteria enorme",
-      "descrizione": "Un identikit decisamente interessante.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n646761/oneplus-16-specifiche-batteria-fotocamera-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T08:35:00+00:00"
     }
   ]
 }
