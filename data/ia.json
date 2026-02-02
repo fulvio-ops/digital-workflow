@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-02-01T18:55:10.002668+00:00",
+  "last_updated": "2026-02-02T03:20:34.440431+00:00",
   "items": [
     {
-      "titolo": "Open source IDE-ATAPI drive emulator launches for vintage computers — drop-in 3.5-inch bay solution can save oodles of optical and HDD images to a microSD",
-      "descrizione": "PicoIDE is touted as 'an open source IDE/ATAPI drive emulator for vintage computers.'",
-      "link": "https://www.tomshardware.com/pc-components/microsd-cards/open-source-ide-atapi-drive-emulator-launches-for-vintage-computers-drop-in-3-5-inch-bay-solution-can-save-oodles-of-optical-and-hdd-images-to-a-microsd",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-01T13:05:00+00:00",
+      "titolo": "Android 17 is shaping up to be a big win for Pixel users - but I still want these features",
+      "descrizione": "Android 17 is on the horizon, and there's already a lot of speculation about what it includes. Here's what I want with the next OS.",
+      "link": "https://www.zdnet.com/article/every-android-17-feature-confirmed-my-wishlist/",
+      "fonte": "Latest news",
+      "data": "2026-02-02T01:26:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Quattro esperti AI lasciano Apple dopo accordo con Google",
-      "descrizione": "Altri quattro ricercatori AI hanno lasciato Apple, in quanto contrari all'accordo con Google (che fornirà i modelli Gemini per Siri e funzionalità AI). The post Quattro esperti AI lasciano Apple dopo accordo con Google a",
-      "link": "https://www.punto-informatico.it/quattro-esperti-ai-lasciano-apple-dopo-accordo-google/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-01T16:12:16+00:00",
+      "titolo": "Is Google's new $8 AI Plus plan worth it? How it compares to the $20 Pro subscription",
+      "descrizione": "Want more Gemini without paying for Pro? Google AI Plus might be for you. Here's what it includes.",
+      "link": "https://www.zdnet.com/article/google-ai-plus-debuts-should-you-switch-from-pro-plan/",
+      "fonte": "Latest news",
+      "data": "2026-02-02T01:56:00+00:00",
       "modello": "gemini"
     },
     {
@@ -26,11 +26,11 @@
       "modello": "claude"
     },
     {
-      "titolo": "I tested local AI on my M1 Mac, expecting magic - and got a reality check instead",
-      "descrizione": "My not-so-quick experiment with Ollama taught me a hard lesson.",
-      "link": "https://www.zdnet.com/article/i-tried-local-ai-on-m1-mac-brutal-experience/",
-      "fonte": "Latest news",
-      "data": "2026-02-01T12:30:41+00:00",
+      "titolo": "Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the in",
+      "descrizione": "Nvidia has strongly pushed back against a report that says it provided technical assistance to DeepSeek",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-chinese-military-dependence-on-american-tech-would-be-nonsensical-following-us-govt-agencys-claims-it-assisted-deepseek-with-training-ai-models-says-admins-critics-are-unintentionally-promoting-the-interests-of-foreign-competitors",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-01-30T12:08:05+00:00",
       "modello": "altri"
     }
   ]
