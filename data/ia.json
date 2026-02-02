@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-02-02T07:18:40.147842+00:00",
+  "last_updated": "2026-02-02T13:36:35.416672+00:00",
   "items": [
     {
-      "titolo": "Android 17 is shaping up to be a big win for Pixel users - but I still want these features",
-      "descrizione": "Android 17 is on the horizon, and there's already a lot of speculation about what it includes. Here's what I want with the next OS.",
-      "link": "https://www.zdnet.com/article/every-android-17-feature-confirmed-my-wishlist/",
-      "fonte": "Latest news",
-      "data": "2026-02-02T01:26:00+00:00",
+      "titolo": "Attacco hacker contro La Sapienza: sito offline",
+      "descrizione": "L'università La Sapienza di Roma è stata colpita da un attacco informatico (non ancora rivendicato) che ha messo fuori uso il sito ufficiale. The post Attacco hacker contro La Sapienza: sito offline appeared first on Pun",
+      "link": "https://www.punto-informatico.it/attacco-hacker-contro-sapienza-sito-offline/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T11:40:34+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Is Google's new $8 AI Plus plan worth it? How it compares to the $20 Pro subscription",
-      "descrizione": "Want more Gemini without paying for Pro? Google AI Plus might be for you. Here's what it includes.",
-      "link": "https://www.zdnet.com/article/google-ai-plus-debuts-should-you-switch-from-pro-plan/",
-      "fonte": "Latest news",
-      "data": "2026-02-02T01:56:00+00:00",
-      "modello": "gemini"
+      "titolo": "ChatGPT, Gemini e Copilot: il vincitore di Sanremo 2026 sarà…",
+      "descrizione": "Abbiamo chiesto a ChatGPT, Gemini e Copilot di indovinare la classifica finale di Sanremo 2026: hanno previsto tre vincitori diversi. The post ChatGPT, Gemini e Copilot: il vincitore di Sanremo 2026 sarà… appeared first",
+      "link": "https://www.punto-informatico.it/chatgpt-gemini-copilot-vincitore-sanremo-2026/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T09:56:15+00:00",
+      "modello": "copilot"
     },
     {
-      "titolo": "La NASA usa Claude per tracciare il percorso di Perseverance su Marte",
-      "descrizione": "Claude ha aiutato la NASA a pianificare un percorso del rover Perseverance su Marte",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646763/nasa-claude-perseverance-marzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-01T12:05:00+00:00",
-      "modello": "claude"
+      "titolo": "Bug su Android Auto: Gemini Live si blocca e parla da solo",
+      "descrizione": "Gemini Live su Android Auto è vittima di un bug. L'assistente si blocca in un loop infinito, parla da solo, si interrompe e ricomincia. The post Bug su Android Auto: Gemini Live si blocca e parla da solo appeared first o",
+      "link": "https://www.punto-informatico.it/bug-android-auto-gemini-live-si-blocca-parla-da-solo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T10:18:35+00:00",
+      "modello": "gemini"
     },
     {
       "titolo": "Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the in",
