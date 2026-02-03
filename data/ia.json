@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T13:36:46.422032+00:00",
+  "last_updated": "2026-02-03T19:14:44.731706+00:00",
   "items": [
     {
       "titolo": "Attacco ransomware contro La Sapienza: rivendicazione russa",
@@ -10,19 +10,19 @@
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google Maps potrebbe usare Gemini per semplificare le modifiche ai luoghi",
-      "descrizione": "Google sta testando l’integrazione di Gemini su Maps: le modifiche ai luoghi potrebbero essere fatte con una semplice descrizione testuale, senza più campi da compilare",
-      "link": "https://www.hdblog.it/google/articoli/n647020/google-maps-modifiche-con-gemini/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T11:45:00+00:00",
+      "titolo": "Gemini 3 Flash si aggiorna con Agentic Vision: ecco come funziona",
+      "descrizione": "Google introduce l’IA capace di analizzare attivamente le immagini",
+      "link": "https://www.ilsole24ore.com/art/gemini-3-flash-si-aggiorna-agentic-vision-ecco-come-funziona-AIaIwo9",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-03T06:37:02+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Il Pentagono vuole usare Claude per le armi autonome",
-      "descrizione": "Il Pentagono ha criticato le restrizioni imposte da Anthropic che impediscono l'uso di Claude per sviluppare armi autonome e spiare i cittadini. The post Il Pentagono vuole usare Claude per le armi autonome appeared firs",
-      "link": "https://www.punto-informatico.it/pentagono-vuole-usare-claude-armi-autonome/",
+      "titolo": "Claude Sonnet 5 in arrivo, la gaffe di Google conferma il lancio",
+      "descrizione": "Un errore nei log di Google Vertex AI rivela Claude Sonnet 5 in arrivo oggi 3 febbraio 2026. Nome in codice Fennec. The post Claude Sonnet 5 in arrivo, la gaffe di Google conferma il lancio appeared first on Punto Inform",
+      "link": "https://www.punto-informatico.it/claude-sonnet-5-in-arrivo-la-gaffe-di-google-conferma-il-lancio/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-03T11:11:18+00:00",
+      "data": "2026-02-03T15:02:11+00:00",
       "modello": "claude"
     }
   ]

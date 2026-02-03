@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-03T13:36:43.289229+00:00",
+  "last_updated": "2026-02-03T19:14:40.572639+00:00",
   "items": [
+    {
+      "titolo": "Epic Games Store, 2025 positivo e novità importanti in arrivo per l'UI",
+      "descrizione": "Alcuni numeri sono incoraggianti, e le ambizioni per il 2026 sono ampie.",
+      "link": "https://www.hdblog.it/games/articoli/n647080/epic-games-store-risultati-2025-piano-futuro/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T18:05:00+00:00"
+    },
+    {
+      "titolo": "Apple Music Replay 2026, finalmente ci siamo: inizia il roll-out",
+      "descrizione": "Come al solito la playlist arriva ai primi di febbraio.",
+      "link": "https://www.hdblog.it/apple/articoli/n647078/apple-music-replay-2026-playlist-rollout/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T17:45:00+00:00"
+    },
+    {
+      "titolo": "Republicans Are All In on Boosting Fraud Allegations in California",
+      "descrizione": "Right-wing influencers who were instrumental in spreading allegations of fraud in Minnesota ahead of ICE’s surge are now going after a number of California’s social welfare programs.",
+      "link": "https://www.wired.com/story/republicans-boosting-fraud-allegations-california/",
+      "fonte": "WIRED",
+      "data": "2026-02-03T17:43:31+00:00"
+    },
+    {
+      "titolo": "Alle porte di Roma riaffiora un complesso sacro di 2.400 anni fa",
+      "descrizione": "Scoperto a est di Roma un antico complesso con vasche, tombe e un santuario",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n646966/scoperta-archeologica-via-tiburtina-roma/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T17:25:00+00:00"
+    },
+    {
+      "titolo": "Altro che RAEE: RTX 5070 Ti con PCB bucato fa record sui benchmark",
+      "descrizione": "Fondendo tre schede assieme è emerso un \"mostro\" in grado di sbaragliare nei benchmark qualsiasi altra 5070 Ti.",
+      "link": "https://www.hdblog.it/hardware/articoli/n647075/nvidia-geforce-rtx-5070-ti-riparata-2080-record/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T17:15:00+00:00"
+    },
+    {
+      "titolo": "Lenovo e Huddly insieme per migliorare le riunioni: non solo AI",
+      "descrizione": "Strumenti utili, pragmatici.",
+      "link": "https://www.hdblog.it/hardware/articoli/n647062/lenovo-huddly-insieme-riunioni-bundle-lavoro/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T17:10:00+00:00"
+    },
+    {
+      "titolo": "Grok: indagine per violazione della privacy in UK",
+      "descrizione": "Anche il garante della privacy del Regno Unito ha avviato un'indagine su X e xAI per valutare il rispetto della legge sulla protezione dei dati. The post Grok: indagine per violazione della privacy in UK appeared first o",
+      "link": "https://www.punto-informatico.it/grok-indagine-violazione-privacy-uk/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T17:08:44+00:00"
+    },
+    {
+      "titolo": "Luna divisa in due: Londra frena, Mosca accelera sul nucleare spaziale",
+      "descrizione": "Londra congela i piani lunari mentre Mosca lavora a una centrale nucleare sulla Luna",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n646971/regno-unito-luna-russia-nucleare/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T16:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova Mercedes Classe S 2026: più lusso, tecnologia e comfort. Ecco i prezzi",
+      "descrizione": "Il restyling della Mercedes Classe S 2026 introduce più tecnologia, lusso e sistemi di assistenza alla guida evoluti",
+      "link": "https://www.hdmotori.it/mercedes-classe-s-2025-motori-allestimenti-dotazioni-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T16:30:51+00:00"
+    },
+    {
+      "titolo": "Galaxy Buds 4 e 4 Pro, ecco come saranno: la custodia è trasparente",
+      "descrizione": "I render mostrano entrambi i modelli.",
+      "link": "https://www.hdblog.it/indossabili/articoli/n647049/galaxy-buds-4-e-4-pro-leak-custodia-trasparente/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T16:25:00+00:00"
+    },
+    {
+      "titolo": "Tutti gli antivirus di Avast ora costano il 70% in meno: scopri le promo",
+      "descrizione": "Eccezionale promozione di Avast, che sconta tutti i suoi piani antivirus del 70%. Inclusi ci sono tutti gli strumenti di cybersecurity extra. The post Tutti gli antivirus di Avast ora costano il 70% in meno: scopri le pr",
+      "link": "https://www.punto-informatico.it/tutti-gli-antivirus-di-avast-ora-costano-il-70-in-meno-scopri-le-promo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T16:23:36+00:00"
+    },
+    {
+      "titolo": "Così il Sole aiuta i pannelli fotovoltaici a guarire dai danni UV",
+      "descrizione": "Un nuovo metodo mostra come i pannelli solari si danneggiano e si riparano sotto il Sole",
+      "link": "https://www.hdblog.it/green/articoli/n646960/come-la-luce-ripara-pannelli-solari/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T16:15:00+00:00"
+    },
+    {
+      "titolo": "Un mese di Apple Music gratis: tutta la musica, senza limiti",
+      "descrizione": "Non sono tante le piattaforme di streaming musicale che consentono una prova gratuita di 1 mese. Apple Music si: ecco come sbloccarla. The post Un mese di Apple Music gratis: tutta la musica, senza limiti appeared first",
+      "link": "https://www.punto-informatico.it/un-mese-di-apple-music-gratis-tutta-la-musica-senza-limiti/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T16:10:03+00:00"
+    },
+    {
+      "titolo": "Grok: Francia avvia indagine e convoca Elon Musk (update)",
+      "descrizione": "La Francia ha esteso a Grok l'indagine criminale avviata a luglio 2025, perquisito gli uffici di X a Parigi e convocato Elon Musk e Linda Yaccarrino. The post Grok: Francia avvia indagine e convoca Elon Musk (update) app",
+      "link": "https://www.punto-informatico.it/grok-francia-avvia-indagine-convoca-elon-musk/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T16:07:17+00:00"
+    },
+    {
+      "titolo": "Le migliori lavapavimenti del 2026 in offerta su Amazon: 9 modelli geniali",
+      "descrizione": "Scegliere una lavapavimenti è la mossa giusta. Questi prodotti di ultima generazione sono capaci di rendere le pulizie veloci, facili e soprattutto comode nelle routine quotidiane. Dotati di tecnologie avanzate, gli elet",
+      "link": "https://www.punto-informatico.it/le-migliori-lavapavimenti-del-2026-in-offerta-su-amazon-9-modelli-geniali/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T16:01:08+00:00"
+    },
+    {
+      "titolo": "Skoda Fabia 130, su strada l’esperienza della RS Rally2",
+      "descrizione": "La nuova versione interviene su sterzo, assetto e controlli elettronici.",
+      "link": "https://www.hdmotori.it/skoda-fabia-130-edizione-limitata/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T16:00:33+00:00"
+    },
+    {
+      "titolo": "Your Friends & Neighbors rinnovata: Apple TV punta già sulla terza stagione",
+      "descrizione": "La serie con Jon Hamm torna ad aprile e Apple TV annuncia già la terza stagione.",
+      "link": "https://www.hdblog.it/apple/articoli/n646954/your-friends-neighbors-stagione-3-apple-tv/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T15:45:00+00:00"
+    },
+    {
+      "titolo": "Robot umanoide cinese nuota, vola e cambia forma come nei film",
+      "descrizione": "GrowHR cambia forma, nuota, vola e si muove in spazi stretti",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n646957/robot-morbido-cinese-vola-nuota/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T15:40:00+00:00"
+    },
+    {
+      "titolo": "Meta oscura Fabrizio Corona: chiusi i profili social",
+      "descrizione": "Meta ha oscurato i profili Facebook e Instagram di Fabrizio Corona per violazione del copyright, rimossi i video di Falsissimo su YouTube. The post Meta oscura Fabrizio Corona: chiusi i profili social appeared first on P",
+      "link": "https://www.punto-informatico.it/meta-oscura-fabrizio-corona-chiusi-profili-social/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T15:33:39+00:00"
+    },
+    {
+      "titolo": "Siamo pronti per i sex robot",
+      "descrizione": "Nuove email pubblicate tra gli Epstein Files anticipano un trend oggi pronto a esplodere: AI e robotica spingono l'arrivo dei sex robot. The post Siamo pronti per i sex robot appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/sex-robot/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T15:17:39+00:00"
+    },
+    {
+      "titolo": "Artemis II: missione verso la Luna rinviata a marzo",
+      "descrizione": "A causa di una perdita di idrogeno liquido durante il Wet Dress Rehearsal, la NASA ha deciso di posticipare il lancio del razzo SLS al 6 marzo. The post Artemis II: missione verso la Luna rinviata a marzo appeared first",
+      "link": "https://www.punto-informatico.it/artemis-ii-missione-luna-rinviata-marzo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T14:56:27+00:00"
+    },
+    {
+      "titolo": "Intel is co-developing new Z-Angle Memory to compete with HBM used in AI data centers — vertically-stacked memory touts 2 to 3x more capacity, greater bandwidth, and half the power consumption",
+      "descrizione": "Intel and SoftBank subsidiary, Saimemory, have signed a new collaborative agreement to advance the development and manufacture of a new type of vertical-stacked memory known as Z-Angle Memory, or ZAM.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-is-co-developing-new-z-angle-memory-to-compete-with-hbm-used-in-ai-data-centers-vertically-stacked-memory-touts-2-to-3x-more-capacity-greater-bandwidth-and-half-the-power-consumption",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-03T14:04:28+00:00"
+    },
     {
       "titolo": "Snag this 4K-capable gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM for less than $2,000 — a 26% saving on a powerhouse of a rig equipped with Intel's 24-core CPU and a 2TB SSD",
       "descrizione": "Take advantage of this Newegg deal on an ABS Kaze II Aqua gaming PC, down to just $1994.99 with discount code DEAL5ABS. This 26% saving nets you a PC with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 T",
@@ -14,160 +168,6 @@
       "link": "https://www.tomshardware.com/pc-components/ddr5/snap-up-32gb-of-crucial-pro-overclocking-ram-for-usd325-99-the-cheapest-available-ddr5-6000-kit-for-hitting-amds-sweetspot",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-03T13:11:16+00:00"
-    },
-    {
-      "titolo": "Prendere una multa a 86 anni, senza smartphone e app IO",
-      "descrizione": "Cosa racconta la storia di un anziano multato a proposito di digitalizzazione e inclusione: senza smartphone e app IO è tutto più difficile. The post Prendere una multa a 86 anni, senza smartphone e app IO appeared first",
-      "link": "https://www.punto-informatico.it/multa-86-anni-senza-smartphone-app-io/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T13:03:08+00:00"
-    },
-    {
-      "titolo": "ZX Spectrum flies simulated spacecraft using BASIC, Python, and serial — Kerbal Space Program Lunar lander powered by 1980s hardware",
-      "descrizione": "Controlling a lunar lander using a 1980s home computer is not for the faint of heart, and this project shows how one intrepid developer linked the world of BASIC to the simulated world of Kerbal Space Program using Pytho",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/zx-spectrum-flies-simulated-spacecraft-using-basic-python-and-serial-kerbal-space-program-lunar-lander-powered-by-1980s-hardware",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-03T12:52:32+00:00"
-    },
-    {
-      "titolo": "Arriva Xikipedia, il feed di Wikipedia contro lo scrolling compulsivo",
-      "descrizione": "Lyra Rebane crea Xikipedia, un feed in stile social media alimentato da Wikipedia, ma sulla base dei propri interessi personali. The post Arriva Xikipedia, il feed di Wikipedia contro lo scrolling compulsivo appeared fir",
-      "link": "https://www.punto-informatico.it/arriva-xikipedia-feed-wikipedia-contro-scrolling-compulsivo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T12:29:07+00:00"
-    },
-    {
-      "titolo": "Google Telefono, blocco contro la rotazione in chiamata è in Italia: come attivarlo",
-      "descrizione": "Google ha introdotto una nuova opzione nell’app Telefono per bloccare la rotazione automatica dell’interfaccia durante le chiamate. Ora è in rollout anche in Italia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647024/google-telefono-rotazione-orizzontale-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T12:25:00+00:00"
-    },
-    {
-      "titolo": "LG a ISE 2026: l'AI è sempre più cruciale anche nel digital signage",
-      "descrizione": "Colpisce soprattutto l'enorme e potentissimo display Micro LED Magnit.",
-      "link": "https://www.hdblog.it/lg/articoli/n647021/lg-ise-2026-digital-signage/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T11:35:00+00:00"
-    },
-    {
-      "titolo": "Audi lo ammette e fa mea culpa: il cambio di nome da A4 ad A5 è stato un errore",
-      "descrizione": "La casa automobilistica ammette l'errore e la nuova Audi A5 potrebbe presto tornare a chiamarsi A4 con il prossimo restyling",
-      "link": "https://www.hdmotori.it/audi-errore-cambio-nome-a4-a5/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T11:30:09+00:00"
-    },
-    {
-      "titolo": "Samsung: nel 2026 punterà più su Galaxy Z Fold 8 che sul Flip",
-      "descrizione": "La strategia di Samsung si concentrerà maggiormente sul pieghevole di punta",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647018/samsung-focus-galaxy-z-fold-8-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T11:25:00+00:00"
-    },
-    {
-      "titolo": "Grok smette di spogliare le donne, ma continua con gli uomini",
-      "descrizione": "Elon Musk afferma che Grok ha smesso di generare immagini sessualizzate senza consenso, ma continua a spogliare gli uomini. The post Grok smette di spogliare le donne, ma continua con gli uomini appeared first on Punto I",
-      "link": "https://www.punto-informatico.it/grok-smette-spogliare-donne-continua-uomini/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T11:22:39+00:00"
-    },
-    {
-      "titolo": "Gemini Live si aggiorna: arriva l'interfaccia a pillola flottante su Android",
-      "descrizione": "Addio al tutto schermo obbligatorio: Google ridisegna il multitasking dell'assistente vocale",
-      "link": "https://www.hdblog.it/google/articoli/n647013/google-gemini-live-flottante-android/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T11:15:00+00:00"
-    },
-    {
-      "titolo": "Il Pentagono vuole usare Claude per le armi autonome",
-      "descrizione": "Il Pentagono ha criticato le restrizioni imposte da Anthropic che impediscono l'uso di Claude per sviluppare armi autonome e spiare i cittadini. The post Il Pentagono vuole usare Claude per le armi autonome appeared firs",
-      "link": "https://www.punto-informatico.it/pentagono-vuole-usare-claude-armi-autonome/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T11:11:18+00:00"
-    },
-    {
-      "titolo": "Test estremo in Portogallo: simulato rientro spaziale a Mach 25",
-      "descrizione": "Primo test ipersonico del Portogallo: flussi a Mach 25 per studiare il rientro spaziale.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646818/portogallo-test-ipersonico-mach-25/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T11:10:00+00:00"
-    },
-    {
-      "titolo": "Jeep Avenger, il 2026 inizia bene: SUV leader in Italia e secondo modello in assoluto",
-      "descrizione": "Jeep Avenger conferma il successo in Italia tra i SUV e a gennaio 2026 è anche il secondo modello più venduto in assoluto",
-      "link": "https://www.hdmotori.it/jeep-avenger-gennaio-2026-vendite-suv-mercato-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T11:00:34+00:00"
-    },
-    {
-      "titolo": "Frankenstein RTX 5070 Ti with an RTX 2080 Ti PCB breaks world record with extreme modding — card was damaged, salvaged with AMD donor parts and lots of soldered wires and tape",
-      "descrizione": "A Brazilian modding team has improved its resurrected RTX 5070 Ti with a hole in it by recycling parts from an RTX 2080 Ti and an AMD RX 580 to break a benchmark world record.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/frankenstein-rtx-5070-ti-with-an-rtx-2080-ti-pcb-breaks-world-record-with-extreme-modding-card-was-damaged-salvaged-with-amd-donor-parts-and-lots-of-soldered-wires-and-tape",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-03T11:00:00+00:00"
-    },
-    {
-      "titolo": "‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend",
-      "descrizione": "WIRED attended two documentary screening parties—one on each coast—for the First Lady’s film. What a time.",
-      "link": "https://www.wired.com/story/she-has-a-presence-the-melania-superfans-who-turned-up-for-opening-weekend/",
-      "fonte": "WIRED",
-      "data": "2026-02-03T11:00:00+00:00"
-    },
-    {
-      "titolo": "How Data Brokers Can Fuel Violence Against Public Servants",
-      "descrizione": "A new report from the Public Service Alliance finds state privacy laws offer public servants few ways to protect their private data, even as threats against them are on the rise.",
-      "link": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
-      "fonte": "WIRED",
-      "data": "2026-02-03T11:00:00+00:00"
-    },
-    {
-      "titolo": "OpenAI si lancia nella concorrenza ai “chip cerebrali” di Neuralink",
-      "descrizione": "Sulla scena dei chip impiantabili nel cervello si è affacciata una nuova sfidante per la Neuralink di Elon Musk: come riporta la rivista Nature sul suo sito, si tratta di...",
-      "link": "https://www.ilsole24ore.com/art/openai-si-lancia-concorrenza-chip-cerebrali-neuralink-AIGdVcDB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-03T10:59:29+00:00"
-    },
-    {
-      "titolo": "Android desktop (Aluminium OS), primo sguardo all'app fotocamera",
-      "descrizione": "Per ora è molto essenziale ma sarà simile alla Pixel Camera. Magari con un feature set più consono.",
-      "link": "https://www.hdblog.it/google/articoli/n647011/google-android-pc-desktop-app-fotocamera/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T10:55:00+00:00"
-    },
-    {
-      "titolo": "Blitz della polizia nella sede francese di X: nel mirino l'algoritmo e i deepfake di Grok",
-      "descrizione": "Parigi convoca Elon Musk: indagine aperta su disinformazione e tutela dei minori",
-      "link": "https://www.hdblog.it/social/articoli/n647007/x-uffici-francesi-perquisiti-polizia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T10:50:00+00:00"
-    },
-    {
-      "titolo": "Sismografi per ascoltare il cielo e tracciare i detriti spaziali",
-      "descrizione": "I sismografi captano i boati dei rientri e aiutano a trovare i detriti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646804/sismografi-detriti-spaziali-rientro-atmosferico/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T10:45:00+00:00"
-    },
-    {
-      "titolo": "Fabrizio Corona bannato dai social: \"A rischio la libertà di parola\"",
-      "descrizione": "Mediaset avrebbe fatto pressioni su Meta.",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n647002/fabrizio-corona-ban-social-liberta-parola/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T10:40:00+00:00"
-    },
-    {
-      "titolo": "Oggi puoi scaricare gratis Alone in the Dark 1, 2 e 3",
-      "descrizione": "GOG regala la trilogia originale di Alone in the Dark, per poco tempo: aggiungi subito i giochi alla tua libreria, sono un pezzo di storia. The post Oggi puoi scaricare gratis Alone in the Dark 1, 2 e 3 appeared first on",
-      "link": "https://www.punto-informatico.it/puoi-scaricare-gratis-alone-in-the-dark-1-2-3/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T10:37:24+00:00"
-    },
-    {
-      "titolo": "L’iPhone diventa una reflex, arriva il kit RetroVa con teleobiettivo",
-      "descrizione": "PGYTech, il produttore delle lenti ufficiali di Vivo e Oppo, porta su iPhone il suo sistema fotografico completo, con teleobiettivo 2,35x. The post L’iPhone diventa una reflex, arriva il kit RetroVa con teleobiettivo app",
-      "link": "https://www.punto-informatico.it/iphone-diventa-reflex-kit-retrova-teleobiettivo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T10:36:20+00:00"
     }
   ]
 }
