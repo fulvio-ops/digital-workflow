@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-02-03T07:11:30.321174+00:00",
+  "last_updated": "2026-02-03T13:36:46.422032+00:00",
   "items": [
     {
-      "titolo": "How to turn ChatGPT into a scam detector using the new Malwarebytes integration - for free",
-      "descrizione": "Are you being scammed? This new ChatGPT trick scans suspicious numbers, emails, and links to keep you safe.",
-      "link": "https://www.zdnet.com/article/malwarebytes-in-chatgpt-flags-scams-for-free/",
-      "fonte": "Latest news",
-      "data": "2026-02-03T00:20:00+00:00",
+      "titolo": "Attacco ransomware contro La Sapienza: rivendicazione russa",
+      "descrizione": "L'attacco contro l'università La Sapienza è stato effettuato da cybercriminali russi con un ransomware, quindi hanno chiesto il pagamento di un riscatto. The post Attacco ransomware contro La Sapienza: rivendicazione rus",
+      "link": "https://www.punto-informatico.it/attacco-ransomware-contro-la-sapienza-rivendicazione-russa/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T11:56:08+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini 3 Flash si aggiorna con Agentic Vision: ecco come funziona",
-      "descrizione": "Google introduce l’IA capace di analizzare attivamente le immagini",
-      "link": "https://www.ilsole24ore.com/art/gemini-3-flash-si-aggiorna-agentic-vision-ecco-come-funziona-AIaIwo9",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-03T06:37:02+00:00",
+      "titolo": "Google Maps potrebbe usare Gemini per semplificare le modifiche ai luoghi",
+      "descrizione": "Google sta testando l’integrazione di Gemini su Maps: le modifiche ai luoghi potrebbero essere fatte con una semplice descrizione testuale, senza più campi da compilare",
+      "link": "https://www.hdblog.it/google/articoli/n647020/google-maps-modifiche-con-gemini/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T11:45:00+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Il Pentagono vuole usare Claude per le armi autonome",
+      "descrizione": "Il Pentagono ha criticato le restrizioni imposte da Anthropic che impediscono l'uso di Claude per sviluppare armi autonome e spiare i cittadini. The post Il Pentagono vuole usare Claude per le armi autonome appeared firs",
+      "link": "https://www.punto-informatico.it/pentagono-vuole-usare-claude-armi-autonome/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-03T11:11:18+00:00",
+      "modello": "claude"
     }
   ]
 }
