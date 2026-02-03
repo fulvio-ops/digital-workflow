@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-02-03T03:13:57.312215+00:00",
+  "last_updated": "2026-02-03T07:11:27.586642+00:00",
   "items": [
+    {
+      "titolo": "Gemini 3 Flash si aggiorna con Agentic Vision: ecco come funziona",
+      "descrizione": "Google introduce l’IA capace di analizzare attivamente le immagini",
+      "link": "https://www.ilsole24ore.com/art/gemini-3-flash-si-aggiorna-agentic-vision-ecco-come-funziona-AIaIwo9",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-03T06:37:02+00:00"
+    },
+    {
+      "titolo": "Lenovo Legion Y700 (2026) in arrivo: teaser ufficiali e specifiche ufficiose",
+      "descrizione": "Potrebbe essere il primo tablet sul mercato basato su Snapdragon 8 Elite Gen 5.",
+      "link": "https://www.hdblog.it/tablet/articoli/n646949/lenovo-legion-y700-2026-tablet-gaming-specifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T05:35:00+00:00"
+    },
     {
       "titolo": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
       "descrizione": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
@@ -154,20 +168,6 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-warns-tsmc-needs-to-work-very-hard-to-meet-ai-demand-nvidia-ceo-says-its-demand-alone-may-force-doubling-its-capacity-over-the-next-decade",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-02T12:36:32+00:00"
-    },
-    {
-      "titolo": "Attacco hacker contro La Sapienza: sito offline",
-      "descrizione": "L'università La Sapienza di Roma è stata colpita da un attacco informatico (non ancora rivendicato) che ha messo fuori uso il sito ufficiale. The post Attacco hacker contro La Sapienza: sito offline appeared first on Pun",
-      "link": "https://www.punto-informatico.it/attacco-hacker-contro-sapienza-sito-offline/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T11:40:34+00:00"
-    },
-    {
-      "titolo": "CUPRA lancia la gamma Business: Terramar, Formentor e Leon. Dotazioni e prezzi",
-      "descrizione": "Debutta in Italia la gamma CUPRA x Business: nuovi allestimenti per professionisti su Terramar, Formentor e Leon Sportstourer",
-      "link": "https://www.hdmotori.it/cupra-business-terramar-formentor-leon-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T11:30:21+00:00"
     }
   ]
 }
