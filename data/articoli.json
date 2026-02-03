@@ -1,54 +1,159 @@
 {
-  "last_updated": "2026-02-02T13:36:32.379649+00:00",
+  "last_updated": "2026-02-03T03:13:57.312215+00:00",
   "items": [
+    {
+      "titolo": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
+      "descrizione": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
+      "link": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
+      "fonte": "WIRED",
+      "data": "2026-02-02T23:07:19+00:00"
+    },
+    {
+      "titolo": "Apple concedes it is constrained by TSMC's supply of advanced chips; storage and memory are also in short supply — firm isn't projecting supply conditions beyond the second quarter",
+      "descrizione": "As Nvidia is ramping up production of the Rubin platform, other 3nm-class process suffer",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apple-concedes-it-is-constrained-by-tsmcs-supply-of-advanced-chips-storage-and-memory-are-also-in-short-supply-firm-isnt-projecting-supply-conditions-beyond-the-second-quarter",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-02T20:50:27+00:00"
+    },
+    {
+      "titolo": "Trump administration plans $12bn critical minerals stockpile to offset China supply risk — initiative to create 60-day reserve of rare earths for electronics manufacturing",
+      "descrizione": "The Trump administration will soon launch a $12 billion critical minerals stockpile designed to insulate U.S. manufacturing from supply disruptions tied to China’s dominance of mining and refining.",
+      "link": "https://www.tomshardware.com/tech-industry/trump-administration-plans-12bn-critical-minerals-stockpile-to-offset-china-supply-risk",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-02T19:09:12+00:00"
+    },
+    {
+      "titolo": "Windows 11, si amplia il numero di PC che non si spengono più",
+      "descrizione": "Inizialmente si pensava che fossero colpiti solo i sistemi con attivo Secure Launch, ora il bug si estende anche a quelli con la Virtual Secure Mode.",
+      "link": "https://www.hdblog.it/microsoft/articoli/n646874/windows-11-bug-pc-non-si-spegne/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T18:48:00+00:00"
+    },
+    {
+      "titolo": "Renault, la prova di Symbioz e Austral: ibride a confronto | Video",
+      "descrizione": "Abbiamo provato i due SUV ibridi Renault: ecco come vanno",
+      "link": "https://www.hdmotori.it/prove/renault-symbioz-austral-prova-video/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T18:40:00+00:00"
+    },
+    {
+      "titolo": "Our Favorite Soundbar for Most People Is $50 Off",
+      "descrizione": "Yamaha’s simple setup and substantial subwoofer set it apart, especially on sale.",
+      "link": "https://www.wired.com/story/yamaha-sr-c30a-deal-226/",
+      "fonte": "WIRED",
+      "data": "2026-02-02T18:27:54+00:00"
+    },
+    {
+      "titolo": "Elon Musk ha trasformato Grok in un porn generator",
+      "descrizione": "Secondo il Washington Post, Elon Musk ha ordinato ai dipendenti di xAI di utilizzare materiale sessuale e violento per l'addestramento di Grok. The post Elon Musk ha trasformato Grok in un porn generator appeared first o",
+      "link": "https://www.punto-informatico.it/elon-musk-trasformato-grok-porn-generator/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T17:36:32+00:00"
+    },
+    {
+      "titolo": "Carbon Robotics, ecco il modello AI che identifica le piante",
+      "descrizione": "L'algoritmo si troverà nelle prossime release software dei macchinari dell'azienda, come LaserWeeder e Autonomous Tractor Kit.",
+      "link": "https://www.hdblog.it/business/articoli/n646943/carbon-robotics-ai-piante-laserweeder/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T17:35:00+00:00"
+    },
+    {
+      "titolo": "Motorvalley arriva su Netflix: adrenalina e corse nel cuore d’Italia",
+      "descrizione": "Motori, rivalità e seconde possibilità nella nuova serie italiana Netflix",
+      "link": "https://www.hdblog.it/curiosita/articoli/n646899/motorvalley-serie-netflix/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T17:30:00+00:00"
+    },
+    {
+      "titolo": "Intelligenza artificiale a scuola? Come le rotelle della bicicletta, per uno studio",
+      "descrizione": "Un aiuto che va usato consapevolmente.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n646929/intelligenza-artificiale-scuola-ocse/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T17:10:00+00:00"
+    },
+    {
+      "titolo": "Notepad++, ecco cos'è successo con l'attacco hacker di dicembre",
+      "descrizione": "A quanto pare si è trattato di un'operazione di spionaggio da parte di gruppi finanziati dal governo cinese.",
+      "link": "https://www.hdblog.it/windows/articoli/n646938/notepad-plus-plus-attacco-hacker-cosa-successo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T17:05:00+00:00"
+    },
+    {
+      "titolo": "Mercato auto Italia, gennaio 2026 parte bene: crescita del 6,2%",
+      "descrizione": "Il mercato auto Italia 2026 apre con il segno positivo: a gennaio registrate 141.980 immatricolazioni, in crescita del 6,2% sul 2025",
+      "link": "https://www.hdmotori.it/mercato-auto-italia-gennaio-2026-immatricolazioni-vendite/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T17:03:40+00:00"
+    },
+    {
+      "titolo": "Le strade diventano computer: il traffico usato come AI a basso consumo",
+      "descrizione": "Ricercatori giapponesi usano il traffico come AI riducendo drasticamente i consumi energetici",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n646910/traffico-stradale-computer-ai-giappone/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T16:55:00+00:00"
+    },
+    {
+      "titolo": "Perché Moltbook il social di agenti intelligenti non è divertente",
+      "descrizione": "Lo conosciamo come il social dove parlano solo le macchine (e noi stiamo a guardare)",
+      "link": "https://www.ilsole24ore.com/art/perche-moltbook-social-agenti-intelligenti-non-e-divertente-AIuOnnCB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-02T16:55:00+00:00"
+    },
+    {
+      "titolo": "Online senza roaming in oltre 200 Paesi con Airalo",
+      "descrizione": "Airalo offre eSIM digitali per oltre 200 Paesi: connessione immediata, piani flessibili e costi ridotti, senza roaming, SIM fisiche o complicazioni in viaggio. The post Online senza roaming in oltre 200 Paesi con Airalo",
+      "link": "https://www.punto-informatico.it/online-senza-roaming-in-oltre-200-paesi-con-airalo/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T16:53:30+00:00"
+    },
+    {
+      "titolo": "Rush Titanio, la nuova hyper-naked di MV Agusta",
+      "descrizione": "Il ritorno della Rush in chiave Titanio introduce materiali inediti e dettagli esclusivi.",
+      "link": "https://www.hdmotori.it/mv-agusta-rush-titanio-hyper-naked/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-02T16:30:07+00:00"
+    },
+    {
+      "titolo": "Compressore aria 150 PSI per gonfiare ruote in pochi SECONDI (19€ Amazon)",
+      "descrizione": "Un compressore d'aria portatile con potenza da 150 PSI è un toccasana in auto: su Amazon costa pochissimo in offerta. The post Compressore aria 150 PSI per gonfiare ruote in pochi SECONDI (19€ Amazon) appeared first on P",
+      "link": "https://www.punto-informatico.it/compressore-aria-150-psi-per-gonfiare-ruote-in-pochi-secondi-19e-amazon/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T16:12:42+00:00"
+    },
+    {
+      "titolo": "Più uomini che donne usano l’AI",
+      "descrizione": "Un nuovo report mostra che sono più gli uomini a utilizzare l'intelligenza artificiale, ma il divario di genere non è incolmabile. The post Più uomini che donne usano l’AI appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/uomini-donne-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T15:58:47+00:00"
+    },
+    {
+      "titolo": "Live distant child abuse: la rete degli orrori",
+      "descrizione": "La Polizia di Stato ha smantellato una rete di live distant child abuse: abusi su minori commissionati in diretta, tramite videochiamata. The post Live distant child abuse: la rete degli orrori appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/live-distant-child-abuse/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T15:24:45+00:00"
+    },
+    {
+      "titolo": "Gli Epstein Files e l’age gate più inutile di sempre",
+      "descrizione": "Il Dipartimento di Giustizia USA protegge gli Epstein Files con un semplice Sì o No sull'età, sistema inefficace e facilmente aggirabile. The post Gli Epstein Files e l’age gate più inutile di sempre appeared first on Pu",
+      "link": "https://www.punto-informatico.it/epstein-files-age-gate/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T14:16:58+00:00"
+    },
+    {
+      "titolo": "Grok: rimosso il ban in Indonesia, ma con condizioni",
+      "descrizione": "Dopo Malesia e Filippine, anche l'Indonesia ha ripristinato l'accesso a Grok, ma X deve rispettare gli impegni e le leggi locali per evitare un altro ban. The post Grok: rimosso il ban in Indonesia, ma con condizioni app",
+      "link": "https://www.punto-informatico.it/grok-rimosso-ban-indonesia-condizioni/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-02T13:52:59+00:00"
+    },
     {
       "titolo": "Jensen Huang warns TSMC needs to 'work very hard' to meet AI demand — Nvidia CEO says its demand alone may force doubling its capacity over the next decade",
       "descrizione": "Nvidia CEO Jensen Huang says TSMC needs to work very hard to expand capacity in order to keep up with AI demand.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-warns-tsmc-needs-to-work-very-hard-to-meet-ai-demand-nvidia-ceo-says-its-demand-alone-may-force-doubling-its-capacity-over-the-next-decade",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-02T12:36:32+00:00"
-    },
-    {
-      "titolo": "How to use Windows 11's hidden battery health tool to diagnose your PC (before it's too late)",
-      "descrizione": "Windows 11 has a built-in report that provides insight into your laptop's battery status, including whether it's time for a replacement.",
-      "link": "https://www.zdnet.com/article/how-to-use-microsoft-battery-health-report-windows-11-pc/",
-      "fonte": "Latest news",
-      "data": "2026-02-02T12:33:00+00:00"
-    },
-    {
-      "titolo": "KIA EV1 in arrivo, la citycar elettrica che sfida Twingo e ID. Every1",
-      "descrizione": "Diventerà il modello entry level della gamma delle elettriche di KIA ed enterà in diretta concorrenza con vetture del calibro della nuova Renault Twingo elettrica",
-      "link": "https://www.hdmotori.it/kia-ev1-citycar-elettrica-economica-cosa-sappiamo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T12:30:52+00:00"
-    },
-    {
-      "titolo": "Apple e Samsung puntano sugli occhiali AR: dalla filiera arrivano segnali concreti",
-      "descrizione": "Una filiera che si sta posizionando con anticipo,",
-      "link": "https://www.hdblog.it/indossabili/articoli/n646888/apple-samsung-occhiali-smart/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T12:10:00+00:00"
-    },
-    {
-      "titolo": "PicoIDE è una geniale soluzione Raspberry Pi per salvare vecchi PC",
-      "descrizione": "Ora in crowfunding.",
-      "link": "https://www.hdblog.it/hardware/articoli/n646880/picoide-raspberry-salvare-vecchi-pc/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T11:50:00+00:00"
-    },
-    {
-      "titolo": "I changed 9 settings on my Pixel phone to dramatically improve the camera quality",
-      "descrizione": "Adjust these settings to unlock your Google Pixel's full photographic potential, from basic quality wins to Pro-level control.",
-      "link": "https://www.zdnet.com/article/best-google-pixel-phone-camera-settings/",
-      "fonte": "Latest news",
-      "data": "2026-02-02T11:50:00+00:00"
-    },
-    {
-      "titolo": "DJI Lito 1 e Lito X1, due nuovi droni economici pronti a decollare",
-      "descrizione": "Potrebbero essere gli ultimi ad arrivare anche negli USA, per via del Ban.",
-      "link": "https://www.hdblog.it/droni/articoli/n646886/dji-lito-1-x1-droni-economici-fcc/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T11:45:00+00:00"
     },
     {
       "titolo": "Attacco hacker contro La Sapienza: sito offline",
@@ -58,116 +163,11 @@
       "data": "2026-02-02T11:40:34+00:00"
     },
     {
-      "titolo": "Perché TikTok è andato in tilt in USA? Ecco la spiegazione del social",
-      "descrizione": "La joint venture di TikTok negli USA ha affrontato il suo primo grande down: un blackout dovuto a un data center Oracle ha colpito milioni di utenti e funzionalità chiave",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n646883/tiktok-usa-down-problemi-cosa-e-successo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T11:40:00+00:00"
-    },
-    {
       "titolo": "CUPRA lancia la gamma Business: Terramar, Formentor e Leon. Dotazioni e prezzi",
       "descrizione": "Debutta in Italia la gamma CUPRA x Business: nuovi allestimenti per professionisti su Terramar, Formentor e Leon Sportstourer",
       "link": "https://www.hdmotori.it/cupra-business-terramar-formentor-leon-prezzi/",
       "fonte": "HDblog.it",
       "data": "2026-02-02T11:30:21+00:00"
-    },
-    {
-      "titolo": "I TV OLED Samsung 2026 e i nuovi Odyssey sono compatibili Nvidia G-Sync",
-      "descrizione": "Samsung annuncia che i suoi TV OLED 2026 (S95H, S90H, S85H) e i nuovi monitor gaming Odyssey G6 G60H e G61H sono ora compatibili con Nvidia G-Sync per un gaming fluido",
-      "link": "https://www.hdblog.it/hardware/articoli/n646877/samsung-monitor-tv-nvidia-gsync/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T11:20:00+00:00"
-    },
-    {
-      "titolo": "Class action di sei associazioni contro Eni Plenitude",
-      "descrizione": "Sei associazioni hanno promosso una class action per chiedere il rimborso integrale delle somme incassate da Eni Plenitude e il risarcimento dei danni. The post Class action di sei associazioni contro Eni Plenitude appea",
-      "link": "https://www.punto-informatico.it/class-action-sei-associazioni-contro-eni-plenitude/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T11:04:10+00:00"
-    },
-    {
-      "titolo": "Nuova FIAT Fastback avvistata in Italia, ecco le ultime foto spia: il debutto si avvicina",
-      "descrizione": "La nuova FIAT Fastback 2026 è sempre più vicina al debutto. Le ultime foto spia mostrano fari anteriori a pixel",
-      "link": "https://www.hdmotori.it/fiat-fastback-2026-foto-spia-italia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T11:00:31+00:00"
-    },
-    {
-      "titolo": "ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge",
-      "descrizione": "The influx of security personnel from around the world is sparking concern among Italians ahead of the Milano Cortina Olympic Games.",
-      "link": "https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/",
-      "fonte": "WIRED",
-      "data": "2026-02-02T11:00:00+00:00"
-    },
-    {
-      "titolo": "Windows 11, si amplia il numero di PC che non si spengono più",
-      "descrizione": "Inizialmente si pensava che fossero colpiti solo i sistemi con attivo Secure Launch, ora il bug si estende anche a quelli con la Virtual Secure Mode.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n646874/windows-11-bug-pc-non-si-spegne/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T10:55:00+00:00"
-    },
-    {
-      "titolo": "Scoperto un quasar primordiale con una crescita fuori scala",
-      "descrizione": "Un quasar primordiale cresce a ritmo record e sfida i modelli sull’evoluzione dei buchi neri",
-      "link": "https://www.hdblog.it/curiosita/articoli/n646806/scoperto-quasar-primordiale-crescita-fuori-scala/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T10:45:00+00:00"
-    },
-    {
-      "titolo": "L’Ai va in classe e fa volare i voti in matematica. Ma senza algoritmo l’apprendimento crolla",
-      "descrizione": "Nello studio Digital Education Outlook 2026 dell’Ocse l’intelligenza artificiale se usata bene ha però un enorme potenziale per aiutare sia gli insegnanti che gli studenti",
-      "link": "https://www.ilsole24ore.com/art/l-ai-classe-e-fa-volare-voti-matematica-ma-senza-algoritmo-l-apprendimento-crolla-AIZCQCCB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-02T10:37:00+00:00"
-    },
-    {
-      "titolo": "BYD avvia la produzione prova nella fabbrica in Ungheria",
-      "descrizione": "L'inizio della produzione in serie presso lo stabilimento delle prime vetture è prevista per il secondo trimestre dell'anno",
-      "link": "https://www.hdmotori.it/byd-produzione-prova-fabbrica-ungheria/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-02T10:30:51+00:00"
-    },
-    {
-      "titolo": "Bug su Android Auto: Gemini Live si blocca e parla da solo",
-      "descrizione": "Gemini Live su Android Auto è vittima di un bug. L'assistente si blocca in un loop infinito, parla da solo, si interrompe e ricomincia. The post Bug su Android Auto: Gemini Live si blocca e parla da solo appeared first o",
-      "link": "https://www.punto-informatico.it/bug-android-auto-gemini-live-si-blocca-parla-da-solo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T10:18:35+00:00"
-    },
-    {
-      "titolo": "ChatGPT, Gemini e Copilot: il vincitore di Sanremo 2026 sarà…",
-      "descrizione": "Abbiamo chiesto a ChatGPT, Gemini e Copilot di indovinare la classifica finale di Sanremo 2026: hanno previsto tre vincitori diversi. The post ChatGPT, Gemini e Copilot: il vincitore di Sanremo 2026 sarà… appeared first",
-      "link": "https://www.punto-informatico.it/chatgpt-gemini-copilot-vincitore-sanremo-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T09:56:15+00:00"
-    },
-    {
-      "titolo": "Non ignorare l’SMS di Fastweb: aumento in arrivo",
-      "descrizione": "Fastweb sta comunicando via SMS un aumento fino a 4 euro al mese: è possibile recedere o cambiare operatore senza costi entro maggio. The post Non ignorare l’SMS di Fastweb: aumento in arrivo appeared first on Punto Info",
-      "link": "https://www.punto-informatico.it/fastweb-aumento/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T08:55:44+00:00"
-    },
-    {
-      "titolo": "NeN, ecco l’offerta a rata fissa: paghi luce e gas allo stesso prezzo per tutto l’anno",
-      "descrizione": "Quasi come un abbonamento streaming: scopri l'offerta a rata fissa di NeN Energia su luce e gas. The post NeN, ecco l’offerta a rata fissa: paghi luce e gas allo stesso prezzo per tutto l’anno appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/nen-ecco-lofferta-a-rata-fissa-paghi-luce-e-gas-allo-stesso-prezzo-per-tutto-lanno/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T08:42:44+00:00"
-    },
-    {
-      "titolo": "Apple sviluppa anche uno smartphone a conchiglia?",
-      "descrizione": "Secondo Mark Gurman (giornalista di Bloomberg), Apple potrebbe avviare lo sviluppo di un secondo smartphone pieghevole con design a conchiglia. The post Apple sviluppa anche uno smartphone a conchiglia? appeared first on",
-      "link": "https://www.punto-informatico.it/apple-sviluppa-smartphone-conchiglia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T08:37:20+00:00"
-    },
-    {
-      "titolo": "Epstein Files: cosa c’è scritto su Bill Gates",
-      "descrizione": "Pubblicati milioni di nuovi documenti tra gli Epstein Files: Bill Gates respinge le accuse, definendole false e prive di qualsiasi prova. The post Epstein Files: cosa c’è scritto su Bill Gates appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/epstein-files-bill-gates/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T08:04:38+00:00"
     }
   ]
 }

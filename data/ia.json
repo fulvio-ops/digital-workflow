@@ -1,37 +1,21 @@
 {
-  "last_updated": "2026-02-02T13:36:35.416672+00:00",
+  "last_updated": "2026-02-03T03:14:01.289316+00:00",
   "items": [
     {
-      "titolo": "Attacco hacker contro La Sapienza: sito offline",
-      "descrizione": "L'università La Sapienza di Roma è stata colpita da un attacco informatico (non ancora rivendicato) che ha messo fuori uso il sito ufficiale. The post Attacco hacker contro La Sapienza: sito offline appeared first on Pun",
-      "link": "https://www.punto-informatico.it/attacco-hacker-contro-sapienza-sito-offline/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T11:40:34+00:00",
+      "titolo": "How to turn ChatGPT into a scam detector using the new Malwarebytes integration - for free",
+      "descrizione": "Are you being scammed? This new ChatGPT trick scans suspicious numbers, emails, and links to keep you safe.",
+      "link": "https://www.zdnet.com/article/malwarebytes-in-chatgpt-flags-scams-for-free/",
+      "fonte": "Latest news",
+      "data": "2026-02-03T00:20:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "ChatGPT, Gemini e Copilot: il vincitore di Sanremo 2026 sarà…",
-      "descrizione": "Abbiamo chiesto a ChatGPT, Gemini e Copilot di indovinare la classifica finale di Sanremo 2026: hanno previsto tre vincitori diversi. The post ChatGPT, Gemini e Copilot: il vincitore di Sanremo 2026 sarà… appeared first",
-      "link": "https://www.punto-informatico.it/chatgpt-gemini-copilot-vincitore-sanremo-2026/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T09:56:15+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Bug su Android Auto: Gemini Live si blocca e parla da solo",
-      "descrizione": "Gemini Live su Android Auto è vittima di un bug. L'assistente si blocca in un loop infinito, parla da solo, si interrompe e ricomincia. The post Bug su Android Auto: Gemini Live si blocca e parla da solo appeared first o",
-      "link": "https://www.punto-informatico.it/bug-android-auto-gemini-live-si-blocca-parla-da-solo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-02T10:18:35+00:00",
-      "modello": "gemini"
-    },
-    {
-      "titolo": "Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the in",
-      "descrizione": "Nvidia has strongly pushed back against a report that says it provided technical assistance to DeepSeek",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-chinese-military-dependence-on-american-tech-would-be-nonsensical-following-us-govt-agencys-claims-it-assisted-deepseek-with-training-ai-models-says-admins-critics-are-unintentionally-promoting-the-interests-of-foreign-competitors",
+      "titolo": "Gaming market melts down after Google reveals new AI game design tool — Project Genie crashes stocks for Roblox, Nintendo, CD Projekt Red, and more",
+      "descrizione": "Google's Project Genie can generate games using the company's Genie 3 model, which is trained on prompts from Gemini. It's an experimental tool that doesn't even create fully playable games, but it was still enough to sh",
+      "link": "https://www.tomshardware.com/video-games/gaming-market-melts-down-after-google-reveals-new-ai-game-design-tool-project-genie-crashes-stocks-for-roblox-nintendo-cd-projekt-red-and-more",
       "fonte": "Latest from Tom's Hardware",
-      "data": "2026-01-30T12:08:05+00:00",
-      "modello": "altri"
+      "data": "2026-01-31T15:46:07+00:00",
+      "modello": "gemini"
     }
   ]
 }
