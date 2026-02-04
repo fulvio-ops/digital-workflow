@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-02-03T19:14:40.572639+00:00",
+  "last_updated": "2026-02-04T03:09:48.453933+00:00",
   "items": [
+    {
+      "titolo": "This Debian-based Linux distro has one of the smartest security features I've tested in years",
+      "descrizione": "If you're looking for a bit of extra security with an MX Linux-based distribution, iDeal OS might be an ideal solution.",
+      "link": "https://www.zdnet.com/article/ideal-os-linux-distribution-review/",
+      "fonte": "Latest news",
+      "data": "2026-02-04T01:47:00+00:00"
+    },
+    {
+      "titolo": "An ‘Intimacy Crisis’ Is Driving the Dating Divide",
+      "descrizione": "In his book The Intimate Animal, sex and relationships researcher Justin Garcia says people have miscalculated their need for human intimacy, which is the real issue at the root of the loneliness epidemic.",
+      "link": "https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/",
+      "fonte": "WIRED",
+      "data": "2026-02-03T21:46:53+00:00"
+    },
+    {
+      "titolo": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed",
+      "descrizione": "I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.",
+      "link": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
+      "fonte": "WIRED",
+      "data": "2026-02-03T19:55:36+00:00"
+    },
+    {
+      "titolo": "Apple vuole davvero produrre un iPhone FOLD?",
+      "descrizione": "Apple lancerà davvero sul mercato un iPhone Fold? Come sarà? Quanto costerà? Ha davvero senso lanciarsi in una nicchia di mercato presieduta da anni dai produttori asiatici e che non ha mai convinto...",
+      "link": "https://www.hdblog.it/smartphone/speciali/n645751/apple-futuro-iphone-fold-rumor/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T18:34:00+00:00"
+    },
+    {
+      "titolo": "Google Telefono, blocco contro la rotazione in chiamata è in Italia: come attivarlo",
+      "descrizione": "Google ha introdotto una nuova opzione nell’app Telefono per bloccare la rotazione automatica dell’interfaccia durante le chiamate. Ora è in rollout anche in Italia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647024/google-telefono-rotazione-orizzontale-italia/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T18:32:00+00:00"
+    },
+    {
+      "titolo": "Switch è diventata la console Nintendo più venduta di sempre",
+      "descrizione": "Superato il record della vecchia DS. Ora gli occhi sono puntati sulla PS2, la console più venduta di sempre. Non è lontanissima...",
+      "link": "https://www.hdblog.it/nintendo/articoli/n646972/nintendo-switch-record-vendite-superato-ds/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T18:31:00+00:00"
+    },
+    {
+      "titolo": "Anche la Spagna verso il ban dei social network agli under 16",
+      "descrizione": "Le piattaforme dovranno implementare sistemi di verifica molto rigorosi, e ci saranno pene molto severe.",
+      "link": "https://www.hdblog.it/internet/articoli/n647083/spagna-ban-social-network-16-anni/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T18:25:00+00:00"
+    },
+    {
+      "titolo": "Quali sono le auto più vedute in Italia? Ecco la classifica di gennaio 2026",
+      "descrizione": "Il mese di gennaio 2026 ha chiuso in crescita del 6,2%; Fiat Panda continua ad essere la più venduta e molto bene anche Citroen C3 e Jeep Avenger",
+      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-gennaio-2026-classifiche/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T18:20:00+00:00"
+    },
     {
       "titolo": "Epic Games Store, 2025 positivo e novità importanti in arrivo per l'UI",
       "descrizione": "Alcuni numeri sono incoraggianti, e le ambizioni per il 2026 sono ampie.",
@@ -35,6 +91,13 @@
       "link": "https://www.hdblog.it/hardware/articoli/n647075/nvidia-geforce-rtx-5070-ti-riparata-2080-record/",
       "fonte": "HDblog.it",
       "data": "2026-02-03T17:15:00+00:00"
+    },
+    {
+      "titolo": "Audi lo ammette e fa mea culpa: il cambio di nome da A4 a A5 è stato un errore",
+      "descrizione": "La casa automobilistica ammette l'errore e la nuova Audi A5 potrebbe presto tornare a chiamarsi A4 con il prossimo restyling",
+      "link": "https://www.hdmotori.it/audi-errore-cambio-nome-a4-a5/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-03T17:12:00+00:00"
     },
     {
       "titolo": "Lenovo e Huddly insieme per migliorare le riunioni: non solo AI",
@@ -79,13 +142,6 @@
       "data": "2026-02-03T16:23:36+00:00"
     },
     {
-      "titolo": "Così il Sole aiuta i pannelli fotovoltaici a guarire dai danni UV",
-      "descrizione": "Un nuovo metodo mostra come i pannelli solari si danneggiano e si riparano sotto il Sole",
-      "link": "https://www.hdblog.it/green/articoli/n646960/come-la-luce-ripara-pannelli-solari/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T16:15:00+00:00"
-    },
-    {
       "titolo": "Un mese di Apple Music gratis: tutta la musica, senza limiti",
       "descrizione": "Non sono tante le piattaforme di streaming musicale che consentono una prova gratuita di 1 mese. Apple Music si: ecco come sbloccarla. The post Un mese di Apple Music gratis: tutta la musica, senza limiti appeared first",
       "link": "https://www.punto-informatico.it/un-mese-di-apple-music-gratis-tutta-la-musica-senza-limiti/",
@@ -107,67 +163,11 @@
       "data": "2026-02-03T16:01:08+00:00"
     },
     {
-      "titolo": "Skoda Fabia 130, su strada l’esperienza della RS Rally2",
-      "descrizione": "La nuova versione interviene su sterzo, assetto e controlli elettronici.",
-      "link": "https://www.hdmotori.it/skoda-fabia-130-edizione-limitata/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T16:00:33+00:00"
-    },
-    {
-      "titolo": "Your Friends & Neighbors rinnovata: Apple TV punta già sulla terza stagione",
-      "descrizione": "La serie con Jon Hamm torna ad aprile e Apple TV annuncia già la terza stagione.",
-      "link": "https://www.hdblog.it/apple/articoli/n646954/your-friends-neighbors-stagione-3-apple-tv/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T15:45:00+00:00"
-    },
-    {
-      "titolo": "Robot umanoide cinese nuota, vola e cambia forma come nei film",
-      "descrizione": "GrowHR cambia forma, nuota, vola e si muove in spazi stretti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646957/robot-morbido-cinese-vola-nuota/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T15:40:00+00:00"
-    },
-    {
       "titolo": "Meta oscura Fabrizio Corona: chiusi i profili social",
       "descrizione": "Meta ha oscurato i profili Facebook e Instagram di Fabrizio Corona per violazione del copyright, rimossi i video di Falsissimo su YouTube. The post Meta oscura Fabrizio Corona: chiusi i profili social appeared first on P",
       "link": "https://www.punto-informatico.it/meta-oscura-fabrizio-corona-chiusi-profili-social/",
       "fonte": "Punto Informatico",
       "data": "2026-02-03T15:33:39+00:00"
-    },
-    {
-      "titolo": "Siamo pronti per i sex robot",
-      "descrizione": "Nuove email pubblicate tra gli Epstein Files anticipano un trend oggi pronto a esplodere: AI e robotica spingono l'arrivo dei sex robot. The post Siamo pronti per i sex robot appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/sex-robot/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T15:17:39+00:00"
-    },
-    {
-      "titolo": "Artemis II: missione verso la Luna rinviata a marzo",
-      "descrizione": "A causa di una perdita di idrogeno liquido durante il Wet Dress Rehearsal, la NASA ha deciso di posticipare il lancio del razzo SLS al 6 marzo. The post Artemis II: missione verso la Luna rinviata a marzo appeared first",
-      "link": "https://www.punto-informatico.it/artemis-ii-missione-luna-rinviata-marzo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T14:56:27+00:00"
-    },
-    {
-      "titolo": "Intel is co-developing new Z-Angle Memory to compete with HBM used in AI data centers — vertically-stacked memory touts 2 to 3x more capacity, greater bandwidth, and half the power consumption",
-      "descrizione": "Intel and SoftBank subsidiary, Saimemory, have signed a new collaborative agreement to advance the development and manufacture of a new type of vertical-stacked memory known as Z-Angle Memory, or ZAM.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-is-co-developing-new-z-angle-memory-to-compete-with-hbm-used-in-ai-data-centers-vertically-stacked-memory-touts-2-to-3x-more-capacity-greater-bandwidth-and-half-the-power-consumption",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-03T14:04:28+00:00"
-    },
-    {
-      "titolo": "Snag this 4K-capable gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM for less than $2,000 — a 26% saving on a powerhouse of a rig equipped with Intel's 24-core CPU and a 2TB SSD",
-      "descrizione": "Take advantage of this Newegg deal on an ABS Kaze II Aqua gaming PC, down to just $1994.99 with discount code DEAL5ABS. This 26% saving nets you a PC with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 T",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/snag-this-4k-capable-gaming-pc-with-an-rtx-5070-ti-and-32gb-of-ddr5-ram-for-less-than-usd2-000-a-26-percent-saving-on-a-powerhouse-of-a-rig-equipped-with-intels-24-core-cpu-and-a-2tb-ssd",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-03T13:12:28+00:00"
-    },
-    {
-      "titolo": "Snap up 32GB of Crucial Pro Overclocking RAM for $325.99 — the cheapest available DDR5-6000 kit for hitting AMD's sweetspot",
-      "descrizione": "Crucial's 32GB Pro Overclocking DDR5-6000 kit is now the cheapest 32GB kit in its class.",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/snap-up-32gb-of-crucial-pro-overclocking-ram-for-usd325-99-the-cheapest-available-ddr5-6000-kit-for-hitting-amds-sweetspot",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-03T13:11:16+00:00"
     }
   ]
 }
