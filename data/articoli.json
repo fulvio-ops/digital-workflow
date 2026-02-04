@@ -1,6 +1,153 @@
 {
-  "last_updated": "2026-02-04T13:36:47.086475+00:00",
+  "last_updated": "2026-02-04T19:09:31.488383+00:00",
   "items": [
+    {
+      "titolo": "Microsoft crea marketplace per vendere contenuti alle aziende AI",
+      "descrizione": "Microsoft annuncia il Publisher Content Marketplace, un hub dove le aziende AI possono acquistare contenuti editoriali. The post Microsoft crea marketplace per vendere contenuti alle aziende AI appeared first on Punto In",
+      "link": "https://www.punto-informatico.it/microsoft-crea-marketplace-vendere-contenuti-aziende-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T18:05:36+00:00"
+    },
+    {
+      "titolo": "Truffa ai danni dell’INPS: false identità create con l’AI",
+      "descrizione": "Un dipendente comunale ha creato 59 false identità di donne rumene con l'intelligenza artificiale per chiedere l'Assegno Unico Universale all'INPS. The post Truffa ai danni dell’INPS: false identità create con l’AI appea",
+      "link": "https://www.punto-informatico.it/truffa-danni-inps-false-identita-ai/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T17:53:15+00:00"
+    },
+    {
+      "titolo": "Medicina, è ufficiale il dottore AI sempre disponibile (e autorizzato)",
+      "descrizione": "e gratuito!",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647222/medicina-dottore-ai-sempre-disponibile-autorizzato/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T17:40:00+00:00"
+    },
+    {
+      "titolo": "NVIDIA rigetta le accuse di aver usato Anna's Archive per addestrare l'AI",
+      "descrizione": "NVIDIA dice che anche ammettendo il contatto con la shadow library non ci sono prove che il fatto sia effettivamente avvenuto.",
+      "link": "https://www.hdblog.it/nvidia/articoli/n647241/nvidia-accusa-ai-annas-archive-libri-archiviazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T17:35:00+00:00"
+    },
+    {
+      "titolo": "Lancia il tuo progetto con Hostinger: costa meno di 3€ e hai tutto incluso",
+      "descrizione": "Blog, e-commerce, portfolio, sito web aziendale: qualunque sia il tuo progetto, con Hostinger puoi realizzarlo con sconti (limitati) fino all'80%. The post Lancia il tuo progetto con Hostinger: costa meno di 3€ e hai tut",
+      "link": "https://www.punto-informatico.it/lancia-il-tuo-progetto-con-hostinger-costa-meno-di-3e-e-hai-tutto-incluso/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T17:24:20+00:00"
+    },
+    {
+      "titolo": "Il simulatore di guida più avanzato d’Europa accelera le auto autonome",
+      "descrizione": "VR e piattaforma mobile per test realistici di auto elettriche e autonome",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647107/simulatore-guida-avanzato-tu-graz/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T17:15:00+00:00"
+    },
+    {
+      "titolo": "Intel 80286 compie 44 anni: il processore che ha cambiato per sempre i PC",
+      "descrizione": "Tanti auguri CPU!",
+      "link": "https://www.hdblog.it/hardware/articoli/n647224/intel-80286-compie-44-anni-processore-pc/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T17:05:00+00:00"
+    },
+    {
+      "titolo": "OpenAI cerca alternative ai chip di NVIDIA",
+      "descrizione": "OpenAI avrebbe espresso dubbi sulle prestazioni di inferenza dei chip AI di NVIDIA, quindi potrebbe cercare alternative (Sam Altman ha smentito). The post OpenAI cerca alternative ai chip di NVIDIA appeared first on Punt",
+      "link": "https://www.punto-informatico.it/openai-cerca-alternative-ai-chip-nvidia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T17:01:45+00:00"
+    },
+    {
+      "titolo": "Abbracciate per millenni: il segreto genetico di due donne del Paleolitico",
+      "descrizione": "Due scheletri scoperti in Calabria rivelano una rara malattia genetica preistorica.",
+      "link": "https://www.hdblog.it/curiosita/articoli/n646955/scheletri-paleolitici-calabria-nanismo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T16:55:00+00:00"
+    },
+    {
+      "titolo": "Microsoft annuncia il ritiro di 3D Viewer, ma suggerisce un'alternativa",
+      "descrizione": "Vi mancherà?",
+      "link": "https://www.hdblog.it/microsoft/articoli/n647223/microsoft-ritiro-3d-viewer/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T16:45:00+00:00"
+    },
+    {
+      "titolo": "Il prompt “apripista” per avviare anche i progetti impossibili",
+      "descrizione": "Il prompt apripista è perfetto per i progetti complessi, che sembrano impossibili da iniziare. Funziona con qualsiasi chatbot. The post Il prompt “apripista” per avviare anche i progetti impossibili appeared first on Pun",
+      "link": "https://www.punto-informatico.it/prompt-apripista-avviare-anche-avviare-anche-progetti-impossibili/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T16:30:33+00:00"
+    },
+    {
+      "titolo": "Truffe agli anziani, il 75% non percepisce i rischi della tecnologia",
+      "descrizione": "Il numero di casi in Italia è preoccupante",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n647195/truffe-anziani-rischi-tecnologia-emporia/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T15:50:00+00:00"
+    },
+    {
+      "titolo": "Google Pixel 10a, pioggia di leak: filtrano i primi render ufficiali",
+      "descrizione": "Un'altra occasione per vedere in anteprima il prossimo medio gamma di Google.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647217/google-pixel-10a-colori-render-ufficiali-leak/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T15:45:00+00:00"
+    },
+    {
+      "titolo": "Occhio all’estate: finalmente un nuovo trailer per GTA 6",
+      "descrizione": "Nessun altro rinvio e nuovo materiale in estate: è questa la promessa di Rockstar Games e Take-Two a chi aspetta di saperne di più su GTA 6. The post Occhio all’estate: finalmente un nuovo trailer per GTA 6 appeared firs",
+      "link": "https://www.punto-informatico.it/estate-nuovo-trailer-gta-6/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T15:40:33+00:00"
+    },
+    {
+      "titolo": "Fusione nucleare: testato in Russia un superconduttore da record",
+      "descrizione": "Test riuscito di un nuovo filo superconduttore per tokamak sviluppato in Russia",
+      "link": "https://www.hdblog.it/green/articoli/n646964/fusione-nucleare-filo-superconduttore-russia/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T15:35:00+00:00"
+    },
+    {
+      "titolo": "Blink Outdoor 2K+ ufficiale: la videocamera esterna next-gen senza fili | Prezzo",
+      "descrizione": "Caratteristiche e dettagli.",
+      "link": "https://www.hdblog.it/amazon/articoli/n647205/blink-outdoor-2k-ufficiale/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T15:25:00+00:00"
+    },
+    {
+      "titolo": "Alexa+ per tutti negli USA: cosa cambia dalla versione base",
+      "descrizione": "Amazon ha aperto i cancelli di Alexa+: accesso consentito a tutti negli Stati Uniti e gratis per chi ha un abbonamento Prime attivo. The post Alexa+ per tutti negli USA: cosa cambia dalla versione base appeared first on",
+      "link": "https://www.punto-informatico.it/alexa-plus-tutti-usa-cosa-cambia-dalla-versione-base/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T15:08:21+00:00"
+    },
+    {
+      "titolo": "‘Most of you steal your software’ — Bill Gates complained about software piracy 50 years ago, and was openly irked by community's Altair BASIC ‘theft’",
+      "descrizione": "50 years ago ‘An Open Letter to Hobbyists,’ typed by William Henry Gates III, bellyached about software piracy among the hobbyist community.",
+      "link": "https://www.tomshardware.com/software/most-of-you-steal-your-software-bill-gates-complained-about-software-piracy-50-years-ago-and-was-openly-irked-by-communitys-altair-basic-theft",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-04T15:05:06+00:00"
+    },
+    {
+      "titolo": "Demand for AI skills surged by over 100% in 2025, Upwork finds - here's how it could affect your job search",
+      "descrizione": "A new report from Upwork found that businesses are investing more in professionals who can help them to incorporate new AI tools into existing workflows.",
+      "link": "https://www.zdnet.com/article/employers-are-placing-a-higher-premium-on-ai-skills-while-still-hiring-humans-report/",
+      "fonte": "Latest news",
+      "data": "2026-02-04T15:04:03+00:00"
+    },
+    {
+      "titolo": "Dimagrire senza fatica: Pfizer testa l’alternativa sicura a Ozempic",
+      "descrizione": "Pfizer sta testando un nuovo farmaco contro l'obesità e il sovrappeso, mentre il fenomeno Ozempic non accenna a sgonfiarsi online. The post Dimagrire senza fatica: Pfizer testa l’alternativa sicura a Ozempic appeared fir",
+      "link": "https://www.punto-informatico.it/dimagrire-senza-fatica-pfizer-testa-alternativa-sicura-ozempic/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T14:05:52+00:00"
+    },
+    {
+      "titolo": "NordVPN inizia il mese di febbraio 2026 con un’offerta imperdibile",
+      "descrizione": "NordVPN si conferma la scelta giusta per una nuova VPN: con questa promo è la scelta migliore per un servizio di questo tipo da attivare oggi. The post NordVPN inizia il mese di febbraio 2026 con un’offerta imperdibile a",
+      "link": "https://www.punto-informatico.it/nordvpn-inizia-il-mese-di-febbraio-2026-con-unofferta-imperdibile/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T13:57:47+00:00"
+    },
     {
       "titolo": "Clienti Vodafone, da oggi avete il Wi-Fi Calling gratis",
       "descrizione": "Vodafone abilita il servizio Wi-Fi Calling per tutti: si può chiamare anche senza rete mobile, sfruttando il Wi-Fi e senza costi aggiuntivi. The post Clienti Vodafone, da oggi avete il Wi-Fi Calling gratis appeared first",
@@ -16,158 +163,11 @@
       "data": "2026-02-04T12:57:05+00:00"
     },
     {
-      "titolo": "TotalAV Premium 2026: l’antivirus è in promo a -80 euro",
-      "descrizione": "La versione 2026 di TotalAV Premium è in offerta al prezzo più basso dell'anno: risparmia 80 euro e proteggi tutti i tuoi dispositivi. The post TotalAV Premium 2026: l’antivirus è in promo a -80 euro appeared first on Pu",
-      "link": "https://www.punto-informatico.it/totalav-premium-2026-antivirus-promo/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T12:55:36+00:00"
-    },
-    {
-      "titolo": "Multa AGCOM: Cloudflare potrebbe lasciare l’Italia",
-      "descrizione": "Il CEO di Cloudflare (Matthew Prince) ha ribadito che il blocco dei siti pirata tramite Piracy Shield non funziona e che potrebbe lasciare l'Italia. The post Multa AGCOM: Cloudflare potrebbe lasciare l’Italia appeared fi",
-      "link": "https://www.punto-informatico.it/multa-agcom-cloudflare-lascia-italia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T12:31:36+00:00"
-    },
-    {
-      "titolo": "Eni e Q8 insieme per la bioraffineria di Priolo: si produrranno HVO e biocarburanti avanzati",
-      "descrizione": "Eni e Q8 Italia annunciano un nuovo investimento strategico sui biocarburanti con la costruzione di una bioraffineria a Priolo, in Sicilia",
-      "link": "https://www.hdmotori.it/carburanti-eni-q8-raffineria-biocarburanti-hvo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T12:30:54+00:00"
-    },
-    {
       "titolo": "Forget Hinge or Bumble. This App Promises a Personal AI Matchmaker",
       "descrizione": "Instead of using AI as a coach, our AI chatbots just began talking to each other, as we became human facilitators for an AI love story. Now that's what I call dystopian.",
       "link": "https://www.wired.com/review/three-day-rule-matchmaking-app/",
       "fonte": "WIRED",
       "data": "2026-02-04T12:08:00+00:00"
-    },
-    {
-      "titolo": "Williams FW48, ecco la livrea della nuova monoposto",
-      "descrizione": "La livrea richiama elementi delle storia del marchio e si adatta alle esigenze tecniche del nuovo regolamento.",
-      "link": "https://www.hdmotori.it/williams-fw48-monoposto-mondiale-f1-2026/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T12:00:00+00:00"
-    },
-    {
-      "titolo": "Garmin lancia Varia RearVue 820: più sicurezza in sella | PREZZO",
-      "descrizione": "Con Garmin Varia RearVue 820 pedali più sicuro: radar avanzato, stop integrato, luce ad alta visibilità e autonomia fino a 30 ore.",
-      "link": "https://www.hdblog.it/accessori/articoli/n647177/luce-bici-garmin-varia-rearvue-820-prezzo/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T11:50:00+00:00"
-    },
-    {
-      "titolo": "Intel produrrà GPU dopo aver detto di no, alla faccia di Nvidia",
-      "descrizione": "Colpo di scena Intel. Dopo aver promesso di concentrarsi sul core business, il CEO annuncia che produrrà GPU, territorio dominato da Nvidia. The post Intel produrrà GPU dopo aver detto di no, alla faccia di Nvidia appear",
-      "link": "https://www.punto-informatico.it/intel-produrra-gpu-dopo-aver-detto-no-alla-faccia-nvidia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T11:42:41+00:00"
-    },
-    {
-      "titolo": "Monopolio ricerca Google: appello del governo USA",
-      "descrizione": "Il Dipartimento di Giustizia degli Stati Uniti ha presentato appello contro la sentenza sui rimedi, in quanto vuole ancora la vendita di Chrome. The post Monopolio ricerca Google: appello del governo USA appeared first o",
-      "link": "https://www.punto-informatico.it/monopolio-ricerca-google-appello-governo-usa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T11:37:08+00:00"
-    },
-    {
-      "titolo": "Gamer scores Nvidia’s $999 powerhouse RTX 5080 for a jaw-dropping $289 — the Walmart clearance aisle is the secret weapon to beat the AI-driven GPU shortage",
-      "descrizione": "Shoppers share their best GeForce RTX 50-series purchases in a Reddit thread from Walmart's electronics clearance aisle.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/gamer-scores-nvidias-usd999-powerhouse-rtx-5080-for-a-jaw-dropping-usd289-the-walmart-clearance-aisle-is-the-secret-weapon-to-beat-the-ai-driven-gpu-shortage",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-04T11:30:00+00:00"
-    },
-    {
-      "titolo": "Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026",
-      "descrizione": "From maple syrup packets to a latex pillow, these are his personal essentials that bring a taste of Vermont to Milan.",
-      "link": "https://www.wired.com/story/ryan-cochran-siegles-starter-pack/",
-      "fonte": "WIRED",
-      "data": "2026-02-04T11:30:00+00:00"
-    },
-    {
-      "titolo": "Milano Cortina 2026: TIM accende il 5G anche tra le vette innevate",
-      "descrizione": "Olimpiadi Invernali 2026: TIM potenzia la connettività in città e montagna, con velocità 5G aumentata del 500% negli impianti chiave.",
-      "link": "https://www.hdblog.it/tim/articoli/n647174/tim-olimpiadi-milano-cortina-partner-rete/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T11:25:00+00:00"
-    },
-    {
-      "titolo": "Crisi dei chip, prezzi delle DDR5 stabilizzati in Germania: siamo al picco?",
-      "descrizione": "Un rallentamento significativo, ma non è ancora detta l'ultima parola",
-      "link": "https://www.hdblog.it/mercato/articoli/n647168/prezzo-memorie-germania-primo-rallentamento/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T11:15:00+00:00"
-    },
-    {
-      "titolo": "Scarica la nuova suite LibreOffice 26.2: le novità che trovi",
-      "descrizione": "L'update di LibreOffice migliora prestazioni, compatibilità e interfaccia, rafforzando l'alternativa open source alle suite proprietarie. The post Scarica la nuova suite LibreOffice 26.2: le novità che trovi appeared fir",
-      "link": "https://www.punto-informatico.it/libreoffice-26-2/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T11:00:09+00:00"
-    },
-    {
-      "titolo": "Dacia Bigster punta sull’outdoor: barre modulari e Pack Sleep",
-      "descrizione": "Dacia Bigster amplia il concetto di SUV con accessori pensati per il campeggio e l’outdoor. Barre da tetto modulari, Pack Sleep e tenda da portellone",
-      "link": "https://www.hdmotori.it/dacia-bigster-accessori-campeggio/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T11:00:01+00:00"
-    },
-    {
-      "titolo": "HetCCL makes clustered Nvidia and AMD AI accelerators play nice with each other via RDMA — vendor-agnostic collective communications library removes an obstacle to heterogeneous AI data centers",
-      "descrizione": "HetCCL, a proposed computing library, could make Nvidia and AMD AI accelerators play nicely with one another in the same cluster by bridging the two companies' hardware over RDMA.",
-      "link": "https://www.tomshardware.com/networking/hetccl-makes-clustered-nvidia-and-amd-ai-accelerators-play-nice-with-each-other-via-rdma-vendor-agnostic-collective-communications-library-removes-an-obstacle-to-heterogeneous-ai-data-centers",
-      "fonte": "Latest from Tom's Hardware",
-      "data": "2026-02-04T11:00:00+00:00"
-    },
-    {
-      "titolo": "Why Are Some Women Training for Pregnancy Like It’s a Marathon?",
-      "descrizione": "A growing legion of “zero trimester” influencers are convincing followers that healthy pregnancies are a choice—and that raw milk, watching sunsets, and pricey specialized courses can help.",
-      "link": "https://www.wired.com/story/pregnancy-zero-trimester-influencers/",
-      "fonte": "WIRED",
-      "data": "2026-02-04T11:00:00+00:00"
-    },
-    {
-      "titolo": "Moltbook: social network AI che svela dati privati",
-      "descrizione": "Un'errata configurazione del database usato dal social network Moltbook ha permesso di accedere agli account e ai dati privati degli utenti. The post Moltbook: social network AI che svela dati privati appeared first on P",
-      "link": "https://www.punto-informatico.it/moltbook-social-network-ai-svela-dati-privati/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T10:46:38+00:00"
-    },
-    {
-      "titolo": "Droni e robot lungo il confine Est: il nuovo piano difensivo NATO",
-      "descrizione": "La NATO valuta una zona di difesa automatizzata con droni e robot ai confini con la Russia.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646961/nato-zona-difesa-automatizzata-confini-est/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T10:35:00+00:00"
-    },
-    {
-      "titolo": "La nuova BMW X5 ancora su strada, torna a farsi vedere | Foto spia",
-      "descrizione": "Continua lo sviluppo della nuova generazione di BMW X5: nuovo design Neue Klasse e nel 2028 anche Fuel Cell ad idrogeno",
-      "link": "https://www.hdmotori.it/bmw-x5-2026-nuove-foto-spia-anticipazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T10:30:01+00:00"
-    },
-    {
-      "titolo": "AI, audio immersivo e multi-camera: i nuovi Jabra Room Kits per le aziende",
-      "descrizione": "Jabra lancia i nuovi PanaCast Room Kits a ISE 2026: sistemi modulari e scalabili per sale riunioni, con video intelligente, audio immersivo e supporto multi-camera.",
-      "link": "https://www.hdblog.it/business/articoli/n647163/jabra-novita-sale-riunioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T10:20:00+00:00"
-    },
-    {
-      "titolo": "Revolut amplia i piani ETF senza commissioni: arrivano i DWS Xtrackers",
-      "descrizione": "Revolut amplia i piani di investimento in ETF ricorrenti senza commissioni, includendo i fondi DWS Xtrackers. Disponibili direttamente nell'app senza passaggi extra.",
-      "link": "https://www.hdblog.it/mercato/articoli/n647166/revolut-etf-senza-commissioni-novita/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T10:15:00+00:00"
-    },
-    {
-      "titolo": "ChatGPT rallenta, Gemini e Grok accelerano. Il mercato degli LLM cresce ma Sam Altman non è più solo",
-      "descrizione": "I dati di Apptopia fotografano un mercato dell’intelligenza artificiale in piena espansione ma meno concentrato. OpenAI resta davanti, ma perde terreno mentre Google e xAI guadagnano utenti.",
-      "link": "https://www.ilsole24ore.com/art/chatgpt-rallenta-gemini-e-grok-accelerano-mercato-llm-cresce-ma-sam-altman-non-e-piu-solo-AIR2NqEB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-04T10:13:01+00:00"
     }
   ]
 }

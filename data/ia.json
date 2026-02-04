@@ -1,21 +1,37 @@
 {
-  "last_updated": "2026-02-04T13:36:50.856450+00:00",
+  "last_updated": "2026-02-04T19:09:36.834346+00:00",
   "items": [
     {
-      "titolo": "ChatGPT rallenta, Gemini e Grok accelerano. Il mercato degli LLM cresce ma Sam Altman non è più solo",
-      "descrizione": "I dati di Apptopia fotografano un mercato dell’intelligenza artificiale in piena espansione ma meno concentrato. OpenAI resta davanti, ma perde terreno mentre Google e xAI guadagnano utenti.",
-      "link": "https://www.ilsole24ore.com/art/chatgpt-rallenta-gemini-e-grok-accelerano-mercato-llm-cresce-ma-sam-altman-non-e-piu-solo-AIR2NqEB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-04T10:13:01+00:00",
+      "titolo": "OpenAI cerca alternative ai chip di NVIDIA",
+      "descrizione": "OpenAI avrebbe espresso dubbi sulle prestazioni di inferenza dei chip AI di NVIDIA, quindi potrebbe cercare alternative (Sam Altman ha smentito). The post OpenAI cerca alternative ai chip di NVIDIA appeared first on Punt",
+      "link": "https://www.punto-informatico.it/openai-cerca-alternative-ai-chip-nvidia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T17:01:45+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Gemini vuole prendere il controllo dello smartphone",
-      "descrizione": "Con Screen Automation, Gemini potrà usare le app Android al posto tuo: un salto verso agenti AI autonomi, tra utilità, errori e privacy. The post Gemini vuole prendere il controllo dello smartphone appeared first on Punt",
-      "link": "https://www.punto-informatico.it/gemini-screen-automation/",
+      "titolo": "Google trasforma Gemini in una guida turistica",
+      "descrizione": "Gemini si aggiorna con l'integrazione delle mappe. Si potrà mostrare all'AI una zona e ricevere consigli su luoghi da visitare e ristoranti. The post Google trasforma Gemini in una guida turistica appeared first on Punto",
+      "link": "https://www.punto-informatico.it/google-trasforma-gemini-guida-turistica/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-04T10:47:19+00:00",
+      "data": "2026-02-04T19:00:00+00:00",
       "modello": "gemini"
+    },
+    {
+      "titolo": "Claude non ti mostrerà mai una pubblicità nelle chat",
+      "descrizione": "La promessa di Anthropic, Claude rimarrà senza pubblicità; al Super Bowl prenderà in giro OpenAI e la scelta di portarla su ChatGPT. The post Claude non ti mostrerà mai una pubblicità nelle chat appeared first on Punto I",
+      "link": "https://www.punto-informatico.it/claude-non-mostrera-mai-pubblicita/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T14:35:35+00:00",
+      "modello": "claude"
+    },
+    {
+      "titolo": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+      "descrizione": "“Too many GPUs makes you lazy,” says the French startup's vice president of science operations, as the company carves out a different path than the major US AI companies.",
+      "link": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
+      "fonte": "WIRED",
+      "data": "2026-02-04T15:32:45+00:00",
+      "modello": "altri"
     }
   ]
 }
