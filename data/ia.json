@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-04T03:09:51.437802+00:00",
+  "last_updated": "2026-02-04T07:12:15.613333+00:00",
   "items": [
     {
-      "titolo": "Attacco ransomware contro La Sapienza: rivendicazione russa",
-      "descrizione": "L'attacco contro l'università La Sapienza è stato effettuato da cybercriminali russi con un ransomware, quindi hanno chiesto il pagamento di un riscatto. The post Attacco ransomware contro La Sapienza: rivendicazione rus",
-      "link": "https://www.punto-informatico.it/attacco-ransomware-contro-la-sapienza-rivendicazione-russa/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T11:56:08+00:00",
+      "titolo": "Apple, con Xcode 26.3 gli agenti di OpenAI e Anthropic scrivono codice in autonomia",
+      "descrizione": "Apple ha aggiornato Xcode aprendo la porta agli agenti AI di terze parti",
+      "link": "https://www.hdblog.it/apple/articoli/n647104/apple-rilascia-rc-xcode-supporto-openai-antrophic/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T06:05:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Claude Sonnet 5 in arrivo, la gaffe di Google conferma il lancio",
-      "descrizione": "Un errore nei log di Google Vertex AI rivela Claude Sonnet 5 in arrivo oggi 3 febbraio 2026. Nome in codice Fennec. The post Claude Sonnet 5 in arrivo, la gaffe di Google conferma il lancio appeared first on Punto Inform",
-      "link": "https://www.punto-informatico.it/claude-sonnet-5-in-arrivo-la-gaffe-di-google-conferma-il-lancio/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T15:02:11+00:00",
+      "titolo": "Apple, con Xcode 26.3 gli agenti di OpenAI e Anthropic scrivono codice in autonomia",
+      "descrizione": "Apple ha aggiornato Xcode aprendo la porta agli agenti AI di terze parti",
+      "link": "https://www.hdblog.it/apple/articoli/n647104/apple-rilascia-rc-xcode-supporto-openai-antrophic/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T06:05:00+00:00",
       "modello": "claude"
     }
   ]

@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-02-04T03:09:48.453933+00:00",
+  "last_updated": "2026-02-04T07:12:12.245323+00:00",
   "items": [
+    {
+      "titolo": "Portobello, Heated Rivalry e altre tre serie tv da non perdere a febbraio",
+      "descrizione": "Sfogliando nell’offerta globale di streaming, satellite e digitale terrestre, ecco una selezione dei titoli da non farsi scappare",
+      "link": "https://www.ilsole24ore.com/art/portobello-heated-rivalry-e-altre-tre-serie-tv-non-perdere-febbraio-AI59yDEB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-04T06:38:51+00:00"
+    },
+    {
+      "titolo": "Apple, con Xcode 26.3 gli agenti di OpenAI e Anthropic scrivono codice in autonomia",
+      "descrizione": "Apple ha aggiornato Xcode aprendo la porta agli agenti AI di terze parti",
+      "link": "https://www.hdblog.it/apple/articoli/n647104/apple-rilascia-rc-xcode-supporto-openai-antrophic/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T06:05:00+00:00"
+    },
+    {
+      "titolo": "Claude e ChatGPT programmano per te: Apple rilascia Xcode 26.3",
+      "descrizione": "Apple rivoluziona Xcode con il coding agentico. Claude di Anthropic e Codex di OpenAI diventano assistenti di sviluppo completi. The post Claude e ChatGPT programmano per te: Apple rilascia Xcode 26.3 appeared first on P",
+      "link": "https://www.punto-informatico.it/claude-chatgpt-programmano-per-te-apple-rilascia-xcode-26-3/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-04T06:02:19+00:00"
+    },
+    {
+      "titolo": "Galaxy S26 Ultra, Samsung ci dà un assaggio di cosa può fare la fotocamera",
+      "descrizione": "E lo fa con tre brevi video: vediamoli.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647100/samsung-galaxy-s26-ultra-fotocamera-video-zoom/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T05:45:00+00:00"
+    },
+    {
+      "titolo": "Gradient, le pompe di calore smart che \"svecchiano\" i condomini di New York",
+      "descrizione": "Grazie alla piattaforma Nexus è possibile impostare limiti massimi di temperatura per tutto il condominio, evitando sprechi.",
+      "link": "https://www.hdblog.it/home/articoli/n647086/gradient-pompe-calore-smart-new-york-condomini/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T05:35:00+00:00"
+    },
     {
       "titolo": "This Debian-based Linux distro has one of the smartest security features I've tested in years",
       "descrizione": "If you're looking for a bit of extra security with an MX Linux-based distribution, iDeal OS might be an ideal solution.",
@@ -100,39 +135,11 @@
       "data": "2026-02-03T17:12:00+00:00"
     },
     {
-      "titolo": "Lenovo e Huddly insieme per migliorare le riunioni: non solo AI",
-      "descrizione": "Strumenti utili, pragmatici.",
-      "link": "https://www.hdblog.it/hardware/articoli/n647062/lenovo-huddly-insieme-riunioni-bundle-lavoro/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T17:10:00+00:00"
-    },
-    {
       "titolo": "Grok: indagine per violazione della privacy in UK",
       "descrizione": "Anche il garante della privacy del Regno Unito ha avviato un'indagine su X e xAI per valutare il rispetto della legge sulla protezione dei dati. The post Grok: indagine per violazione della privacy in UK appeared first o",
       "link": "https://www.punto-informatico.it/grok-indagine-violazione-privacy-uk/",
       "fonte": "Punto Informatico",
       "data": "2026-02-03T17:08:44+00:00"
-    },
-    {
-      "titolo": "Luna divisa in due: Londra frena, Mosca accelera sul nucleare spaziale",
-      "descrizione": "Londra congela i piani lunari mentre Mosca lavora a una centrale nucleare sulla Luna",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n646971/regno-unito-luna-russia-nucleare/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T16:35:00+00:00"
-    },
-    {
-      "titolo": "Nuova Mercedes Classe S 2026: più lusso, tecnologia e comfort. Ecco i prezzi",
-      "descrizione": "Il restyling della Mercedes Classe S 2026 introduce più tecnologia, lusso e sistemi di assistenza alla guida evoluti",
-      "link": "https://www.hdmotori.it/mercedes-classe-s-2025-motori-allestimenti-dotazioni-prezzi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T16:30:51+00:00"
-    },
-    {
-      "titolo": "Galaxy Buds 4 e 4 Pro, ecco come saranno: la custodia è trasparente",
-      "descrizione": "I render mostrano entrambi i modelli.",
-      "link": "https://www.hdblog.it/indossabili/articoli/n647049/galaxy-buds-4-e-4-pro-leak-custodia-trasparente/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-03T16:25:00+00:00"
     },
     {
       "titolo": "Tutti gli antivirus di Avast ora costano il 70% in meno: scopri le promo",
@@ -161,13 +168,6 @@
       "link": "https://www.punto-informatico.it/le-migliori-lavapavimenti-del-2026-in-offerta-su-amazon-9-modelli-geniali/",
       "fonte": "Punto Informatico",
       "data": "2026-02-03T16:01:08+00:00"
-    },
-    {
-      "titolo": "Meta oscura Fabrizio Corona: chiusi i profili social",
-      "descrizione": "Meta ha oscurato i profili Facebook e Instagram di Fabrizio Corona per violazione del copyright, rimossi i video di Falsissimo su YouTube. The post Meta oscura Fabrizio Corona: chiusi i profili social appeared first on P",
-      "link": "https://www.punto-informatico.it/meta-oscura-fabrizio-corona-chiusi-profili-social/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-03T15:33:39+00:00"
     }
   ]
 }
