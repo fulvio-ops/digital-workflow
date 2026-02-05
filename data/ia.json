@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-05T03:12:09.249578+00:00",
+  "last_updated": "2026-02-05T07:17:46.893728+00:00",
   "items": [
     {
-      "titolo": "Attacco hacker all'Università La Sapienza: 72 ore per pagare o verranno eliminati i dati",
-      "descrizione": "Richiesto un riscatto in criptovalute",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n647109/attacco-hacker-universita-sapienza-72-ore/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T18:26:00+00:00",
+      "titolo": "Gemini vola a 750 milioni di utenti attivi mensili, insegue ChatGPT",
+      "descrizione": "L'app Gemini di Google supera i 750 milioni di utenti attivi mensili, superando Meta AI ma resta dietro a ChatGPT. The post Gemini vola a 750 milioni di utenti attivi mensili, insegue ChatGPT appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/gemini-vola-750-milioni-utenti-attivi-mensili-insegue-chatgpt/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-05T06:23:28+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "Google trasforma Gemini in una guida turistica",
-      "descrizione": "Gemini si aggiorna con l'integrazione delle mappe. Si potrà mostrare all'AI una zona e ricevere consigli su luoghi da visitare e ristoranti. The post Google trasforma Gemini in una guida turistica appeared first on Punto",
-      "link": "https://www.punto-informatico.it/google-trasforma-gemini-guida-turistica/",
+      "titolo": "Gemini vola a 750 milioni di utenti attivi mensili, insegue ChatGPT",
+      "descrizione": "L'app Gemini di Google supera i 750 milioni di utenti attivi mensili, superando Meta AI ma resta dietro a ChatGPT. The post Gemini vola a 750 milioni di utenti attivi mensili, insegue ChatGPT appeared first on Punto Info",
+      "link": "https://www.punto-informatico.it/gemini-vola-750-milioni-utenti-attivi-mensili-insegue-chatgpt/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-04T19:00:00+00:00",
+      "data": "2026-02-05T06:23:28+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Want local vibe coding? This AI stack replaces Claude Code and Codex - and it's free",
-      "descrizione": "You can replace expensive, cloud-based AI coding with three tools. Here's how.",
-      "link": "https://www.zdnet.com/article/local-ai-coding-stack-replaces-claude-code-codex-free/",
-      "fonte": "Latest news",
-      "data": "2026-02-05T03:01:09+00:00",
+      "titolo": "Anthropic critica la pubblicità su ChatGPT, Sam Altman non ci sta",
+      "descrizione": "Sam Altman definisce chiaramente disonesto lo spot Anthropic sul Super Bowl che critica la pubblicità in ChatGPT. The post Anthropic critica la pubblicità su ChatGPT, Sam Altman non ci sta appeared first on Punto Informa",
+      "link": "https://www.punto-informatico.it/anthropic-critica-pubblicita-chatgpt-sam-altman-non-ci-sta/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-05T05:42:54+00:00",
       "modello": "claude"
     },
     {
