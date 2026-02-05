@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-02-04T19:09:31.488383+00:00",
+  "last_updated": "2026-02-05T03:12:05.198718+00:00",
   "items": [
+    {
+      "titolo": "The AI coding gap: Why senior devs are getting faster while juniors spin their wheels",
+      "descrizione": "With close to one-third of code now AI-generated, a new study finds substantial increases in output and unexpected benefits.",
+      "link": "https://www.zdnet.com/article/why-gen-ai-boosts-productivity-some-developers-not-others/",
+      "fonte": "Latest news",
+      "data": "2026-02-05T01:46:00+00:00"
+    },
+    {
+      "titolo": "Your LG TV is getting a big audio upgrade for free - these OLED models included",
+      "descrizione": "LG has confirmed that select older TVs will soon be compatible with Dolby Atmos FlexConnect via an over-the-air software update.",
+      "link": "https://www.zdnet.com/article/lg-sound-suite-software-update/",
+      "fonte": "Latest news",
+      "data": "2026-02-05T01:00:00+00:00"
+    },
+    {
+      "titolo": "No, seriously: You can buy a $180 Fire TV on Amazon right now - and it's a decent model",
+      "descrizione": "Looking to upgrade or replace your TV before the big game, but are working with a tight budget? You can get the 55-inch Insignia F50 for just $180.",
+      "link": "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/",
+      "fonte": "Latest news",
+      "data": "2026-02-05T00:28:00+00:00"
+    },
+    {
+      "titolo": "OPPO FIND X9 Pro o Honor Magic 8 Pro: il confronto fra top di gamma completissimi",
+      "descrizione": "Abbiamo messo a confronto due degli ultimi top di gamma usciti sul mercato, probabilmente i più completi a 360°. OPPO punta ad una super batteria, la migliore in commercio su uno smartphone di fascia...",
+      "link": "https://www.hdblog.it/smartphone/comparazioni/n646757/confronto-oppo-find-x9-pro-honor-magic-8-pro/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T18:31:00+00:00"
+    },
+    {
+      "titolo": "Galaxy S26 Ultra, Samsung ci dà un assaggio di cosa può fare la fotocamera",
+      "descrizione": "E lo fa con tre brevi video: vediamoli.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647100/samsung-galaxy-s26-ultra-fotocamera-video-zoom/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T18:30:00+00:00"
+    },
+    {
+      "titolo": "Vodafone Italia, da oggi è disponibile il servizio Wi-Fi Calling per tutti i clienti",
+      "descrizione": "Sia clienti privati che business",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647155/vodafone-italia-wi-fi-calling-tutti-clienti/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T18:29:00+00:00"
+    },
+    {
+      "titolo": "Il robot umanoide di Xpeng debutta a Shenzhen tra applausi e una caduta",
+      "descrizione": "IRON di Xpeng conquista Shenzhen ma una caduta sul palco riaccende il dibattito sui limiti dei robot umanoidi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n647103/xpeng-iron-robot-umanoide-shenzhen/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T18:28:00+00:00"
+    },
+    {
+      "titolo": "Crisi dei chip, prezzi delle DDR5 stabilizzati in Germania: siamo al picco?",
+      "descrizione": "Un rallentamento significativo, ma non è ancora detta l'ultima parola",
+      "link": "https://www.hdblog.it/mercato/articoli/n647168/prezzo-memorie-germania-primo-rallentamento/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T18:27:00+00:00"
+    },
     {
       "titolo": "Microsoft crea marketplace per vendere contenuti alle aziende AI",
       "descrizione": "Microsoft annuncia il Publisher Content Marketplace, un hub dove le aziende AI possono acquistare contenuti editoriali. The post Microsoft crea marketplace per vendere contenuti alle aziende AI appeared first on Punto In",
@@ -44,6 +100,20 @@
       "data": "2026-02-04T17:15:00+00:00"
     },
     {
+      "titolo": "BYD costretta allo stop: il Giurì blocca la campagna Purefication",
+      "descrizione": "Stop alla campagna pubblicitaria Purefication di BYD Italia contro Stellantis perché giudicata ingannevole e denigratoria",
+      "link": "https://www.hdmotori.it/byd-stop-campagna-purefication-stellantis/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T17:12:00+00:00"
+    },
+    {
+      "titolo": "Volkswagen Golf GTI Edition 50: 325 CV per la GTI più potente e divertente di sempre",
+      "descrizione": "La prima Golf GTI compie 50 anni: Volkswagen festeggia questo annversario con la nuova Golf GTI Edition 50",
+      "link": "https://www.hdmotori.it/volkswagen-golf-gti-edition-50-interni-motore-prestazioni-prezzo/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-04T17:11:00+00:00"
+    },
+    {
       "titolo": "Intel 80286 compie 44 anni: il processore che ha cambiato per sempre i PC",
       "descrizione": "Tanti auguri CPU!",
       "link": "https://www.hdblog.it/hardware/articoli/n647224/intel-80286-compie-44-anni-processore-pc/",
@@ -79,39 +149,11 @@
       "data": "2026-02-04T16:30:33+00:00"
     },
     {
-      "titolo": "Truffe agli anziani, il 75% non percepisce i rischi della tecnologia",
-      "descrizione": "Il numero di casi in Italia è preoccupante",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n647195/truffe-anziani-rischi-tecnologia-emporia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T15:50:00+00:00"
-    },
-    {
-      "titolo": "Google Pixel 10a, pioggia di leak: filtrano i primi render ufficiali",
-      "descrizione": "Un'altra occasione per vedere in anteprima il prossimo medio gamma di Google.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647217/google-pixel-10a-colori-render-ufficiali-leak/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T15:45:00+00:00"
-    },
-    {
       "titolo": "Occhio all’estate: finalmente un nuovo trailer per GTA 6",
       "descrizione": "Nessun altro rinvio e nuovo materiale in estate: è questa la promessa di Rockstar Games e Take-Two a chi aspetta di saperne di più su GTA 6. The post Occhio all’estate: finalmente un nuovo trailer per GTA 6 appeared firs",
       "link": "https://www.punto-informatico.it/estate-nuovo-trailer-gta-6/",
       "fonte": "Punto Informatico",
       "data": "2026-02-04T15:40:33+00:00"
-    },
-    {
-      "titolo": "Fusione nucleare: testato in Russia un superconduttore da record",
-      "descrizione": "Test riuscito di un nuovo filo superconduttore per tokamak sviluppato in Russia",
-      "link": "https://www.hdblog.it/green/articoli/n646964/fusione-nucleare-filo-superconduttore-russia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T15:35:00+00:00"
-    },
-    {
-      "titolo": "Blink Outdoor 2K+ ufficiale: la videocamera esterna next-gen senza fili | Prezzo",
-      "descrizione": "Caratteristiche e dettagli.",
-      "link": "https://www.hdblog.it/amazon/articoli/n647205/blink-outdoor-2k-ufficiale/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-04T15:25:00+00:00"
     },
     {
       "titolo": "Alexa+ per tutti negli USA: cosa cambia dalla versione base",
@@ -126,48 +168,6 @@
       "link": "https://www.tomshardware.com/software/most-of-you-steal-your-software-bill-gates-complained-about-software-piracy-50-years-ago-and-was-openly-irked-by-communitys-altair-basic-theft",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-04T15:05:06+00:00"
-    },
-    {
-      "titolo": "Demand for AI skills surged by over 100% in 2025, Upwork finds - here's how it could affect your job search",
-      "descrizione": "A new report from Upwork found that businesses are investing more in professionals who can help them to incorporate new AI tools into existing workflows.",
-      "link": "https://www.zdnet.com/article/employers-are-placing-a-higher-premium-on-ai-skills-while-still-hiring-humans-report/",
-      "fonte": "Latest news",
-      "data": "2026-02-04T15:04:03+00:00"
-    },
-    {
-      "titolo": "Dimagrire senza fatica: Pfizer testa l’alternativa sicura a Ozempic",
-      "descrizione": "Pfizer sta testando un nuovo farmaco contro l'obesità e il sovrappeso, mentre il fenomeno Ozempic non accenna a sgonfiarsi online. The post Dimagrire senza fatica: Pfizer testa l’alternativa sicura a Ozempic appeared fir",
-      "link": "https://www.punto-informatico.it/dimagrire-senza-fatica-pfizer-testa-alternativa-sicura-ozempic/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T14:05:52+00:00"
-    },
-    {
-      "titolo": "NordVPN inizia il mese di febbraio 2026 con un’offerta imperdibile",
-      "descrizione": "NordVPN si conferma la scelta giusta per una nuova VPN: con questa promo è la scelta migliore per un servizio di questo tipo da attivare oggi. The post NordVPN inizia il mese di febbraio 2026 con un’offerta imperdibile a",
-      "link": "https://www.punto-informatico.it/nordvpn-inizia-il-mese-di-febbraio-2026-con-unofferta-imperdibile/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T13:57:47+00:00"
-    },
-    {
-      "titolo": "Clienti Vodafone, da oggi avete il Wi-Fi Calling gratis",
-      "descrizione": "Vodafone abilita il servizio Wi-Fi Calling per tutti: si può chiamare anche senza rete mobile, sfruttando il Wi-Fi e senza costi aggiuntivi. The post Clienti Vodafone, da oggi avete il Wi-Fi Calling gratis appeared first",
-      "link": "https://www.punto-informatico.it/vodafone-wifi-calling/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T13:20:30+00:00"
-    },
-    {
-      "titolo": "Moto Watch Fit è lo smartwatch OLED che con 49€ ti lascia a bocca aperta",
-      "descrizione": "Moto Watch Fit è uno smartwatch completo per la vita quotidiana: bello, resistente e in super sconto su Amazon. The post Moto Watch Fit è lo smartwatch OLED che con 49€ ti lascia a bocca aperta appeared first on Punto In",
-      "link": "https://www.punto-informatico.it/moto-watch-fit-e-lo-smartwatch-oled-che-con-49e-ti-lascia-a-bocca-aperta/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-04T12:57:05+00:00"
-    },
-    {
-      "titolo": "Forget Hinge or Bumble. This App Promises a Personal AI Matchmaker",
-      "descrizione": "Instead of using AI as a coach, our AI chatbots just began talking to each other, as we became human facilitators for an AI love story. Now that's what I call dystopian.",
-      "link": "https://www.wired.com/review/three-day-rule-matchmaking-app/",
-      "fonte": "WIRED",
-      "data": "2026-02-04T12:08:00+00:00"
     }
   ]
 }
