@@ -1,36 +1,28 @@
 {
-  "last_updated": "2026-02-05T19:08:38.159660+00:00",
+  "last_updated": "2026-02-06T03:10:52.199399+00:00",
   "items": [
     {
-      "titolo": "OpenAI's new GPT-5.3-Codex is 25% faster and goes way beyond coding now - what's new",
-      "descrizione": "The Codex team said GPT-5.3-Codex even helped build itself.",
-      "link": "https://www.zdnet.com/article/openai-gpt-5-3-codex-faster-goes-beyond-coding/",
+      "titolo": "Which AI chatbots have ads? Comparing ChatGPT, Claude, Gemini, and more",
+      "descrizione": "Want to know which AI chatbots have ads or plan to roll them out? I compared the top ones to find out.",
+      "link": "https://www.zdnet.com/article/which-ai-chatbots-are-ad-free/",
       "fonte": "Latest news",
-      "data": "2026-02-05T18:00:00+00:00",
+      "data": "2026-02-06T01:51:00+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "GitHub, arrivano gli agenti programmatori di OpenAI e Anthropic",
-      "descrizione": "Claude Code e OpenAI Codex sono direttamente accessibili da GitHub, GitHub Mobile e Visual Studio Code per gli utenti con abbonamento Copilot Pro Plus o Copilot Enterprise.",
-      "link": "https://www.hdblog.it/microsoft/articoli/n647374/github-agenti-programmatori-openai-anthropic/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-05T15:35:00+00:00",
-      "modello": "copilot"
-    },
-    {
-      "titolo": "Mistero sulla nuova Siri con Gemini: addio privacy?",
-      "descrizione": "Apple potrebbe usare i server Google per la versione di Siri e le funzionalità AI basate su Gemini, quindi dovrà garantire la stessa privacy attuale. The post Mistero sulla nuova Siri con Gemini: addio privacy? appeared",
-      "link": "https://www.punto-informatico.it/mistero-nuova-siri-gemini-addio-privacy/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-05T15:53:34+00:00",
+      "titolo": "Which AI chatbots have ads? Comparing ChatGPT, Claude, Gemini, and more",
+      "descrizione": "Want to know which AI chatbots have ads or plan to roll them out? I compared the top ones to find out.",
+      "link": "https://www.zdnet.com/article/which-ai-chatbots-are-ad-free/",
+      "fonte": "Latest news",
+      "data": "2026-02-06T01:51:00+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "Anthropic says its new Claude Opus 4.6 can nail your work deliverables on the first try",
-      "descrizione": "The frontier model can handle complex, end-to-end enterprise workflows and take on the autonomous tasks you usually do yourself.",
-      "link": "https://www.zdnet.com/article/anthropic-claude-opus-4-6-first-try-work-deliverables/",
+      "titolo": "Which AI chatbots have ads? Comparing ChatGPT, Claude, Gemini, and more",
+      "descrizione": "Want to know which AI chatbots have ads or plan to roll them out? I compared the top ones to find out.",
+      "link": "https://www.zdnet.com/article/which-ai-chatbots-are-ad-free/",
       "fonte": "Latest news",
-      "data": "2026-02-05T17:45:00+00:00",
+      "data": "2026-02-06T01:51:00+00:00",
       "modello": "claude"
     },
     {

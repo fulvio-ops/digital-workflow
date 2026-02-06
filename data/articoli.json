@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-02-05T19:08:34.848291+00:00",
+  "last_updated": "2026-02-06T03:10:48.020053+00:00",
   "items": [
+    {
+      "titolo": "OpenAI's Frontier wants to manage your AI agents - it could upend enterprise software, too",
+      "descrizione": "Emulating Palantir's use of forward-deployed AI engineers, OpenAI's framework is both an opportunity and a threat for commercial software firms.",
+      "link": "https://www.zdnet.com/article/openai-frontier-manage-enterprise-ai-agents-like-palantir/",
+      "fonte": "Latest news",
+      "data": "2026-02-05T20:54:34+00:00"
+    },
+    {
+      "titolo": "I migliori smartphone di febbraio ed i più venduti del mese precedente - VIDEO",
+      "descrizione": "Ecco i migliori smartphone che vi consigliamo nel mese di febbraio 2026, ma anche gli smartphone più venduti del mese precedente. Motorola avrà di nuovo dominato le classifiche?",
+      "link": "https://www.hdblog.it/smartphone/speciali/n647047/i-migliori-smartphone-di-febbraio-2026/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-05T18:45:00+00:00"
+    },
     {
       "titolo": "Report claims Nvidia will not be releasing any new RTX gaming GPUs in 2026, RTX 60 series likely debuting in 2028",
       "descrizione": "Nvidia's RTX 50 series Super refresh supposedly is design complete, but the GPU maker won't be releasing any new RTX GPUs in 2026, according to a report in The Information.",
@@ -9,11 +23,25 @@
       "data": "2026-02-05T18:44:15+00:00"
     },
     {
+      "titolo": "Gli abbonati TIM hanno una nuova arma contro i call center esteri molesti",
+      "descrizione": "Un aggiornamento dell'app MyTIM permette di abilitare il blocco delle chiamate da numeri sconosciuti esteri. Anche per Paese.",
+      "link": "https://www.hdblog.it/tim/articoli/n647311/mytim-app-android-filtro-call-center-esteri/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-05T18:44:00+00:00"
+    },
+    {
       "titolo": "The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow",
       "descrizione": "A recent report found that carbon emissions caused by the Milano Cortina Olympics could lead to the loss of 5.5 square kilometers of snowpack and millions of metric tons of glacial ice.",
       "link": "https://www.wired.com/story/winter-olympics-2026-impacts-snow/",
       "fonte": "WIRED",
       "data": "2026-02-05T18:43:15+00:00"
+    },
+    {
+      "titolo": "Le nuove Smart TV di Amazon arrivano in Italia. Ecco gamma e PREZZI",
+      "descrizione": "In promo fino al 10 febbraio.",
+      "link": "https://www.hdblog.it/tv/articoli/n647310/amazon-fire-tv-nuovi-modelli-italia-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-05T18:42:00+00:00"
     },
     {
       "titolo": "Cosa cambia se Starlink lancia uno smartphone?",
@@ -44,11 +72,25 @@
       "data": "2026-02-05T17:45:00+00:00"
     },
     {
+      "titolo": "GEEKOM A6: il mini PC con Ryzen 7 6800H è al minimo storico Amazon",
+      "descrizione": "Prezzo più basso di sempre su Amazon per il mini PC GEEKOM A6 con AMD Ryzen 7 6800H, 16GB di RAM DDR5 e 512GB di archiviazione SSD.",
+      "link": "https://www.hdblog.it/hardware/offerte/n647390/geekom-a6-mini-pc-ryzen-7-minimo-storico/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-05T17:40:00+00:00"
+    },
+    {
       "titolo": "Il supercomputer Frontier accelera la ricerca sulle piante",
       "descrizione": "Nuovo metodo AI riduce memoria e velocizza l’analisi delle immagini delle piante",
       "link": "https://www.hdblog.it/hardware/articoli/n647253/frontier-supercomputer-ai-ricerca-piante/",
       "fonte": "HDblog.it",
       "data": "2026-02-05T17:30:00+00:00"
+    },
+    {
+      "titolo": "Industria auto UE sotto pressione: appello di Stellantis e Volkswagen a Bruxelles. Bisogna agire subito",
+      "descrizione": "I CEO Filosa e Blume chiedono all’UE una strategia per sostenere le auto europee contro la concorrenza cinese",
+      "link": "https://www.hdmotori.it/appello-stellantis-volkswagen-commissione-europea-auto/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-05T17:22:00+00:00"
     },
     {
       "titolo": "NVIDIA punta su robot più autonomi con la tecnologia Cosmos Policy",
@@ -107,13 +149,6 @@
       "data": "2026-02-05T15:59:22+00:00"
     },
     {
-      "titolo": "Sfere di Dyson: uno studio mostra che potrebbero funzionare",
-      "descrizione": "Un nuovo studio analizza come le Dyson sphere potrebbero restare stabili e produrre energia.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647137/dyson-sphere-studio-stabilita/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-05T15:55:00+00:00"
-    },
-    {
       "titolo": "Jim Keller's Tenstorrent is downgrading Blackhole p150 cards from 140 to 120 tensor cores via firmware update — will ship cards with 120 tensor cores going forward, company claims existing users should expect 1-2% perfor",
       "descrizione": "Tenstorrent downgrades existing and new Blackhole p150 cards from 140 to 120 tensor cores",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/jim-kellers-tenstorrent-is-downgrading-blackhole-p150-cards-from-140-to-120-tensor-cores-via-firmware-update-will-ship-cards-with-120-tensor-cores-going-forward-company-claims-existing-users-should-expect-1-2-percent-performance-drop",
@@ -128,46 +163,11 @@
       "data": "2026-02-05T15:41:05+00:00"
     },
     {
-      "titolo": "Sfida a Starlink: via libera USA a 4.000 nuovi satelliti internet",
-      "descrizione": "Via libera USA a 4.000 satelliti Logos per internet globale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647362/logos-space-services-satelliti-internet/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-05T15:40:00+00:00"
-    },
-    {
-      "titolo": "Polestar amplia la ricarica pubblica in Europa con Plug and Charge",
-      "descrizione": "Ora è più semplice ricaricare una Polestar in Europa.",
-      "link": "https://www.hdmotori.it/polestar-ricarica-europa-plug-and-charge-supercharger-tesla/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-05T15:30:45+00:00"
-    },
-    {
-      "titolo": "Lo sviluppo della banda ultralarga in Italia continua: altri 733 mln € di finanziamenti",
-      "descrizione": "Invitalia e il governo hanno firmato l'accordo nelle scorse ore.",
-      "link": "https://www.hdblog.it/mercato/articoli/n647369/banda-ultra-larga-investimenti-italia-pnrr/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-05T15:25:00+00:00"
-    },
-    {
-      "titolo": "Pixel 10a: quattro colori per il nuovo smartphone di Google",
-      "descrizione": "Obsidian, Lavender, Berry e Fog.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647356/google-pixel-10a-colori/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-05T15:20:00+00:00"
-    },
-    {
       "titolo": "Così le aziende gestiranno uffici pieni di agenti AI: OpenAI Frontier",
       "descrizione": "Con il lancio della piattaforma Frontier, OpenAI permette alle aziende di creare e gestire gli agenti AI come fanno con i dipendenti. The post Così le aziende gestiranno uffici pieni di agenti AI: OpenAI Frontier appeare",
       "link": "https://www.punto-informatico.it/openai-frontier/",
       "fonte": "Punto Informatico",
       "data": "2026-02-05T15:11:04+00:00"
-    },
-    {
-      "titolo": "Stesso prezzo della luce per 10 anni? Scopri la clamorosa offerta di NeN Energia",
-      "descrizione": "Come Netflix, ma sull'energia: scopri come funziona l'offerta di NeN. The post Stesso prezzo della luce per 10 anni? Scopri la clamorosa offerta di NeN Energia appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/stesso-prezzo-della-luce-per-10-anni-scopri-la-clamorosa-offerta-di-nen-energia/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-05T14:46:56+00:00"
     }
   ]
 }
