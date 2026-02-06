@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-06T13:36:07.769167+00:00",
+  "last_updated": "2026-02-06T19:08:53.438004+00:00",
   "items": [
     {
-      "titolo": "OpenAI's Frontier looks like another AI agent tool - but it's really an enterprise power play",
-      "descrizione": "Emulating Palantir's use of forward-deployed AI engineers, OpenAI's framework is both an opportunity and a threat for commercial software firms.",
-      "link": "https://www.zdnet.com/article/openai-frontier-manage-enterprise-ai-agents-like-palantir/",
-      "fonte": "Latest news",
-      "data": "2026-02-06T12:15:00+00:00",
+      "titolo": "La Sapienza torna online: sembra confermata la matrice russa",
+      "descrizione": "Dopo l'attacco e il lungo down, è iniziato il ripristino: La Sapienza sta tornando online, già disponibile l'accesso all'area riservata. The post La Sapienza torna online: sembra confermata la matrice russa appeared firs",
+      "link": "https://www.punto-informatico.it/la-sapienza-torna-online/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-06T15:53:40+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,20 +18,12 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Arriva Claude Opus 4.6, l’intelligenza artificiale di Anthropic punta alle aziende",
-      "descrizione": "Contesto esteso, agenti collaborativi e integrazione nei flussi aziendali: la sfida a OpenAI e Google non è sullo spettacolo, ma sulla produttività reale delle imprese.",
-      "link": "https://www.ilsole24ore.com/art/arriva-claude-opus-46-l-intelligenza-artificiale-anthropic-punta-aziende-AIqJrSHB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-06T07:52:35+00:00",
-      "modello": "claude"
-    },
-    {
-      "titolo": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
-      "descrizione": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
-      "link": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
+      "titolo": "The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?",
+      "descrizione": "As AI systems grow more powerful, Anthropic’s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
+      "link": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
       "fonte": "WIRED",
-      "data": "2026-02-04T15:32:45+00:00",
-      "modello": "altri"
+      "data": "2026-02-06T16:33:18+00:00",
+      "modello": "claude"
     }
   ]
 }
