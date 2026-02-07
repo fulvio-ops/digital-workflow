@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-02-07T03:04:53.001805+00:00",
+  "last_updated": "2026-02-07T07:03:18.818161+00:00",
   "items": [
     {
-      "titolo": "La Sapienza torna online: sembra confermata la matrice russa",
-      "descrizione": "Dopo l'attacco e il lungo down, è iniziato il ripristino: La Sapienza sta tornando online, già disponibile l'accesso all'area riservata. The post La Sapienza torna online: sembra confermata la matrice russa appeared firs",
-      "link": "https://www.punto-informatico.it/la-sapienza-torna-online/",
+      "titolo": "Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri…",
+      "descrizione": "Secondo Bloomberg, Apple starebbe lavorando per integrare i chatbot AI come ChatGPT, Claude e Gemini su CarPlay. The post Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri… appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/apple-porta-chatgpt-gemini-e-claude-in-auto-bye-bye-siri/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-06T15:53:40+00:00",
+      "data": "2026-02-07T06:03:23+00:00",
       "modello": "chatgpt"
     },
     {
-      "titolo": "ChatGPT rallenta, Gemini e Grok accelerano. Il mercato degli LLM cresce ma Sam Altman non è più solo",
-      "descrizione": "I dati di Apptopia fotografano un mercato dell’intelligenza artificiale in piena espansione ma meno concentrato. OpenAI resta davanti, ma perde terreno mentre Google e xAI guadagnano utenti.",
-      "link": "https://www.ilsole24ore.com/art/chatgpt-rallenta-gemini-e-grok-accelerano-mercato-llm-cresce-ma-sam-altman-non-e-piu-solo-AIR2NqEB",
-      "fonte": "Il Sole 24 ORE - Tecnologia",
-      "data": "2026-02-04T10:13:01+00:00",
+      "titolo": "Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri…",
+      "descrizione": "Secondo Bloomberg, Apple starebbe lavorando per integrare i chatbot AI come ChatGPT, Claude e Gemini su CarPlay. The post Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri… appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/apple-porta-chatgpt-gemini-e-claude-in-auto-bye-bye-siri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-07T06:03:23+00:00",
       "modello": "gemini"
     },
     {
-      "titolo": "The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?",
-      "descrizione": "As AI systems grow more powerful, Anthropic’s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
-      "link": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
-      "fonte": "WIRED",
-      "data": "2026-02-06T16:33:18+00:00",
+      "titolo": "Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri…",
+      "descrizione": "Secondo Bloomberg, Apple starebbe lavorando per integrare i chatbot AI come ChatGPT, Claude e Gemini su CarPlay. The post Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri… appeared first on Punto Informatico .",
+      "link": "https://www.punto-informatico.it/apple-porta-chatgpt-gemini-e-claude-in-auto-bye-bye-siri/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-07T06:03:23+00:00",
       "modello": "claude"
     }
   ]
