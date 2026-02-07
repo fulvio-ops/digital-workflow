@@ -1,6 +1,153 @@
 {
-  "last_updated": "2026-02-07T07:03:15.222915+00:00",
+  "last_updated": "2026-02-07T13:13:18.047691+00:00",
   "items": [
+    {
+      "titolo": "Legendary Windows dev codes demos and games for ancient ‘War Games’ monitor — interfaces with the HP1345a vector display using an ESP32 microcontroller",
+      "descrizione": "The ancient HP1345a vector display is now usable with a PC to USB serial connection and code shared on GitHub.",
+      "link": "https://www.tomshardware.com/monitors/legendary-windows-dev-codes-demos-and-games-for-ancient-war-games-monitor-interfaces-with-the-hp1345a-vector-display-using-an-esp32-microcontroller",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-07T12:30:00+00:00"
+    },
+    {
+      "titolo": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
+      "descrizione": "Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
+      "fonte": "WIRED",
+      "data": "2026-02-07T11:30:00+00:00"
+    },
+    {
+      "titolo": "Google Wallet sta per cambiare: filtrano altre novità in arrivo per l'interfaccia",
+      "descrizione": "L'obiettivo è rendere la schermata principale più chiara.",
+      "link": "https://www.hdblog.it/google/articoli/n647541/google-wallet-redesign-interfaccia-pass-novita-app/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T11:05:00+00:00"
+    },
+    {
+      "titolo": "Thermalright's LCD software for Windows ported to Linux — enthsuiast's full-fledged port supports a ton of models and enables RGB and LCD customization",
+      "descrizione": "A Linux enthusiast has ported the Windows version of Thermalright's AIO cooler control center software to Linux. Linux users can now control their AIO cooler screens directly from Linux.",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-ports-thermalrights-lcd-software-for-windows-to-linux-fully-fledged-port-supports-a-ton-of-models-and-enables-rgb-and-lcd-customization",
+      "fonte": "Latest from Tom's Hardware",
+      "data": "2026-02-07T11:00:00+00:00"
+    },
+    {
+      "titolo": "Supermercato butta fuori cliente per un errore con il riconoscimento facciale",
+      "descrizione": "Scenario orwelliano",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n647479/supermercato-butta-fuori-cliente-errore/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T10:05:00+00:00"
+    },
+    {
+      "titolo": "BYD Great Tang, 7 posti e ricarica megawatt per il nuovo maxi SUV elettrico",
+      "descrizione": "Arriverà sul mercato entro la prima metà del 2026 e poggia sulla piattaforma Super e-platform che supporta la ricarica megawatt",
+      "link": "https://www.hdmotori.it/byd-great-tang-dimensioni-caratteristiche-motori/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T10:00:05+00:00"
+    },
+    {
+      "titolo": "7 Steps to Better Financial Health You Can Take Right Now",
+      "descrizione": "The beginning of the year is a great time to take a hard look at your expenses and savings. Take these concrete steps to fix up your finances in about a day.",
+      "link": "https://www.wired.com/story/your-annual-personal-finance-checklist/",
+      "fonte": "WIRED",
+      "data": "2026-02-07T10:00:00+00:00"
+    },
+    {
+      "titolo": "Offerta Omoda 5, da 99 euro al mese con finanziamento: cosa c'è da sapere",
+      "descrizione": "In caso di permuta o rottamazione e con finanziamento, il SUV si porta a casa con rate da 99 euro a fronte di un anticipo di 7.909 euro",
+      "link": "https://www.hdmotori.it/offerta-omoda-5-sconto-finanziamento-rate-interessi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T09:30:25+00:00"
+    },
+    {
+      "titolo": "Vivo X300 Ultra riceve una certificazione importante: il lancio si avvicina",
+      "descrizione": "Presto sarà lanciato in Cina e poi arriverà anche da noi.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647538/vivo-x300-ultra-specifiche-ricarica-lancio-globale/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T09:05:00+00:00"
+    },
+    {
+      "titolo": "Nasa conferma: mercoledì primo volo verso l’Iss dopo l’evacuazione medica",
+      "descrizione": "La Crew-12 partirà con un razzo Falcon 9 di SpaceX non prima delle 12 ora italiana",
+      "link": "https://www.ilsole24ore.com/art/nasa-conferma-mercoledi-primo-volo-l-iss-l-evacuazione-medica-AIYt3pIB",
+      "fonte": "Il Sole 24 ORE - Tecnologia",
+      "data": "2026-02-07T08:54:56+00:00"
+    },
+    {
+      "titolo": "Xiaomi 17, la batteria del modello globale sarà ridotta rispetto alla variante cinese",
+      "descrizione": "Il taglio delle batterie sul mercato globale non è una novità.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647531/xiaomi-17-batteria-ridotta-versione-globale-europa/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T08:35:00+00:00"
+    },
+    {
+      "titolo": "Tesla Roadster, la supercar sta davvero arrivando? Elon Musk deposita un nuovo logo",
+      "descrizione": "Tesla ha depositato un nuovo logo per la Roadster che riaccende le discussioni sulla possibile presentazione di questa supercar",
+      "link": "https://www.hdmotori.it/tesla-roadster-logo-presentazione/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T08:30:49+00:00"
+    },
+    {
+      "titolo": "CarPlay cambia volto: Apple apre la strada ai chatbot AI in auto",
+      "descrizione": "Apple studia l’integrazione dei chatbot AI in CarPlay secondo indiscrezioni",
+      "link": "https://www.hdblog.it/apple/articoli/n647537/apple-carplay-chatbot-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T08:05:00+00:00"
+    },
+    {
+      "titolo": "Airbag Takata difettosi, ancora troppe le auto circolanti a rischio",
+      "descrizione": "Il Ministero delle Infrastrutture richiama l’attenzione sugli airbag Takata difettosi. In Italia circolano ancora 1,6 milioni di veicoli a rischio",
+      "link": "https://www.hdmotori.it/airbag-takata-avviso-ministero-infrastrutture/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T08:00:11+00:00"
+    },
+    {
+      "titolo": "Xiaomi 15: tanta potenza, dimensioni compatte e ora un prezzo da fascia media",
+      "descrizione": "Lo Xiaomi 15 è in offerta e con un nuovo coupon diventa il compatto da prendere nella fascia media del mercato, anche grazie allo Snapdragon 8 Elite.",
+      "link": "https://www.hdblog.it/smartphone/offerte/n647547/xiaomi-15-offerta-prezzo-psprfeb26/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T07:55:00+00:00"
+    },
+    {
+      "titolo": "WordPress: Claude può gestire blog e analytics, cosa cambia",
+      "descrizione": "Con il nuovo connettore MCP, WordPress permette a Claude di analizzare traffico, commenti, plugin e performance dei siti. The post WordPress: Claude può gestire blog e analytics, cosa cambia appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/wordpress-claude-puo-gestire-blog-analytics-cosa-cambia/",
+      "fonte": "Punto Informatico",
+      "data": "2026-02-07T07:43:27+00:00"
+    },
+    {
+      "titolo": "Poco X8 Pro e Pro Max: prezzi europei svelati per errore sul sito ufficiale",
+      "descrizione": "Ecco quanto costeranno da noi nelle diverse configurazioni.",
+      "link": "https://www.hdblog.it/smartphone/articoli/n647539/poco-x8-pro-max-prezzo-europa-italia-quanto-costa/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T07:25:00+00:00"
+    },
+    {
+      "titolo": "iPad 12, nuove conferme per il supporto ad Apple Intelligence",
+      "descrizione": "Dovrebbe però essere sostanzialmente l'unica novità.",
+      "link": "https://www.hdblog.it/tablet/articoli/n647529/apple-ipad-12-intelligence-chip-a18-ai/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T07:05:00+00:00"
+    },
+    {
+      "titolo": "Novità Rivian 2026, il SUV elettrico R2 sta arrivando: ecco cosa sappiamo",
+      "descrizione": "La nuova Rivian R2 debutterà nel 2026 e segna l’ingresso del marchio in un mercato più ampio. Arriverà anche in Europa",
+      "link": "https://www.hdmotori.it/novita-rivian-r2-2026-suv-elettrico-europa-anticipazioni/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T07:00:28+00:00"
+    },
+    {
+      "titolo": "Xiaomi Redmi Watch 5 Active a 27,99€ è lo smartwatch da prendere al volo",
+      "descrizione": "Xiaomi Redmi Watch 5 Active è in offerta su Amazon a prezzo piccolissimo ancora per poco tempo.",
+      "link": "https://www.hdblog.it/indossabili/offerte/n647505/xiaomi-redmi-watch-5-active-promo-wow-amazon/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T06:35:00+00:00"
+    },
+    {
+      "titolo": "Nuova Volvo EX60 vs BMW iX3, sfida tra SUV elettrici premium: confronto e prezzi",
+      "descrizione": "Mettiamo a confronto due SUV elettrici premium dotati delle più recenti tecnologie: ecco la Volvo EX60 e la BMW iX3",
+      "link": "https://www.hdmotori.it/volvo-ex60-vs-bmw-ix3-sfida-suv-elettrici-confronto-prezzi/",
+      "fonte": "HDblog.it",
+      "data": "2026-02-07T06:30:39+00:00"
+    },
     {
       "titolo": "Metti al sicuro ogni tuo dispositivo con questi Antivirus in offerta bomba su Amazon",
       "descrizione": "Con questi speciali Antivirus in offerta bomba su Amazon metti al sicuro ogni tuo dispositivo a un prezzo pazzesco e download immediato. The post Metti al sicuro ogni tuo dispositivo con questi Antivirus in offerta bomba",
@@ -16,158 +163,11 @@
       "data": "2026-02-06T23:00:44+00:00"
     },
     {
-      "titolo": "Ecco 10 app imperdibili per il vostro MacBook!",
-      "descrizione": "Qui è dove vi consigliamo 10 app che possono svoltare la vostra routine se utilizzate un MacBook con MacOS!",
-      "link": "https://www.hdblog.it/portatili/recensioni/n647251/migliori-app-imperdibili-macbook-macos/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T18:36:00+00:00"
-    },
-    {
-      "titolo": "iPhone 17e, il nuovo modello economico è dietro l'angolo? Filtra la data di lancio",
-      "descrizione": "Ecco che novità possiamo aspettarci.",
-      "link": "https://www.hdblog.it/apple/articoli/n647394/iphone-17e-data-lancio-quando-febbraio-specifiche/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T18:35:00+00:00"
-    },
-    {
-      "titolo": "Spotify, arrivano retroscena, aneddoti e curiosità sulle canzoni | Beta",
-      "descrizione": "L'esperimento inizia oggi in alcuni mercati, tra cui non il nostro purtroppo.",
-      "link": "https://www.hdblog.it/android/articoli/n647525/spotify-aneddoti-retroscena-canzoni-test-beta/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T17:55:00+00:00"
-    },
-    {
       "titolo": "Semiconductor industry on track to hit $1 trillion in sales in 2026, SIA predicts — bumper forecast follows $791.7 billion haul for 2025",
       "descrizione": "After recording a $791.7 billion revenue in 2025, the semiconductor industry is on track to hit $1 trillion in sales in 2026.",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-on-track-to-hit-usd1-trillion-in-sales-in-2026-sia-predicts-bumper-forecast-follows-usd791-7-billion-haul-for-2025",
       "fonte": "Latest from Tom's Hardware",
       "data": "2026-02-06T17:54:42+00:00"
-    },
-    {
-      "titolo": "Gli scienziati USA guardano dentro il ramjet: range triplicato",
-      "descrizione": "Nuove misure ottiche nei ramjet solidi promettono missili molto più longevi",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647403/ramjet-solido-usa-gittata-tripla/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T17:30:00+00:00"
-    },
-    {
-      "titolo": "Fairphone invia email \"sospette\", ma a quanto pare non c'è da preoccuparsi",
-      "descrizione": "Sembra che un test del partner di invio delle mail sia andato male e siano partite delle mail sbagliate.",
-      "link": "https://www.hdblog.it/smartphone/articoli/n647518/fairphone-mail-sospetta-truffa-data-breach/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T17:25:00+00:00"
-    },
-    {
-      "titolo": "Xiaomi YU7 GT svelata, ecco il SUV elettrico sportivo da 1.000 CV",
-      "descrizione": "Ecco la versione più sportiva del SUV elettrico di Xiaomi: doppio motore e 1.000 CV per prestazioni elevatissime",
-      "link": "https://www.hdmotori.it/xiaomi-yu7-gt-2026-dimensioni-motori-prestazioni/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T17:20:00+00:00"
-    },
-    {
-      "titolo": "Olimpiadi Milano-Cortina: attacchi informatici più probabili",
-      "descrizione": "Kaspersky ha elencato gli attacchi informatici che potrebbero avvenire durante le Olimpiadi di Milano-Cortina contro infrastrutture, atleti e pubblico. The post Olimpiadi Milano-Cortina: attacchi informatici più probabil",
-      "link": "https://www.punto-informatico.it/olimpiadi-milano-cortina-attacchi-informatici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T17:17:11+00:00"
-    },
-    {
-      "titolo": "Lancia il tuo sito web a meno di 3€ al mese grazie a Hostinger",
-      "descrizione": "Con la promozione flash di Hostinger, puoi sottoscrivere un piano web hosting completo di tutto con sconti fino all'80%. The post Lancia il tuo sito web a meno di 3€ al mese grazie a Hostinger appeared first on Punto Inf",
-      "link": "https://www.punto-informatico.it/lancia-il-tuo-sito-web-a-meno-di-3e-al-mese-grazie-a-hostinger/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T17:12:40+00:00"
-    },
-    {
-      "titolo": "Stellantis, il cambio di rotta costa 22 miliardi di euro. La transizione è stata sovrastimata",
-      "descrizione": "La reimpostazione del business di Stellantis ha portato alla contabilizzazione di oneri per 22,2 miliardi di euro",
-      "link": "https://www.hdmotori.it/stellantis-stangata-conti-22-miliardi-revisione-strategia/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T17:10:00+00:00"
-    },
-    {
-      "titolo": "Analogue 3D, in arrivo una nuova edizione limitata: 5 colori trasparenti",
-      "descrizione": "Sono ispirate ai prototipi che Nintendo aveva realizzato all'epoca ma che non ha mai commercializzato.",
-      "link": "https://www.hdblog.it/games/articoli/n647516/analogue-3d-nintendo-64-console-edizioni-limitate/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T16:45:00+00:00"
-    },
-    {
-      "titolo": "Attacchi DDoS di NoName057(16) contro siti olimpici",
-      "descrizione": "Il gruppo russo NoName057(16) ha colpito quattro siti legali alle Olimpiadi di Milano-Cortina, il sito di un ristorante a Cortina e il sito dell'ANAS. The post Attacchi DDoS di NoName057(16) contro siti olimpici appeared",
-      "link": "https://www.punto-informatico.it/attacchi-ddos-noname05716-contro-siti-olimpici/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T16:40:05+00:00"
-    },
-    {
-      "titolo": "MindsEye, il co-CEO denuncia un sabotaggio da oltre 1 milione di euro",
-      "descrizione": "Una situazione a dir poco strana.",
-      "link": "https://www.hdblog.it/games/articoli/n647506/mindseye-presunta-campagna-diffamatoria/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T16:35:00+00:00"
-    },
-    {
-      "titolo": "Il prompt cambia il modo di reagire quando si è sotto pressione",
-      "descrizione": "Quando si è sotto pressione, servono meno opzioni e più chiarezza. Il prompt ancora trasforma l'AI in un supporto pratico. The post Il prompt cambia il modo di reagire quando si è sotto pressione appeared first on Punto",
-      "link": "https://www.punto-informatico.it/prompt-cambia-modo-reagire-quando-sotto-pressione/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T16:30:43+00:00"
-    },
-    {
-      "titolo": "La nuova Rolls-Royce Cullinan sta arrivando: i render immaginano il design",
-      "descrizione": "Le foto spia permettono di anticipare alcune delle innovazioni del prossimo restyling.",
-      "link": "https://www.hdmotori.it/la-nuova-rolls-royce-cullinan-prende-forma-i-render-immaginano-il-design/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T16:30:11+00:00"
-    },
-    {
-      "titolo": "Dal Telepass allo smartphone: così cambia il modo di pagare il casello",
-      "descrizione": "Per ora in via sperimentale negli USA.",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n647501/telepass-smartphone-pagare-casello/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T16:25:00+00:00"
-    },
-    {
-      "titolo": "Arriva il rivale di Starlink che Musk non si aspettava: Logos Space",
-      "descrizione": "Logos Space, startup fondata da veterani NASA e Google, ha ottenuto l'autorizzazione dalla FCC a lanciare 4.000 satelliti LEO. The post Arriva il rivale di Starlink che Musk non si aspettava: Logos Space appeared first o",
-      "link": "https://www.punto-informatico.it/arriva-rivale-starlink-musk-non-si-aspettava-logos-space/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T15:57:19+00:00"
-    },
-    {
-      "titolo": "Google Pixel, il widget Riepilogo diventa finalmente più leggibile con questa novità",
-      "descrizione": "Sfondo chiaro, non ti temo.",
-      "link": "https://www.hdblog.it/google/articoli/n647511/google-pixel-riepilogo-widget-alto-contrasto-scuro/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T15:55:00+00:00"
-    },
-    {
-      "titolo": "La Sapienza torna online: sembra confermata la matrice russa",
-      "descrizione": "Dopo l'attacco e il lungo down, è iniziato il ripristino: La Sapienza sta tornando online, già disponibile l'accesso all'area riservata. The post La Sapienza torna online: sembra confermata la matrice russa appeared firs",
-      "link": "https://www.punto-informatico.it/la-sapienza-torna-online/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T15:53:40+00:00"
-    },
-    {
-      "titolo": "Crisi memorie, i produttori di PC guardano ai fornitori cinesi",
-      "descrizione": "HP e Dell hanno già cominciato a validare i chip, nella seconda metà del 2026 potrebbero iniziare ad arrivare in alcuni prodotti.",
-      "link": "https://www.hdblog.it/hardware/articoli/n647509/crisi-memorie-produttori-pc-fornitori-cinesi/",
-      "fonte": "HDblog.it",
-      "data": "2026-02-06T15:35:00+00:00"
-    },
-    {
-      "titolo": "Satelliti russi hanno intercettato le comunicazioni europee",
-      "descrizione": "Secondo le autorità, due satelliti spia russi hanno intercettano le comunicazioni inviate dalla Terra verso 17 satelliti europei a partire dal 2023. The post Satelliti russi hanno intercettato le comunicazioni europee ap",
-      "link": "https://www.punto-informatico.it/satelliti-russi-hanno-intercettato-comunicazioni-europee/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T15:29:10+00:00"
-    },
-    {
-      "titolo": "Internxt fa felici gli innamorati: 87% di sconto sul cloud a vita",
-      "descrizione": "I ricordi sono una cosa seria: il primo scatto insieme, una fotografia a cui si è legati da tempo immemore, il video per il primo anniversario, tutti contenuti da tenersi stretti, al sicuro, per sempre. Una soluzione arr",
-      "link": "https://www.punto-informatico.it/internxt-fa-felici-gli-innamorati-87-di-sconto-sul-cloud-a-vita/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-06T14:45:35+00:00"
     }
   ]
 }

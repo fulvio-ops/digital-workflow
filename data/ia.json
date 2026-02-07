@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-07T07:03:18.818161+00:00",
+  "last_updated": "2026-02-07T13:13:21.279888+00:00",
   "items": [
     {
-      "titolo": "Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri…",
-      "descrizione": "Secondo Bloomberg, Apple starebbe lavorando per integrare i chatbot AI come ChatGPT, Claude e Gemini su CarPlay. The post Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri… appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/apple-porta-chatgpt-gemini-e-claude-in-auto-bye-bye-siri/",
-      "fonte": "Punto Informatico",
-      "data": "2026-02-07T06:03:23+00:00",
+      "titolo": "The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games",
+      "descrizione": "From drones with “first-person” visualization to real-time 360-degree replays and Olympics GPT, get ready to immerse yourself in the Winter Games in Milan and Cortina.",
+      "link": "https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/",
+      "fonte": "WIRED",
+      "data": "2026-02-07T12:00:00+00:00",
       "modello": "chatgpt"
     },
     {
@@ -18,11 +18,11 @@
       "modello": "gemini"
     },
     {
-      "titolo": "Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri…",
-      "descrizione": "Secondo Bloomberg, Apple starebbe lavorando per integrare i chatbot AI come ChatGPT, Claude e Gemini su CarPlay. The post Apple porta ChatGPT, Gemini e Claude in auto, bye bye Siri… appeared first on Punto Informatico .",
-      "link": "https://www.punto-informatico.it/apple-porta-chatgpt-gemini-e-claude-in-auto-bye-bye-siri/",
+      "titolo": "WordPress: Claude può gestire blog e analytics, cosa cambia",
+      "descrizione": "Con il nuovo connettore MCP, WordPress permette a Claude di analizzare traffico, commenti, plugin e performance dei siti. The post WordPress: Claude può gestire blog e analytics, cosa cambia appeared first on Punto Infor",
+      "link": "https://www.punto-informatico.it/wordpress-claude-puo-gestire-blog-analytics-cosa-cambia/",
       "fonte": "Punto Informatico",
-      "data": "2026-02-07T06:03:23+00:00",
+      "data": "2026-02-07T07:43:27+00:00",
       "modello": "claude"
     }
   ]
